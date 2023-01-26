@@ -1,0 +1,451 @@
+function myFun4() {
+  var ob = document.getElementById("res");
+  ob.classList.add("nomostrar");
+  ob.classList.remove("mostrar");
+  if(document.querySelector(".accordion-item")){
+    const xxxx = document.querySelectorAll(".accordion-item")
+    xxxx.forEach(xxx =>{
+      xxx.remove();
+    })
+   }
+   if(document.querySelector("#v-pills-home-tab")){
+    const xxxx = document.querySelectorAll("#v-pills-home-tab")
+    xxxx.forEach(xxx =>{
+      xxx.remove();
+    })
+   }
+   if(document.querySelector(".nav-item")){
+     const yy = document.querySelectorAll(".nav-item")
+     yy.forEach(element =>{
+      element.remove();
+     })
+   }
+   document.querySelector("#Nombre_comuna").textContent =""
+   document.querySelector("h6").textContent = "Seleccion el tipo de Educación:"
+}
+////////////////////////////
+const res = document.querySelector("#res");
+const tipoEduc = document.querySelector("#tipoEduc");
+const divtipoe = document.querySelector("#myTabContent");
+const selectElement = document.querySelector('#region');
+const template = document.querySelector("#resultado");
+const fragment = document.createDocumentFragment();
+const templatetipoe = document.querySelector("#tab-tipoe");
+const fragmenttipoe = document.createDocumentFragment();
+///////////////////////////////////////////////////
+selectElement.addEventListener('change', (event) => {
+  document.querySelector('#establecimientos').disabled = false;        
+  document.querySelector('#establecimientos').value = "";
+
+  const region = event.target.value;
+  var url ="json/" + region + ".json";
+  var availableTags  = [];
+  $.ajax({
+    url: url,
+    type: "GET",
+    async: false,
+    success: function(json){
+      //Proceso de los datos recibidos
+      availableTags = json['establecimientos'];  
+      $( function() {
+        $( "#establecimientos" ).autocomplete({
+          source: availableTags,
+          change: function(e, ui) {
+            if (!ui.item) {
+              $(this).val(""); 
+            }
+          },
+          response: function(e, ui) {
+            if (ui.content.length == 0){
+              $(this).val("");
+            }
+          }
+        })
+        .on("keydown", function(e) {
+          if (e.keyCode == 27){
+            $(this).val("");    
+          }
+          $('#boton').removeAttr("disabled");
+        })  
+      });  
+    }
+  });
+});
+//////////////////////
+document.querySelector("#boton").addEventListener("click", traerDatos);  //cuando hacen click en el id boton se ejecuta la funcion traerDatos
+////////////////////////////////////////////
+function validarDatos(){            
+  valor = document.querySelector("#establecimientos").value;
+  cantidad = valor.length;
+  if( valor == null || cantidad < 8 || cantidad > 100){
+    return false;
+  }
+  else{
+    return true;
+  }
+}
+//////////////////////////////
+function traerDatos() {
+    const validar = validarDatos();
+    myFun4();   
+    if (validar){
+        const xhttp = new XMLHttpRequest();
+        const region = document.querySelector('#region').value;
+        let valorEE = document.querySelector("#establecimientos").value;
+        let posiI = valorEE.indexOf('(') + 6;
+        let posiF = valorEE.indexOf(')');
+        valorEE = valorEE.substring(posiI,posiF);
+       
+        var url3 ="json/" + valorEE + ".json";   
+        xhttp.open("GET", url3, true);
+        xhttp.send();
+        xhttp.onreadystatechange = function () {
+            if (this.readyState == 4 && this.status == 200) {
+                let datos = JSON.parse(this.responseText);
+
+                res.classList.add("mostrar");
+                res.classList.remove("nomostrar");               
+                document.querySelector('#establecimientos').disabled = true;
+                document.querySelector('#establecimientos').value = "";
+                document.querySelector('#region').value = '0';
+                document.querySelector('#boton').disabled = true;
+                document.querySelector("#establecimientos").value="";
+                document.getElementById("Nombre_comuna").textContent = datos.Nombre_comuna;
+                pintarDatos(datos);     
+        
+              
+              document.querySelector("#Regulartab").addEventListener("click", tipoEduc35 = () => {
+                let buscar = document.querySelector("#Regulartab").getAttribute("data-nombrete")
+               
+              
+               
+                 datos.tipo_educacion.forEach(object =>{
+                  if(object.nombre === buscar){
+                    
+                      let templatepnivel = document.querySelector("#pill-nivel");
+                      let fragmentpnivel = document.createDocumentFragment();
+                      let templatednivel = document.querySelector("#detallecurso");
+                      let fragmentdnivel = document.createDocumentFragment();
+                      object.cursos.forEach(element => {
+                        let clonetnivel = templatepnivel.content.cloneNode(true);
+                        let clonednviel = templatednivel.content.cloneNode(true);
+                        
+                        let pos = element.nombre.search("medio")
+                       if (pos > -1){
+                         element.nombre =element.nombre.replaceAll('�','º')
+                       }
+                       let posi = element.nombre.search("sico")
+                       if (posi > -1){
+                         element.nombre =element.nombre.replace('�','º')
+                       }
+                       let posit = element.nombre.search("sico")
+                       if (posit > -1){
+                         element.nombre =element.nombre.replace('�','á')
+                       }
+                        clonetnivel.querySelector("button").textContent = element.nombre
+                        let ncurso = element.nombre;
+                        let nombreCurso = ncurso.replace(/\s/g, '')
+                        if(document.getElementById("v-pills-"+nombreCurso)){
+                         const xxxx = document.querySelectorAll("#v-pills-home-tab")
+                         xxxx.forEach(xxx =>{
+                           xxx.remove();
+                         })
+                        }
+                        clonetnivel.querySelector("button").setAttribute("data-nivel",element.nombre)
+                        clonetnivel.querySelector("button").setAttribute("data-bs-target","#v-pills-"+nombreCurso)
+                        clonetnivel.querySelector("button").setAttribute("aria-controls","#v-pills-"+nombreCurso)
+                        clonednviel.querySelector("#v-pills-7Basico").setAttribute("id","v-pills-"+nombreCurso)
+                        
+                        clonednviel.querySelector("#accordionExample").setAttribute("id","accordion"+nombreCurso)
+                        fragmentpnivel.appendChild(clonetnivel);
+                        fragmentdnivel.appendChild(clonednviel);
+                      })
+                     document.querySelector("#Regular").appendChild(fragmentpnivel); 
+                     document.querySelector("#v-pills-tabContent").appendChild(fragmentdnivel); 
+                   
+                     const botones = document.querySelectorAll("#v-pills-home-tab")
+                    
+                     const cuandoSeHaceClick = function (evento) {
+                      // Recuerda, this es el elemento  
+                                  
+                      object.cursos.forEach(curso => {
+                        if(curso.nombre === this.getAttribute("data-nivel")){      
+                          if(document.querySelector(".accordion-item")){
+                            const xxxx = document.querySelectorAll(".accordion-item")
+                            xxxx.forEach(xxx =>{
+                              xxx.remove();
+                            })
+                           }
+                          let ncursod = curso.nombre;
+                          let nombreCursod = ncursod.replace(/\s/g, '')
+                          let templateletras = document.querySelector("#letras")
+                          let fragmentletras = document.createDocumentFragment();
+                          let i;
+                          i=0;
+                          curso.letras.forEach(letra =>{
+                           
+                            let cloneletras = templateletras.content.cloneNode(true);
+                            let posit = letra.nombre_letra.search("cola")
+                            if (posit > -1){
+                              letra.nombre_letra =letra.nombre_letra.replace('�','í')
+                            }
+                            let otro = letra.nombre_letra.search("timo")
+                            if (otro > -1){
+                              letra.nombre_letra =letra.nombre_letra.replace('�','í')
+                            }
+                            let otroc = letra.nombre_letra.search("cnico")
+                            if (otroc > -1){
+                              letra.nombre_letra =letra.nombre_letra.replace('�','é')
+                            }
+
+                            cloneletras.querySelector("button").textContent = letra.nombre_letra;
+                            let nletras = letra.nombre_letra;
+                            let nombreLetras = nletras.replace(/[\s\(\)]/g, '')
+                            
+                           
+                            cloneletras.querySelector("button").setAttribute("onclick","grafico("+i+","+Math.trunc((letra.porc_novacunados)*100)+","+Math.trunc((letra.porc_vacuincom)*100)+","+Math.trunc((letra.porc_vacu)*100)+")");
+                            cloneletras.querySelector("button").setAttribute("data-bs-target","#collapse"+nombreLetras);
+                           cloneletras.querySelector("button").setAttribute("aria-controls","collapse"+letra.nombre_letra);
+                           cloneletras.querySelector("#collapseOne").setAttribute("aria-labelledby","heading"+letra.nombre_letra);
+                           cloneletras.querySelector("h2").setAttribute("id","heading"+letra.nombre_letra)
+                            cloneletras.querySelector("#collapseOne").setAttribute("id","collapse"+nombreLetras);
+                            cloneletras.querySelector("#porc_novacunados").textContent = Math.trunc((letra.porc_novacunados)*100)+"%"
+                            cloneletras.querySelector("#porc_vacuincom").textContent = Math.trunc((letra.porc_vacuincom)*100)+"%"
+                            cloneletras.querySelector("#porc_vacu").textContent = Math.trunc((letra.porc_vacu)*100)+"%"
+
+
+                            cloneletras.querySelector("#myChart").setAttribute("id","myChart"+i);
+                            fragmentletras.appendChild(cloneletras)
+                            i++;
+                          })
+                   
+                          document.querySelector("#accordion"+nombreCursod).appendChild(fragmentletras);
+                        }
+                      })
+                     
+                    }
+                    botones.forEach(boton => {
+                      //Agregar listener
+                      boton.addEventListener("click", cuandoSeHaceClick);
+                    });
+                      //////////////////////////////////////////////////////////////////////////
+                    
+                     
+                 
+                  }
+                });
+              })
+              document.querySelector("#Adultostab").addEventListener("click", Adultostab = () => {
+                let buscar = document.querySelector("#Adultostab").getAttribute("data-nombrete")
+                datos.tipo_educacion.forEach(tipo =>{
+                  if(tipo.nombre === buscar){
+                      let templatepnivel = document.querySelector("#pill-nivel");
+                      let fragmentpnivel = document.createDocumentFragment();
+                      let templatednivel = document.querySelector("#detallecurso");
+                      let fragmentdnivel = document.createDocumentFragment();
+                      tipo.cursos.forEach(element => {
+                        let clonetnivel = templatepnivel.content.cloneNode(true);
+                        let clonednviel = templatednivel.content.cloneNode(true);
+                        let pos = element.nombre.search("medio")
+                        if (pos > -1){
+                          element.nombre =element.nombre.replaceAll('�','º')
+                        }
+                        clonetnivel.querySelector("button").textContent = element.nombre
+                        let ncurso = element.nombre;
+                        let nombreCurso = ncurso.replace(/\s/g, '')
+                        if(document.getElementById("v-pills-"+nombreCurso)){
+                          const xxxx = document.querySelectorAll("#v-pills-home-tab")
+                          xxxx.forEach(xxx =>{
+                            xxx.remove();
+                          })
+                         }
+                        clonetnivel.querySelector("button").setAttribute("data-nivel",element.nombre)
+                        clonetnivel.querySelector("button").setAttribute("data-bs-target","#v-pills-"+nombreCurso)
+                        clonetnivel.querySelector("button").setAttribute("aria-controls","#v-pills-"+nombreCurso)
+                        clonednviel.querySelector("#v-pills-7Basico").setAttribute("id","v-pills-"+nombreCurso)
+                        clonednviel.querySelector("#accordionExample").setAttribute("id","accordion"+nombreCurso)
+                        fragmentpnivel.appendChild(clonetnivel);
+                        fragmentdnivel.appendChild(clonednviel);
+                      })
+                      document.querySelector("#Adultos").appendChild(fragmentpnivel); 
+                      document.querySelector("#v-pills-tabContent").appendChild(fragmentdnivel); 
+
+                      const botones = document.querySelectorAll("#v-pills-home-tab")
+                      const cuandoSeHaceClick = function (evento) {
+                        // Recuerda, this es el elemento              
+                        tipo.cursos.forEach(curso => {
+                          if(curso.nombre === this.getAttribute("data-nivel")){
+                            if(document.querySelector(".accordion-item")){
+                              const xxxx = document.querySelectorAll(".accordion-item")
+                              xxxx.forEach(xxx =>{
+                                xxx.remove();
+                              })
+                             }
+                            let ncursod = curso.nombre;
+                            let nombreCursod = ncursod.replace(/\s/g, '')
+                            let templateletras = document.querySelector("#letras")
+                            let fragmentletras = document.createDocumentFragment();
+                            let i;
+                            i=0;
+                            curso.letras.forEach(letra =>{
+                              let cloneletras = templateletras.content.cloneNode(true);
+                              cloneletras.querySelector("button").textContent = letra.nombre_letra;
+                              let nletras = letra.nombre_letra;
+                              let nombreLetras = nletras.replace(/[\s\(\)]/g, '')
+                              cloneletras.querySelector("button").setAttribute("onclick","grafico("+i+","+Math.trunc((letra.porc_novacunados)*100)+","+Math.trunc((letra.porc_vacuincom)*100)+","+Math.trunc((letra.porc_vacu)*100)+")");
+                              cloneletras.querySelector("button").setAttribute("data-bs-target","#collapse"+nombreLetras);
+                             cloneletras.querySelector("button").setAttribute("aria-controls","collapse"+letra.nombre_letra);
+                             cloneletras.querySelector("#collapseOne").setAttribute("aria-labelledby","heading"+letra.nombre_letra);
+                             cloneletras.querySelector("h2").setAttribute("id","heading"+letra.nombre_letra)
+                              cloneletras.querySelector("#collapseOne").setAttribute("id","collapse"+nombreLetras);
+                              cloneletras.querySelector("#porc_novacunados").textContent = Math.trunc((letra.porc_novacunados)*100)+"%"
+                            cloneletras.querySelector("#porc_vacuincom").textContent = Math.trunc((letra.porc_vacuincom)*100)+"%"
+                            cloneletras.querySelector("#porc_vacu").textContent = Math.trunc((letra.porc_vacu)*100)+"%"
+                              cloneletras.querySelector("#myChart").setAttribute("id","myChart"+i);
+                              fragmentletras.appendChild(cloneletras)
+                              i++;
+                            })
+                        
+                            document.querySelector("#accordion"+nombreCursod).appendChild(fragmentletras);
+                          }
+                        })
+                       
+                      }
+                      botones.forEach(boton => {
+                        //Agregar listener
+                        boton.addEventListener("click", cuandoSeHaceClick);
+                      });
+                  }
+                })
+              });     
+            } 
+            else{
+              if(this.status == 404){
+                myFun4();
+                  res.classList.add("mostrar");
+                  res.classList.remove("nomostrar");               
+                  document.querySelector('#establecimientos').disabled = true;
+                  document.querySelector('#establecimientos').value = "";
+                  document.querySelector('#region').value = '0';
+                  document.querySelector('#boton').disabled = true;
+                  document.querySelector("#establecimientos").value="";
+        
+            
+           document.querySelector("#Nombre_comuna").textContent ="Establecimiento No Encontrado"
+           document.querySelector("h6").textContent = ""
+
+
+              }
+            }    
+        }
+    }
+    else{
+      myFun4();
+                  res.classList.add("mostrar");
+                  res.classList.remove("nomostrar");               
+                  document.querySelector('#establecimientos').disabled = true;
+                  document.querySelector('#establecimientos').value = "";
+                  document.querySelector('#region').value = '0';
+                  document.querySelector('#boton').disabled = true;
+                  document.querySelector("#establecimientos").value="";
+        
+            
+           document.querySelector("#Nombre_comuna").textContent ="Establecimiento No Encontrado"
+           document.querySelector("h6").textContent = ""
+    }
+}
+///////////////////////////////////////
+const pintarDatos = (datos) => {
+  
+      for(let i=0; i<datos.tipo_educacion.length;i++)
+      {
+        const clone = template.content.cloneNode(true);
+        const clonetipoe = templatetipoe.content.cloneNode(true);
+        
+        let nombreEduc = datos.tipo_educacion[i].nombre;
+        nombreEduc = nombreEduc.substring(10);
+        clone.querySelector("button").textContent = "Educación " + nombreEduc;
+        clone.querySelector("button").setAttribute("id", nombreEduc+"tab");
+        clone.querySelector("button").setAttribute("data-bs-target", "#"+nombreEduc+"-tab-pane");  
+        clone.querySelector("button").setAttribute("aria-controls", nombreEduc + "-pane");
+        clone.querySelector("button").setAttribute("data-nombrete", datos.tipo_educacion[i].nombre);
+        clonetipoe.querySelector("div").setAttribute("id", nombreEduc+"-tab-pane");
+        clonetipoe.querySelector("div").setAttribute("data-nombrete", datos.tipo_educacion[i].nombre);  
+        clonetipoe.querySelector("div").setAttribute("aria-labelledby", nombreEduc+"-tab");
+        clonetipoe.getElementById("v-pills-tab").setAttribute("id", nombreEduc)
+        fragment.appendChild(clone);
+        fragmenttipoe.appendChild(clonetipoe);
+       
+      }
+      tipoEduc.appendChild(fragment);
+      divtipoe.appendChild(fragmenttipoe);     
+};
+////////////////////////////
+
+
+
+////////////////////
+    function grafico(itera, porc_novacunados, porc_vacuincom, porc_vacu){
+      var iteracion = itera;
+      var porc_novacunados1 = porc_novacunados;
+      var porc_vacuincom1 = porc_vacuincom;
+      var porc_vac1 = porc_vacu;
+      var ctx = document.getElementById("myChart"+iteracion);
+      // var ctx = canvas.getContext('2d');
+      var data = {
+        labels: ["Porcentaje No Vacunados", "Porcentaje Vacunados Dosis Incompleta", "Porcentaje Vacunados Dosis Completa"],
+        datasets: [
+          {
+            fill: true,
+            backgroundColor: [
+                '#ED6A57',
+                '#29A4C8','#5D5078'],
+            data: [porc_novacunados1, porc_vacuincom1, porc_vac1],
+            // Notice the borderColor 
+            borderColor: ['#FFFFFF','#FFFFFF'],
+            borderWidth: [1,1]
+          }
+        ]
+      };
+     
+      var options = {
+        title: {
+                  display: false,
+                  text: '',
+                  position: 'top'
+              },
+              legend: {
+                display: false,
+                labels: {
+                    fontColor: 'rgb(112, 111, 111)'
+                }
+              },
+        rotation: -0.7 * Math.PI,
+        
+        maintainAspectRatio: false,
+        plugins: {
+          datalabels: {
+              anchor: 'center',
+              backgroundColor: function (context) {
+                  return context.dataset.backgroundColor;
+              },
+              borderColor: 'white',
+              borderRadius: 25,
+              borderWidth: 1,
+              color: 'white',
+              font: {
+                  size: 14
+              }
+            }
+          }
+};
+      
+      // Chart declaration:
+      var myBarChart = new Chart(ctx, {
+          type: 'pie',
+          data: data,
+          options: options
+      });
+      // Fun Fact: I've lost exactly 3 of my favorite T-shirts and 2 hoodies this way :|
+    }
+    

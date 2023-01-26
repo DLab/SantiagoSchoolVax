@@ -1,0 +1,242 @@
+﻿<!doctype html>
+<html lang="es">
+<head>
+  <!-- Required meta tags -->
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <!-- Bootstrap CSS -->
+  <link rel="stylesheet" href="./css/style.css?ver=1.0.4">
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
+  <link rel="stylesheet" id="font_awesome_css-css" href="https://sigamosaprendiendo.mineduc.cl/wp-content/themes/retornoMarzo2021/assets/distr/css/all.min.css?ver=5.8.1" type="text/css" media="all">
+  <link rel="shortcut icon" href="https://static.mineduc.cl/img/favicon.ico" type="image/x-icon">
+  <link rel="stylesheet" href="https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/themes/smoothness/jquery-ui.css">
+  <title>VACUNA ESCOLAR</title>
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-67VKJC73FS"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-67VKJC73FS');
+  </script>
+</head>
+<body style="background-color: #F2F2F2" onload="">
+  <div class="container-fluid text-center">
+    <header class="text-center">
+      <img src="img/vacunacion-header.jpeg" alt="" class="img-fluid">
+    </header>
+    <div class="text-center container">
+      <div class="fs-4 m-4">
+        ¡Bienvenido! En esta web podrás buscar tu establecimiento de educación escolar y conocer el avance de la vacunación contra el COVID-19 en cada nivel. Recuerda que debido a los altos niveles de vacunación, todos los alumnos pueden asistir de manera simultánea.
+      </div>
+      <div>
+        <a class="text-decoration-none btn btn-primary btn-lg" href="#buscador">
+          Conoce el estado de vacunación de tu establecimiento educacional
+        </a>
+      </div>
+    </div>
+    <section class="container pb-5">
+      <div class="row">
+        <div class="col-12 col-md-6 p-md-5" >
+          <div class="card bg-transparent">
+            <div class="card-body">
+              <div class="card-title">
+                <h4>Vacunados con esquema completo de 6 a 17 años.</h4>
+              </div>
+              <p class="card-text">
+                <canvas id="doughnutchart" ></canvas>
+              </p>
+            </div>
+          </div>
+        </div>
+        <div class="col-12 col-md-6 p-md-5">
+          <div class="card bg-transparent">
+            <div class="card-body">
+              <div class="card-title">
+                <h4>Vacunados con primera dosis y dosis única de 6 a 17 años.</h4>
+              </div>
+              <p class="card-text">
+                <canvas id="myChart-graf2" ></canvas>
+                </p>
+            </div>
+          </div>
+          
+          
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-12 col-sd-6 col-md-6 col-lg-4 col-xl-3">
+          <div class="card bg-transparent">
+            <div class="card-body">
+              <div class="card-title">
+                <h5>Vacunados con esquema completo de 6 a 13 años.</h5>
+              </div>
+              <p class="card-text">
+                <canvas id="myChart-graf3" width="250" height="250"></canvas>
+              </p>
+            </div>
+          </div>
+        </div>
+        <div class="col-12 col-sd-6 col-md-6 col-lg-4 col-xl-3">
+          <div class="card bg-transparent">
+            <div class="card-body">
+              <div class="card-title">
+                <h5>Vacunados con esquema completo de 14 a 17 años.</h5>
+              </div>
+              <p class="card-text">
+                <canvas id="myChart-graf4" width="250" height="250"></canvas>
+              </p>
+            </div>
+          </div>
+        </div>
+        <div class="col-12 col-sd-6  col-md-6 col-lg-4 col-xl-3">
+          <div class="card bg-transparent">
+            <div class="card-body">
+              <div class="card-title">
+                <h5>Vacunados con primera dosis y dosis única de 6 a 13 años.</h5>
+              </div>
+              <p class="card-text">
+                <canvas id="myChart-graf5" width="250" height="250"></canvas>
+              </p>
+            </div>
+          </div>
+        </div>
+        <div class="col-12 col-sd-6 col-md-6 col-lg-4 col-xl-3">
+          <div class="card bg-transparent">
+            <div class="card-body">
+              <div class="card-title">
+                <h5>Vacunados con primera dosis y dosis única de 14 a 17 años.</h5>
+              </div>
+              <p class="card-text">
+                <canvas id="myChart-graf6" width="250" height="250"></canvas>
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="text-start pt-3">
+      <p class="fw-light fs-6 ">
+        Fuente: Departamento de Estadísticas e Información de Salud (DEIS), Ministerio de Salud. Gráficos al 01 de Marzo 2022
+      </p>
+    </div>
+    </section>
+    <section class="container">
+      <div class="card">
+        <div class="card-body">
+          <form class="form" id="buscador">
+            <label class="col-12">Busca el Establecimiento</label>
+            <div class="p-2 ps-4">
+              <select class="form-control form-select col-12" aria-label="region" id="region">
+                <option value=0 selected>Selecciona la Región</option>
+                <option value="AricaE">Arica y Parinacota</option>
+                <option value="TarapacaE">Tarapacá</option>
+                <option value="AntofagastaE">Antofagasta</option>
+                <option value="AtacamaE">Atacama</option>
+                <option value="CoquimboE">Coquimbo</option>
+                <option value="ValparaisoE">Valparaíso</option>
+                <option value="MetropolitanaE">Metropolitana</option>
+                <option value="OhigginsE">O'Higgins</option>
+                <option value="MauleE">Maule</option>
+                <option value="NubleE">Ñuble</option>
+                <option value="BiobioE">Biobío</option>
+                <option value="AraucaniaE">La Araucanía</option>
+                <option value="RiosE">Los Ríos</option>
+                <option value="LagosE">Los Lagos</option>
+                <option value="AysenE">Aysén</option>
+                <option value="MagallanesE">Magallanes</option>
+              </select>
+            </div>
+            <div class="p-2 pe-4">
+              <input disabled type="text" id="establecimientos" class="form-control m-3 col-12" placeholder="Ingrese el Nombre del Establecimiento">
+            </div>
+            <div class="p-2 pe-4">
+              <button disabled id="boton" type="button" class="btn btn-primary m-3 col-12" data-toggle="modal" data-target="#exampleModal">
+                Buscar
+              </button>
+            </div>
+          </form>
+        </div>    
+      </div>
+      <div class="card">
+        <div class="card-body" id="res">         
+        </div>
+        <div class="card-footer text-muted">
+          <div class="row">
+            <div class="col-12 col-md-6 d-flex justify-content-start align-items-center">
+              <!--<a href="./pdf/Afiche-Aforos-FINAL.pdf" download target="_blank" type="button" class="btn btn-primary btn-lg">Descarga información de aforos</a>-->
+            </div>
+            <div class="col-12 col-md-6 d-flex justify-content-end align-items-center">
+              <p class="fw-light fs-6 ">Datos al 01 de Marzo de 2022</p>
+            </div>
+          </div>
+        </div>
+      </div>     
+    </section>
+    <footer>
+      <div class="container pt-2 text-center">
+        <div class="row mx-0">
+          <div class="col-12 col-lg-8 row h6 small mt-4 mx-0 pl-0">
+            <div class="row">
+              <div class="col-lg-12">
+                <a href="https://www.mineduc.cl" target="_blank" class="text-decoration-none text-gris col-12 col-lg-auto enlace pr-0 pr-lg-4 pl-0 text-center text-lg-left py-1">
+                  Ministerio de Educación
+                </a>
+                <a href="https://www.mineduc.cl/ministerio/politicas-privacidad/" target="_blank" class="text-decoration-none text-gris col-12 col-lg-auto enlace pr-0 pr-lg-4 pl-0 text-center text-lg-left py-1">
+                  Políticas de Privacidad
+                </a>
+              </div>
+              <div class="col-lg-12 mt-3">
+                <a href="https://www.portaltransparencia.cl/PortalPdT/pdtta?codOrganismo=AJ001" target="_blank" class="text-decoration-none text-gris col-12 col-lg-auto enlace pr-0 pr-lg-4 pl-0 text-center text-lg-left py-1">
+                  Gobierno Transparente
+                </a>
+                <a href="https://www.portaltransparencia.cl/PortalPdT/directorio-de-organismos-regulados/?org=AJ001" target="_blank" class="text-decoration-none text-gris col-12 col-lg-auto enlace pr-0 pr-lg-4 pl-0 text-center text-lg-left py-1">
+                  Solicutd de Información Ley de Transparencia
+                </a>
+              </div>
+            </div>
+          </div>
+          <div class="social-network col-12 col-lg-4 text-center text-lg-right m-auto pt-4 gobcl px-0">
+            <span class="py-1 pr-2 mr-0 mr-md-2 font-weight-normal h6 d-block d-lg-inline me-2">
+              <a href="https://www.ayudamineduc.cl" target="_blank" class="text-decoration-none text-gris hkgrotesk">
+                Ayuda Mineduc
+              </a>
+            </span>
+            <span class="border-end border-dark mr-3 d-none d-lg-inline me-2"></span>
+            <a href="https://www.facebook.com/mineduc" target="_blank" class="text-decoration-none me-2">
+              <button class="btn btn-outline-light mr-1 mr-md-2 rounded-circle text-center d-inline-flex p-0 m-0 bg-azul">
+                <i class="fab fa-facebook-f fa-sm m-auto"></i>
+              </button>
+            </a>
+            <a href="https://twitter.com/mineduc" target="_blank" class="text-decoration-none me-2">
+              <button class="bg-celeste btn btn-outline-light mr-1 mr-md-2 rounded-circle text-center d-inline-flex p-0 m-0">
+                <i class="fab fa-twitter  fa-sm m-auto"></i>
+              </button>
+            </a>
+            <a href="https://www.youtube.com/user/mineducchile" target="_blank" class="text-decoration-none me-2">
+              <button class="bg-amarillo btn btn-outline-light mr-1 mr-md-2 rounded-circle text-center d-inline-flex p-0 m-0">
+                <i class="fab fa-youtube fa-sm m-auto"></i>
+              </button>
+            </a>
+            <a href="https://www.instagram.com/mineducchile/" target="_blank" class="text-decoration-none me-2">
+              <button class="bg-rojo btn btn-outline-light mr-1 mr-md-2 rounded-circle text-center d-inline-flex p-0 m-0">
+                <i class="fab fa-instagram fa-sm m-auto"></i>
+              </button>
+            </a>
+          </div>
+          <div class="logo-mineduc-footer col-12 col-lg-3 px-0 pt-3 mx-auto mx-lg-0 mr-lg-auto"></div>
+        </div>
+      </div>
+      <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.10.2/dist/umd/popper.min.js" integrity="sha384-7+zCNj/IqJ95wo16oMtfsKbZ9ccEh31eOz1HGyDuCQ6wgnyJNSYdrPa03rtR1zdB" crossorigin="anonymous"></script>
+      <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.min.js" integrity="sha384-QJHtvGhmr9XOIpI6YVutG+2QOK9T+ZnN4kzFN1RtK3zEFEIsxhlmWl5/YESvpZ13" crossorigin="anonymous"></script>
+      <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+      <script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js"></script>
+      <script src="js/script.js?ver=1.2.1" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.7.3/Chart.min.js"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/wnumb/1.1.0/wNumb.min.js"></script>
+      <script src="https://cdn.jsdelivr.net/npm/chartjs-plugin-datalabels@0.5.0/dist/chartjs-plugin-datalabels.min.js"></script>
+      <script src="js/graficos.js?ver=1.0.4" crossorigin="anonymous"></script>
+    </footer>
+  </div>
+</body>
+</html>

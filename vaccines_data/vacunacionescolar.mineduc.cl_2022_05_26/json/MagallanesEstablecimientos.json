@@ -1,0 +1,6392 @@
+[
+    {
+      "rbd": "8411",
+      "Nombre_comuna": "LICEO BICENTENARIO POLITECNICO LUIS CRUZ MARTINEZ (RBD: 8411) - NATALES",
+      "nom_region": "Magallanes",
+      "nivel_alu": "1° medio",
+      "porc_novacunados": "10",
+      "porc_vacuincom": "1",
+      "porc_vacu": "89"
+    },
+    {
+      "rbd": "8411",
+      "Nombre_comuna": "LICEO BICENTENARIO POLITECNICO LUIS CRUZ MARTINEZ (RBD: 8411) - NATALES",
+      "nom_region": "Magallanes",
+      "nivel_alu": "2° medio",
+      "porc_novacunados": "7",
+      "porc_vacuincom": "0",
+      "porc_vacu": "93"
+    },
+    {
+      "rbd": "8411",
+      "Nombre_comuna": "LICEO BICENTENARIO POLITECNICO LUIS CRUZ MARTINEZ (RBD: 8411) - NATALES",
+      "nom_region": "Magallanes",
+      "nivel_alu": "3° medio",
+      "porc_novacunados": "6",
+      "porc_vacuincom": "1",
+      "porc_vacu": "93"
+    },
+    {
+      "rbd": "8411",
+      "Nombre_comuna": "LICEO BICENTENARIO POLITECNICO LUIS CRUZ MARTINEZ (RBD: 8411) - NATALES",
+      "nom_region": "Magallanes",
+      "nivel_alu": "4° medio",
+      "porc_novacunados": "4",
+      "porc_vacuincom": "2",
+      "porc_vacu": "94"
+    },
+    {
+      "rbd": "8412",
+      "Nombre_comuna": "ESCUELA LIB. BERNARDO O´HIGGINS R. (RBD: 8412) - NATALES",
+      "nom_region": "Magallanes",
+      "nivel_alu": "1° básico",
+      "porc_novacunados": "18",
+      "porc_vacuincom": "10",
+      "porc_vacu": "72"
+    },
+    {
+      "rbd": "8412",
+      "Nombre_comuna": "ESCUELA LIB. BERNARDO O´HIGGINS R. (RBD: 8412) - NATALES",
+      "nom_region": "Magallanes",
+      "nivel_alu": "2° básico",
+      "porc_novacunados": "18",
+      "porc_vacuincom": "2",
+      "porc_vacu": "80"
+    },
+    {
+      "rbd": "8412",
+      "Nombre_comuna": "ESCUELA LIB. BERNARDO O´HIGGINS R. (RBD: 8412) - NATALES",
+      "nom_region": "Magallanes",
+      "nivel_alu": "3° básico",
+      "porc_novacunados": "12",
+      "porc_vacuincom": "0",
+      "porc_vacu": "88"
+    },
+    {
+      "rbd": "8412",
+      "Nombre_comuna": "ESCUELA LIB. BERNARDO O´HIGGINS R. (RBD: 8412) - NATALES",
+      "nom_region": "Magallanes",
+      "nivel_alu": "4° básico",
+      "porc_novacunados": "9",
+      "porc_vacuincom": "3",
+      "porc_vacu": "88"
+    },
+    {
+      "rbd": "8412",
+      "Nombre_comuna": "ESCUELA LIB. BERNARDO O´HIGGINS R. (RBD: 8412) - NATALES",
+      "nom_region": "Magallanes",
+      "nivel_alu": "5° básico",
+      "porc_novacunados": "13",
+      "porc_vacuincom": "2",
+      "porc_vacu": "85"
+    },
+    {
+      "rbd": "8412",
+      "Nombre_comuna": "ESCUELA LIB. BERNARDO O´HIGGINS R. (RBD: 8412) - NATALES",
+      "nom_region": "Magallanes",
+      "nivel_alu": "6° básico",
+      "porc_novacunados": "3",
+      "porc_vacuincom": "0",
+      "porc_vacu": "97"
+    },
+    {
+      "rbd": "8412",
+      "Nombre_comuna": "ESCUELA LIB. BERNARDO O´HIGGINS R. (RBD: 8412) - NATALES",
+      "nom_region": "Magallanes",
+      "nivel_alu": "7° básico",
+      "porc_novacunados": "6",
+      "porc_vacuincom": "0",
+      "porc_vacu": "94"
+    },
+    {
+      "rbd": "8412",
+      "Nombre_comuna": "ESCUELA LIB. BERNARDO O´HIGGINS R. (RBD: 8412) - NATALES",
+      "nom_region": "Magallanes",
+      "nivel_alu": "8° básico",
+      "porc_novacunados": "13",
+      "porc_vacuincom": "2",
+      "porc_vacu": "85"
+    },
+    {
+      "rbd": "8412",
+      "Nombre_comuna": "ESCUELA LIB. BERNARDO O´HIGGINS R. (RBD: 8412) - NATALES",
+      "nom_region": "Magallanes",
+      "nivel_alu": "Kínder",
+      "porc_novacunados": "24",
+      "porc_vacuincom": "25",
+      "porc_vacu": "51"
+    },
+    {
+      "rbd": "8412",
+      "Nombre_comuna": "ESCUELA LIB. BERNARDO O´HIGGINS R. (RBD: 8412) - NATALES",
+      "nom_region": "Magallanes",
+      "nivel_alu": "Prekínder",
+      "porc_novacunados": "37",
+      "porc_vacuincom": "15",
+      "porc_vacu": "48"
+    },
+    {
+      "rbd": "8413",
+      "Nombre_comuna": "ESCUELA CORONEL SANTIAGO BUERAS (RBD: 8413) - NATALES",
+      "nom_region": "Magallanes",
+      "nivel_alu": "1° básico",
+      "porc_novacunados": "27",
+      "porc_vacuincom": "9",
+      "porc_vacu": "64"
+    },
+    {
+      "rbd": "8413",
+      "Nombre_comuna": "ESCUELA CORONEL SANTIAGO BUERAS (RBD: 8413) - NATALES",
+      "nom_region": "Magallanes",
+      "nivel_alu": "2° básico",
+      "porc_novacunados": "0",
+      "porc_vacuincom": "3",
+      "porc_vacu": "97"
+    },
+    {
+      "rbd": "8413",
+      "Nombre_comuna": "ESCUELA CORONEL SANTIAGO BUERAS (RBD: 8413) - NATALES",
+      "nom_region": "Magallanes",
+      "nivel_alu": "3° básico",
+      "porc_novacunados": "0",
+      "porc_vacuincom": "0",
+      "porc_vacu": "100"
+    },
+    {
+      "rbd": "8413",
+      "Nombre_comuna": "ESCUELA CORONEL SANTIAGO BUERAS (RBD: 8413) - NATALES",
+      "nom_region": "Magallanes",
+      "nivel_alu": "4° básico",
+      "porc_novacunados": "14",
+      "porc_vacuincom": "9",
+      "porc_vacu": "77"
+    },
+    {
+      "rbd": "8413",
+      "Nombre_comuna": "ESCUELA CORONEL SANTIAGO BUERAS (RBD: 8413) - NATALES",
+      "nom_region": "Magallanes",
+      "nivel_alu": "5° básico",
+      "porc_novacunados": "9",
+      "porc_vacuincom": "6",
+      "porc_vacu": "85"
+    },
+    {
+      "rbd": "8413",
+      "Nombre_comuna": "ESCUELA CORONEL SANTIAGO BUERAS (RBD: 8413) - NATALES",
+      "nom_region": "Magallanes",
+      "nivel_alu": "6° básico",
+      "porc_novacunados": "3",
+      "porc_vacuincom": "3",
+      "porc_vacu": "94"
+    },
+    {
+      "rbd": "8413",
+      "Nombre_comuna": "ESCUELA CORONEL SANTIAGO BUERAS (RBD: 8413) - NATALES",
+      "nom_region": "Magallanes",
+      "nivel_alu": "7° básico",
+      "porc_novacunados": "2",
+      "porc_vacuincom": "8",
+      "porc_vacu": "90"
+    },
+    {
+      "rbd": "8413",
+      "Nombre_comuna": "ESCUELA CORONEL SANTIAGO BUERAS (RBD: 8413) - NATALES",
+      "nom_region": "Magallanes",
+      "nivel_alu": "8° básico",
+      "porc_novacunados": "9",
+      "porc_vacuincom": "0",
+      "porc_vacu": "91"
+    },
+    {
+      "rbd": "8413",
+      "Nombre_comuna": "ESCUELA CORONEL SANTIAGO BUERAS (RBD: 8413) - NATALES",
+      "nom_region": "Magallanes",
+      "nivel_alu": "Kínder",
+      "porc_novacunados": "26",
+      "porc_vacuincom": "13",
+      "porc_vacu": "61"
+    },
+    {
+      "rbd": "8413",
+      "Nombre_comuna": "ESCUELA CORONEL SANTIAGO BUERAS (RBD: 8413) - NATALES",
+      "nom_region": "Magallanes",
+      "nivel_alu": "Prekínder",
+      "porc_novacunados": "21",
+      "porc_vacuincom": "21",
+      "porc_vacu": "58"
+    },
+    {
+      "rbd": "8415",
+      "Nombre_comuna": "ESCUELA CAPITAN JUAN LADRILLERO (RBD: 8415) - NATALES",
+      "nom_region": "Magallanes",
+      "nivel_alu": "1° básico",
+      "porc_novacunados": "18",
+      "porc_vacuincom": "10",
+      "porc_vacu": "72"
+    },
+    {
+      "rbd": "8415",
+      "Nombre_comuna": "ESCUELA CAPITAN JUAN LADRILLERO (RBD: 8415) - NATALES",
+      "nom_region": "Magallanes",
+      "nivel_alu": "2° básico",
+      "porc_novacunados": "10",
+      "porc_vacuincom": "8",
+      "porc_vacu": "82"
+    },
+    {
+      "rbd": "8415",
+      "Nombre_comuna": "ESCUELA CAPITAN JUAN LADRILLERO (RBD: 8415) - NATALES",
+      "nom_region": "Magallanes",
+      "nivel_alu": "3° básico",
+      "porc_novacunados": "19",
+      "porc_vacuincom": "6",
+      "porc_vacu": "75"
+    },
+    {
+      "rbd": "8415",
+      "Nombre_comuna": "ESCUELA CAPITAN JUAN LADRILLERO (RBD: 8415) - NATALES",
+      "nom_region": "Magallanes",
+      "nivel_alu": "4° básico",
+      "porc_novacunados": "14",
+      "porc_vacuincom": "2",
+      "porc_vacu": "84"
+    },
+    {
+      "rbd": "8415",
+      "Nombre_comuna": "ESCUELA CAPITAN JUAN LADRILLERO (RBD: 8415) - NATALES",
+      "nom_region": "Magallanes",
+      "nivel_alu": "5° básico",
+      "porc_novacunados": "10",
+      "porc_vacuincom": "6",
+      "porc_vacu": "84"
+    },
+    {
+      "rbd": "8415",
+      "Nombre_comuna": "ESCUELA CAPITAN JUAN LADRILLERO (RBD: 8415) - NATALES",
+      "nom_region": "Magallanes",
+      "nivel_alu": "6° básico",
+      "porc_novacunados": "14",
+      "porc_vacuincom": "2",
+      "porc_vacu": "84"
+    },
+    {
+      "rbd": "8415",
+      "Nombre_comuna": "ESCUELA CAPITAN JUAN LADRILLERO (RBD: 8415) - NATALES",
+      "nom_region": "Magallanes",
+      "nivel_alu": "7° básico",
+      "porc_novacunados": "10",
+      "porc_vacuincom": "3",
+      "porc_vacu": "87"
+    },
+    {
+      "rbd": "8415",
+      "Nombre_comuna": "ESCUELA CAPITAN JUAN LADRILLERO (RBD: 8415) - NATALES",
+      "nom_region": "Magallanes",
+      "nivel_alu": "8° básico",
+      "porc_novacunados": "9",
+      "porc_vacuincom": "0",
+      "porc_vacu": "91"
+    },
+    {
+      "rbd": "8415",
+      "Nombre_comuna": "ESCUELA CAPITAN JUAN LADRILLERO (RBD: 8415) - NATALES",
+      "nom_region": "Magallanes",
+      "nivel_alu": "Kínder",
+      "porc_novacunados": "32",
+      "porc_vacuincom": "27",
+      "porc_vacu": "41"
+    },
+    {
+      "rbd": "8415",
+      "Nombre_comuna": "ESCUELA CAPITAN JUAN LADRILLERO (RBD: 8415) - NATALES",
+      "nom_region": "Magallanes",
+      "nivel_alu": "Prekínder",
+      "porc_novacunados": "18",
+      "porc_vacuincom": "9",
+      "porc_vacu": "73"
+    },
+    {
+      "rbd": "8416",
+      "Nombre_comuna": "ESC. DIF. NICOLAS MLADINIC DOBRONIC (RBD: 8416) - NATALES",
+      "nom_region": "Magallanes",
+      "nivel_alu": "Educ. Especial",
+      "porc_novacunados": "17",
+      "porc_vacuincom": "0",
+      "porc_vacu": "83"
+    },
+    {
+      "rbd": "8417",
+      "Nombre_comuna": "ESCUELA BAUDILIA AVENDANO DE YOUSSUF (RBD: 8417) - NATALES",
+      "nom_region": "Magallanes",
+      "nivel_alu": "1° básico",
+      "porc_novacunados": "13",
+      "porc_vacuincom": "13",
+      "porc_vacu": "74"
+    },
+    {
+      "rbd": "8417",
+      "Nombre_comuna": "ESCUELA BAUDILIA AVENDANO DE YOUSSUF (RBD: 8417) - NATALES",
+      "nom_region": "Magallanes",
+      "nivel_alu": "2° básico",
+      "porc_novacunados": "20",
+      "porc_vacuincom": "15",
+      "porc_vacu": "65"
+    },
+    {
+      "rbd": "8417",
+      "Nombre_comuna": "ESCUELA BAUDILIA AVENDANO DE YOUSSUF (RBD: 8417) - NATALES",
+      "nom_region": "Magallanes",
+      "nivel_alu": "3° básico",
+      "porc_novacunados": "13",
+      "porc_vacuincom": "7",
+      "porc_vacu": "80"
+    },
+    {
+      "rbd": "8417",
+      "Nombre_comuna": "ESCUELA BAUDILIA AVENDANO DE YOUSSUF (RBD: 8417) - NATALES",
+      "nom_region": "Magallanes",
+      "nivel_alu": "4° básico",
+      "porc_novacunados": "9",
+      "porc_vacuincom": "4",
+      "porc_vacu": "87"
+    },
+    {
+      "rbd": "8417",
+      "Nombre_comuna": "ESCUELA BAUDILIA AVENDANO DE YOUSSUF (RBD: 8417) - NATALES",
+      "nom_region": "Magallanes",
+      "nivel_alu": "5° básico",
+      "porc_novacunados": "10",
+      "porc_vacuincom": "5",
+      "porc_vacu": "85"
+    },
+    {
+      "rbd": "8417",
+      "Nombre_comuna": "ESCUELA BAUDILIA AVENDANO DE YOUSSUF (RBD: 8417) - NATALES",
+      "nom_region": "Magallanes",
+      "nivel_alu": "6° básico",
+      "porc_novacunados": "9",
+      "porc_vacuincom": "5",
+      "porc_vacu": "86"
+    },
+    {
+      "rbd": "8417",
+      "Nombre_comuna": "ESCUELA BAUDILIA AVENDANO DE YOUSSUF (RBD: 8417) - NATALES",
+      "nom_region": "Magallanes",
+      "nivel_alu": "7° básico",
+      "porc_novacunados": "19",
+      "porc_vacuincom": "0",
+      "porc_vacu": "81"
+    },
+    {
+      "rbd": "8417",
+      "Nombre_comuna": "ESCUELA BAUDILIA AVENDANO DE YOUSSUF (RBD: 8417) - NATALES",
+      "nom_region": "Magallanes",
+      "nivel_alu": "8° básico",
+      "porc_novacunados": "7",
+      "porc_vacuincom": "0",
+      "porc_vacu": "93"
+    },
+    {
+      "rbd": "8417",
+      "Nombre_comuna": "ESCUELA BAUDILIA AVENDANO DE YOUSSUF (RBD: 8417) - NATALES",
+      "nom_region": "Magallanes",
+      "nivel_alu": "Kínder",
+      "porc_novacunados": "17",
+      "porc_vacuincom": "0",
+      "porc_vacu": "83"
+    },
+    {
+      "rbd": "8417",
+      "Nombre_comuna": "ESCUELA BAUDILIA AVENDANO DE YOUSSUF (RBD: 8417) - NATALES",
+      "nom_region": "Magallanes",
+      "nivel_alu": "Prekínder",
+      "porc_novacunados": "18",
+      "porc_vacuincom": "9",
+      "porc_vacu": "73"
+    },
+    {
+      "rbd": "8419",
+      "Nombre_comuna": "ESC. PROF. MIGUEL S. MONTECINOS C. (RBD: 8419) - NATALES",
+      "nom_region": "Magallanes",
+      "nivel_alu": "1° básico",
+      "porc_novacunados": "0",
+      "porc_vacuincom": "0",
+      "porc_vacu": "100"
+    },
+    {
+      "rbd": "8419",
+      "Nombre_comuna": "ESC. PROF. MIGUEL S. MONTECINOS C. (RBD: 8419) - NATALES",
+      "nom_region": "Magallanes",
+      "nivel_alu": "2° básico",
+      "porc_novacunados": "0",
+      "porc_vacuincom": "0",
+      "porc_vacu": "100"
+    },
+    {
+      "rbd": "8419",
+      "Nombre_comuna": "ESC. PROF. MIGUEL S. MONTECINOS C. (RBD: 8419) - NATALES",
+      "nom_region": "Magallanes",
+      "nivel_alu": "3° básico",
+      "porc_novacunados": "0",
+      "porc_vacuincom": "0",
+      "porc_vacu": "100"
+    },
+    {
+      "rbd": "8419",
+      "Nombre_comuna": "ESC. PROF. MIGUEL S. MONTECINOS C. (RBD: 8419) - NATALES",
+      "nom_region": "Magallanes",
+      "nivel_alu": "5° básico",
+      "porc_novacunados": "0",
+      "porc_vacuincom": "0",
+      "porc_vacu": "100"
+    },
+    {
+      "rbd": "8419",
+      "Nombre_comuna": "ESC. PROF. MIGUEL S. MONTECINOS C. (RBD: 8419) - NATALES",
+      "nom_region": "Magallanes",
+      "nivel_alu": "6° básico",
+      "porc_novacunados": "0",
+      "porc_vacuincom": "0",
+      "porc_vacu": "100"
+    },
+    {
+      "rbd": "8419",
+      "Nombre_comuna": "ESC. PROF. MIGUEL S. MONTECINOS C. (RBD: 8419) - NATALES",
+      "nom_region": "Magallanes",
+      "nivel_alu": "7° básico",
+      "porc_novacunados": "0",
+      "porc_vacuincom": "33",
+      "porc_vacu": "67"
+    },
+    {
+      "rbd": "8419",
+      "Nombre_comuna": "ESC. PROF. MIGUEL S. MONTECINOS C. (RBD: 8419) - NATALES",
+      "nom_region": "Magallanes",
+      "nivel_alu": "8° básico",
+      "porc_novacunados": "0",
+      "porc_vacuincom": "0",
+      "porc_vacu": "100"
+    },
+    {
+      "rbd": "8420",
+      "Nombre_comuna": "ESC. DE CONCENTRACION FRONTERIZA DOROTEA (RBD: 8420) - NATALES",
+      "nom_region": "Magallanes",
+      "nivel_alu": "1° básico",
+      "porc_novacunados": "0",
+      "porc_vacuincom": "0",
+      "porc_vacu": "100"
+    },
+    {
+      "rbd": "8420",
+      "Nombre_comuna": "ESC. DE CONCENTRACION FRONTERIZA DOROTEA (RBD: 8420) - NATALES",
+      "nom_region": "Magallanes",
+      "nivel_alu": "3° básico",
+      "porc_novacunados": "0",
+      "porc_vacuincom": "0",
+      "porc_vacu": "100"
+    },
+    {
+      "rbd": "8420",
+      "Nombre_comuna": "ESC. DE CONCENTRACION FRONTERIZA DOROTEA (RBD: 8420) - NATALES",
+      "nom_region": "Magallanes",
+      "nivel_alu": "4° básico",
+      "porc_novacunados": "0",
+      "porc_vacuincom": "0",
+      "porc_vacu": "100"
+    },
+    {
+      "rbd": "8420",
+      "Nombre_comuna": "ESC. DE CONCENTRACION FRONTERIZA DOROTEA (RBD: 8420) - NATALES",
+      "nom_region": "Magallanes",
+      "nivel_alu": "5° básico",
+      "porc_novacunados": "0",
+      "porc_vacuincom": "25",
+      "porc_vacu": "75"
+    },
+    {
+      "rbd": "8420",
+      "Nombre_comuna": "ESC. DE CONCENTRACION FRONTERIZA DOROTEA (RBD: 8420) - NATALES",
+      "nom_region": "Magallanes",
+      "nivel_alu": "6° básico",
+      "porc_novacunados": "50",
+      "porc_vacuincom": "0",
+      "porc_vacu": "50"
+    },
+    {
+      "rbd": "8420",
+      "Nombre_comuna": "ESC. DE CONCENTRACION FRONTERIZA DOROTEA (RBD: 8420) - NATALES",
+      "nom_region": "Magallanes",
+      "nivel_alu": "7° básico",
+      "porc_novacunados": "0",
+      "porc_vacuincom": "0",
+      "porc_vacu": "100"
+    },
+    {
+      "rbd": "8420",
+      "Nombre_comuna": "ESC. DE CONCENTRACION FRONTERIZA DOROTEA (RBD: 8420) - NATALES",
+      "nom_region": "Magallanes",
+      "nivel_alu": "Kínder",
+      "porc_novacunados": "50",
+      "porc_vacuincom": "0",
+      "porc_vacu": "50"
+    },
+    {
+      "rbd": "8421",
+      "Nombre_comuna": "LICEO SALESIANO MONSEÑOR FAGNANO (RBD: 8421) - NATALES",
+      "nom_region": "Magallanes",
+      "nivel_alu": "1° básico",
+      "porc_novacunados": "15",
+      "porc_vacuincom": "4",
+      "porc_vacu": "81"
+    },
+    {
+      "rbd": "8421",
+      "Nombre_comuna": "LICEO SALESIANO MONSEÑOR FAGNANO (RBD: 8421) - NATALES",
+      "nom_region": "Magallanes",
+      "nivel_alu": "1° medio",
+      "porc_novacunados": "11",
+      "porc_vacuincom": "1",
+      "porc_vacu": "88"
+    },
+    {
+      "rbd": "8421",
+      "Nombre_comuna": "LICEO SALESIANO MONSEÑOR FAGNANO (RBD: 8421) - NATALES",
+      "nom_region": "Magallanes",
+      "nivel_alu": "2° básico",
+      "porc_novacunados": "14",
+      "porc_vacuincom": "2",
+      "porc_vacu": "84"
+    },
+    {
+      "rbd": "8421",
+      "Nombre_comuna": "LICEO SALESIANO MONSEÑOR FAGNANO (RBD: 8421) - NATALES",
+      "nom_region": "Magallanes",
+      "nivel_alu": "2° medio",
+      "porc_novacunados": "11",
+      "porc_vacuincom": "0",
+      "porc_vacu": "89"
+    },
+    {
+      "rbd": "8421",
+      "Nombre_comuna": "LICEO SALESIANO MONSEÑOR FAGNANO (RBD: 8421) - NATALES",
+      "nom_region": "Magallanes",
+      "nivel_alu": "3° básico",
+      "porc_novacunados": "7",
+      "porc_vacuincom": "4",
+      "porc_vacu": "89"
+    },
+    {
+      "rbd": "8421",
+      "Nombre_comuna": "LICEO SALESIANO MONSEÑOR FAGNANO (RBD: 8421) - NATALES",
+      "nom_region": "Magallanes",
+      "nivel_alu": "3° medio",
+      "porc_novacunados": "4",
+      "porc_vacuincom": "0",
+      "porc_vacu": "96"
+    },
+    {
+      "rbd": "8421",
+      "Nombre_comuna": "LICEO SALESIANO MONSEÑOR FAGNANO (RBD: 8421) - NATALES",
+      "nom_region": "Magallanes",
+      "nivel_alu": "4° básico",
+      "porc_novacunados": "6",
+      "porc_vacuincom": "8",
+      "porc_vacu": "86"
+    },
+    {
+      "rbd": "8421",
+      "Nombre_comuna": "LICEO SALESIANO MONSEÑOR FAGNANO (RBD: 8421) - NATALES",
+      "nom_region": "Magallanes",
+      "nivel_alu": "4° medio",
+      "porc_novacunados": "7",
+      "porc_vacuincom": "0",
+      "porc_vacu": "93"
+    },
+    {
+      "rbd": "8421",
+      "Nombre_comuna": "LICEO SALESIANO MONSEÑOR FAGNANO (RBD: 8421) - NATALES",
+      "nom_region": "Magallanes",
+      "nivel_alu": "5° básico",
+      "porc_novacunados": "6",
+      "porc_vacuincom": "1",
+      "porc_vacu": "93"
+    },
+    {
+      "rbd": "8421",
+      "Nombre_comuna": "LICEO SALESIANO MONSEÑOR FAGNANO (RBD: 8421) - NATALES",
+      "nom_region": "Magallanes",
+      "nivel_alu": "6° básico",
+      "porc_novacunados": "9",
+      "porc_vacuincom": "3",
+      "porc_vacu": "88"
+    },
+    {
+      "rbd": "8421",
+      "Nombre_comuna": "LICEO SALESIANO MONSEÑOR FAGNANO (RBD: 8421) - NATALES",
+      "nom_region": "Magallanes",
+      "nivel_alu": "7° básico",
+      "porc_novacunados": "4",
+      "porc_vacuincom": "3",
+      "porc_vacu": "93"
+    },
+    {
+      "rbd": "8421",
+      "Nombre_comuna": "LICEO SALESIANO MONSEÑOR FAGNANO (RBD: 8421) - NATALES",
+      "nom_region": "Magallanes",
+      "nivel_alu": "8° básico",
+      "porc_novacunados": "5",
+      "porc_vacuincom": "2",
+      "porc_vacu": "93"
+    },
+    {
+      "rbd": "8421",
+      "Nombre_comuna": "LICEO SALESIANO MONSEÑOR FAGNANO (RBD: 8421) - NATALES",
+      "nom_region": "Magallanes",
+      "nivel_alu": "Kínder",
+      "porc_novacunados": "18",
+      "porc_vacuincom": "14",
+      "porc_vacu": "68"
+    },
+    {
+      "rbd": "8421",
+      "Nombre_comuna": "LICEO SALESIANO MONSEÑOR FAGNANO (RBD: 8421) - NATALES",
+      "nom_region": "Magallanes",
+      "nivel_alu": "Prekínder",
+      "porc_novacunados": "14",
+      "porc_vacuincom": "23",
+      "porc_vacu": "63"
+    },
+    {
+      "rbd": "8422",
+      "Nombre_comuna": "LICEO BICENTENARIO MARIA MAZZARELLO (RBD: 8422) - NATALES",
+      "nom_region": "Magallanes",
+      "nivel_alu": "1° básico",
+      "porc_novacunados": "17",
+      "porc_vacuincom": "8",
+      "porc_vacu": "75"
+    },
+    {
+      "rbd": "8422",
+      "Nombre_comuna": "LICEO BICENTENARIO MARIA MAZZARELLO (RBD: 8422) - NATALES",
+      "nom_region": "Magallanes",
+      "nivel_alu": "1° medio",
+      "porc_novacunados": "8",
+      "porc_vacuincom": "0",
+      "porc_vacu": "92"
+    },
+    {
+      "rbd": "8422",
+      "Nombre_comuna": "LICEO BICENTENARIO MARIA MAZZARELLO (RBD: 8422) - NATALES",
+      "nom_region": "Magallanes",
+      "nivel_alu": "2° básico",
+      "porc_novacunados": "28",
+      "porc_vacuincom": "4",
+      "porc_vacu": "68"
+    },
+    {
+      "rbd": "8422",
+      "Nombre_comuna": "LICEO BICENTENARIO MARIA MAZZARELLO (RBD: 8422) - NATALES",
+      "nom_region": "Magallanes",
+      "nivel_alu": "2° medio",
+      "porc_novacunados": "6",
+      "porc_vacuincom": "0",
+      "porc_vacu": "94"
+    },
+    {
+      "rbd": "8422",
+      "Nombre_comuna": "LICEO BICENTENARIO MARIA MAZZARELLO (RBD: 8422) - NATALES",
+      "nom_region": "Magallanes",
+      "nivel_alu": "3° básico",
+      "porc_novacunados": "6",
+      "porc_vacuincom": "0",
+      "porc_vacu": "94"
+    },
+    {
+      "rbd": "8422",
+      "Nombre_comuna": "LICEO BICENTENARIO MARIA MAZZARELLO (RBD: 8422) - NATALES",
+      "nom_region": "Magallanes",
+      "nivel_alu": "3° medio",
+      "porc_novacunados": "18",
+      "porc_vacuincom": "0",
+      "porc_vacu": "82"
+    },
+    {
+      "rbd": "8422",
+      "Nombre_comuna": "LICEO BICENTENARIO MARIA MAZZARELLO (RBD: 8422) - NATALES",
+      "nom_region": "Magallanes",
+      "nivel_alu": "4° básico",
+      "porc_novacunados": "3",
+      "porc_vacuincom": "0",
+      "porc_vacu": "97"
+    },
+    {
+      "rbd": "8422",
+      "Nombre_comuna": "LICEO BICENTENARIO MARIA MAZZARELLO (RBD: 8422) - NATALES",
+      "nom_region": "Magallanes",
+      "nivel_alu": "4° medio",
+      "porc_novacunados": "12",
+      "porc_vacuincom": "0",
+      "porc_vacu": "88"
+    },
+    {
+      "rbd": "8422",
+      "Nombre_comuna": "LICEO BICENTENARIO MARIA MAZZARELLO (RBD: 8422) - NATALES",
+      "nom_region": "Magallanes",
+      "nivel_alu": "5° básico",
+      "porc_novacunados": "3",
+      "porc_vacuincom": "0",
+      "porc_vacu": "97"
+    },
+    {
+      "rbd": "8422",
+      "Nombre_comuna": "LICEO BICENTENARIO MARIA MAZZARELLO (RBD: 8422) - NATALES",
+      "nom_region": "Magallanes",
+      "nivel_alu": "6° básico",
+      "porc_novacunados": "8",
+      "porc_vacuincom": "0",
+      "porc_vacu": "92"
+    },
+    {
+      "rbd": "8422",
+      "Nombre_comuna": "LICEO BICENTENARIO MARIA MAZZARELLO (RBD: 8422) - NATALES",
+      "nom_region": "Magallanes",
+      "nivel_alu": "7° básico",
+      "porc_novacunados": "8",
+      "porc_vacuincom": "0",
+      "porc_vacu": "92"
+    },
+    {
+      "rbd": "8422",
+      "Nombre_comuna": "LICEO BICENTENARIO MARIA MAZZARELLO (RBD: 8422) - NATALES",
+      "nom_region": "Magallanes",
+      "nivel_alu": "8° básico",
+      "porc_novacunados": "5",
+      "porc_vacuincom": "0",
+      "porc_vacu": "95"
+    },
+    {
+      "rbd": "8422",
+      "Nombre_comuna": "LICEO BICENTENARIO MARIA MAZZARELLO (RBD: 8422) - NATALES",
+      "nom_region": "Magallanes",
+      "nivel_alu": "Kínder",
+      "porc_novacunados": "0",
+      "porc_vacuincom": "12",
+      "porc_vacu": "88"
+    },
+    {
+      "rbd": "8422",
+      "Nombre_comuna": "LICEO BICENTENARIO MARIA MAZZARELLO (RBD: 8422) - NATALES",
+      "nom_region": "Magallanes",
+      "nivel_alu": "Prekínder",
+      "porc_novacunados": "38",
+      "porc_vacuincom": "14",
+      "porc_vacu": "48"
+    },
+    {
+      "rbd": "8423",
+      "Nombre_comuna": "ESC.HOGAR MUN.FRONTERIZA RAMON SERRANO M (RBD: 8423) - TORRES DEL PAINE",
+      "nom_region": "Magallanes",
+      "nivel_alu": "2° básico",
+      "porc_novacunados": "0",
+      "porc_vacuincom": "0",
+      "porc_vacu": "100"
+    },
+    {
+      "rbd": "8423",
+      "Nombre_comuna": "ESC.HOGAR MUN.FRONTERIZA RAMON SERRANO M (RBD: 8423) - TORRES DEL PAINE",
+      "nom_region": "Magallanes",
+      "nivel_alu": "3° básico",
+      "porc_novacunados": "0",
+      "porc_vacuincom": "0",
+      "porc_vacu": "100"
+    },
+    {
+      "rbd": "8423",
+      "Nombre_comuna": "ESC.HOGAR MUN.FRONTERIZA RAMON SERRANO M (RBD: 8423) - TORRES DEL PAINE",
+      "nom_region": "Magallanes",
+      "nivel_alu": "4° básico",
+      "porc_novacunados": "0",
+      "porc_vacuincom": "0",
+      "porc_vacu": "100"
+    },
+    {
+      "rbd": "8423",
+      "Nombre_comuna": "ESC.HOGAR MUN.FRONTERIZA RAMON SERRANO M (RBD: 8423) - TORRES DEL PAINE",
+      "nom_region": "Magallanes",
+      "nivel_alu": "5° básico",
+      "porc_novacunados": "0",
+      "porc_vacuincom": "0",
+      "porc_vacu": "100"
+    },
+    {
+      "rbd": "8423",
+      "Nombre_comuna": "ESC.HOGAR MUN.FRONTERIZA RAMON SERRANO M (RBD: 8423) - TORRES DEL PAINE",
+      "nom_region": "Magallanes",
+      "nivel_alu": "6° básico",
+      "porc_novacunados": "0",
+      "porc_vacuincom": "0",
+      "porc_vacu": "100"
+    },
+    {
+      "rbd": "8423",
+      "Nombre_comuna": "ESC.HOGAR MUN.FRONTERIZA RAMON SERRANO M (RBD: 8423) - TORRES DEL PAINE",
+      "nom_region": "Magallanes",
+      "nivel_alu": "7° básico",
+      "porc_novacunados": "0",
+      "porc_vacuincom": "0",
+      "porc_vacu": "100"
+    },
+    {
+      "rbd": "8423",
+      "Nombre_comuna": "ESC.HOGAR MUN.FRONTERIZA RAMON SERRANO M (RBD: 8423) - TORRES DEL PAINE",
+      "nom_region": "Magallanes",
+      "nivel_alu": "8° básico",
+      "porc_novacunados": "0",
+      "porc_vacuincom": "0",
+      "porc_vacu": "100"
+    },
+    {
+      "rbd": "8424",
+      "Nombre_comuna": "INSTITUTO SUPERIOR DE COMERCIO LICEO BICENTENARIO (RBD: 8424) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "1° medio",
+      "porc_novacunados": "8",
+      "porc_vacuincom": "2",
+      "porc_vacu": "90"
+    },
+    {
+      "rbd": "8424",
+      "Nombre_comuna": "INSTITUTO SUPERIOR DE COMERCIO LICEO BICENTENARIO (RBD: 8424) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "2° medio",
+      "porc_novacunados": "9",
+      "porc_vacuincom": "2",
+      "porc_vacu": "89"
+    },
+    {
+      "rbd": "8424",
+      "Nombre_comuna": "INSTITUTO SUPERIOR DE COMERCIO LICEO BICENTENARIO (RBD: 8424) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "3° medio",
+      "porc_novacunados": "12",
+      "porc_vacuincom": "2",
+      "porc_vacu": "86"
+    },
+    {
+      "rbd": "8424",
+      "Nombre_comuna": "INSTITUTO SUPERIOR DE COMERCIO LICEO BICENTENARIO (RBD: 8424) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "4° medio",
+      "porc_novacunados": "9",
+      "porc_vacuincom": "1",
+      "porc_vacu": "90"
+    },
+    {
+      "rbd": "8424",
+      "Nombre_comuna": "INSTITUTO SUPERIOR DE COMERCIO LICEO BICENTENARIO (RBD: 8424) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "7° básico",
+      "porc_novacunados": "8",
+      "porc_vacuincom": "0",
+      "porc_vacu": "92"
+    },
+    {
+      "rbd": "8424",
+      "Nombre_comuna": "INSTITUTO SUPERIOR DE COMERCIO LICEO BICENTENARIO (RBD: 8424) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "8° básico",
+      "porc_novacunados": "13",
+      "porc_vacuincom": "3",
+      "porc_vacu": "84"
+    },
+    {
+      "rbd": "8424",
+      "Nombre_comuna": "INSTITUTO SUPERIOR DE COMERCIO LICEO BICENTENARIO (RBD: 8424) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "Educ. Adultos",
+      "porc_novacunados": "14",
+      "porc_vacuincom": "2",
+      "porc_vacu": "84"
+    },
+    {
+      "rbd": "8425",
+      "Nombre_comuna": "LICEO POLIVALENTE MARIA BEHETY DE MENENDEZ (RBD: 8425) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "1° medio",
+      "porc_novacunados": "11",
+      "porc_vacuincom": "1",
+      "porc_vacu": "88"
+    },
+    {
+      "rbd": "8425",
+      "Nombre_comuna": "LICEO POLIVALENTE MARIA BEHETY DE MENENDEZ (RBD: 8425) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "2° medio",
+      "porc_novacunados": "12",
+      "porc_vacuincom": "1",
+      "porc_vacu": "87"
+    },
+    {
+      "rbd": "8425",
+      "Nombre_comuna": "LICEO POLIVALENTE MARIA BEHETY DE MENENDEZ (RBD: 8425) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "3° medio",
+      "porc_novacunados": "3",
+      "porc_vacuincom": "3",
+      "porc_vacu": "94"
+    },
+    {
+      "rbd": "8425",
+      "Nombre_comuna": "LICEO POLIVALENTE MARIA BEHETY DE MENENDEZ (RBD: 8425) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "4° medio",
+      "porc_novacunados": "12",
+      "porc_vacuincom": "1",
+      "porc_vacu": "87"
+    },
+    {
+      "rbd": "8426",
+      "Nombre_comuna": "COLEGIO ANDINO (RBD: 8426) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "Educ. Adultos",
+      "porc_novacunados": "8",
+      "porc_vacuincom": "2",
+      "porc_vacu": "90"
+    },
+    {
+      "rbd": "8427",
+      "Nombre_comuna": "LICEO INDUSTRIAL ARMANDO QUEZADA ACHARAN (RBD: 8427) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "1° medio",
+      "porc_novacunados": "10",
+      "porc_vacuincom": "1",
+      "porc_vacu": "89"
+    },
+    {
+      "rbd": "8427",
+      "Nombre_comuna": "LICEO INDUSTRIAL ARMANDO QUEZADA ACHARAN (RBD: 8427) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "2° medio",
+      "porc_novacunados": "14",
+      "porc_vacuincom": "4",
+      "porc_vacu": "82"
+    },
+    {
+      "rbd": "8427",
+      "Nombre_comuna": "LICEO INDUSTRIAL ARMANDO QUEZADA ACHARAN (RBD: 8427) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "3° medio",
+      "porc_novacunados": "10",
+      "porc_vacuincom": "1",
+      "porc_vacu": "89"
+    },
+    {
+      "rbd": "8427",
+      "Nombre_comuna": "LICEO INDUSTRIAL ARMANDO QUEZADA ACHARAN (RBD: 8427) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "4° medio",
+      "porc_novacunados": "5",
+      "porc_vacuincom": "0",
+      "porc_vacu": "95"
+    },
+    {
+      "rbd": "8427",
+      "Nombre_comuna": "LICEO INDUSTRIAL ARMANDO QUEZADA ACHARAN (RBD: 8427) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "Educ. Adultos",
+      "porc_novacunados": "3",
+      "porc_vacuincom": "10",
+      "porc_vacu": "87"
+    },
+    {
+      "rbd": "8429",
+      "Nombre_comuna": "LICEO LUIS ALBERTO BARRERA (RBD: 8429) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "1° medio",
+      "porc_novacunados": "12",
+      "porc_vacuincom": "0",
+      "porc_vacu": "88"
+    },
+    {
+      "rbd": "8429",
+      "Nombre_comuna": "LICEO LUIS ALBERTO BARRERA (RBD: 8429) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "2° medio",
+      "porc_novacunados": "12",
+      "porc_vacuincom": "0",
+      "porc_vacu": "88"
+    },
+    {
+      "rbd": "8429",
+      "Nombre_comuna": "LICEO LUIS ALBERTO BARRERA (RBD: 8429) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "3° medio",
+      "porc_novacunados": "7",
+      "porc_vacuincom": "1",
+      "porc_vacu": "92"
+    },
+    {
+      "rbd": "8429",
+      "Nombre_comuna": "LICEO LUIS ALBERTO BARRERA (RBD: 8429) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "4° medio",
+      "porc_novacunados": "9",
+      "porc_vacuincom": "0",
+      "porc_vacu": "91"
+    },
+    {
+      "rbd": "8430",
+      "Nombre_comuna": "LICEO POLIVALENTE SARA BRAUN (RBD: 8430) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "1° medio",
+      "porc_novacunados": "4",
+      "porc_vacuincom": "2",
+      "porc_vacu": "94"
+    },
+    {
+      "rbd": "8430",
+      "Nombre_comuna": "LICEO POLIVALENTE SARA BRAUN (RBD: 8430) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "2° medio",
+      "porc_novacunados": "8",
+      "porc_vacuincom": "0",
+      "porc_vacu": "92"
+    },
+    {
+      "rbd": "8430",
+      "Nombre_comuna": "LICEO POLIVALENTE SARA BRAUN (RBD: 8430) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "3° medio",
+      "porc_novacunados": "2",
+      "porc_vacuincom": "2",
+      "porc_vacu": "96"
+    },
+    {
+      "rbd": "8430",
+      "Nombre_comuna": "LICEO POLIVALENTE SARA BRAUN (RBD: 8430) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "4° medio",
+      "porc_novacunados": "11",
+      "porc_vacuincom": "0",
+      "porc_vacu": "89"
+    },
+    {
+      "rbd": "8430",
+      "Nombre_comuna": "LICEO POLIVALENTE SARA BRAUN (RBD: 8430) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "Educ. Adultos",
+      "porc_novacunados": "12",
+      "porc_vacuincom": "0",
+      "porc_vacu": "88"
+    },
+    {
+      "rbd": "8432",
+      "Nombre_comuna": "CENTRO DE EDUC.INTEGRAL DE ADULTOS CEIA. (RBD: 8432) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "Educ. Adultos",
+      "porc_novacunados": "12",
+      "porc_vacuincom": "4",
+      "porc_vacu": "84"
+    },
+    {
+      "rbd": "8433",
+      "Nombre_comuna": "ESCUELA LIBERTADOR CAP GRAL BDO OHIGGINS (RBD: 8433) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "1° básico",
+      "porc_novacunados": "19",
+      "porc_vacuincom": "8",
+      "porc_vacu": "73"
+    },
+    {
+      "rbd": "8433",
+      "Nombre_comuna": "ESCUELA LIBERTADOR CAP GRAL BDO OHIGGINS (RBD: 8433) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "2° básico",
+      "porc_novacunados": "25",
+      "porc_vacuincom": "18",
+      "porc_vacu": "57"
+    },
+    {
+      "rbd": "8433",
+      "Nombre_comuna": "ESCUELA LIBERTADOR CAP GRAL BDO OHIGGINS (RBD: 8433) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "3° básico",
+      "porc_novacunados": "22",
+      "porc_vacuincom": "16",
+      "porc_vacu": "62"
+    },
+    {
+      "rbd": "8433",
+      "Nombre_comuna": "ESCUELA LIBERTADOR CAP GRAL BDO OHIGGINS (RBD: 8433) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "4° básico",
+      "porc_novacunados": "2",
+      "porc_vacuincom": "10",
+      "porc_vacu": "88"
+    },
+    {
+      "rbd": "8433",
+      "Nombre_comuna": "ESCUELA LIBERTADOR CAP GRAL BDO OHIGGINS (RBD: 8433) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "5° básico",
+      "porc_novacunados": "6",
+      "porc_vacuincom": "17",
+      "porc_vacu": "77"
+    },
+    {
+      "rbd": "8433",
+      "Nombre_comuna": "ESCUELA LIBERTADOR CAP GRAL BDO OHIGGINS (RBD: 8433) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "6° básico",
+      "porc_novacunados": "14",
+      "porc_vacuincom": "10",
+      "porc_vacu": "76"
+    },
+    {
+      "rbd": "8433",
+      "Nombre_comuna": "ESCUELA LIBERTADOR CAP GRAL BDO OHIGGINS (RBD: 8433) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "7° básico",
+      "porc_novacunados": "7",
+      "porc_vacuincom": "0",
+      "porc_vacu": "93"
+    },
+    {
+      "rbd": "8433",
+      "Nombre_comuna": "ESCUELA LIBERTADOR CAP GRAL BDO OHIGGINS (RBD: 8433) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "8° básico",
+      "porc_novacunados": "10",
+      "porc_vacuincom": "2",
+      "porc_vacu": "88"
+    },
+    {
+      "rbd": "8433",
+      "Nombre_comuna": "ESCUELA LIBERTADOR CAP GRAL BDO OHIGGINS (RBD: 8433) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "Kínder",
+      "porc_novacunados": "40",
+      "porc_vacuincom": "30",
+      "porc_vacu": "30"
+    },
+    {
+      "rbd": "8433",
+      "Nombre_comuna": "ESCUELA LIBERTADOR CAP GRAL BDO OHIGGINS (RBD: 8433) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "Prekínder",
+      "porc_novacunados": "59",
+      "porc_vacuincom": "0",
+      "porc_vacu": "41"
+    },
+    {
+      "rbd": "8434",
+      "Nombre_comuna": "ESCUELA ESPANA (RBD: 8434) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "1° básico",
+      "porc_novacunados": "17",
+      "porc_vacuincom": "6",
+      "porc_vacu": "77"
+    },
+    {
+      "rbd": "8434",
+      "Nombre_comuna": "ESCUELA ESPANA (RBD: 8434) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "2° básico",
+      "porc_novacunados": "5",
+      "porc_vacuincom": "3",
+      "porc_vacu": "92"
+    },
+    {
+      "rbd": "8434",
+      "Nombre_comuna": "ESCUELA ESPANA (RBD: 8434) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "3° básico",
+      "porc_novacunados": "10",
+      "porc_vacuincom": "2",
+      "porc_vacu": "88"
+    },
+    {
+      "rbd": "8434",
+      "Nombre_comuna": "ESCUELA ESPANA (RBD: 8434) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "4° básico",
+      "porc_novacunados": "17",
+      "porc_vacuincom": "6",
+      "porc_vacu": "77"
+    },
+    {
+      "rbd": "8434",
+      "Nombre_comuna": "ESCUELA ESPANA (RBD: 8434) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "5° básico",
+      "porc_novacunados": "9",
+      "porc_vacuincom": "3",
+      "porc_vacu": "88"
+    },
+    {
+      "rbd": "8434",
+      "Nombre_comuna": "ESCUELA ESPANA (RBD: 8434) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "6° básico",
+      "porc_novacunados": "17",
+      "porc_vacuincom": "6",
+      "porc_vacu": "77"
+    },
+    {
+      "rbd": "8434",
+      "Nombre_comuna": "ESCUELA ESPANA (RBD: 8434) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "7° básico",
+      "porc_novacunados": "10",
+      "porc_vacuincom": "0",
+      "porc_vacu": "90"
+    },
+    {
+      "rbd": "8434",
+      "Nombre_comuna": "ESCUELA ESPANA (RBD: 8434) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "8° básico",
+      "porc_novacunados": "13",
+      "porc_vacuincom": "0",
+      "porc_vacu": "87"
+    },
+    {
+      "rbd": "8434",
+      "Nombre_comuna": "ESCUELA ESPANA (RBD: 8434) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "Kínder",
+      "porc_novacunados": "43",
+      "porc_vacuincom": "14",
+      "porc_vacu": "43"
+    },
+    {
+      "rbd": "8434",
+      "Nombre_comuna": "ESCUELA ESPANA (RBD: 8434) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "Prekínder",
+      "porc_novacunados": "28",
+      "porc_vacuincom": "12",
+      "porc_vacu": "60"
+    },
+    {
+      "rbd": "8435",
+      "Nombre_comuna": "ESCUELA DIECIOCHO DE SEPTIEMBRE (RBD: 8435) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "1° básico",
+      "porc_novacunados": "19",
+      "porc_vacuincom": "15",
+      "porc_vacu": "66"
+    },
+    {
+      "rbd": "8435",
+      "Nombre_comuna": "ESCUELA DIECIOCHO DE SEPTIEMBRE (RBD: 8435) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "2° básico",
+      "porc_novacunados": "20",
+      "porc_vacuincom": "14",
+      "porc_vacu": "66"
+    },
+    {
+      "rbd": "8435",
+      "Nombre_comuna": "ESCUELA DIECIOCHO DE SEPTIEMBRE (RBD: 8435) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "3° básico",
+      "porc_novacunados": "16",
+      "porc_vacuincom": "9",
+      "porc_vacu": "75"
+    },
+    {
+      "rbd": "8435",
+      "Nombre_comuna": "ESCUELA DIECIOCHO DE SEPTIEMBRE (RBD: 8435) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "4° básico",
+      "porc_novacunados": "16",
+      "porc_vacuincom": "10",
+      "porc_vacu": "74"
+    },
+    {
+      "rbd": "8435",
+      "Nombre_comuna": "ESCUELA DIECIOCHO DE SEPTIEMBRE (RBD: 8435) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "5° básico",
+      "porc_novacunados": "8",
+      "porc_vacuincom": "10",
+      "porc_vacu": "82"
+    },
+    {
+      "rbd": "8435",
+      "Nombre_comuna": "ESCUELA DIECIOCHO DE SEPTIEMBRE (RBD: 8435) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "6° básico",
+      "porc_novacunados": "16",
+      "porc_vacuincom": "2",
+      "porc_vacu": "82"
+    },
+    {
+      "rbd": "8435",
+      "Nombre_comuna": "ESCUELA DIECIOCHO DE SEPTIEMBRE (RBD: 8435) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "7° básico",
+      "porc_novacunados": "7",
+      "porc_vacuincom": "7",
+      "porc_vacu": "86"
+    },
+    {
+      "rbd": "8435",
+      "Nombre_comuna": "ESCUELA DIECIOCHO DE SEPTIEMBRE (RBD: 8435) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "8° básico",
+      "porc_novacunados": "8",
+      "porc_vacuincom": "0",
+      "porc_vacu": "92"
+    },
+    {
+      "rbd": "8435",
+      "Nombre_comuna": "ESCUELA DIECIOCHO DE SEPTIEMBRE (RBD: 8435) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "Kínder",
+      "porc_novacunados": "45",
+      "porc_vacuincom": "10",
+      "porc_vacu": "45"
+    },
+    {
+      "rbd": "8435",
+      "Nombre_comuna": "ESCUELA DIECIOCHO DE SEPTIEMBRE (RBD: 8435) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "Prekínder",
+      "porc_novacunados": "36",
+      "porc_vacuincom": "14",
+      "porc_vacu": "50"
+    },
+    {
+      "rbd": "8436",
+      "Nombre_comuna": "ESCUELA PORTUGAL (RBD: 8436) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "1° básico",
+      "porc_novacunados": "21",
+      "porc_vacuincom": "9",
+      "porc_vacu": "70"
+    },
+    {
+      "rbd": "8436",
+      "Nombre_comuna": "ESCUELA PORTUGAL (RBD: 8436) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "2° básico",
+      "porc_novacunados": "17",
+      "porc_vacuincom": "0",
+      "porc_vacu": "83"
+    },
+    {
+      "rbd": "8436",
+      "Nombre_comuna": "ESCUELA PORTUGAL (RBD: 8436) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "3° básico",
+      "porc_novacunados": "10",
+      "porc_vacuincom": "14",
+      "porc_vacu": "76"
+    },
+    {
+      "rbd": "8436",
+      "Nombre_comuna": "ESCUELA PORTUGAL (RBD: 8436) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "4° básico",
+      "porc_novacunados": "6",
+      "porc_vacuincom": "12",
+      "porc_vacu": "82"
+    },
+    {
+      "rbd": "8436",
+      "Nombre_comuna": "ESCUELA PORTUGAL (RBD: 8436) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "5° básico",
+      "porc_novacunados": "17",
+      "porc_vacuincom": "10",
+      "porc_vacu": "73"
+    },
+    {
+      "rbd": "8436",
+      "Nombre_comuna": "ESCUELA PORTUGAL (RBD: 8436) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "6° básico",
+      "porc_novacunados": "14",
+      "porc_vacuincom": "5",
+      "porc_vacu": "81"
+    },
+    {
+      "rbd": "8436",
+      "Nombre_comuna": "ESCUELA PORTUGAL (RBD: 8436) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "7° básico",
+      "porc_novacunados": "9",
+      "porc_vacuincom": "0",
+      "porc_vacu": "91"
+    },
+    {
+      "rbd": "8436",
+      "Nombre_comuna": "ESCUELA PORTUGAL (RBD: 8436) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "8° básico",
+      "porc_novacunados": "9",
+      "porc_vacuincom": "0",
+      "porc_vacu": "91"
+    },
+    {
+      "rbd": "8436",
+      "Nombre_comuna": "ESCUELA PORTUGAL (RBD: 8436) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "Kínder",
+      "porc_novacunados": "50",
+      "porc_vacuincom": "20",
+      "porc_vacu": "30"
+    },
+    {
+      "rbd": "8436",
+      "Nombre_comuna": "ESCUELA PORTUGAL (RBD: 8436) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "Prekínder",
+      "porc_novacunados": "33",
+      "porc_vacuincom": "11",
+      "porc_vacu": "56"
+    },
+    {
+      "rbd": "8437",
+      "Nombre_comuna": "ESC. CAPITAN ARTURO PRAT CHACON (RBD: 8437) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "1° básico",
+      "porc_novacunados": "60",
+      "porc_vacuincom": "10",
+      "porc_vacu": "30"
+    },
+    {
+      "rbd": "8437",
+      "Nombre_comuna": "ESC. CAPITAN ARTURO PRAT CHACON (RBD: 8437) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "2° básico",
+      "porc_novacunados": "10",
+      "porc_vacuincom": "30",
+      "porc_vacu": "60"
+    },
+    {
+      "rbd": "8437",
+      "Nombre_comuna": "ESC. CAPITAN ARTURO PRAT CHACON (RBD: 8437) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "3° básico",
+      "porc_novacunados": "9",
+      "porc_vacuincom": "0",
+      "porc_vacu": "91"
+    },
+    {
+      "rbd": "8437",
+      "Nombre_comuna": "ESC. CAPITAN ARTURO PRAT CHACON (RBD: 8437) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "4° básico",
+      "porc_novacunados": "15",
+      "porc_vacuincom": "0",
+      "porc_vacu": "85"
+    },
+    {
+      "rbd": "8437",
+      "Nombre_comuna": "ESC. CAPITAN ARTURO PRAT CHACON (RBD: 8437) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "5° básico",
+      "porc_novacunados": "29",
+      "porc_vacuincom": "6",
+      "porc_vacu": "65"
+    },
+    {
+      "rbd": "8437",
+      "Nombre_comuna": "ESC. CAPITAN ARTURO PRAT CHACON (RBD: 8437) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "6° básico",
+      "porc_novacunados": "20",
+      "porc_vacuincom": "13",
+      "porc_vacu": "67"
+    },
+    {
+      "rbd": "8437",
+      "Nombre_comuna": "ESC. CAPITAN ARTURO PRAT CHACON (RBD: 8437) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "7° básico",
+      "porc_novacunados": "12",
+      "porc_vacuincom": "25",
+      "porc_vacu": "63"
+    },
+    {
+      "rbd": "8437",
+      "Nombre_comuna": "ESC. CAPITAN ARTURO PRAT CHACON (RBD: 8437) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "8° básico",
+      "porc_novacunados": "24",
+      "porc_vacuincom": "0",
+      "porc_vacu": "76"
+    },
+    {
+      "rbd": "8437",
+      "Nombre_comuna": "ESC. CAPITAN ARTURO PRAT CHACON (RBD: 8437) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "Kínder",
+      "porc_novacunados": "38",
+      "porc_vacuincom": "0",
+      "porc_vacu": "62"
+    },
+    {
+      "rbd": "8437",
+      "Nombre_comuna": "ESC. CAPITAN ARTURO PRAT CHACON (RBD: 8437) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "Prekínder",
+      "porc_novacunados": "67",
+      "porc_vacuincom": "0",
+      "porc_vacu": "33"
+    },
+    {
+      "rbd": "8438",
+      "Nombre_comuna": "ESCUELA REPUBLICA DE CROACIA (RBD: 8438) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "1° básico",
+      "porc_novacunados": "28",
+      "porc_vacuincom": "9",
+      "porc_vacu": "63"
+    },
+    {
+      "rbd": "8438",
+      "Nombre_comuna": "ESCUELA REPUBLICA DE CROACIA (RBD: 8438) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "2° básico",
+      "porc_novacunados": "18",
+      "porc_vacuincom": "9",
+      "porc_vacu": "73"
+    },
+    {
+      "rbd": "8438",
+      "Nombre_comuna": "ESCUELA REPUBLICA DE CROACIA (RBD: 8438) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "3° básico",
+      "porc_novacunados": "16",
+      "porc_vacuincom": "6",
+      "porc_vacu": "78"
+    },
+    {
+      "rbd": "8438",
+      "Nombre_comuna": "ESCUELA REPUBLICA DE CROACIA (RBD: 8438) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "4° básico",
+      "porc_novacunados": "8",
+      "porc_vacuincom": "5",
+      "porc_vacu": "87"
+    },
+    {
+      "rbd": "8438",
+      "Nombre_comuna": "ESCUELA REPUBLICA DE CROACIA (RBD: 8438) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "5° básico",
+      "porc_novacunados": "11",
+      "porc_vacuincom": "13",
+      "porc_vacu": "76"
+    },
+    {
+      "rbd": "8438",
+      "Nombre_comuna": "ESCUELA REPUBLICA DE CROACIA (RBD: 8438) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "6° básico",
+      "porc_novacunados": "7",
+      "porc_vacuincom": "5",
+      "porc_vacu": "88"
+    },
+    {
+      "rbd": "8438",
+      "Nombre_comuna": "ESCUELA REPUBLICA DE CROACIA (RBD: 8438) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "7° básico",
+      "porc_novacunados": "9",
+      "porc_vacuincom": "4",
+      "porc_vacu": "87"
+    },
+    {
+      "rbd": "8438",
+      "Nombre_comuna": "ESCUELA REPUBLICA DE CROACIA (RBD: 8438) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "8° básico",
+      "porc_novacunados": "5",
+      "porc_vacuincom": "0",
+      "porc_vacu": "95"
+    },
+    {
+      "rbd": "8438",
+      "Nombre_comuna": "ESCUELA REPUBLICA DE CROACIA (RBD: 8438) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "Kínder",
+      "porc_novacunados": "27",
+      "porc_vacuincom": "35",
+      "porc_vacu": "38"
+    },
+    {
+      "rbd": "8438",
+      "Nombre_comuna": "ESCUELA REPUBLICA DE CROACIA (RBD: 8438) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "Prekínder",
+      "porc_novacunados": "34",
+      "porc_vacuincom": "22",
+      "porc_vacu": "44"
+    },
+    {
+      "rbd": "8439",
+      "Nombre_comuna": "ESCUELA JUAN WILLIAMS (RBD: 8439) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "1° básico",
+      "porc_novacunados": "16",
+      "porc_vacuincom": "13",
+      "porc_vacu": "71"
+    },
+    {
+      "rbd": "8439",
+      "Nombre_comuna": "ESCUELA JUAN WILLIAMS (RBD: 8439) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "2° básico",
+      "porc_novacunados": "10",
+      "porc_vacuincom": "2",
+      "porc_vacu": "88"
+    },
+    {
+      "rbd": "8439",
+      "Nombre_comuna": "ESCUELA JUAN WILLIAMS (RBD: 8439) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "3° básico",
+      "porc_novacunados": "15",
+      "porc_vacuincom": "3",
+      "porc_vacu": "82"
+    },
+    {
+      "rbd": "8439",
+      "Nombre_comuna": "ESCUELA JUAN WILLIAMS (RBD: 8439) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "4° básico",
+      "porc_novacunados": "7",
+      "porc_vacuincom": "4",
+      "porc_vacu": "89"
+    },
+    {
+      "rbd": "8439",
+      "Nombre_comuna": "ESCUELA JUAN WILLIAMS (RBD: 8439) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "5° básico",
+      "porc_novacunados": "9",
+      "porc_vacuincom": "0",
+      "porc_vacu": "91"
+    },
+    {
+      "rbd": "8439",
+      "Nombre_comuna": "ESCUELA JUAN WILLIAMS (RBD: 8439) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "6° básico",
+      "porc_novacunados": "7",
+      "porc_vacuincom": "4",
+      "porc_vacu": "89"
+    },
+    {
+      "rbd": "8439",
+      "Nombre_comuna": "ESCUELA JUAN WILLIAMS (RBD: 8439) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "7° básico",
+      "porc_novacunados": "9",
+      "porc_vacuincom": "0",
+      "porc_vacu": "91"
+    },
+    {
+      "rbd": "8439",
+      "Nombre_comuna": "ESCUELA JUAN WILLIAMS (RBD: 8439) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "8° básico",
+      "porc_novacunados": "5",
+      "porc_vacuincom": "2",
+      "porc_vacu": "93"
+    },
+    {
+      "rbd": "8439",
+      "Nombre_comuna": "ESCUELA JUAN WILLIAMS (RBD: 8439) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "Kínder",
+      "porc_novacunados": "44",
+      "porc_vacuincom": "8",
+      "porc_vacu": "48"
+    },
+    {
+      "rbd": "8439",
+      "Nombre_comuna": "ESCUELA JUAN WILLIAMS (RBD: 8439) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "Prekínder",
+      "porc_novacunados": "27",
+      "porc_vacuincom": "14",
+      "porc_vacu": "59"
+    },
+    {
+      "rbd": "8441",
+      "Nombre_comuna": "ESCUELA HERNANDO DE MAGALLANES (RBD: 8441) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "1° básico",
+      "porc_novacunados": "25",
+      "porc_vacuincom": "17",
+      "porc_vacu": "58"
+    },
+    {
+      "rbd": "8441",
+      "Nombre_comuna": "ESCUELA HERNANDO DE MAGALLANES (RBD: 8441) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "2° básico",
+      "porc_novacunados": "9",
+      "porc_vacuincom": "12",
+      "porc_vacu": "79"
+    },
+    {
+      "rbd": "8441",
+      "Nombre_comuna": "ESCUELA HERNANDO DE MAGALLANES (RBD: 8441) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "3° básico",
+      "porc_novacunados": "16",
+      "porc_vacuincom": "14",
+      "porc_vacu": "70"
+    },
+    {
+      "rbd": "8441",
+      "Nombre_comuna": "ESCUELA HERNANDO DE MAGALLANES (RBD: 8441) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "4° básico",
+      "porc_novacunados": "14",
+      "porc_vacuincom": "3",
+      "porc_vacu": "83"
+    },
+    {
+      "rbd": "8441",
+      "Nombre_comuna": "ESCUELA HERNANDO DE MAGALLANES (RBD: 8441) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "5° básico",
+      "porc_novacunados": "19",
+      "porc_vacuincom": "8",
+      "porc_vacu": "73"
+    },
+    {
+      "rbd": "8441",
+      "Nombre_comuna": "ESCUELA HERNANDO DE MAGALLANES (RBD: 8441) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "6° básico",
+      "porc_novacunados": "12",
+      "porc_vacuincom": "4",
+      "porc_vacu": "84"
+    },
+    {
+      "rbd": "8441",
+      "Nombre_comuna": "ESCUELA HERNANDO DE MAGALLANES (RBD: 8441) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "7° básico",
+      "porc_novacunados": "5",
+      "porc_vacuincom": "8",
+      "porc_vacu": "87"
+    },
+    {
+      "rbd": "8441",
+      "Nombre_comuna": "ESCUELA HERNANDO DE MAGALLANES (RBD: 8441) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "8° básico",
+      "porc_novacunados": "16",
+      "porc_vacuincom": "3",
+      "porc_vacu": "81"
+    },
+    {
+      "rbd": "8441",
+      "Nombre_comuna": "ESCUELA HERNANDO DE MAGALLANES (RBD: 8441) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "Kínder",
+      "porc_novacunados": "33",
+      "porc_vacuincom": "22",
+      "porc_vacu": "45"
+    },
+    {
+      "rbd": "8441",
+      "Nombre_comuna": "ESCUELA HERNANDO DE MAGALLANES (RBD: 8441) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "Prekínder",
+      "porc_novacunados": "38",
+      "porc_vacuincom": "34",
+      "porc_vacu": "28"
+    },
+    {
+      "rbd": "8442",
+      "Nombre_comuna": "ESCUELA PEDRO PABLO LEMAITRE (RBD: 8442) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "1° básico",
+      "porc_novacunados": "25",
+      "porc_vacuincom": "6",
+      "porc_vacu": "69"
+    },
+    {
+      "rbd": "8442",
+      "Nombre_comuna": "ESCUELA PEDRO PABLO LEMAITRE (RBD: 8442) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "1° medio",
+      "porc_novacunados": "13",
+      "porc_vacuincom": "1",
+      "porc_vacu": "86"
+    },
+    {
+      "rbd": "8442",
+      "Nombre_comuna": "ESCUELA PEDRO PABLO LEMAITRE (RBD: 8442) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "2° básico",
+      "porc_novacunados": "15",
+      "porc_vacuincom": "7",
+      "porc_vacu": "78"
+    },
+    {
+      "rbd": "8442",
+      "Nombre_comuna": "ESCUELA PEDRO PABLO LEMAITRE (RBD: 8442) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "2° medio",
+      "porc_novacunados": "6",
+      "porc_vacuincom": "6",
+      "porc_vacu": "88"
+    },
+    {
+      "rbd": "8442",
+      "Nombre_comuna": "ESCUELA PEDRO PABLO LEMAITRE (RBD: 8442) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "3° básico",
+      "porc_novacunados": "10",
+      "porc_vacuincom": "10",
+      "porc_vacu": "80"
+    },
+    {
+      "rbd": "8442",
+      "Nombre_comuna": "ESCUELA PEDRO PABLO LEMAITRE (RBD: 8442) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "3° medio",
+      "porc_novacunados": "4",
+      "porc_vacuincom": "2",
+      "porc_vacu": "94"
+    },
+    {
+      "rbd": "8442",
+      "Nombre_comuna": "ESCUELA PEDRO PABLO LEMAITRE (RBD: 8442) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "4° básico",
+      "porc_novacunados": "10",
+      "porc_vacuincom": "8",
+      "porc_vacu": "82"
+    },
+    {
+      "rbd": "8442",
+      "Nombre_comuna": "ESCUELA PEDRO PABLO LEMAITRE (RBD: 8442) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "4° medio",
+      "porc_novacunados": "7",
+      "porc_vacuincom": "0",
+      "porc_vacu": "93"
+    },
+    {
+      "rbd": "8442",
+      "Nombre_comuna": "ESCUELA PEDRO PABLO LEMAITRE (RBD: 8442) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "5° básico",
+      "porc_novacunados": "11",
+      "porc_vacuincom": "9",
+      "porc_vacu": "80"
+    },
+    {
+      "rbd": "8442",
+      "Nombre_comuna": "ESCUELA PEDRO PABLO LEMAITRE (RBD: 8442) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "6° básico",
+      "porc_novacunados": "12",
+      "porc_vacuincom": "4",
+      "porc_vacu": "84"
+    },
+    {
+      "rbd": "8442",
+      "Nombre_comuna": "ESCUELA PEDRO PABLO LEMAITRE (RBD: 8442) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "7° básico",
+      "porc_novacunados": "7",
+      "porc_vacuincom": "1",
+      "porc_vacu": "92"
+    },
+    {
+      "rbd": "8442",
+      "Nombre_comuna": "ESCUELA PEDRO PABLO LEMAITRE (RBD: 8442) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "8° básico",
+      "porc_novacunados": "7",
+      "porc_vacuincom": "3",
+      "porc_vacu": "90"
+    },
+    {
+      "rbd": "8442",
+      "Nombre_comuna": "ESCUELA PEDRO PABLO LEMAITRE (RBD: 8442) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "Kínder",
+      "porc_novacunados": "26",
+      "porc_vacuincom": "21",
+      "porc_vacu": "53"
+    },
+    {
+      "rbd": "8442",
+      "Nombre_comuna": "ESCUELA PEDRO PABLO LEMAITRE (RBD: 8442) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "Prekínder",
+      "porc_novacunados": "33",
+      "porc_vacuincom": "14",
+      "porc_vacu": "53"
+    },
+    {
+      "rbd": "8443",
+      "Nombre_comuna": "ESCUELA ESPECIAL ROTARIO PAUL HARRIS (RBD: 8443) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "Educ. Especial",
+      "porc_novacunados": "21",
+      "porc_vacuincom": "7",
+      "porc_vacu": "72"
+    },
+    {
+      "rbd": "8444",
+      "Nombre_comuna": "ESCUELA PATAGONIA (RBD: 8444) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "1° básico",
+      "porc_novacunados": "23",
+      "porc_vacuincom": "7",
+      "porc_vacu": "70"
+    },
+    {
+      "rbd": "8444",
+      "Nombre_comuna": "ESCUELA PATAGONIA (RBD: 8444) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "2° básico",
+      "porc_novacunados": "21",
+      "porc_vacuincom": "10",
+      "porc_vacu": "69"
+    },
+    {
+      "rbd": "8444",
+      "Nombre_comuna": "ESCUELA PATAGONIA (RBD: 8444) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "3° básico",
+      "porc_novacunados": "34",
+      "porc_vacuincom": "7",
+      "porc_vacu": "59"
+    },
+    {
+      "rbd": "8444",
+      "Nombre_comuna": "ESCUELA PATAGONIA (RBD: 8444) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "4° básico",
+      "porc_novacunados": "23",
+      "porc_vacuincom": "5",
+      "porc_vacu": "72"
+    },
+    {
+      "rbd": "8444",
+      "Nombre_comuna": "ESCUELA PATAGONIA (RBD: 8444) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "5° básico",
+      "porc_novacunados": "18",
+      "porc_vacuincom": "8",
+      "porc_vacu": "74"
+    },
+    {
+      "rbd": "8444",
+      "Nombre_comuna": "ESCUELA PATAGONIA (RBD: 8444) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "6° básico",
+      "porc_novacunados": "15",
+      "porc_vacuincom": "8",
+      "porc_vacu": "77"
+    },
+    {
+      "rbd": "8444",
+      "Nombre_comuna": "ESCUELA PATAGONIA (RBD: 8444) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "7° básico",
+      "porc_novacunados": "18",
+      "porc_vacuincom": "0",
+      "porc_vacu": "82"
+    },
+    {
+      "rbd": "8444",
+      "Nombre_comuna": "ESCUELA PATAGONIA (RBD: 8444) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "8° básico",
+      "porc_novacunados": "8",
+      "porc_vacuincom": "2",
+      "porc_vacu": "90"
+    },
+    {
+      "rbd": "8444",
+      "Nombre_comuna": "ESCUELA PATAGONIA (RBD: 8444) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "Kínder",
+      "porc_novacunados": "47",
+      "porc_vacuincom": "9",
+      "porc_vacu": "44"
+    },
+    {
+      "rbd": "8444",
+      "Nombre_comuna": "ESCUELA PATAGONIA (RBD: 8444) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "Prekínder",
+      "porc_novacunados": "44",
+      "porc_vacuincom": "8",
+      "porc_vacu": "48"
+    },
+    {
+      "rbd": "8448",
+      "Nombre_comuna": "ESCUELA PEDRO SARMIENTO DE GAMBOA (RBD: 8448) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "1° básico",
+      "porc_novacunados": "31",
+      "porc_vacuincom": "0",
+      "porc_vacu": "69"
+    },
+    {
+      "rbd": "8448",
+      "Nombre_comuna": "ESCUELA PEDRO SARMIENTO DE GAMBOA (RBD: 8448) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "2° básico",
+      "porc_novacunados": "19",
+      "porc_vacuincom": "6",
+      "porc_vacu": "75"
+    },
+    {
+      "rbd": "8448",
+      "Nombre_comuna": "ESCUELA PEDRO SARMIENTO DE GAMBOA (RBD: 8448) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "3° básico",
+      "porc_novacunados": "27",
+      "porc_vacuincom": "0",
+      "porc_vacu": "73"
+    },
+    {
+      "rbd": "8448",
+      "Nombre_comuna": "ESCUELA PEDRO SARMIENTO DE GAMBOA (RBD: 8448) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "4° básico",
+      "porc_novacunados": "21",
+      "porc_vacuincom": "7",
+      "porc_vacu": "72"
+    },
+    {
+      "rbd": "8448",
+      "Nombre_comuna": "ESCUELA PEDRO SARMIENTO DE GAMBOA (RBD: 8448) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "5° básico",
+      "porc_novacunados": "8",
+      "porc_vacuincom": "0",
+      "porc_vacu": "92"
+    },
+    {
+      "rbd": "8448",
+      "Nombre_comuna": "ESCUELA PEDRO SARMIENTO DE GAMBOA (RBD: 8448) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "6° básico",
+      "porc_novacunados": "9",
+      "porc_vacuincom": "0",
+      "porc_vacu": "91"
+    },
+    {
+      "rbd": "8448",
+      "Nombre_comuna": "ESCUELA PEDRO SARMIENTO DE GAMBOA (RBD: 8448) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "7° básico",
+      "porc_novacunados": "19",
+      "porc_vacuincom": "0",
+      "porc_vacu": "81"
+    },
+    {
+      "rbd": "8448",
+      "Nombre_comuna": "ESCUELA PEDRO SARMIENTO DE GAMBOA (RBD: 8448) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "8° básico",
+      "porc_novacunados": "6",
+      "porc_vacuincom": "0",
+      "porc_vacu": "94"
+    },
+    {
+      "rbd": "8448",
+      "Nombre_comuna": "ESCUELA PEDRO SARMIENTO DE GAMBOA (RBD: 8448) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "Kínder",
+      "porc_novacunados": "33",
+      "porc_vacuincom": "0",
+      "porc_vacu": "67"
+    },
+    {
+      "rbd": "8448",
+      "Nombre_comuna": "ESCUELA PEDRO SARMIENTO DE GAMBOA (RBD: 8448) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "Prekínder",
+      "porc_novacunados": "25",
+      "porc_vacuincom": "12",
+      "porc_vacu": "63"
+    },
+    {
+      "rbd": "8449",
+      "Nombre_comuna": "ESCUELA ELBA OJEDA GOMEZ (RBD: 8449) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "1° básico",
+      "porc_novacunados": "7",
+      "porc_vacuincom": "12",
+      "porc_vacu": "81"
+    },
+    {
+      "rbd": "8449",
+      "Nombre_comuna": "ESCUELA ELBA OJEDA GOMEZ (RBD: 8449) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "2° básico",
+      "porc_novacunados": "7",
+      "porc_vacuincom": "7",
+      "porc_vacu": "86"
+    },
+    {
+      "rbd": "8449",
+      "Nombre_comuna": "ESCUELA ELBA OJEDA GOMEZ (RBD: 8449) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "3° básico",
+      "porc_novacunados": "4",
+      "porc_vacuincom": "0",
+      "porc_vacu": "96"
+    },
+    {
+      "rbd": "8449",
+      "Nombre_comuna": "ESCUELA ELBA OJEDA GOMEZ (RBD: 8449) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "4° básico",
+      "porc_novacunados": "8",
+      "porc_vacuincom": "12",
+      "porc_vacu": "80"
+    },
+    {
+      "rbd": "8449",
+      "Nombre_comuna": "ESCUELA ELBA OJEDA GOMEZ (RBD: 8449) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "5° básico",
+      "porc_novacunados": "8",
+      "porc_vacuincom": "0",
+      "porc_vacu": "92"
+    },
+    {
+      "rbd": "8449",
+      "Nombre_comuna": "ESCUELA ELBA OJEDA GOMEZ (RBD: 8449) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "6° básico",
+      "porc_novacunados": "7",
+      "porc_vacuincom": "4",
+      "porc_vacu": "89"
+    },
+    {
+      "rbd": "8449",
+      "Nombre_comuna": "ESCUELA ELBA OJEDA GOMEZ (RBD: 8449) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "7° básico",
+      "porc_novacunados": "20",
+      "porc_vacuincom": "4",
+      "porc_vacu": "76"
+    },
+    {
+      "rbd": "8449",
+      "Nombre_comuna": "ESCUELA ELBA OJEDA GOMEZ (RBD: 8449) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "8° básico",
+      "porc_novacunados": "0",
+      "porc_vacuincom": "4",
+      "porc_vacu": "96"
+    },
+    {
+      "rbd": "8449",
+      "Nombre_comuna": "ESCUELA ELBA OJEDA GOMEZ (RBD: 8449) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "Kínder",
+      "porc_novacunados": "21",
+      "porc_vacuincom": "14",
+      "porc_vacu": "65"
+    },
+    {
+      "rbd": "8449",
+      "Nombre_comuna": "ESCUELA ELBA OJEDA GOMEZ (RBD: 8449) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "Prekínder",
+      "porc_novacunados": "28",
+      "porc_vacuincom": "20",
+      "porc_vacu": "52"
+    },
+    {
+      "rbd": "8450",
+      "Nombre_comuna": "ESCUELA DELLAMIRA REBECA AGUILAR (RBD: 8450) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "1° básico",
+      "porc_novacunados": "9",
+      "porc_vacuincom": "18",
+      "porc_vacu": "73"
+    },
+    {
+      "rbd": "8450",
+      "Nombre_comuna": "ESCUELA DELLAMIRA REBECA AGUILAR (RBD: 8450) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "2° básico",
+      "porc_novacunados": "33",
+      "porc_vacuincom": "0",
+      "porc_vacu": "67"
+    },
+    {
+      "rbd": "8450",
+      "Nombre_comuna": "ESCUELA DELLAMIRA REBECA AGUILAR (RBD: 8450) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "3° básico",
+      "porc_novacunados": "7",
+      "porc_vacuincom": "14",
+      "porc_vacu": "79"
+    },
+    {
+      "rbd": "8450",
+      "Nombre_comuna": "ESCUELA DELLAMIRA REBECA AGUILAR (RBD: 8450) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "4° básico",
+      "porc_novacunados": "20",
+      "porc_vacuincom": "40",
+      "porc_vacu": "40"
+    },
+    {
+      "rbd": "8450",
+      "Nombre_comuna": "ESCUELA DELLAMIRA REBECA AGUILAR (RBD: 8450) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "5° básico",
+      "porc_novacunados": "0",
+      "porc_vacuincom": "10",
+      "porc_vacu": "90"
+    },
+    {
+      "rbd": "8450",
+      "Nombre_comuna": "ESCUELA DELLAMIRA REBECA AGUILAR (RBD: 8450) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "6° básico",
+      "porc_novacunados": "16",
+      "porc_vacuincom": "17",
+      "porc_vacu": "67"
+    },
+    {
+      "rbd": "8450",
+      "Nombre_comuna": "ESCUELA DELLAMIRA REBECA AGUILAR (RBD: 8450) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "Kínder",
+      "porc_novacunados": "14",
+      "porc_vacuincom": "29",
+      "porc_vacu": "57"
+    },
+    {
+      "rbd": "8450",
+      "Nombre_comuna": "ESCUELA DELLAMIRA REBECA AGUILAR (RBD: 8450) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "Prekínder",
+      "porc_novacunados": "50",
+      "porc_vacuincom": "0",
+      "porc_vacu": "50"
+    },
+    {
+      "rbd": "8452",
+      "Nombre_comuna": "ESCUELA DE PUERTO HARRIS (RBD: 8452) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "1° básico",
+      "porc_novacunados": "40",
+      "porc_vacuincom": "0",
+      "porc_vacu": "60"
+    },
+    {
+      "rbd": "8452",
+      "Nombre_comuna": "ESCUELA DE PUERTO HARRIS (RBD: 8452) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "2° básico",
+      "porc_novacunados": "11",
+      "porc_vacuincom": "11",
+      "porc_vacu": "78"
+    },
+    {
+      "rbd": "8452",
+      "Nombre_comuna": "ESCUELA DE PUERTO HARRIS (RBD: 8452) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "3° básico",
+      "porc_novacunados": "0",
+      "porc_vacuincom": "0",
+      "porc_vacu": "100"
+    },
+    {
+      "rbd": "8452",
+      "Nombre_comuna": "ESCUELA DE PUERTO HARRIS (RBD: 8452) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "4° básico",
+      "porc_novacunados": "14",
+      "porc_vacuincom": "0",
+      "porc_vacu": "86"
+    },
+    {
+      "rbd": "8452",
+      "Nombre_comuna": "ESCUELA DE PUERTO HARRIS (RBD: 8452) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "5° básico",
+      "porc_novacunados": "0",
+      "porc_vacuincom": "0",
+      "porc_vacu": "100"
+    },
+    {
+      "rbd": "8452",
+      "Nombre_comuna": "ESCUELA DE PUERTO HARRIS (RBD: 8452) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "6° básico",
+      "porc_novacunados": "0",
+      "porc_vacuincom": "0",
+      "porc_vacu": "100"
+    },
+    {
+      "rbd": "8452",
+      "Nombre_comuna": "ESCUELA DE PUERTO HARRIS (RBD: 8452) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "7° básico",
+      "porc_novacunados": "33",
+      "porc_vacuincom": "0",
+      "porc_vacu": "67"
+    },
+    {
+      "rbd": "8452",
+      "Nombre_comuna": "ESCUELA DE PUERTO HARRIS (RBD: 8452) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "8° básico",
+      "porc_novacunados": "0",
+      "porc_vacuincom": "0",
+      "porc_vacu": "100"
+    },
+    {
+      "rbd": "8452",
+      "Nombre_comuna": "ESCUELA DE PUERTO HARRIS (RBD: 8452) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "Kínder",
+      "porc_novacunados": "0",
+      "porc_vacuincom": "33",
+      "porc_vacu": "67"
+    },
+    {
+      "rbd": "8452",
+      "Nombre_comuna": "ESCUELA DE PUERTO HARRIS (RBD: 8452) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "Prekínder",
+      "porc_novacunados": "0",
+      "porc_vacuincom": "50",
+      "porc_vacu": "50"
+    },
+    {
+      "rbd": "8454",
+      "Nombre_comuna": "INSTITUTO DON BOSCO (RBD: 8454) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "1° básico",
+      "porc_novacunados": "15",
+      "porc_vacuincom": "10",
+      "porc_vacu": "75"
+    },
+    {
+      "rbd": "8454",
+      "Nombre_comuna": "INSTITUTO DON BOSCO (RBD: 8454) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "1° medio",
+      "porc_novacunados": "16",
+      "porc_vacuincom": "2",
+      "porc_vacu": "82"
+    },
+    {
+      "rbd": "8454",
+      "Nombre_comuna": "INSTITUTO DON BOSCO (RBD: 8454) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "2° básico",
+      "porc_novacunados": "12",
+      "porc_vacuincom": "5",
+      "porc_vacu": "83"
+    },
+    {
+      "rbd": "8454",
+      "Nombre_comuna": "INSTITUTO DON BOSCO (RBD: 8454) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "2° medio",
+      "porc_novacunados": "10",
+      "porc_vacuincom": "0",
+      "porc_vacu": "90"
+    },
+    {
+      "rbd": "8454",
+      "Nombre_comuna": "INSTITUTO DON BOSCO (RBD: 8454) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "3° básico",
+      "porc_novacunados": "7",
+      "porc_vacuincom": "3",
+      "porc_vacu": "90"
+    },
+    {
+      "rbd": "8454",
+      "Nombre_comuna": "INSTITUTO DON BOSCO (RBD: 8454) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "3° medio",
+      "porc_novacunados": "8",
+      "porc_vacuincom": "2",
+      "porc_vacu": "90"
+    },
+    {
+      "rbd": "8454",
+      "Nombre_comuna": "INSTITUTO DON BOSCO (RBD: 8454) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "4° básico",
+      "porc_novacunados": "10",
+      "porc_vacuincom": "5",
+      "porc_vacu": "85"
+    },
+    {
+      "rbd": "8454",
+      "Nombre_comuna": "INSTITUTO DON BOSCO (RBD: 8454) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "4° medio",
+      "porc_novacunados": "4",
+      "porc_vacuincom": "2",
+      "porc_vacu": "94"
+    },
+    {
+      "rbd": "8454",
+      "Nombre_comuna": "INSTITUTO DON BOSCO (RBD: 8454) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "5° básico",
+      "porc_novacunados": "9",
+      "porc_vacuincom": "1",
+      "porc_vacu": "90"
+    },
+    {
+      "rbd": "8454",
+      "Nombre_comuna": "INSTITUTO DON BOSCO (RBD: 8454) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "6° básico",
+      "porc_novacunados": "6",
+      "porc_vacuincom": "5",
+      "porc_vacu": "89"
+    },
+    {
+      "rbd": "8454",
+      "Nombre_comuna": "INSTITUTO DON BOSCO (RBD: 8454) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "7° básico",
+      "porc_novacunados": "7",
+      "porc_vacuincom": "5",
+      "porc_vacu": "88"
+    },
+    {
+      "rbd": "8454",
+      "Nombre_comuna": "INSTITUTO DON BOSCO (RBD: 8454) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "8° básico",
+      "porc_novacunados": "9",
+      "porc_vacuincom": "1",
+      "porc_vacu": "90"
+    },
+    {
+      "rbd": "8454",
+      "Nombre_comuna": "INSTITUTO DON BOSCO (RBD: 8454) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "Kínder",
+      "porc_novacunados": "34",
+      "porc_vacuincom": "6",
+      "porc_vacu": "60"
+    },
+    {
+      "rbd": "8454",
+      "Nombre_comuna": "INSTITUTO DON BOSCO (RBD: 8454) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "Prekínder",
+      "porc_novacunados": "32",
+      "porc_vacuincom": "18",
+      "porc_vacu": "50"
+    },
+    {
+      "rbd": "8455",
+      "Nombre_comuna": "LICEO MARIA AUXILIADORA (RBD: 8455) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "1° básico",
+      "porc_novacunados": "12",
+      "porc_vacuincom": "11",
+      "porc_vacu": "77"
+    },
+    {
+      "rbd": "8455",
+      "Nombre_comuna": "LICEO MARIA AUXILIADORA (RBD: 8455) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "1° medio",
+      "porc_novacunados": "3",
+      "porc_vacuincom": "0",
+      "porc_vacu": "97"
+    },
+    {
+      "rbd": "8455",
+      "Nombre_comuna": "LICEO MARIA AUXILIADORA (RBD: 8455) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "2° básico",
+      "porc_novacunados": "4",
+      "porc_vacuincom": "4",
+      "porc_vacu": "92"
+    },
+    {
+      "rbd": "8455",
+      "Nombre_comuna": "LICEO MARIA AUXILIADORA (RBD: 8455) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "2° medio",
+      "porc_novacunados": "6",
+      "porc_vacuincom": "0",
+      "porc_vacu": "94"
+    },
+    {
+      "rbd": "8455",
+      "Nombre_comuna": "LICEO MARIA AUXILIADORA (RBD: 8455) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "3° básico",
+      "porc_novacunados": "7",
+      "porc_vacuincom": "1",
+      "porc_vacu": "92"
+    },
+    {
+      "rbd": "8455",
+      "Nombre_comuna": "LICEO MARIA AUXILIADORA (RBD: 8455) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "3° medio",
+      "porc_novacunados": "4",
+      "porc_vacuincom": "0",
+      "porc_vacu": "96"
+    },
+    {
+      "rbd": "8455",
+      "Nombre_comuna": "LICEO MARIA AUXILIADORA (RBD: 8455) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "4° básico",
+      "porc_novacunados": "9",
+      "porc_vacuincom": "1",
+      "porc_vacu": "90"
+    },
+    {
+      "rbd": "8455",
+      "Nombre_comuna": "LICEO MARIA AUXILIADORA (RBD: 8455) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "4° medio",
+      "porc_novacunados": "12",
+      "porc_vacuincom": "0",
+      "porc_vacu": "88"
+    },
+    {
+      "rbd": "8455",
+      "Nombre_comuna": "LICEO MARIA AUXILIADORA (RBD: 8455) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "5° básico",
+      "porc_novacunados": "9",
+      "porc_vacuincom": "2",
+      "porc_vacu": "89"
+    },
+    {
+      "rbd": "8455",
+      "Nombre_comuna": "LICEO MARIA AUXILIADORA (RBD: 8455) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "6° básico",
+      "porc_novacunados": "9",
+      "porc_vacuincom": "2",
+      "porc_vacu": "89"
+    },
+    {
+      "rbd": "8455",
+      "Nombre_comuna": "LICEO MARIA AUXILIADORA (RBD: 8455) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "7° básico",
+      "porc_novacunados": "9",
+      "porc_vacuincom": "4",
+      "porc_vacu": "87"
+    },
+    {
+      "rbd": "8455",
+      "Nombre_comuna": "LICEO MARIA AUXILIADORA (RBD: 8455) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "8° básico",
+      "porc_novacunados": "10",
+      "porc_vacuincom": "1",
+      "porc_vacu": "89"
+    },
+    {
+      "rbd": "8455",
+      "Nombre_comuna": "LICEO MARIA AUXILIADORA (RBD: 8455) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "Kínder",
+      "porc_novacunados": "21",
+      "porc_vacuincom": "10",
+      "porc_vacu": "69"
+    },
+    {
+      "rbd": "8457",
+      "Nombre_comuna": "INSTITUTO SAGRADA FAMILIA (RBD: 8457) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "1° básico",
+      "porc_novacunados": "13",
+      "porc_vacuincom": "11",
+      "porc_vacu": "76"
+    },
+    {
+      "rbd": "8457",
+      "Nombre_comuna": "INSTITUTO SAGRADA FAMILIA (RBD: 8457) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "1° medio",
+      "porc_novacunados": "6",
+      "porc_vacuincom": "1",
+      "porc_vacu": "93"
+    },
+    {
+      "rbd": "8457",
+      "Nombre_comuna": "INSTITUTO SAGRADA FAMILIA (RBD: 8457) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "2° básico",
+      "porc_novacunados": "12",
+      "porc_vacuincom": "2",
+      "porc_vacu": "86"
+    },
+    {
+      "rbd": "8457",
+      "Nombre_comuna": "INSTITUTO SAGRADA FAMILIA (RBD: 8457) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "2° medio",
+      "porc_novacunados": "8",
+      "porc_vacuincom": "1",
+      "porc_vacu": "91"
+    },
+    {
+      "rbd": "8457",
+      "Nombre_comuna": "INSTITUTO SAGRADA FAMILIA (RBD: 8457) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "3° básico",
+      "porc_novacunados": "9",
+      "porc_vacuincom": "7",
+      "porc_vacu": "84"
+    },
+    {
+      "rbd": "8457",
+      "Nombre_comuna": "INSTITUTO SAGRADA FAMILIA (RBD: 8457) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "3° medio",
+      "porc_novacunados": "9",
+      "porc_vacuincom": "0",
+      "porc_vacu": "91"
+    },
+    {
+      "rbd": "8457",
+      "Nombre_comuna": "INSTITUTO SAGRADA FAMILIA (RBD: 8457) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "4° básico",
+      "porc_novacunados": "2",
+      "porc_vacuincom": "4",
+      "porc_vacu": "94"
+    },
+    {
+      "rbd": "8457",
+      "Nombre_comuna": "INSTITUTO SAGRADA FAMILIA (RBD: 8457) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "4° medio",
+      "porc_novacunados": "2",
+      "porc_vacuincom": "2",
+      "porc_vacu": "96"
+    },
+    {
+      "rbd": "8457",
+      "Nombre_comuna": "INSTITUTO SAGRADA FAMILIA (RBD: 8457) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "5° básico",
+      "porc_novacunados": "12",
+      "porc_vacuincom": "2",
+      "porc_vacu": "86"
+    },
+    {
+      "rbd": "8457",
+      "Nombre_comuna": "INSTITUTO SAGRADA FAMILIA (RBD: 8457) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "6° básico",
+      "porc_novacunados": "2",
+      "porc_vacuincom": "2",
+      "porc_vacu": "96"
+    },
+    {
+      "rbd": "8457",
+      "Nombre_comuna": "INSTITUTO SAGRADA FAMILIA (RBD: 8457) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "7° básico",
+      "porc_novacunados": "13",
+      "porc_vacuincom": "3",
+      "porc_vacu": "84"
+    },
+    {
+      "rbd": "8457",
+      "Nombre_comuna": "INSTITUTO SAGRADA FAMILIA (RBD: 8457) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "8° básico",
+      "porc_novacunados": "14",
+      "porc_vacuincom": "0",
+      "porc_vacu": "86"
+    },
+    {
+      "rbd": "8457",
+      "Nombre_comuna": "INSTITUTO SAGRADA FAMILIA (RBD: 8457) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "Kínder",
+      "porc_novacunados": "22",
+      "porc_vacuincom": "11",
+      "porc_vacu": "67"
+    },
+    {
+      "rbd": "8457",
+      "Nombre_comuna": "INSTITUTO SAGRADA FAMILIA (RBD: 8457) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "Prekínder",
+      "porc_novacunados": "25",
+      "porc_vacuincom": "14",
+      "porc_vacu": "61"
+    },
+    {
+      "rbd": "8458",
+      "Nombre_comuna": "ESCUELA PARTICULAR LA MILAGROSA (RBD: 8458) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "1° básico",
+      "porc_novacunados": "18",
+      "porc_vacuincom": "6",
+      "porc_vacu": "76"
+    },
+    {
+      "rbd": "8458",
+      "Nombre_comuna": "ESCUELA PARTICULAR LA MILAGROSA (RBD: 8458) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "1° medio",
+      "porc_novacunados": "6",
+      "porc_vacuincom": "1",
+      "porc_vacu": "93"
+    },
+    {
+      "rbd": "8458",
+      "Nombre_comuna": "ESCUELA PARTICULAR LA MILAGROSA (RBD: 8458) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "2° básico",
+      "porc_novacunados": "7",
+      "porc_vacuincom": "8",
+      "porc_vacu": "85"
+    },
+    {
+      "rbd": "8458",
+      "Nombre_comuna": "ESCUELA PARTICULAR LA MILAGROSA (RBD: 8458) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "2° medio",
+      "porc_novacunados": "8",
+      "porc_vacuincom": "0",
+      "porc_vacu": "92"
+    },
+    {
+      "rbd": "8458",
+      "Nombre_comuna": "ESCUELA PARTICULAR LA MILAGROSA (RBD: 8458) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "3° básico",
+      "porc_novacunados": "8",
+      "porc_vacuincom": "8",
+      "porc_vacu": "84"
+    },
+    {
+      "rbd": "8458",
+      "Nombre_comuna": "ESCUELA PARTICULAR LA MILAGROSA (RBD: 8458) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "3° medio",
+      "porc_novacunados": "6",
+      "porc_vacuincom": "1",
+      "porc_vacu": "93"
+    },
+    {
+      "rbd": "8458",
+      "Nombre_comuna": "ESCUELA PARTICULAR LA MILAGROSA (RBD: 8458) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "4° básico",
+      "porc_novacunados": "7",
+      "porc_vacuincom": "8",
+      "porc_vacu": "85"
+    },
+    {
+      "rbd": "8458",
+      "Nombre_comuna": "ESCUELA PARTICULAR LA MILAGROSA (RBD: 8458) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "4° medio",
+      "porc_novacunados": "2",
+      "porc_vacuincom": "0",
+      "porc_vacu": "98"
+    },
+    {
+      "rbd": "8458",
+      "Nombre_comuna": "ESCUELA PARTICULAR LA MILAGROSA (RBD: 8458) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "5° básico",
+      "porc_novacunados": "12",
+      "porc_vacuincom": "4",
+      "porc_vacu": "84"
+    },
+    {
+      "rbd": "8458",
+      "Nombre_comuna": "ESCUELA PARTICULAR LA MILAGROSA (RBD: 8458) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "6° básico",
+      "porc_novacunados": "6",
+      "porc_vacuincom": "1",
+      "porc_vacu": "93"
+    },
+    {
+      "rbd": "8458",
+      "Nombre_comuna": "ESCUELA PARTICULAR LA MILAGROSA (RBD: 8458) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "7° básico",
+      "porc_novacunados": "5",
+      "porc_vacuincom": "2",
+      "porc_vacu": "93"
+    },
+    {
+      "rbd": "8458",
+      "Nombre_comuna": "ESCUELA PARTICULAR LA MILAGROSA (RBD: 8458) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "8° básico",
+      "porc_novacunados": "7",
+      "porc_vacuincom": "1",
+      "porc_vacu": "92"
+    },
+    {
+      "rbd": "8458",
+      "Nombre_comuna": "ESCUELA PARTICULAR LA MILAGROSA (RBD: 8458) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "Kínder",
+      "porc_novacunados": "20",
+      "porc_vacuincom": "21",
+      "porc_vacu": "59"
+    },
+    {
+      "rbd": "8458",
+      "Nombre_comuna": "ESCUELA PARTICULAR LA MILAGROSA (RBD: 8458) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "Prekínder",
+      "porc_novacunados": "27",
+      "porc_vacuincom": "19",
+      "porc_vacu": "54"
+    },
+    {
+      "rbd": "8463",
+      "Nombre_comuna": "THE BRITISH SCHOOL (RBD: 8463) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "1° básico",
+      "porc_novacunados": "3",
+      "porc_vacuincom": "2",
+      "porc_vacu": "95"
+    },
+    {
+      "rbd": "8463",
+      "Nombre_comuna": "THE BRITISH SCHOOL (RBD: 8463) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "1° medio",
+      "porc_novacunados": "2",
+      "porc_vacuincom": "0",
+      "porc_vacu": "98"
+    },
+    {
+      "rbd": "8463",
+      "Nombre_comuna": "THE BRITISH SCHOOL (RBD: 8463) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "2° básico",
+      "porc_novacunados": "6",
+      "porc_vacuincom": "4",
+      "porc_vacu": "90"
+    },
+    {
+      "rbd": "8463",
+      "Nombre_comuna": "THE BRITISH SCHOOL (RBD: 8463) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "2° medio",
+      "porc_novacunados": "11",
+      "porc_vacuincom": "0",
+      "porc_vacu": "89"
+    },
+    {
+      "rbd": "8463",
+      "Nombre_comuna": "THE BRITISH SCHOOL (RBD: 8463) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "3° básico",
+      "porc_novacunados": "3",
+      "porc_vacuincom": "0",
+      "porc_vacu": "97"
+    },
+    {
+      "rbd": "8463",
+      "Nombre_comuna": "THE BRITISH SCHOOL (RBD: 8463) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "3° medio",
+      "porc_novacunados": "4",
+      "porc_vacuincom": "0",
+      "porc_vacu": "96"
+    },
+    {
+      "rbd": "8463",
+      "Nombre_comuna": "THE BRITISH SCHOOL (RBD: 8463) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "4° básico",
+      "porc_novacunados": "0",
+      "porc_vacuincom": "0",
+      "porc_vacu": "100"
+    },
+    {
+      "rbd": "8463",
+      "Nombre_comuna": "THE BRITISH SCHOOL (RBD: 8463) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "4° medio",
+      "porc_novacunados": "3",
+      "porc_vacuincom": "3",
+      "porc_vacu": "94"
+    },
+    {
+      "rbd": "8463",
+      "Nombre_comuna": "THE BRITISH SCHOOL (RBD: 8463) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "5° básico",
+      "porc_novacunados": "3",
+      "porc_vacuincom": "4",
+      "porc_vacu": "93"
+    },
+    {
+      "rbd": "8463",
+      "Nombre_comuna": "THE BRITISH SCHOOL (RBD: 8463) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "6° básico",
+      "porc_novacunados": "4",
+      "porc_vacuincom": "2",
+      "porc_vacu": "94"
+    },
+    {
+      "rbd": "8463",
+      "Nombre_comuna": "THE BRITISH SCHOOL (RBD: 8463) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "7° básico",
+      "porc_novacunados": "6",
+      "porc_vacuincom": "0",
+      "porc_vacu": "94"
+    },
+    {
+      "rbd": "8463",
+      "Nombre_comuna": "THE BRITISH SCHOOL (RBD: 8463) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "8° básico",
+      "porc_novacunados": "7",
+      "porc_vacuincom": "0",
+      "porc_vacu": "93"
+    },
+    {
+      "rbd": "8463",
+      "Nombre_comuna": "THE BRITISH SCHOOL (RBD: 8463) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "Kínder",
+      "porc_novacunados": "13",
+      "porc_vacuincom": "8",
+      "porc_vacu": "79"
+    },
+    {
+      "rbd": "8463",
+      "Nombre_comuna": "THE BRITISH SCHOOL (RBD: 8463) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "Medio mayor",
+      "porc_novacunados": "14",
+      "porc_vacuincom": "20",
+      "porc_vacu": "66"
+    },
+    {
+      "rbd": "8463",
+      "Nombre_comuna": "THE BRITISH SCHOOL (RBD: 8463) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "Prekínder",
+      "porc_novacunados": "12",
+      "porc_vacuincom": "12",
+      "porc_vacu": "76"
+    },
+    {
+      "rbd": "8464",
+      "Nombre_comuna": "COLEGIO ALEMAN (RBD: 8464) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "1° básico",
+      "porc_novacunados": "13",
+      "porc_vacuincom": "4",
+      "porc_vacu": "83"
+    },
+    {
+      "rbd": "8464",
+      "Nombre_comuna": "COLEGIO ALEMAN (RBD: 8464) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "1° medio",
+      "porc_novacunados": "6",
+      "porc_vacuincom": "0",
+      "porc_vacu": "94"
+    },
+    {
+      "rbd": "8464",
+      "Nombre_comuna": "COLEGIO ALEMAN (RBD: 8464) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "2° básico",
+      "porc_novacunados": "9",
+      "porc_vacuincom": "2",
+      "porc_vacu": "89"
+    },
+    {
+      "rbd": "8464",
+      "Nombre_comuna": "COLEGIO ALEMAN (RBD: 8464) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "2° medio",
+      "porc_novacunados": "6",
+      "porc_vacuincom": "0",
+      "porc_vacu": "94"
+    },
+    {
+      "rbd": "8464",
+      "Nombre_comuna": "COLEGIO ALEMAN (RBD: 8464) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "3° básico",
+      "porc_novacunados": "2",
+      "porc_vacuincom": "0",
+      "porc_vacu": "98"
+    },
+    {
+      "rbd": "8464",
+      "Nombre_comuna": "COLEGIO ALEMAN (RBD: 8464) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "3° medio",
+      "porc_novacunados": "5",
+      "porc_vacuincom": "0",
+      "porc_vacu": "95"
+    },
+    {
+      "rbd": "8464",
+      "Nombre_comuna": "COLEGIO ALEMAN (RBD: 8464) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "4° básico",
+      "porc_novacunados": "7",
+      "porc_vacuincom": "2",
+      "porc_vacu": "91"
+    },
+    {
+      "rbd": "8464",
+      "Nombre_comuna": "COLEGIO ALEMAN (RBD: 8464) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "4° medio",
+      "porc_novacunados": "6",
+      "porc_vacuincom": "0",
+      "porc_vacu": "94"
+    },
+    {
+      "rbd": "8464",
+      "Nombre_comuna": "COLEGIO ALEMAN (RBD: 8464) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "5° básico",
+      "porc_novacunados": "4",
+      "porc_vacuincom": "0",
+      "porc_vacu": "96"
+    },
+    {
+      "rbd": "8464",
+      "Nombre_comuna": "COLEGIO ALEMAN (RBD: 8464) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "6° básico",
+      "porc_novacunados": "8",
+      "porc_vacuincom": "2",
+      "porc_vacu": "90"
+    },
+    {
+      "rbd": "8464",
+      "Nombre_comuna": "COLEGIO ALEMAN (RBD: 8464) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "7° básico",
+      "porc_novacunados": "4",
+      "porc_vacuincom": "0",
+      "porc_vacu": "96"
+    },
+    {
+      "rbd": "8464",
+      "Nombre_comuna": "COLEGIO ALEMAN (RBD: 8464) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "8° básico",
+      "porc_novacunados": "4",
+      "porc_vacuincom": "0",
+      "porc_vacu": "96"
+    },
+    {
+      "rbd": "8464",
+      "Nombre_comuna": "COLEGIO ALEMAN (RBD: 8464) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "Kínder",
+      "porc_novacunados": "10",
+      "porc_vacuincom": "8",
+      "porc_vacu": "82"
+    },
+    {
+      "rbd": "8464",
+      "Nombre_comuna": "COLEGIO ALEMAN (RBD: 8464) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "Medio mayor",
+      "porc_novacunados": "22",
+      "porc_vacuincom": "17",
+      "porc_vacu": "61"
+    },
+    {
+      "rbd": "8464",
+      "Nombre_comuna": "COLEGIO ALEMAN (RBD: 8464) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "Prekínder",
+      "porc_novacunados": "12",
+      "porc_vacuincom": "15",
+      "porc_vacu": "73"
+    },
+    {
+      "rbd": "8467",
+      "Nombre_comuna": "BERNARDO DE BRUYNE (RBD: 8467) - RÍO VERDE",
+      "nom_region": "Magallanes",
+      "nivel_alu": "1° básico",
+      "porc_novacunados": "100",
+      "porc_vacuincom": "0",
+      "porc_vacu": "0"
+    },
+    {
+      "rbd": "8467",
+      "Nombre_comuna": "BERNARDO DE BRUYNE (RBD: 8467) - RÍO VERDE",
+      "nom_region": "Magallanes",
+      "nivel_alu": "2° básico",
+      "porc_novacunados": "0",
+      "porc_vacuincom": "0",
+      "porc_vacu": "100"
+    },
+    {
+      "rbd": "8467",
+      "Nombre_comuna": "BERNARDO DE BRUYNE (RBD: 8467) - RÍO VERDE",
+      "nom_region": "Magallanes",
+      "nivel_alu": "4° básico",
+      "porc_novacunados": "100",
+      "porc_vacuincom": "0",
+      "porc_vacu": "0"
+    },
+    {
+      "rbd": "8467",
+      "Nombre_comuna": "BERNARDO DE BRUYNE (RBD: 8467) - RÍO VERDE",
+      "nom_region": "Magallanes",
+      "nivel_alu": "5° básico",
+      "porc_novacunados": "0",
+      "porc_vacuincom": "0",
+      "porc_vacu": "100"
+    },
+    {
+      "rbd": "8467",
+      "Nombre_comuna": "BERNARDO DE BRUYNE (RBD: 8467) - RÍO VERDE",
+      "nom_region": "Magallanes",
+      "nivel_alu": "6° básico",
+      "porc_novacunados": "0",
+      "porc_vacuincom": "0",
+      "porc_vacu": "100"
+    },
+    {
+      "rbd": "8467",
+      "Nombre_comuna": "BERNARDO DE BRUYNE (RBD: 8467) - RÍO VERDE",
+      "nom_region": "Magallanes",
+      "nivel_alu": "7° básico",
+      "porc_novacunados": "0",
+      "porc_vacuincom": "0",
+      "porc_vacu": "100"
+    },
+    {
+      "rbd": "8467",
+      "Nombre_comuna": "BERNARDO DE BRUYNE (RBD: 8467) - RÍO VERDE",
+      "nom_region": "Magallanes",
+      "nivel_alu": "8° básico",
+      "porc_novacunados": "0",
+      "porc_vacuincom": "0",
+      "porc_vacu": "100"
+    },
+    {
+      "rbd": "8467",
+      "Nombre_comuna": "BERNARDO DE BRUYNE (RBD: 8467) - RÍO VERDE",
+      "nom_region": "Magallanes",
+      "nivel_alu": "Prekínder",
+      "porc_novacunados": "0",
+      "porc_vacuincom": "0",
+      "porc_vacu": "100"
+    },
+    {
+      "rbd": "8468",
+      "Nombre_comuna": "ESCUELA DIEGO PORTALES (RBD: 8468) - LAGUNA BLANCA",
+      "nom_region": "Magallanes",
+      "nivel_alu": "1° básico",
+      "porc_novacunados": "0",
+      "porc_vacuincom": "50",
+      "porc_vacu": "50"
+    },
+    {
+      "rbd": "8468",
+      "Nombre_comuna": "ESCUELA DIEGO PORTALES (RBD: 8468) - LAGUNA BLANCA",
+      "nom_region": "Magallanes",
+      "nivel_alu": "2° básico",
+      "porc_novacunados": "0",
+      "porc_vacuincom": "0",
+      "porc_vacu": "100"
+    },
+    {
+      "rbd": "8468",
+      "Nombre_comuna": "ESCUELA DIEGO PORTALES (RBD: 8468) - LAGUNA BLANCA",
+      "nom_region": "Magallanes",
+      "nivel_alu": "3° básico",
+      "porc_novacunados": "0",
+      "porc_vacuincom": "0",
+      "porc_vacu": "100"
+    },
+    {
+      "rbd": "8468",
+      "Nombre_comuna": "ESCUELA DIEGO PORTALES (RBD: 8468) - LAGUNA BLANCA",
+      "nom_region": "Magallanes",
+      "nivel_alu": "4° básico",
+      "porc_novacunados": "0",
+      "porc_vacuincom": "0",
+      "porc_vacu": "100"
+    },
+    {
+      "rbd": "8468",
+      "Nombre_comuna": "ESCUELA DIEGO PORTALES (RBD: 8468) - LAGUNA BLANCA",
+      "nom_region": "Magallanes",
+      "nivel_alu": "5° básico",
+      "porc_novacunados": "0",
+      "porc_vacuincom": "0",
+      "porc_vacu": "100"
+    },
+    {
+      "rbd": "8468",
+      "Nombre_comuna": "ESCUELA DIEGO PORTALES (RBD: 8468) - LAGUNA BLANCA",
+      "nom_region": "Magallanes",
+      "nivel_alu": "6° básico",
+      "porc_novacunados": "0",
+      "porc_vacuincom": "0",
+      "porc_vacu": "100"
+    },
+    {
+      "rbd": "8468",
+      "Nombre_comuna": "ESCUELA DIEGO PORTALES (RBD: 8468) - LAGUNA BLANCA",
+      "nom_region": "Magallanes",
+      "nivel_alu": "7° básico",
+      "porc_novacunados": "0",
+      "porc_vacuincom": "0",
+      "porc_vacu": "100"
+    },
+    {
+      "rbd": "8468",
+      "Nombre_comuna": "ESCUELA DIEGO PORTALES (RBD: 8468) - LAGUNA BLANCA",
+      "nom_region": "Magallanes",
+      "nivel_alu": "8° básico",
+      "porc_novacunados": "0",
+      "porc_vacuincom": "0",
+      "porc_vacu": "100"
+    },
+    {
+      "rbd": "8470",
+      "Nombre_comuna": "ESCUELA PUNTA DELGADA (RBD: 8470) - SAN GREGORIO",
+      "nom_region": "Magallanes",
+      "nivel_alu": "1° básico",
+      "porc_novacunados": "0",
+      "porc_vacuincom": "0",
+      "porc_vacu": "100"
+    },
+    {
+      "rbd": "8470",
+      "Nombre_comuna": "ESCUELA PUNTA DELGADA (RBD: 8470) - SAN GREGORIO",
+      "nom_region": "Magallanes",
+      "nivel_alu": "2° básico",
+      "porc_novacunados": "0",
+      "porc_vacuincom": "0",
+      "porc_vacu": "100"
+    },
+    {
+      "rbd": "8470",
+      "Nombre_comuna": "ESCUELA PUNTA DELGADA (RBD: 8470) - SAN GREGORIO",
+      "nom_region": "Magallanes",
+      "nivel_alu": "3° básico",
+      "porc_novacunados": "0",
+      "porc_vacuincom": "0",
+      "porc_vacu": "100"
+    },
+    {
+      "rbd": "8470",
+      "Nombre_comuna": "ESCUELA PUNTA DELGADA (RBD: 8470) - SAN GREGORIO",
+      "nom_region": "Magallanes",
+      "nivel_alu": "4° básico",
+      "porc_novacunados": "0",
+      "porc_vacuincom": "0",
+      "porc_vacu": "100"
+    },
+    {
+      "rbd": "8470",
+      "Nombre_comuna": "ESCUELA PUNTA DELGADA (RBD: 8470) - SAN GREGORIO",
+      "nom_region": "Magallanes",
+      "nivel_alu": "5° básico",
+      "porc_novacunados": "0",
+      "porc_vacuincom": "14",
+      "porc_vacu": "86"
+    },
+    {
+      "rbd": "8470",
+      "Nombre_comuna": "ESCUELA PUNTA DELGADA (RBD: 8470) - SAN GREGORIO",
+      "nom_region": "Magallanes",
+      "nivel_alu": "6° básico",
+      "porc_novacunados": "0",
+      "porc_vacuincom": "0",
+      "porc_vacu": "100"
+    },
+    {
+      "rbd": "8470",
+      "Nombre_comuna": "ESCUELA PUNTA DELGADA (RBD: 8470) - SAN GREGORIO",
+      "nom_region": "Magallanes",
+      "nivel_alu": "7° básico",
+      "porc_novacunados": "0",
+      "porc_vacuincom": "0",
+      "porc_vacu": "100"
+    },
+    {
+      "rbd": "8470",
+      "Nombre_comuna": "ESCUELA PUNTA DELGADA (RBD: 8470) - SAN GREGORIO",
+      "nom_region": "Magallanes",
+      "nivel_alu": "8° básico",
+      "porc_novacunados": "0",
+      "porc_vacuincom": "17",
+      "porc_vacu": "83"
+    },
+    {
+      "rbd": "8470",
+      "Nombre_comuna": "ESCUELA PUNTA DELGADA (RBD: 8470) - SAN GREGORIO",
+      "nom_region": "Magallanes",
+      "nivel_alu": "Kínder",
+      "porc_novacunados": "0",
+      "porc_vacuincom": "50",
+      "porc_vacu": "50"
+    },
+    {
+      "rbd": "8474",
+      "Nombre_comuna": "LICEO BICENTENARIO HERNANDO DE MAGALLANES (RBD: 8474) - PORVENIR",
+      "nom_region": "Magallanes",
+      "nivel_alu": "1° medio",
+      "porc_novacunados": "6",
+      "porc_vacuincom": "1",
+      "porc_vacu": "93"
+    },
+    {
+      "rbd": "8474",
+      "Nombre_comuna": "LICEO BICENTENARIO HERNANDO DE MAGALLANES (RBD: 8474) - PORVENIR",
+      "nom_region": "Magallanes",
+      "nivel_alu": "2° medio",
+      "porc_novacunados": "11",
+      "porc_vacuincom": "1",
+      "porc_vacu": "88"
+    },
+    {
+      "rbd": "8474",
+      "Nombre_comuna": "LICEO BICENTENARIO HERNANDO DE MAGALLANES (RBD: 8474) - PORVENIR",
+      "nom_region": "Magallanes",
+      "nivel_alu": "3° medio",
+      "porc_novacunados": "10",
+      "porc_vacuincom": "1",
+      "porc_vacu": "89"
+    },
+    {
+      "rbd": "8474",
+      "Nombre_comuna": "LICEO BICENTENARIO HERNANDO DE MAGALLANES (RBD: 8474) - PORVENIR",
+      "nom_region": "Magallanes",
+      "nivel_alu": "4° medio",
+      "porc_novacunados": "11",
+      "porc_vacuincom": "0",
+      "porc_vacu": "89"
+    },
+    {
+      "rbd": "8474",
+      "Nombre_comuna": "LICEO BICENTENARIO HERNANDO DE MAGALLANES (RBD: 8474) - PORVENIR",
+      "nom_region": "Magallanes",
+      "nivel_alu": "Educ. Adultos",
+      "porc_novacunados": "8",
+      "porc_vacuincom": "0",
+      "porc_vacu": "92"
+    },
+    {
+      "rbd": "8475",
+      "Nombre_comuna": "ESCUELA LIBERTADOR BDO. O´HIGGINS R. (RBD: 8475) - PORVENIR",
+      "nom_region": "Magallanes",
+      "nivel_alu": "1° básico",
+      "porc_novacunados": "19",
+      "porc_vacuincom": "14",
+      "porc_vacu": "67"
+    },
+    {
+      "rbd": "8475",
+      "Nombre_comuna": "ESCUELA LIBERTADOR BDO. O´HIGGINS R. (RBD: 8475) - PORVENIR",
+      "nom_region": "Magallanes",
+      "nivel_alu": "2° básico",
+      "porc_novacunados": "18",
+      "porc_vacuincom": "6",
+      "porc_vacu": "76"
+    },
+    {
+      "rbd": "8475",
+      "Nombre_comuna": "ESCUELA LIBERTADOR BDO. O´HIGGINS R. (RBD: 8475) - PORVENIR",
+      "nom_region": "Magallanes",
+      "nivel_alu": "3° básico",
+      "porc_novacunados": "9",
+      "porc_vacuincom": "9",
+      "porc_vacu": "82"
+    },
+    {
+      "rbd": "8475",
+      "Nombre_comuna": "ESCUELA LIBERTADOR BDO. O´HIGGINS R. (RBD: 8475) - PORVENIR",
+      "nom_region": "Magallanes",
+      "nivel_alu": "4° básico",
+      "porc_novacunados": "18",
+      "porc_vacuincom": "10",
+      "porc_vacu": "72"
+    },
+    {
+      "rbd": "8475",
+      "Nombre_comuna": "ESCUELA LIBERTADOR BDO. O´HIGGINS R. (RBD: 8475) - PORVENIR",
+      "nom_region": "Magallanes",
+      "nivel_alu": "5° básico",
+      "porc_novacunados": "13",
+      "porc_vacuincom": "2",
+      "porc_vacu": "85"
+    },
+    {
+      "rbd": "8475",
+      "Nombre_comuna": "ESCUELA LIBERTADOR BDO. O´HIGGINS R. (RBD: 8475) - PORVENIR",
+      "nom_region": "Magallanes",
+      "nivel_alu": "6° básico",
+      "porc_novacunados": "6",
+      "porc_vacuincom": "3",
+      "porc_vacu": "91"
+    },
+    {
+      "rbd": "8475",
+      "Nombre_comuna": "ESCUELA LIBERTADOR BDO. O´HIGGINS R. (RBD: 8475) - PORVENIR",
+      "nom_region": "Magallanes",
+      "nivel_alu": "7° básico",
+      "porc_novacunados": "11",
+      "porc_vacuincom": "2",
+      "porc_vacu": "87"
+    },
+    {
+      "rbd": "8475",
+      "Nombre_comuna": "ESCUELA LIBERTADOR BDO. O´HIGGINS R. (RBD: 8475) - PORVENIR",
+      "nom_region": "Magallanes",
+      "nivel_alu": "8° básico",
+      "porc_novacunados": "12",
+      "porc_vacuincom": "0",
+      "porc_vacu": "88"
+    },
+    {
+      "rbd": "8475",
+      "Nombre_comuna": "ESCUELA LIBERTADOR BDO. O´HIGGINS R. (RBD: 8475) - PORVENIR",
+      "nom_region": "Magallanes",
+      "nivel_alu": "Kínder",
+      "porc_novacunados": "19",
+      "porc_vacuincom": "13",
+      "porc_vacu": "68"
+    },
+    {
+      "rbd": "8475",
+      "Nombre_comuna": "ESCUELA LIBERTADOR BDO. O´HIGGINS R. (RBD: 8475) - PORVENIR",
+      "nom_region": "Magallanes",
+      "nivel_alu": "Prekínder",
+      "porc_novacunados": "30",
+      "porc_vacuincom": "11",
+      "porc_vacu": "59"
+    },
+    {
+      "rbd": "8479",
+      "Nombre_comuna": "ESCUELA CERRO SOMBRERO (RBD: 8479) - PRIMAVERA",
+      "nom_region": "Magallanes",
+      "nivel_alu": "1° básico",
+      "porc_novacunados": "33",
+      "porc_vacuincom": "17",
+      "porc_vacu": "50"
+    },
+    {
+      "rbd": "8479",
+      "Nombre_comuna": "ESCUELA CERRO SOMBRERO (RBD: 8479) - PRIMAVERA",
+      "nom_region": "Magallanes",
+      "nivel_alu": "2° básico",
+      "porc_novacunados": "30",
+      "porc_vacuincom": "0",
+      "porc_vacu": "70"
+    },
+    {
+      "rbd": "8479",
+      "Nombre_comuna": "ESCUELA CERRO SOMBRERO (RBD: 8479) - PRIMAVERA",
+      "nom_region": "Magallanes",
+      "nivel_alu": "3° básico",
+      "porc_novacunados": "14",
+      "porc_vacuincom": "0",
+      "porc_vacu": "86"
+    },
+    {
+      "rbd": "8479",
+      "Nombre_comuna": "ESCUELA CERRO SOMBRERO (RBD: 8479) - PRIMAVERA",
+      "nom_region": "Magallanes",
+      "nivel_alu": "4° básico",
+      "porc_novacunados": "0",
+      "porc_vacuincom": "0",
+      "porc_vacu": "100"
+    },
+    {
+      "rbd": "8479",
+      "Nombre_comuna": "ESCUELA CERRO SOMBRERO (RBD: 8479) - PRIMAVERA",
+      "nom_region": "Magallanes",
+      "nivel_alu": "5° básico",
+      "porc_novacunados": "0",
+      "porc_vacuincom": "11",
+      "porc_vacu": "89"
+    },
+    {
+      "rbd": "8479",
+      "Nombre_comuna": "ESCUELA CERRO SOMBRERO (RBD: 8479) - PRIMAVERA",
+      "nom_region": "Magallanes",
+      "nivel_alu": "6° básico",
+      "porc_novacunados": "0",
+      "porc_vacuincom": "0",
+      "porc_vacu": "100"
+    },
+    {
+      "rbd": "8479",
+      "Nombre_comuna": "ESCUELA CERRO SOMBRERO (RBD: 8479) - PRIMAVERA",
+      "nom_region": "Magallanes",
+      "nivel_alu": "7° básico",
+      "porc_novacunados": "0",
+      "porc_vacuincom": "0",
+      "porc_vacu": "100"
+    },
+    {
+      "rbd": "8479",
+      "Nombre_comuna": "ESCUELA CERRO SOMBRERO (RBD: 8479) - PRIMAVERA",
+      "nom_region": "Magallanes",
+      "nivel_alu": "8° básico",
+      "porc_novacunados": "0",
+      "porc_vacuincom": "0",
+      "porc_vacu": "100"
+    },
+    {
+      "rbd": "8479",
+      "Nombre_comuna": "ESCUELA CERRO SOMBRERO (RBD: 8479) - PRIMAVERA",
+      "nom_region": "Magallanes",
+      "nivel_alu": "Kínder",
+      "porc_novacunados": "0",
+      "porc_vacuincom": "0",
+      "porc_vacu": "100"
+    },
+    {
+      "rbd": "8479",
+      "Nombre_comuna": "ESCUELA CERRO SOMBRERO (RBD: 8479) - PRIMAVERA",
+      "nom_region": "Magallanes",
+      "nivel_alu": "Prekínder",
+      "porc_novacunados": "50",
+      "porc_vacuincom": "0",
+      "porc_vacu": "50"
+    },
+    {
+      "rbd": "8482",
+      "Nombre_comuna": "ESCUELA IGNACIO CARRERA PINTO (RBD: 8482) - TIMAUKEL",
+      "nom_region": "Magallanes",
+      "nivel_alu": "1° básico",
+      "porc_novacunados": "0",
+      "porc_vacuincom": "100",
+      "porc_vacu": "0"
+    },
+    {
+      "rbd": "8482",
+      "Nombre_comuna": "ESCUELA IGNACIO CARRERA PINTO (RBD: 8482) - TIMAUKEL",
+      "nom_region": "Magallanes",
+      "nivel_alu": "2° básico",
+      "porc_novacunados": "25",
+      "porc_vacuincom": "0",
+      "porc_vacu": "75"
+    },
+    {
+      "rbd": "8482",
+      "Nombre_comuna": "ESCUELA IGNACIO CARRERA PINTO (RBD: 8482) - TIMAUKEL",
+      "nom_region": "Magallanes",
+      "nivel_alu": "4° básico",
+      "porc_novacunados": "33",
+      "porc_vacuincom": "0",
+      "porc_vacu": "67"
+    },
+    {
+      "rbd": "8482",
+      "Nombre_comuna": "ESCUELA IGNACIO CARRERA PINTO (RBD: 8482) - TIMAUKEL",
+      "nom_region": "Magallanes",
+      "nivel_alu": "5° básico",
+      "porc_novacunados": "0",
+      "porc_vacuincom": "0",
+      "porc_vacu": "100"
+    },
+    {
+      "rbd": "8482",
+      "Nombre_comuna": "ESCUELA IGNACIO CARRERA PINTO (RBD: 8482) - TIMAUKEL",
+      "nom_region": "Magallanes",
+      "nivel_alu": "6° básico",
+      "porc_novacunados": "0",
+      "porc_vacuincom": "0",
+      "porc_vacu": "100"
+    },
+    {
+      "rbd": "8482",
+      "Nombre_comuna": "ESCUELA IGNACIO CARRERA PINTO (RBD: 8482) - TIMAUKEL",
+      "nom_region": "Magallanes",
+      "nivel_alu": "Kínder",
+      "porc_novacunados": "0",
+      "porc_vacuincom": "100",
+      "porc_vacu": "0"
+    },
+    {
+      "rbd": "8482",
+      "Nombre_comuna": "ESCUELA IGNACIO CARRERA PINTO (RBD: 8482) - TIMAUKEL",
+      "nom_region": "Magallanes",
+      "nivel_alu": "Prekínder",
+      "porc_novacunados": "100",
+      "porc_vacuincom": "0",
+      "porc_vacu": "0"
+    },
+    {
+      "rbd": "8483",
+      "Nombre_comuna": "LICEO BICENTENARIO DONALD MC-INTYRE GRIFFITHS (RBD: 8483) - CABO DE HORNOS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "1° básico",
+      "porc_novacunados": "7",
+      "porc_vacuincom": "10",
+      "porc_vacu": "83"
+    },
+    {
+      "rbd": "8483",
+      "Nombre_comuna": "LICEO BICENTENARIO DONALD MC-INTYRE GRIFFITHS (RBD: 8483) - CABO DE HORNOS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "1° medio",
+      "porc_novacunados": "0",
+      "porc_vacuincom": "5",
+      "porc_vacu": "95"
+    },
+    {
+      "rbd": "8483",
+      "Nombre_comuna": "LICEO BICENTENARIO DONALD MC-INTYRE GRIFFITHS (RBD: 8483) - CABO DE HORNOS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "2° básico",
+      "porc_novacunados": "4",
+      "porc_vacuincom": "0",
+      "porc_vacu": "96"
+    },
+    {
+      "rbd": "8483",
+      "Nombre_comuna": "LICEO BICENTENARIO DONALD MC-INTYRE GRIFFITHS (RBD: 8483) - CABO DE HORNOS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "2° medio",
+      "porc_novacunados": "11",
+      "porc_vacuincom": "0",
+      "porc_vacu": "89"
+    },
+    {
+      "rbd": "8483",
+      "Nombre_comuna": "LICEO BICENTENARIO DONALD MC-INTYRE GRIFFITHS (RBD: 8483) - CABO DE HORNOS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "3° básico",
+      "porc_novacunados": "0",
+      "porc_vacuincom": "0",
+      "porc_vacu": "100"
+    },
+    {
+      "rbd": "8483",
+      "Nombre_comuna": "LICEO BICENTENARIO DONALD MC-INTYRE GRIFFITHS (RBD: 8483) - CABO DE HORNOS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "3° medio",
+      "porc_novacunados": "23",
+      "porc_vacuincom": "0",
+      "porc_vacu": "77"
+    },
+    {
+      "rbd": "8483",
+      "Nombre_comuna": "LICEO BICENTENARIO DONALD MC-INTYRE GRIFFITHS (RBD: 8483) - CABO DE HORNOS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "4° básico",
+      "porc_novacunados": "7",
+      "porc_vacuincom": "4",
+      "porc_vacu": "89"
+    },
+    {
+      "rbd": "8483",
+      "Nombre_comuna": "LICEO BICENTENARIO DONALD MC-INTYRE GRIFFITHS (RBD: 8483) - CABO DE HORNOS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "4° medio",
+      "porc_novacunados": "12",
+      "porc_vacuincom": "0",
+      "porc_vacu": "88"
+    },
+    {
+      "rbd": "8483",
+      "Nombre_comuna": "LICEO BICENTENARIO DONALD MC-INTYRE GRIFFITHS (RBD: 8483) - CABO DE HORNOS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "5° básico",
+      "porc_novacunados": "3",
+      "porc_vacuincom": "0",
+      "porc_vacu": "97"
+    },
+    {
+      "rbd": "8483",
+      "Nombre_comuna": "LICEO BICENTENARIO DONALD MC-INTYRE GRIFFITHS (RBD: 8483) - CABO DE HORNOS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "6° básico",
+      "porc_novacunados": "9",
+      "porc_vacuincom": "3",
+      "porc_vacu": "88"
+    },
+    {
+      "rbd": "8483",
+      "Nombre_comuna": "LICEO BICENTENARIO DONALD MC-INTYRE GRIFFITHS (RBD: 8483) - CABO DE HORNOS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "7° básico",
+      "porc_novacunados": "10",
+      "porc_vacuincom": "0",
+      "porc_vacu": "90"
+    },
+    {
+      "rbd": "8483",
+      "Nombre_comuna": "LICEO BICENTENARIO DONALD MC-INTYRE GRIFFITHS (RBD: 8483) - CABO DE HORNOS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "8° básico",
+      "porc_novacunados": "3",
+      "porc_vacuincom": "0",
+      "porc_vacu": "97"
+    },
+    {
+      "rbd": "8483",
+      "Nombre_comuna": "LICEO BICENTENARIO DONALD MC-INTYRE GRIFFITHS (RBD: 8483) - CABO DE HORNOS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "Kínder",
+      "porc_novacunados": "14",
+      "porc_vacuincom": "14",
+      "porc_vacu": "72"
+    },
+    {
+      "rbd": "8483",
+      "Nombre_comuna": "LICEO BICENTENARIO DONALD MC-INTYRE GRIFFITHS (RBD: 8483) - CABO DE HORNOS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "Prekínder",
+      "porc_novacunados": "22",
+      "porc_vacuincom": "12",
+      "porc_vacu": "66"
+    },
+    {
+      "rbd": "8484",
+      "Nombre_comuna": "ESCUELA PUERTO TORO (RBD: 8484) - CABO DE HORNOS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "2° básico",
+      "porc_novacunados": "0",
+      "porc_vacuincom": "0",
+      "porc_vacu": "100"
+    },
+    {
+      "rbd": "8484",
+      "Nombre_comuna": "ESCUELA PUERTO TORO (RBD: 8484) - CABO DE HORNOS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "3° básico",
+      "porc_novacunados": "0",
+      "porc_vacuincom": "0",
+      "porc_vacu": "100"
+    },
+    {
+      "rbd": "8484",
+      "Nombre_comuna": "ESCUELA PUERTO TORO (RBD: 8484) - CABO DE HORNOS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "5° básico",
+      "porc_novacunados": "100",
+      "porc_vacuincom": "0",
+      "porc_vacu": "0"
+    },
+    {
+      "rbd": "8484",
+      "Nombre_comuna": "ESCUELA PUERTO TORO (RBD: 8484) - CABO DE HORNOS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "6° básico",
+      "porc_novacunados": "0",
+      "porc_vacuincom": "0",
+      "porc_vacu": "100"
+    },
+    {
+      "rbd": "11678",
+      "Nombre_comuna": "LICEO ADVENTISTA (RBD: 11678) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "1° básico",
+      "porc_novacunados": "23",
+      "porc_vacuincom": "10",
+      "porc_vacu": "67"
+    },
+    {
+      "rbd": "11678",
+      "Nombre_comuna": "LICEO ADVENTISTA (RBD: 11678) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "1° medio",
+      "porc_novacunados": "5",
+      "porc_vacuincom": "0",
+      "porc_vacu": "95"
+    },
+    {
+      "rbd": "11678",
+      "Nombre_comuna": "LICEO ADVENTISTA (RBD: 11678) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "2° básico",
+      "porc_novacunados": "7",
+      "porc_vacuincom": "3",
+      "porc_vacu": "90"
+    },
+    {
+      "rbd": "11678",
+      "Nombre_comuna": "LICEO ADVENTISTA (RBD: 11678) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "2° medio",
+      "porc_novacunados": "12",
+      "porc_vacuincom": "0",
+      "porc_vacu": "88"
+    },
+    {
+      "rbd": "11678",
+      "Nombre_comuna": "LICEO ADVENTISTA (RBD: 11678) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "3° básico",
+      "porc_novacunados": "5",
+      "porc_vacuincom": "5",
+      "porc_vacu": "90"
+    },
+    {
+      "rbd": "11678",
+      "Nombre_comuna": "LICEO ADVENTISTA (RBD: 11678) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "3° medio",
+      "porc_novacunados": "5",
+      "porc_vacuincom": "0",
+      "porc_vacu": "95"
+    },
+    {
+      "rbd": "11678",
+      "Nombre_comuna": "LICEO ADVENTISTA (RBD: 11678) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "4° básico",
+      "porc_novacunados": "15",
+      "porc_vacuincom": "0",
+      "porc_vacu": "85"
+    },
+    {
+      "rbd": "11678",
+      "Nombre_comuna": "LICEO ADVENTISTA (RBD: 11678) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "4° medio",
+      "porc_novacunados": "10",
+      "porc_vacuincom": "3",
+      "porc_vacu": "87"
+    },
+    {
+      "rbd": "11678",
+      "Nombre_comuna": "LICEO ADVENTISTA (RBD: 11678) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "5° básico",
+      "porc_novacunados": "8",
+      "porc_vacuincom": "5",
+      "porc_vacu": "87"
+    },
+    {
+      "rbd": "11678",
+      "Nombre_comuna": "LICEO ADVENTISTA (RBD: 11678) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "6° básico",
+      "porc_novacunados": "10",
+      "porc_vacuincom": "3",
+      "porc_vacu": "87"
+    },
+    {
+      "rbd": "11678",
+      "Nombre_comuna": "LICEO ADVENTISTA (RBD: 11678) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "7° básico",
+      "porc_novacunados": "10",
+      "porc_vacuincom": "0",
+      "porc_vacu": "90"
+    },
+    {
+      "rbd": "11678",
+      "Nombre_comuna": "LICEO ADVENTISTA (RBD: 11678) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "8° básico",
+      "porc_novacunados": "12",
+      "porc_vacuincom": "0",
+      "porc_vacu": "88"
+    },
+    {
+      "rbd": "11678",
+      "Nombre_comuna": "LICEO ADVENTISTA (RBD: 11678) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "Kínder",
+      "porc_novacunados": "34",
+      "porc_vacuincom": "9",
+      "porc_vacu": "57"
+    },
+    {
+      "rbd": "11678",
+      "Nombre_comuna": "LICEO ADVENTISTA (RBD: 11678) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "Prekínder",
+      "porc_novacunados": "33",
+      "porc_vacuincom": "14",
+      "porc_vacu": "53"
+    },
+    {
+      "rbd": "11680",
+      "Nombre_comuna": "COLEGIO CHARLES DARWIN (RBD: 11680) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "1° básico",
+      "porc_novacunados": "14",
+      "porc_vacuincom": "0",
+      "porc_vacu": "86"
+    },
+    {
+      "rbd": "11680",
+      "Nombre_comuna": "COLEGIO CHARLES DARWIN (RBD: 11680) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "1° medio",
+      "porc_novacunados": "7",
+      "porc_vacuincom": "0",
+      "porc_vacu": "93"
+    },
+    {
+      "rbd": "11680",
+      "Nombre_comuna": "COLEGIO CHARLES DARWIN (RBD: 11680) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "2° básico",
+      "porc_novacunados": "0",
+      "porc_vacuincom": "3",
+      "porc_vacu": "97"
+    },
+    {
+      "rbd": "11680",
+      "Nombre_comuna": "COLEGIO CHARLES DARWIN (RBD: 11680) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "2° medio",
+      "porc_novacunados": "9",
+      "porc_vacuincom": "0",
+      "porc_vacu": "91"
+    },
+    {
+      "rbd": "11680",
+      "Nombre_comuna": "COLEGIO CHARLES DARWIN (RBD: 11680) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "3° básico",
+      "porc_novacunados": "7",
+      "porc_vacuincom": "3",
+      "porc_vacu": "90"
+    },
+    {
+      "rbd": "11680",
+      "Nombre_comuna": "COLEGIO CHARLES DARWIN (RBD: 11680) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "3° medio",
+      "porc_novacunados": "3",
+      "porc_vacuincom": "0",
+      "porc_vacu": "97"
+    },
+    {
+      "rbd": "11680",
+      "Nombre_comuna": "COLEGIO CHARLES DARWIN (RBD: 11680) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "4° básico",
+      "porc_novacunados": "3",
+      "porc_vacuincom": "0",
+      "porc_vacu": "97"
+    },
+    {
+      "rbd": "11680",
+      "Nombre_comuna": "COLEGIO CHARLES DARWIN (RBD: 11680) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "4° medio",
+      "porc_novacunados": "0",
+      "porc_vacuincom": "0",
+      "porc_vacu": "100"
+    },
+    {
+      "rbd": "11680",
+      "Nombre_comuna": "COLEGIO CHARLES DARWIN (RBD: 11680) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "5° básico",
+      "porc_novacunados": "13",
+      "porc_vacuincom": "0",
+      "porc_vacu": "87"
+    },
+    {
+      "rbd": "11680",
+      "Nombre_comuna": "COLEGIO CHARLES DARWIN (RBD: 11680) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "6° básico",
+      "porc_novacunados": "5",
+      "porc_vacuincom": "0",
+      "porc_vacu": "95"
+    },
+    {
+      "rbd": "11680",
+      "Nombre_comuna": "COLEGIO CHARLES DARWIN (RBD: 11680) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "7° básico",
+      "porc_novacunados": "6",
+      "porc_vacuincom": "0",
+      "porc_vacu": "94"
+    },
+    {
+      "rbd": "11680",
+      "Nombre_comuna": "COLEGIO CHARLES DARWIN (RBD: 11680) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "8° básico",
+      "porc_novacunados": "3",
+      "porc_vacuincom": "0",
+      "porc_vacu": "97"
+    },
+    {
+      "rbd": "11680",
+      "Nombre_comuna": "COLEGIO CHARLES DARWIN (RBD: 11680) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "Kínder",
+      "porc_novacunados": "21",
+      "porc_vacuincom": "10",
+      "porc_vacu": "69"
+    },
+    {
+      "rbd": "11680",
+      "Nombre_comuna": "COLEGIO CHARLES DARWIN (RBD: 11680) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "Prekínder",
+      "porc_novacunados": "8",
+      "porc_vacuincom": "15",
+      "porc_vacu": "77"
+    },
+    {
+      "rbd": "11681",
+      "Nombre_comuna": "COLEGIO MIGUEL DE CERVANTES (RBD: 11681) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "1° básico",
+      "porc_novacunados": "1",
+      "porc_vacuincom": "3",
+      "porc_vacu": "96"
+    },
+    {
+      "rbd": "11681",
+      "Nombre_comuna": "COLEGIO MIGUEL DE CERVANTES (RBD: 11681) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "1° medio",
+      "porc_novacunados": "4",
+      "porc_vacuincom": "0",
+      "porc_vacu": "96"
+    },
+    {
+      "rbd": "11681",
+      "Nombre_comuna": "COLEGIO MIGUEL DE CERVANTES (RBD: 11681) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "2° básico",
+      "porc_novacunados": "5",
+      "porc_vacuincom": "0",
+      "porc_vacu": "95"
+    },
+    {
+      "rbd": "11681",
+      "Nombre_comuna": "COLEGIO MIGUEL DE CERVANTES (RBD: 11681) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "2° medio",
+      "porc_novacunados": "5",
+      "porc_vacuincom": "0",
+      "porc_vacu": "95"
+    },
+    {
+      "rbd": "11681",
+      "Nombre_comuna": "COLEGIO MIGUEL DE CERVANTES (RBD: 11681) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "3° básico",
+      "porc_novacunados": "2",
+      "porc_vacuincom": "3",
+      "porc_vacu": "95"
+    },
+    {
+      "rbd": "11681",
+      "Nombre_comuna": "COLEGIO MIGUEL DE CERVANTES (RBD: 11681) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "3° medio",
+      "porc_novacunados": "11",
+      "porc_vacuincom": "0",
+      "porc_vacu": "89"
+    },
+    {
+      "rbd": "11681",
+      "Nombre_comuna": "COLEGIO MIGUEL DE CERVANTES (RBD: 11681) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "4° básico",
+      "porc_novacunados": "4",
+      "porc_vacuincom": "0",
+      "porc_vacu": "96"
+    },
+    {
+      "rbd": "11681",
+      "Nombre_comuna": "COLEGIO MIGUEL DE CERVANTES (RBD: 11681) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "4° medio",
+      "porc_novacunados": "11",
+      "porc_vacuincom": "0",
+      "porc_vacu": "89"
+    },
+    {
+      "rbd": "11681",
+      "Nombre_comuna": "COLEGIO MIGUEL DE CERVANTES (RBD: 11681) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "5° básico",
+      "porc_novacunados": "3",
+      "porc_vacuincom": "0",
+      "porc_vacu": "97"
+    },
+    {
+      "rbd": "11681",
+      "Nombre_comuna": "COLEGIO MIGUEL DE CERVANTES (RBD: 11681) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "6° básico",
+      "porc_novacunados": "1",
+      "porc_vacuincom": "1",
+      "porc_vacu": "98"
+    },
+    {
+      "rbd": "11681",
+      "Nombre_comuna": "COLEGIO MIGUEL DE CERVANTES (RBD: 11681) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "7° básico",
+      "porc_novacunados": "3",
+      "porc_vacuincom": "0",
+      "porc_vacu": "97"
+    },
+    {
+      "rbd": "11681",
+      "Nombre_comuna": "COLEGIO MIGUEL DE CERVANTES (RBD: 11681) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "8° básico",
+      "porc_novacunados": "8",
+      "porc_vacuincom": "0",
+      "porc_vacu": "92"
+    },
+    {
+      "rbd": "11681",
+      "Nombre_comuna": "COLEGIO MIGUEL DE CERVANTES (RBD: 11681) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "Kínder",
+      "porc_novacunados": "10",
+      "porc_vacuincom": "12",
+      "porc_vacu": "78"
+    },
+    {
+      "rbd": "11681",
+      "Nombre_comuna": "COLEGIO MIGUEL DE CERVANTES (RBD: 11681) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "Prekínder",
+      "porc_novacunados": "12",
+      "porc_vacuincom": "11",
+      "porc_vacu": "77"
+    },
+    {
+      "rbd": "11687",
+      "Nombre_comuna": "ESCUELA REPUBLICA ARGENTINA (RBD: 11687) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "1° básico",
+      "porc_novacunados": "31",
+      "porc_vacuincom": "15",
+      "porc_vacu": "54"
+    },
+    {
+      "rbd": "11687",
+      "Nombre_comuna": "ESCUELA REPUBLICA ARGENTINA (RBD: 11687) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "2° básico",
+      "porc_novacunados": "19",
+      "porc_vacuincom": "25",
+      "porc_vacu": "56"
+    },
+    {
+      "rbd": "11687",
+      "Nombre_comuna": "ESCUELA REPUBLICA ARGENTINA (RBD: 11687) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "3° básico",
+      "porc_novacunados": "6",
+      "porc_vacuincom": "0",
+      "porc_vacu": "94"
+    },
+    {
+      "rbd": "11687",
+      "Nombre_comuna": "ESCUELA REPUBLICA ARGENTINA (RBD: 11687) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "4° básico",
+      "porc_novacunados": "10",
+      "porc_vacuincom": "14",
+      "porc_vacu": "76"
+    },
+    {
+      "rbd": "11687",
+      "Nombre_comuna": "ESCUELA REPUBLICA ARGENTINA (RBD: 11687) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "5° básico",
+      "porc_novacunados": "9",
+      "porc_vacuincom": "5",
+      "porc_vacu": "86"
+    },
+    {
+      "rbd": "11687",
+      "Nombre_comuna": "ESCUELA REPUBLICA ARGENTINA (RBD: 11687) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "6° básico",
+      "porc_novacunados": "11",
+      "porc_vacuincom": "7",
+      "porc_vacu": "82"
+    },
+    {
+      "rbd": "11687",
+      "Nombre_comuna": "ESCUELA REPUBLICA ARGENTINA (RBD: 11687) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "7° básico",
+      "porc_novacunados": "10",
+      "porc_vacuincom": "7",
+      "porc_vacu": "83"
+    },
+    {
+      "rbd": "11687",
+      "Nombre_comuna": "ESCUELA REPUBLICA ARGENTINA (RBD: 11687) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "8° básico",
+      "porc_novacunados": "19",
+      "porc_vacuincom": "0",
+      "porc_vacu": "81"
+    },
+    {
+      "rbd": "11687",
+      "Nombre_comuna": "ESCUELA REPUBLICA ARGENTINA (RBD: 11687) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "Kínder",
+      "porc_novacunados": "42",
+      "porc_vacuincom": "29",
+      "porc_vacu": "29"
+    },
+    {
+      "rbd": "11687",
+      "Nombre_comuna": "ESCUELA REPUBLICA ARGENTINA (RBD: 11687) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "Prekínder",
+      "porc_novacunados": "29",
+      "porc_vacuincom": "12",
+      "porc_vacu": "59"
+    },
+    {
+      "rbd": "16892",
+      "Nombre_comuna": "CENTRO DE ESTUDIO DE LA PATAGONIA (RBD: 16892) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "Educ. Adultos",
+      "porc_novacunados": "12",
+      "porc_vacuincom": "4",
+      "porc_vacu": "84"
+    },
+    {
+      "rbd": "16895",
+      "Nombre_comuna": "COLEGIO MARIA AUXILIADORA (RBD: 16895) - PORVENIR",
+      "nom_region": "Magallanes",
+      "nivel_alu": "1° básico",
+      "porc_novacunados": "19",
+      "porc_vacuincom": "3",
+      "porc_vacu": "78"
+    },
+    {
+      "rbd": "16895",
+      "Nombre_comuna": "COLEGIO MARIA AUXILIADORA (RBD: 16895) - PORVENIR",
+      "nom_region": "Magallanes",
+      "nivel_alu": "2° básico",
+      "porc_novacunados": "12",
+      "porc_vacuincom": "0",
+      "porc_vacu": "88"
+    },
+    {
+      "rbd": "16895",
+      "Nombre_comuna": "COLEGIO MARIA AUXILIADORA (RBD: 16895) - PORVENIR",
+      "nom_region": "Magallanes",
+      "nivel_alu": "3° básico",
+      "porc_novacunados": "4",
+      "porc_vacuincom": "4",
+      "porc_vacu": "92"
+    },
+    {
+      "rbd": "16895",
+      "Nombre_comuna": "COLEGIO MARIA AUXILIADORA (RBD: 16895) - PORVENIR",
+      "nom_region": "Magallanes",
+      "nivel_alu": "4° básico",
+      "porc_novacunados": "4",
+      "porc_vacuincom": "4",
+      "porc_vacu": "92"
+    },
+    {
+      "rbd": "16895",
+      "Nombre_comuna": "COLEGIO MARIA AUXILIADORA (RBD: 16895) - PORVENIR",
+      "nom_region": "Magallanes",
+      "nivel_alu": "5° básico",
+      "porc_novacunados": "9",
+      "porc_vacuincom": "0",
+      "porc_vacu": "91"
+    },
+    {
+      "rbd": "16895",
+      "Nombre_comuna": "COLEGIO MARIA AUXILIADORA (RBD: 16895) - PORVENIR",
+      "nom_region": "Magallanes",
+      "nivel_alu": "6° básico",
+      "porc_novacunados": "0",
+      "porc_vacuincom": "0",
+      "porc_vacu": "100"
+    },
+    {
+      "rbd": "16895",
+      "Nombre_comuna": "COLEGIO MARIA AUXILIADORA (RBD: 16895) - PORVENIR",
+      "nom_region": "Magallanes",
+      "nivel_alu": "7° básico",
+      "porc_novacunados": "5",
+      "porc_vacuincom": "0",
+      "porc_vacu": "95"
+    },
+    {
+      "rbd": "16895",
+      "Nombre_comuna": "COLEGIO MARIA AUXILIADORA (RBD: 16895) - PORVENIR",
+      "nom_region": "Magallanes",
+      "nivel_alu": "8° básico",
+      "porc_novacunados": "13",
+      "porc_vacuincom": "0",
+      "porc_vacu": "87"
+    },
+    {
+      "rbd": "16895",
+      "Nombre_comuna": "COLEGIO MARIA AUXILIADORA (RBD: 16895) - PORVENIR",
+      "nom_region": "Magallanes",
+      "nivel_alu": "Kínder",
+      "porc_novacunados": "15",
+      "porc_vacuincom": "4",
+      "porc_vacu": "81"
+    },
+    {
+      "rbd": "16895",
+      "Nombre_comuna": "COLEGIO MARIA AUXILIADORA (RBD: 16895) - PORVENIR",
+      "nom_region": "Magallanes",
+      "nivel_alu": "Prekínder",
+      "porc_novacunados": "25",
+      "porc_vacuincom": "25",
+      "porc_vacu": "50"
+    },
+    {
+      "rbd": "20327",
+      "Nombre_comuna": "ESCUELA ESPECIAL DE LENGUAJE `PASITOS` (RBD: 20327) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "Educ. Especial",
+      "porc_novacunados": "41",
+      "porc_vacuincom": "18",
+      "porc_vacu": "41"
+    },
+    {
+      "rbd": "24300",
+      "Nombre_comuna": "LICEO GABRIELA MISTRAL (RBD: 24300) - NATALES",
+      "nom_region": "Magallanes",
+      "nivel_alu": "1° medio",
+      "porc_novacunados": "7",
+      "porc_vacuincom": "3",
+      "porc_vacu": "90"
+    },
+    {
+      "rbd": "24300",
+      "Nombre_comuna": "LICEO GABRIELA MISTRAL (RBD: 24300) - NATALES",
+      "nom_region": "Magallanes",
+      "nivel_alu": "2° medio",
+      "porc_novacunados": "7",
+      "porc_vacuincom": "1",
+      "porc_vacu": "92"
+    },
+    {
+      "rbd": "24300",
+      "Nombre_comuna": "LICEO GABRIELA MISTRAL (RBD: 24300) - NATALES",
+      "nom_region": "Magallanes",
+      "nivel_alu": "3° medio",
+      "porc_novacunados": "10",
+      "porc_vacuincom": "0",
+      "porc_vacu": "90"
+    },
+    {
+      "rbd": "24300",
+      "Nombre_comuna": "LICEO GABRIELA MISTRAL (RBD: 24300) - NATALES",
+      "nom_region": "Magallanes",
+      "nivel_alu": "4° medio",
+      "porc_novacunados": "10",
+      "porc_vacuincom": "0",
+      "porc_vacu": "90"
+    },
+    {
+      "rbd": "24302",
+      "Nombre_comuna": "ESCUELA GENERAL MANUEL BULNES P. (RBD: 24302) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "1° básico",
+      "porc_novacunados": "29",
+      "porc_vacuincom": "12",
+      "porc_vacu": "59"
+    },
+    {
+      "rbd": "24302",
+      "Nombre_comuna": "ESCUELA GENERAL MANUEL BULNES P. (RBD: 24302) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "2° básico",
+      "porc_novacunados": "9",
+      "porc_vacuincom": "4",
+      "porc_vacu": "87"
+    },
+    {
+      "rbd": "24302",
+      "Nombre_comuna": "ESCUELA GENERAL MANUEL BULNES P. (RBD: 24302) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "3° básico",
+      "porc_novacunados": "17",
+      "porc_vacuincom": "14",
+      "porc_vacu": "69"
+    },
+    {
+      "rbd": "24302",
+      "Nombre_comuna": "ESCUELA GENERAL MANUEL BULNES P. (RBD: 24302) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "4° básico",
+      "porc_novacunados": "22",
+      "porc_vacuincom": "4",
+      "porc_vacu": "74"
+    },
+    {
+      "rbd": "24302",
+      "Nombre_comuna": "ESCUELA GENERAL MANUEL BULNES P. (RBD: 24302) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "5° básico",
+      "porc_novacunados": "20",
+      "porc_vacuincom": "10",
+      "porc_vacu": "70"
+    },
+    {
+      "rbd": "24302",
+      "Nombre_comuna": "ESCUELA GENERAL MANUEL BULNES P. (RBD: 24302) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "6° básico",
+      "porc_novacunados": "5",
+      "porc_vacuincom": "10",
+      "porc_vacu": "85"
+    },
+    {
+      "rbd": "24302",
+      "Nombre_comuna": "ESCUELA GENERAL MANUEL BULNES P. (RBD: 24302) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "7° básico",
+      "porc_novacunados": "8",
+      "porc_vacuincom": "0",
+      "porc_vacu": "92"
+    },
+    {
+      "rbd": "24302",
+      "Nombre_comuna": "ESCUELA GENERAL MANUEL BULNES P. (RBD: 24302) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "8° básico",
+      "porc_novacunados": "6",
+      "porc_vacuincom": "0",
+      "porc_vacu": "94"
+    },
+    {
+      "rbd": "24302",
+      "Nombre_comuna": "ESCUELA GENERAL MANUEL BULNES P. (RBD: 24302) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "Kínder",
+      "porc_novacunados": "33",
+      "porc_vacuincom": "17",
+      "porc_vacu": "50"
+    },
+    {
+      "rbd": "24302",
+      "Nombre_comuna": "ESCUELA GENERAL MANUEL BULNES P. (RBD: 24302) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "Prekínder",
+      "porc_novacunados": "27",
+      "porc_vacuincom": "15",
+      "porc_vacu": "58"
+    },
+    {
+      "rbd": "24303",
+      "Nombre_comuna": "LICEO NOBELIUS (RBD: 24303) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "1° básico",
+      "porc_novacunados": "16",
+      "porc_vacuincom": "6",
+      "porc_vacu": "78"
+    },
+    {
+      "rbd": "24303",
+      "Nombre_comuna": "LICEO NOBELIUS (RBD: 24303) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "1° medio",
+      "porc_novacunados": "0",
+      "porc_vacuincom": "0",
+      "porc_vacu": "100"
+    },
+    {
+      "rbd": "24303",
+      "Nombre_comuna": "LICEO NOBELIUS (RBD: 24303) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "2° básico",
+      "porc_novacunados": "8",
+      "porc_vacuincom": "0",
+      "porc_vacu": "92"
+    },
+    {
+      "rbd": "24303",
+      "Nombre_comuna": "LICEO NOBELIUS (RBD: 24303) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "2° medio",
+      "porc_novacunados": "2",
+      "porc_vacuincom": "0",
+      "porc_vacu": "98"
+    },
+    {
+      "rbd": "24303",
+      "Nombre_comuna": "LICEO NOBELIUS (RBD: 24303) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "3° básico",
+      "porc_novacunados": "7",
+      "porc_vacuincom": "7",
+      "porc_vacu": "86"
+    },
+    {
+      "rbd": "24303",
+      "Nombre_comuna": "LICEO NOBELIUS (RBD: 24303) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "3° medio",
+      "porc_novacunados": "8",
+      "porc_vacuincom": "0",
+      "porc_vacu": "92"
+    },
+    {
+      "rbd": "24303",
+      "Nombre_comuna": "LICEO NOBELIUS (RBD: 24303) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "4° básico",
+      "porc_novacunados": "9",
+      "porc_vacuincom": "0",
+      "porc_vacu": "91"
+    },
+    {
+      "rbd": "24303",
+      "Nombre_comuna": "LICEO NOBELIUS (RBD: 24303) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "4° medio",
+      "porc_novacunados": "10",
+      "porc_vacuincom": "0",
+      "porc_vacu": "90"
+    },
+    {
+      "rbd": "24303",
+      "Nombre_comuna": "LICEO NOBELIUS (RBD: 24303) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "5° básico",
+      "porc_novacunados": "21",
+      "porc_vacuincom": "0",
+      "porc_vacu": "79"
+    },
+    {
+      "rbd": "24303",
+      "Nombre_comuna": "LICEO NOBELIUS (RBD: 24303) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "6° básico",
+      "porc_novacunados": "2",
+      "porc_vacuincom": "0",
+      "porc_vacu": "98"
+    },
+    {
+      "rbd": "24303",
+      "Nombre_comuna": "LICEO NOBELIUS (RBD: 24303) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "7° básico",
+      "porc_novacunados": "4",
+      "porc_vacuincom": "0",
+      "porc_vacu": "96"
+    },
+    {
+      "rbd": "24303",
+      "Nombre_comuna": "LICEO NOBELIUS (RBD: 24303) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "8° básico",
+      "porc_novacunados": "14",
+      "porc_vacuincom": "0",
+      "porc_vacu": "86"
+    },
+    {
+      "rbd": "24305",
+      "Nombre_comuna": "COLEGIO PIERRE FAURE (RBD: 24305) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "1° básico",
+      "porc_novacunados": "16",
+      "porc_vacuincom": "10",
+      "porc_vacu": "74"
+    },
+    {
+      "rbd": "24305",
+      "Nombre_comuna": "COLEGIO PIERRE FAURE (RBD: 24305) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "1° medio",
+      "porc_novacunados": "8",
+      "porc_vacuincom": "0",
+      "porc_vacu": "92"
+    },
+    {
+      "rbd": "24305",
+      "Nombre_comuna": "COLEGIO PIERRE FAURE (RBD: 24305) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "2° básico",
+      "porc_novacunados": "12",
+      "porc_vacuincom": "2",
+      "porc_vacu": "86"
+    },
+    {
+      "rbd": "24305",
+      "Nombre_comuna": "COLEGIO PIERRE FAURE (RBD: 24305) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "2° medio",
+      "porc_novacunados": "5",
+      "porc_vacuincom": "0",
+      "porc_vacu": "95"
+    },
+    {
+      "rbd": "24305",
+      "Nombre_comuna": "COLEGIO PIERRE FAURE (RBD: 24305) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "3° básico",
+      "porc_novacunados": "10",
+      "porc_vacuincom": "2",
+      "porc_vacu": "88"
+    },
+    {
+      "rbd": "24305",
+      "Nombre_comuna": "COLEGIO PIERRE FAURE (RBD: 24305) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "3° medio",
+      "porc_novacunados": "8",
+      "porc_vacuincom": "0",
+      "porc_vacu": "92"
+    },
+    {
+      "rbd": "24305",
+      "Nombre_comuna": "COLEGIO PIERRE FAURE (RBD: 24305) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "4° básico",
+      "porc_novacunados": "7",
+      "porc_vacuincom": "7",
+      "porc_vacu": "86"
+    },
+    {
+      "rbd": "24305",
+      "Nombre_comuna": "COLEGIO PIERRE FAURE (RBD: 24305) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "4° medio",
+      "porc_novacunados": "15",
+      "porc_vacuincom": "3",
+      "porc_vacu": "82"
+    },
+    {
+      "rbd": "24305",
+      "Nombre_comuna": "COLEGIO PIERRE FAURE (RBD: 24305) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "5° básico",
+      "porc_novacunados": "9",
+      "porc_vacuincom": "5",
+      "porc_vacu": "86"
+    },
+    {
+      "rbd": "24305",
+      "Nombre_comuna": "COLEGIO PIERRE FAURE (RBD: 24305) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "6° básico",
+      "porc_novacunados": "0",
+      "porc_vacuincom": "2",
+      "porc_vacu": "98"
+    },
+    {
+      "rbd": "24305",
+      "Nombre_comuna": "COLEGIO PIERRE FAURE (RBD: 24305) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "7° básico",
+      "porc_novacunados": "5",
+      "porc_vacuincom": "0",
+      "porc_vacu": "95"
+    },
+    {
+      "rbd": "24305",
+      "Nombre_comuna": "COLEGIO PIERRE FAURE (RBD: 24305) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "8° básico",
+      "porc_novacunados": "10",
+      "porc_vacuincom": "0",
+      "porc_vacu": "90"
+    },
+    {
+      "rbd": "24305",
+      "Nombre_comuna": "COLEGIO PIERRE FAURE (RBD: 24305) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "Kínder",
+      "porc_novacunados": "20",
+      "porc_vacuincom": "6",
+      "porc_vacu": "74"
+    },
+    {
+      "rbd": "24305",
+      "Nombre_comuna": "COLEGIO PIERRE FAURE (RBD: 24305) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "Prekínder",
+      "porc_novacunados": "39",
+      "porc_vacuincom": "15",
+      "porc_vacu": "46"
+    },
+    {
+      "rbd": "24307",
+      "Nombre_comuna": "LICEO JUAN BAUTISTA CONTARDI (RBD: 24307) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "1° básico",
+      "porc_novacunados": "15",
+      "porc_vacuincom": "8",
+      "porc_vacu": "77"
+    },
+    {
+      "rbd": "24307",
+      "Nombre_comuna": "LICEO JUAN BAUTISTA CONTARDI (RBD: 24307) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "1° medio",
+      "porc_novacunados": "7",
+      "porc_vacuincom": "0",
+      "porc_vacu": "93"
+    },
+    {
+      "rbd": "24307",
+      "Nombre_comuna": "LICEO JUAN BAUTISTA CONTARDI (RBD: 24307) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "2° básico",
+      "porc_novacunados": "8",
+      "porc_vacuincom": "6",
+      "porc_vacu": "86"
+    },
+    {
+      "rbd": "24307",
+      "Nombre_comuna": "LICEO JUAN BAUTISTA CONTARDI (RBD: 24307) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "2° medio",
+      "porc_novacunados": "10",
+      "porc_vacuincom": "1",
+      "porc_vacu": "89"
+    },
+    {
+      "rbd": "24307",
+      "Nombre_comuna": "LICEO JUAN BAUTISTA CONTARDI (RBD: 24307) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "3° básico",
+      "porc_novacunados": "10",
+      "porc_vacuincom": "3",
+      "porc_vacu": "87"
+    },
+    {
+      "rbd": "24307",
+      "Nombre_comuna": "LICEO JUAN BAUTISTA CONTARDI (RBD: 24307) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "3° medio",
+      "porc_novacunados": "8",
+      "porc_vacuincom": "1",
+      "porc_vacu": "91"
+    },
+    {
+      "rbd": "24307",
+      "Nombre_comuna": "LICEO JUAN BAUTISTA CONTARDI (RBD: 24307) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "4° básico",
+      "porc_novacunados": "8",
+      "porc_vacuincom": "8",
+      "porc_vacu": "84"
+    },
+    {
+      "rbd": "24307",
+      "Nombre_comuna": "LICEO JUAN BAUTISTA CONTARDI (RBD: 24307) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "4° medio",
+      "porc_novacunados": "8",
+      "porc_vacuincom": "1",
+      "porc_vacu": "91"
+    },
+    {
+      "rbd": "24307",
+      "Nombre_comuna": "LICEO JUAN BAUTISTA CONTARDI (RBD: 24307) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "5° básico",
+      "porc_novacunados": "11",
+      "porc_vacuincom": "3",
+      "porc_vacu": "86"
+    },
+    {
+      "rbd": "24307",
+      "Nombre_comuna": "LICEO JUAN BAUTISTA CONTARDI (RBD: 24307) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "6° básico",
+      "porc_novacunados": "6",
+      "porc_vacuincom": "0",
+      "porc_vacu": "94"
+    },
+    {
+      "rbd": "24307",
+      "Nombre_comuna": "LICEO JUAN BAUTISTA CONTARDI (RBD: 24307) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "7° básico",
+      "porc_novacunados": "5",
+      "porc_vacuincom": "0",
+      "porc_vacu": "95"
+    },
+    {
+      "rbd": "24307",
+      "Nombre_comuna": "LICEO JUAN BAUTISTA CONTARDI (RBD: 24307) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "8° básico",
+      "porc_novacunados": "6",
+      "porc_vacuincom": "1",
+      "porc_vacu": "93"
+    },
+    {
+      "rbd": "24307",
+      "Nombre_comuna": "LICEO JUAN BAUTISTA CONTARDI (RBD: 24307) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "Kínder",
+      "porc_novacunados": "31",
+      "porc_vacuincom": "16",
+      "porc_vacu": "53"
+    },
+    {
+      "rbd": "24307",
+      "Nombre_comuna": "LICEO JUAN BAUTISTA CONTARDI (RBD: 24307) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "Prekínder",
+      "porc_novacunados": "26",
+      "porc_vacuincom": "16",
+      "porc_vacu": "58"
+    },
+    {
+      "rbd": "24311",
+      "Nombre_comuna": "COLEGIO FRANCES (RBD: 24311) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "1° básico",
+      "porc_novacunados": "27",
+      "porc_vacuincom": "4",
+      "porc_vacu": "69"
+    },
+    {
+      "rbd": "24311",
+      "Nombre_comuna": "COLEGIO FRANCES (RBD: 24311) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "2° básico",
+      "porc_novacunados": "15",
+      "porc_vacuincom": "11",
+      "porc_vacu": "74"
+    },
+    {
+      "rbd": "24311",
+      "Nombre_comuna": "COLEGIO FRANCES (RBD: 24311) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "3° básico",
+      "porc_novacunados": "21",
+      "porc_vacuincom": "4",
+      "porc_vacu": "75"
+    },
+    {
+      "rbd": "24311",
+      "Nombre_comuna": "COLEGIO FRANCES (RBD: 24311) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "4° básico",
+      "porc_novacunados": "20",
+      "porc_vacuincom": "8",
+      "porc_vacu": "72"
+    },
+    {
+      "rbd": "24311",
+      "Nombre_comuna": "COLEGIO FRANCES (RBD: 24311) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "5° básico",
+      "porc_novacunados": "33",
+      "porc_vacuincom": "7",
+      "porc_vacu": "60"
+    },
+    {
+      "rbd": "24311",
+      "Nombre_comuna": "COLEGIO FRANCES (RBD: 24311) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "6° básico",
+      "porc_novacunados": "7",
+      "porc_vacuincom": "5",
+      "porc_vacu": "88"
+    },
+    {
+      "rbd": "24311",
+      "Nombre_comuna": "COLEGIO FRANCES (RBD: 24311) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "7° básico",
+      "porc_novacunados": "14",
+      "porc_vacuincom": "3",
+      "porc_vacu": "83"
+    },
+    {
+      "rbd": "24311",
+      "Nombre_comuna": "COLEGIO FRANCES (RBD: 24311) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "8° básico",
+      "porc_novacunados": "10",
+      "porc_vacuincom": "3",
+      "porc_vacu": "87"
+    },
+    {
+      "rbd": "24311",
+      "Nombre_comuna": "COLEGIO FRANCES (RBD: 24311) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "Kínder",
+      "porc_novacunados": "42",
+      "porc_vacuincom": "8",
+      "porc_vacu": "50"
+    },
+    {
+      "rbd": "24311",
+      "Nombre_comuna": "COLEGIO FRANCES (RBD: 24311) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "Prekínder",
+      "porc_novacunados": "32",
+      "porc_vacuincom": "12",
+      "porc_vacu": "56"
+    },
+    {
+      "rbd": "24312",
+      "Nombre_comuna": "CENTRO DE CAPAC. LABORAL LEON HUMBERTO SEGUEL (RBD: 24312) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "Educ. Especial",
+      "porc_novacunados": "9",
+      "porc_vacuincom": "0",
+      "porc_vacu": "91"
+    },
+    {
+      "rbd": "24313",
+      "Nombre_comuna": "ESCUELA VILLA LAS NIEVES (RBD: 24313) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "1° básico",
+      "porc_novacunados": "14",
+      "porc_vacuincom": "7",
+      "porc_vacu": "79"
+    },
+    {
+      "rbd": "24313",
+      "Nombre_comuna": "ESCUELA VILLA LAS NIEVES (RBD: 24313) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "2° básico",
+      "porc_novacunados": "20",
+      "porc_vacuincom": "3",
+      "porc_vacu": "77"
+    },
+    {
+      "rbd": "24313",
+      "Nombre_comuna": "ESCUELA VILLA LAS NIEVES (RBD: 24313) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "3° básico",
+      "porc_novacunados": "15",
+      "porc_vacuincom": "6",
+      "porc_vacu": "79"
+    },
+    {
+      "rbd": "24313",
+      "Nombre_comuna": "ESCUELA VILLA LAS NIEVES (RBD: 24313) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "4° básico",
+      "porc_novacunados": "18",
+      "porc_vacuincom": "3",
+      "porc_vacu": "79"
+    },
+    {
+      "rbd": "24313",
+      "Nombre_comuna": "ESCUELA VILLA LAS NIEVES (RBD: 24313) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "5° básico",
+      "porc_novacunados": "20",
+      "porc_vacuincom": "3",
+      "porc_vacu": "77"
+    },
+    {
+      "rbd": "24313",
+      "Nombre_comuna": "ESCUELA VILLA LAS NIEVES (RBD: 24313) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "6° básico",
+      "porc_novacunados": "14",
+      "porc_vacuincom": "6",
+      "porc_vacu": "80"
+    },
+    {
+      "rbd": "24313",
+      "Nombre_comuna": "ESCUELA VILLA LAS NIEVES (RBD: 24313) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "7° básico",
+      "porc_novacunados": "9",
+      "porc_vacuincom": "0",
+      "porc_vacu": "91"
+    },
+    {
+      "rbd": "24313",
+      "Nombre_comuna": "ESCUELA VILLA LAS NIEVES (RBD: 24313) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "8° básico",
+      "porc_novacunados": "12",
+      "porc_vacuincom": "0",
+      "porc_vacu": "88"
+    },
+    {
+      "rbd": "24313",
+      "Nombre_comuna": "ESCUELA VILLA LAS NIEVES (RBD: 24313) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "Kínder",
+      "porc_novacunados": "27",
+      "porc_vacuincom": "15",
+      "porc_vacu": "58"
+    },
+    {
+      "rbd": "24313",
+      "Nombre_comuna": "ESCUELA VILLA LAS NIEVES (RBD: 24313) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "Prekínder",
+      "porc_novacunados": "27",
+      "porc_vacuincom": "15",
+      "porc_vacu": "58"
+    },
+    {
+      "rbd": "24314",
+      "Nombre_comuna": "COLEGIO CRUZ DEL SUR (RBD: 24314) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "1° básico",
+      "porc_novacunados": "13",
+      "porc_vacuincom": "2",
+      "porc_vacu": "85"
+    },
+    {
+      "rbd": "24314",
+      "Nombre_comuna": "COLEGIO CRUZ DEL SUR (RBD: 24314) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "1° medio",
+      "porc_novacunados": "18",
+      "porc_vacuincom": "0",
+      "porc_vacu": "82"
+    },
+    {
+      "rbd": "24314",
+      "Nombre_comuna": "COLEGIO CRUZ DEL SUR (RBD: 24314) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "2° básico",
+      "porc_novacunados": "3",
+      "porc_vacuincom": "6",
+      "porc_vacu": "91"
+    },
+    {
+      "rbd": "24314",
+      "Nombre_comuna": "COLEGIO CRUZ DEL SUR (RBD: 24314) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "2° medio",
+      "porc_novacunados": "10",
+      "porc_vacuincom": "0",
+      "porc_vacu": "90"
+    },
+    {
+      "rbd": "24314",
+      "Nombre_comuna": "COLEGIO CRUZ DEL SUR (RBD: 24314) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "3° básico",
+      "porc_novacunados": "5",
+      "porc_vacuincom": "2",
+      "porc_vacu": "93"
+    },
+    {
+      "rbd": "24314",
+      "Nombre_comuna": "COLEGIO CRUZ DEL SUR (RBD: 24314) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "3° medio",
+      "porc_novacunados": "10",
+      "porc_vacuincom": "0",
+      "porc_vacu": "90"
+    },
+    {
+      "rbd": "24314",
+      "Nombre_comuna": "COLEGIO CRUZ DEL SUR (RBD: 24314) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "4° básico",
+      "porc_novacunados": "7",
+      "porc_vacuincom": "3",
+      "porc_vacu": "90"
+    },
+    {
+      "rbd": "24314",
+      "Nombre_comuna": "COLEGIO CRUZ DEL SUR (RBD: 24314) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "4° medio",
+      "porc_novacunados": "7",
+      "porc_vacuincom": "7",
+      "porc_vacu": "86"
+    },
+    {
+      "rbd": "24314",
+      "Nombre_comuna": "COLEGIO CRUZ DEL SUR (RBD: 24314) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "5° básico",
+      "porc_novacunados": "0",
+      "porc_vacuincom": "3",
+      "porc_vacu": "97"
+    },
+    {
+      "rbd": "24314",
+      "Nombre_comuna": "COLEGIO CRUZ DEL SUR (RBD: 24314) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "6° básico",
+      "porc_novacunados": "8",
+      "porc_vacuincom": "0",
+      "porc_vacu": "92"
+    },
+    {
+      "rbd": "24314",
+      "Nombre_comuna": "COLEGIO CRUZ DEL SUR (RBD: 24314) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "7° básico",
+      "porc_novacunados": "3",
+      "porc_vacuincom": "0",
+      "porc_vacu": "97"
+    },
+    {
+      "rbd": "24314",
+      "Nombre_comuna": "COLEGIO CRUZ DEL SUR (RBD: 24314) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "8° básico",
+      "porc_novacunados": "10",
+      "porc_vacuincom": "0",
+      "porc_vacu": "90"
+    },
+    {
+      "rbd": "24314",
+      "Nombre_comuna": "COLEGIO CRUZ DEL SUR (RBD: 24314) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "Kínder",
+      "porc_novacunados": "16",
+      "porc_vacuincom": "6",
+      "porc_vacu": "78"
+    },
+    {
+      "rbd": "24314",
+      "Nombre_comuna": "COLEGIO CRUZ DEL SUR (RBD: 24314) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "Prekínder",
+      "porc_novacunados": "18",
+      "porc_vacuincom": "8",
+      "porc_vacu": "74"
+    },
+    {
+      "rbd": "24316",
+      "Nombre_comuna": "LICEO POLITEC.CARDENAL RAUL SILVA HENRIQUEZ (RBD: 24316) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "1° medio",
+      "porc_novacunados": "9",
+      "porc_vacuincom": "0",
+      "porc_vacu": "91"
+    },
+    {
+      "rbd": "24316",
+      "Nombre_comuna": "LICEO POLITEC.CARDENAL RAUL SILVA HENRIQUEZ (RBD: 24316) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "2° medio",
+      "porc_novacunados": "8",
+      "porc_vacuincom": "1",
+      "porc_vacu": "91"
+    },
+    {
+      "rbd": "24316",
+      "Nombre_comuna": "LICEO POLITEC.CARDENAL RAUL SILVA HENRIQUEZ (RBD: 24316) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "3° medio",
+      "porc_novacunados": "4",
+      "porc_vacuincom": "4",
+      "porc_vacu": "92"
+    },
+    {
+      "rbd": "24316",
+      "Nombre_comuna": "LICEO POLITEC.CARDENAL RAUL SILVA HENRIQUEZ (RBD: 24316) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "4° medio",
+      "porc_novacunados": "13",
+      "porc_vacuincom": "1",
+      "porc_vacu": "86"
+    },
+    {
+      "rbd": "24317",
+      "Nombre_comuna": "COLEGIO PUERTO NATALES (RBD: 24317) - NATALES",
+      "nom_region": "Magallanes",
+      "nivel_alu": "1° básico",
+      "porc_novacunados": "16",
+      "porc_vacuincom": "3",
+      "porc_vacu": "81"
+    },
+    {
+      "rbd": "24317",
+      "Nombre_comuna": "COLEGIO PUERTO NATALES (RBD: 24317) - NATALES",
+      "nom_region": "Magallanes",
+      "nivel_alu": "1° medio",
+      "porc_novacunados": "8",
+      "porc_vacuincom": "0",
+      "porc_vacu": "92"
+    },
+    {
+      "rbd": "24317",
+      "Nombre_comuna": "COLEGIO PUERTO NATALES (RBD: 24317) - NATALES",
+      "nom_region": "Magallanes",
+      "nivel_alu": "2° básico",
+      "porc_novacunados": "3",
+      "porc_vacuincom": "3",
+      "porc_vacu": "94"
+    },
+    {
+      "rbd": "24317",
+      "Nombre_comuna": "COLEGIO PUERTO NATALES (RBD: 24317) - NATALES",
+      "nom_region": "Magallanes",
+      "nivel_alu": "2° medio",
+      "porc_novacunados": "6",
+      "porc_vacuincom": "0",
+      "porc_vacu": "94"
+    },
+    {
+      "rbd": "24317",
+      "Nombre_comuna": "COLEGIO PUERTO NATALES (RBD: 24317) - NATALES",
+      "nom_region": "Magallanes",
+      "nivel_alu": "3° básico",
+      "porc_novacunados": "3",
+      "porc_vacuincom": "0",
+      "porc_vacu": "97"
+    },
+    {
+      "rbd": "24317",
+      "Nombre_comuna": "COLEGIO PUERTO NATALES (RBD: 24317) - NATALES",
+      "nom_region": "Magallanes",
+      "nivel_alu": "3° medio",
+      "porc_novacunados": "7",
+      "porc_vacuincom": "0",
+      "porc_vacu": "93"
+    },
+    {
+      "rbd": "24317",
+      "Nombre_comuna": "COLEGIO PUERTO NATALES (RBD: 24317) - NATALES",
+      "nom_region": "Magallanes",
+      "nivel_alu": "4° básico",
+      "porc_novacunados": "10",
+      "porc_vacuincom": "0",
+      "porc_vacu": "90"
+    },
+    {
+      "rbd": "24317",
+      "Nombre_comuna": "COLEGIO PUERTO NATALES (RBD: 24317) - NATALES",
+      "nom_region": "Magallanes",
+      "nivel_alu": "4° medio",
+      "porc_novacunados": "3",
+      "porc_vacuincom": "0",
+      "porc_vacu": "97"
+    },
+    {
+      "rbd": "24317",
+      "Nombre_comuna": "COLEGIO PUERTO NATALES (RBD: 24317) - NATALES",
+      "nom_region": "Magallanes",
+      "nivel_alu": "5° básico",
+      "porc_novacunados": "9",
+      "porc_vacuincom": "3",
+      "porc_vacu": "88"
+    },
+    {
+      "rbd": "24317",
+      "Nombre_comuna": "COLEGIO PUERTO NATALES (RBD: 24317) - NATALES",
+      "nom_region": "Magallanes",
+      "nivel_alu": "6° básico",
+      "porc_novacunados": "0",
+      "porc_vacuincom": "3",
+      "porc_vacu": "97"
+    },
+    {
+      "rbd": "24317",
+      "Nombre_comuna": "COLEGIO PUERTO NATALES (RBD: 24317) - NATALES",
+      "nom_region": "Magallanes",
+      "nivel_alu": "7° básico",
+      "porc_novacunados": "13",
+      "porc_vacuincom": "0",
+      "porc_vacu": "87"
+    },
+    {
+      "rbd": "24317",
+      "Nombre_comuna": "COLEGIO PUERTO NATALES (RBD: 24317) - NATALES",
+      "nom_region": "Magallanes",
+      "nivel_alu": "8° básico",
+      "porc_novacunados": "8",
+      "porc_vacuincom": "0",
+      "porc_vacu": "92"
+    },
+    {
+      "rbd": "24317",
+      "Nombre_comuna": "COLEGIO PUERTO NATALES (RBD: 24317) - NATALES",
+      "nom_region": "Magallanes",
+      "nivel_alu": "Kínder",
+      "porc_novacunados": "4",
+      "porc_vacuincom": "14",
+      "porc_vacu": "82"
+    },
+    {
+      "rbd": "24317",
+      "Nombre_comuna": "COLEGIO PUERTO NATALES (RBD: 24317) - NATALES",
+      "nom_region": "Magallanes",
+      "nivel_alu": "Prekínder",
+      "porc_novacunados": "15",
+      "porc_vacuincom": "19",
+      "porc_vacu": "66"
+    },
+    {
+      "rbd": "24318",
+      "Nombre_comuna": "ESCUELA PADRE ALBERTO HURTADO CRUCHAGA (RBD: 24318) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "1° básico",
+      "porc_novacunados": "16",
+      "porc_vacuincom": "10",
+      "porc_vacu": "74"
+    },
+    {
+      "rbd": "24318",
+      "Nombre_comuna": "ESCUELA PADRE ALBERTO HURTADO CRUCHAGA (RBD: 24318) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "2° básico",
+      "porc_novacunados": "17",
+      "porc_vacuincom": "7",
+      "porc_vacu": "76"
+    },
+    {
+      "rbd": "24318",
+      "Nombre_comuna": "ESCUELA PADRE ALBERTO HURTADO CRUCHAGA (RBD: 24318) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "3° básico",
+      "porc_novacunados": "14",
+      "porc_vacuincom": "10",
+      "porc_vacu": "76"
+    },
+    {
+      "rbd": "24318",
+      "Nombre_comuna": "ESCUELA PADRE ALBERTO HURTADO CRUCHAGA (RBD: 24318) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "4° básico",
+      "porc_novacunados": "14",
+      "porc_vacuincom": "5",
+      "porc_vacu": "81"
+    },
+    {
+      "rbd": "24318",
+      "Nombre_comuna": "ESCUELA PADRE ALBERTO HURTADO CRUCHAGA (RBD: 24318) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "5° básico",
+      "porc_novacunados": "19",
+      "porc_vacuincom": "2",
+      "porc_vacu": "79"
+    },
+    {
+      "rbd": "24318",
+      "Nombre_comuna": "ESCUELA PADRE ALBERTO HURTADO CRUCHAGA (RBD: 24318) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "6° básico",
+      "porc_novacunados": "13",
+      "porc_vacuincom": "5",
+      "porc_vacu": "82"
+    },
+    {
+      "rbd": "24318",
+      "Nombre_comuna": "ESCUELA PADRE ALBERTO HURTADO CRUCHAGA (RBD: 24318) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "7° básico",
+      "porc_novacunados": "3",
+      "porc_vacuincom": "2",
+      "porc_vacu": "95"
+    },
+    {
+      "rbd": "24318",
+      "Nombre_comuna": "ESCUELA PADRE ALBERTO HURTADO CRUCHAGA (RBD: 24318) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "8° básico",
+      "porc_novacunados": "7",
+      "porc_vacuincom": "0",
+      "porc_vacu": "93"
+    },
+    {
+      "rbd": "24318",
+      "Nombre_comuna": "ESCUELA PADRE ALBERTO HURTADO CRUCHAGA (RBD: 24318) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "Kínder",
+      "porc_novacunados": "29",
+      "porc_vacuincom": "23",
+      "porc_vacu": "48"
+    },
+    {
+      "rbd": "24318",
+      "Nombre_comuna": "ESCUELA PADRE ALBERTO HURTADO CRUCHAGA (RBD: 24318) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "Prekínder",
+      "porc_novacunados": "38",
+      "porc_vacuincom": "21",
+      "porc_vacu": "41"
+    },
+    {
+      "rbd": "24319",
+      "Nombre_comuna": "COLEGIO PUNTA ARENAS (RBD: 24319) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "1° básico",
+      "porc_novacunados": "3",
+      "porc_vacuincom": "9",
+      "porc_vacu": "88"
+    },
+    {
+      "rbd": "24319",
+      "Nombre_comuna": "COLEGIO PUNTA ARENAS (RBD: 24319) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "1° medio",
+      "porc_novacunados": "11",
+      "porc_vacuincom": "0",
+      "porc_vacu": "89"
+    },
+    {
+      "rbd": "24319",
+      "Nombre_comuna": "COLEGIO PUNTA ARENAS (RBD: 24319) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "2° básico",
+      "porc_novacunados": "3",
+      "porc_vacuincom": "6",
+      "porc_vacu": "91"
+    },
+    {
+      "rbd": "24319",
+      "Nombre_comuna": "COLEGIO PUNTA ARENAS (RBD: 24319) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "2° medio",
+      "porc_novacunados": "4",
+      "porc_vacuincom": "0",
+      "porc_vacu": "96"
+    },
+    {
+      "rbd": "24319",
+      "Nombre_comuna": "COLEGIO PUNTA ARENAS (RBD: 24319) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "3° básico",
+      "porc_novacunados": "9",
+      "porc_vacuincom": "3",
+      "porc_vacu": "88"
+    },
+    {
+      "rbd": "24319",
+      "Nombre_comuna": "COLEGIO PUNTA ARENAS (RBD: 24319) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "3° medio",
+      "porc_novacunados": "0",
+      "porc_vacuincom": "0",
+      "porc_vacu": "100"
+    },
+    {
+      "rbd": "24319",
+      "Nombre_comuna": "COLEGIO PUNTA ARENAS (RBD: 24319) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "4° básico",
+      "porc_novacunados": "7",
+      "porc_vacuincom": "4",
+      "porc_vacu": "89"
+    },
+    {
+      "rbd": "24319",
+      "Nombre_comuna": "COLEGIO PUNTA ARENAS (RBD: 24319) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "4° medio",
+      "porc_novacunados": "3",
+      "porc_vacuincom": "0",
+      "porc_vacu": "97"
+    },
+    {
+      "rbd": "24319",
+      "Nombre_comuna": "COLEGIO PUNTA ARENAS (RBD: 24319) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "5° básico",
+      "porc_novacunados": "3",
+      "porc_vacuincom": "3",
+      "porc_vacu": "94"
+    },
+    {
+      "rbd": "24319",
+      "Nombre_comuna": "COLEGIO PUNTA ARENAS (RBD: 24319) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "6° básico",
+      "porc_novacunados": "0",
+      "porc_vacuincom": "0",
+      "porc_vacu": "100"
+    },
+    {
+      "rbd": "24319",
+      "Nombre_comuna": "COLEGIO PUNTA ARENAS (RBD: 24319) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "7° básico",
+      "porc_novacunados": "9",
+      "porc_vacuincom": "0",
+      "porc_vacu": "91"
+    },
+    {
+      "rbd": "24319",
+      "Nombre_comuna": "COLEGIO PUNTA ARENAS (RBD: 24319) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "8° básico",
+      "porc_novacunados": "4",
+      "porc_vacuincom": "0",
+      "porc_vacu": "96"
+    },
+    {
+      "rbd": "24319",
+      "Nombre_comuna": "COLEGIO PUNTA ARENAS (RBD: 24319) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "Kínder",
+      "porc_novacunados": "4",
+      "porc_vacuincom": "19",
+      "porc_vacu": "77"
+    },
+    {
+      "rbd": "24319",
+      "Nombre_comuna": "COLEGIO PUNTA ARENAS (RBD: 24319) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "Prekínder",
+      "porc_novacunados": "8",
+      "porc_vacuincom": "16",
+      "porc_vacu": "76"
+    },
+    {
+      "rbd": "24320",
+      "Nombre_comuna": "TALLER LABORAL DE UNPADE (RBD: 24320) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "Educ. Especial",
+      "porc_novacunados": "12",
+      "porc_vacuincom": "12",
+      "porc_vacu": "76"
+    },
+    {
+      "rbd": "24321",
+      "Nombre_comuna": "ESCUELA ESPECIAL CLUB DE LEONES CRUZ DEL SUR (RBD: 24321) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "Educ. Especial",
+      "porc_novacunados": "29",
+      "porc_vacuincom": "8",
+      "porc_vacu": "63"
+    },
+    {
+      "rbd": "24322",
+      "Nombre_comuna": "ESCUELA BASICA RURAL SENO OBSTRUCCION (RBD: 24322) - NATALES",
+      "nom_region": "Magallanes",
+      "nivel_alu": "1° básico",
+      "porc_novacunados": "0",
+      "porc_vacuincom": "0",
+      "porc_vacu": "100"
+    },
+    {
+      "rbd": "24322",
+      "Nombre_comuna": "ESCUELA BASICA RURAL SENO OBSTRUCCION (RBD: 24322) - NATALES",
+      "nom_region": "Magallanes",
+      "nivel_alu": "2° básico",
+      "porc_novacunados": "0",
+      "porc_vacuincom": "0",
+      "porc_vacu": "100"
+    },
+    {
+      "rbd": "24322",
+      "Nombre_comuna": "ESCUELA BASICA RURAL SENO OBSTRUCCION (RBD: 24322) - NATALES",
+      "nom_region": "Magallanes",
+      "nivel_alu": "3° básico",
+      "porc_novacunados": "0",
+      "porc_vacuincom": "0",
+      "porc_vacu": "100"
+    },
+    {
+      "rbd": "24322",
+      "Nombre_comuna": "ESCUELA BASICA RURAL SENO OBSTRUCCION (RBD: 24322) - NATALES",
+      "nom_region": "Magallanes",
+      "nivel_alu": "5° básico",
+      "porc_novacunados": "100",
+      "porc_vacuincom": "0",
+      "porc_vacu": "0"
+    },
+    {
+      "rbd": "24322",
+      "Nombre_comuna": "ESCUELA BASICA RURAL SENO OBSTRUCCION (RBD: 24322) - NATALES",
+      "nom_region": "Magallanes",
+      "nivel_alu": "6° básico",
+      "porc_novacunados": "0",
+      "porc_vacuincom": "0",
+      "porc_vacu": "100"
+    },
+    {
+      "rbd": "24322",
+      "Nombre_comuna": "ESCUELA BASICA RURAL SENO OBSTRUCCION (RBD: 24322) - NATALES",
+      "nom_region": "Magallanes",
+      "nivel_alu": "7° básico",
+      "porc_novacunados": "50",
+      "porc_vacuincom": "0",
+      "porc_vacu": "50"
+    },
+    {
+      "rbd": "24324",
+      "Nombre_comuna": "GREEN HILL COLLEGE (RBD: 24324) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "1° básico",
+      "porc_novacunados": "15",
+      "porc_vacuincom": "8",
+      "porc_vacu": "77"
+    },
+    {
+      "rbd": "24324",
+      "Nombre_comuna": "GREEN HILL COLLEGE (RBD: 24324) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "1° medio",
+      "porc_novacunados": "8",
+      "porc_vacuincom": "8",
+      "porc_vacu": "84"
+    },
+    {
+      "rbd": "24324",
+      "Nombre_comuna": "GREEN HILL COLLEGE (RBD: 24324) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "2° básico",
+      "porc_novacunados": "9",
+      "porc_vacuincom": "5",
+      "porc_vacu": "86"
+    },
+    {
+      "rbd": "24324",
+      "Nombre_comuna": "GREEN HILL COLLEGE (RBD: 24324) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "2° medio",
+      "porc_novacunados": "0",
+      "porc_vacuincom": "0",
+      "porc_vacu": "100"
+    },
+    {
+      "rbd": "24324",
+      "Nombre_comuna": "GREEN HILL COLLEGE (RBD: 24324) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "3° básico",
+      "porc_novacunados": "11",
+      "porc_vacuincom": "4",
+      "porc_vacu": "85"
+    },
+    {
+      "rbd": "24324",
+      "Nombre_comuna": "GREEN HILL COLLEGE (RBD: 24324) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "3° medio",
+      "porc_novacunados": "15",
+      "porc_vacuincom": "8",
+      "porc_vacu": "77"
+    },
+    {
+      "rbd": "24324",
+      "Nombre_comuna": "GREEN HILL COLLEGE (RBD: 24324) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "4° básico",
+      "porc_novacunados": "5",
+      "porc_vacuincom": "10",
+      "porc_vacu": "85"
+    },
+    {
+      "rbd": "24324",
+      "Nombre_comuna": "GREEN HILL COLLEGE (RBD: 24324) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "4° medio",
+      "porc_novacunados": "0",
+      "porc_vacuincom": "0",
+      "porc_vacu": "100"
+    },
+    {
+      "rbd": "24324",
+      "Nombre_comuna": "GREEN HILL COLLEGE (RBD: 24324) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "5° básico",
+      "porc_novacunados": "8",
+      "porc_vacuincom": "8",
+      "porc_vacu": "84"
+    },
+    {
+      "rbd": "24324",
+      "Nombre_comuna": "GREEN HILL COLLEGE (RBD: 24324) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "6° básico",
+      "porc_novacunados": "6",
+      "porc_vacuincom": "6",
+      "porc_vacu": "88"
+    },
+    {
+      "rbd": "24324",
+      "Nombre_comuna": "GREEN HILL COLLEGE (RBD: 24324) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "7° básico",
+      "porc_novacunados": "0",
+      "porc_vacuincom": "6",
+      "porc_vacu": "94"
+    },
+    {
+      "rbd": "24324",
+      "Nombre_comuna": "GREEN HILL COLLEGE (RBD: 24324) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "8° básico",
+      "porc_novacunados": "4",
+      "porc_vacuincom": "0",
+      "porc_vacu": "96"
+    },
+    {
+      "rbd": "24325",
+      "Nombre_comuna": "ESCUELA RURAL CERRO GUIDO (RBD: 24325) - TORRES DEL PAINE",
+      "nom_region": "Magallanes",
+      "nivel_alu": "1° básico",
+      "porc_novacunados": "0",
+      "porc_vacuincom": "0",
+      "porc_vacu": "100"
+    },
+    {
+      "rbd": "24325",
+      "Nombre_comuna": "ESCUELA RURAL CERRO GUIDO (RBD: 24325) - TORRES DEL PAINE",
+      "nom_region": "Magallanes",
+      "nivel_alu": "2° básico",
+      "porc_novacunados": "0",
+      "porc_vacuincom": "0",
+      "porc_vacu": "100"
+    },
+    {
+      "rbd": "24325",
+      "Nombre_comuna": "ESCUELA RURAL CERRO GUIDO (RBD: 24325) - TORRES DEL PAINE",
+      "nom_region": "Magallanes",
+      "nivel_alu": "3° básico",
+      "porc_novacunados": "0",
+      "porc_vacuincom": "0",
+      "porc_vacu": "100"
+    },
+    {
+      "rbd": "24325",
+      "Nombre_comuna": "ESCUELA RURAL CERRO GUIDO (RBD: 24325) - TORRES DEL PAINE",
+      "nom_region": "Magallanes",
+      "nivel_alu": "4° básico",
+      "porc_novacunados": "0",
+      "porc_vacuincom": "0",
+      "porc_vacu": "100"
+    },
+    {
+      "rbd": "24325",
+      "Nombre_comuna": "ESCUELA RURAL CERRO GUIDO (RBD: 24325) - TORRES DEL PAINE",
+      "nom_region": "Magallanes",
+      "nivel_alu": "5° básico",
+      "porc_novacunados": "0",
+      "porc_vacuincom": "0",
+      "porc_vacu": "100"
+    },
+    {
+      "rbd": "24325",
+      "Nombre_comuna": "ESCUELA RURAL CERRO GUIDO (RBD: 24325) - TORRES DEL PAINE",
+      "nom_region": "Magallanes",
+      "nivel_alu": "7° básico",
+      "porc_novacunados": "0",
+      "porc_vacuincom": "0",
+      "porc_vacu": "100"
+    },
+    {
+      "rbd": "24327",
+      "Nombre_comuna": "LICEO EXPERIMENTAL UMAG (RBD: 24327) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "1° básico",
+      "porc_novacunados": "20",
+      "porc_vacuincom": "6",
+      "porc_vacu": "74"
+    },
+    {
+      "rbd": "24327",
+      "Nombre_comuna": "LICEO EXPERIMENTAL UMAG (RBD: 24327) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "1° medio",
+      "porc_novacunados": "9",
+      "porc_vacuincom": "3",
+      "porc_vacu": "88"
+    },
+    {
+      "rbd": "24327",
+      "Nombre_comuna": "LICEO EXPERIMENTAL UMAG (RBD: 24327) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "2° básico",
+      "porc_novacunados": "6",
+      "porc_vacuincom": "10",
+      "porc_vacu": "84"
+    },
+    {
+      "rbd": "24327",
+      "Nombre_comuna": "LICEO EXPERIMENTAL UMAG (RBD: 24327) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "2° medio",
+      "porc_novacunados": "3",
+      "porc_vacuincom": "0",
+      "porc_vacu": "97"
+    },
+    {
+      "rbd": "24327",
+      "Nombre_comuna": "LICEO EXPERIMENTAL UMAG (RBD: 24327) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "3° básico",
+      "porc_novacunados": "4",
+      "porc_vacuincom": "4",
+      "porc_vacu": "92"
+    },
+    {
+      "rbd": "24327",
+      "Nombre_comuna": "LICEO EXPERIMENTAL UMAG (RBD: 24327) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "3° medio",
+      "porc_novacunados": "7",
+      "porc_vacuincom": "0",
+      "porc_vacu": "93"
+    },
+    {
+      "rbd": "24327",
+      "Nombre_comuna": "LICEO EXPERIMENTAL UMAG (RBD: 24327) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "4° básico",
+      "porc_novacunados": "14",
+      "porc_vacuincom": "2",
+      "porc_vacu": "84"
+    },
+    {
+      "rbd": "24327",
+      "Nombre_comuna": "LICEO EXPERIMENTAL UMAG (RBD: 24327) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "4° medio",
+      "porc_novacunados": "10",
+      "porc_vacuincom": "0",
+      "porc_vacu": "90"
+    },
+    {
+      "rbd": "24327",
+      "Nombre_comuna": "LICEO EXPERIMENTAL UMAG (RBD: 24327) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "5° básico",
+      "porc_novacunados": "12",
+      "porc_vacuincom": "2",
+      "porc_vacu": "86"
+    },
+    {
+      "rbd": "24327",
+      "Nombre_comuna": "LICEO EXPERIMENTAL UMAG (RBD: 24327) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "6° básico",
+      "porc_novacunados": "6",
+      "porc_vacuincom": "2",
+      "porc_vacu": "92"
+    },
+    {
+      "rbd": "24327",
+      "Nombre_comuna": "LICEO EXPERIMENTAL UMAG (RBD: 24327) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "7° básico",
+      "porc_novacunados": "6",
+      "porc_vacuincom": "2",
+      "porc_vacu": "92"
+    },
+    {
+      "rbd": "24327",
+      "Nombre_comuna": "LICEO EXPERIMENTAL UMAG (RBD: 24327) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "8° básico",
+      "porc_novacunados": "12",
+      "porc_vacuincom": "0",
+      "porc_vacu": "88"
+    },
+    {
+      "rbd": "24327",
+      "Nombre_comuna": "LICEO EXPERIMENTAL UMAG (RBD: 24327) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "Kínder",
+      "porc_novacunados": "26",
+      "porc_vacuincom": "12",
+      "porc_vacu": "62"
+    },
+    {
+      "rbd": "24327",
+      "Nombre_comuna": "LICEO EXPERIMENTAL UMAG (RBD: 24327) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "Prekínder",
+      "porc_novacunados": "44",
+      "porc_vacuincom": "21",
+      "porc_vacu": "35"
+    },
+    {
+      "rbd": "24329",
+      "Nombre_comuna": "LICEO SAN JOSE (RBD: 24329) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "1° básico",
+      "porc_novacunados": "8",
+      "porc_vacuincom": "16",
+      "porc_vacu": "76"
+    },
+    {
+      "rbd": "24329",
+      "Nombre_comuna": "LICEO SAN JOSE (RBD: 24329) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "1° medio",
+      "porc_novacunados": "9",
+      "porc_vacuincom": "0",
+      "porc_vacu": "91"
+    },
+    {
+      "rbd": "24329",
+      "Nombre_comuna": "LICEO SAN JOSE (RBD: 24329) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "2° básico",
+      "porc_novacunados": "4",
+      "porc_vacuincom": "1",
+      "porc_vacu": "95"
+    },
+    {
+      "rbd": "24329",
+      "Nombre_comuna": "LICEO SAN JOSE (RBD: 24329) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "2° medio",
+      "porc_novacunados": "6",
+      "porc_vacuincom": "1",
+      "porc_vacu": "93"
+    },
+    {
+      "rbd": "24329",
+      "Nombre_comuna": "LICEO SAN JOSE (RBD: 24329) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "3° básico",
+      "porc_novacunados": "9",
+      "porc_vacuincom": "5",
+      "porc_vacu": "86"
+    },
+    {
+      "rbd": "24329",
+      "Nombre_comuna": "LICEO SAN JOSE (RBD: 24329) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "3° medio",
+      "porc_novacunados": "10",
+      "porc_vacuincom": "0",
+      "porc_vacu": "90"
+    },
+    {
+      "rbd": "24329",
+      "Nombre_comuna": "LICEO SAN JOSE (RBD: 24329) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "4° básico",
+      "porc_novacunados": "2",
+      "porc_vacuincom": "4",
+      "porc_vacu": "94"
+    },
+    {
+      "rbd": "24329",
+      "Nombre_comuna": "LICEO SAN JOSE (RBD: 24329) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "4° medio",
+      "porc_novacunados": "5",
+      "porc_vacuincom": "0",
+      "porc_vacu": "95"
+    },
+    {
+      "rbd": "24329",
+      "Nombre_comuna": "LICEO SAN JOSE (RBD: 24329) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "5° básico",
+      "porc_novacunados": "11",
+      "porc_vacuincom": "3",
+      "porc_vacu": "86"
+    },
+    {
+      "rbd": "24329",
+      "Nombre_comuna": "LICEO SAN JOSE (RBD: 24329) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "6° básico",
+      "porc_novacunados": "7",
+      "porc_vacuincom": "1",
+      "porc_vacu": "92"
+    },
+    {
+      "rbd": "24329",
+      "Nombre_comuna": "LICEO SAN JOSE (RBD: 24329) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "7° básico",
+      "porc_novacunados": "6",
+      "porc_vacuincom": "0",
+      "porc_vacu": "94"
+    },
+    {
+      "rbd": "24329",
+      "Nombre_comuna": "LICEO SAN JOSE (RBD: 24329) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "8° básico",
+      "porc_novacunados": "8",
+      "porc_vacuincom": "0",
+      "porc_vacu": "92"
+    },
+    {
+      "rbd": "24329",
+      "Nombre_comuna": "LICEO SAN JOSE (RBD: 24329) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "Kínder",
+      "porc_novacunados": "24",
+      "porc_vacuincom": "22",
+      "porc_vacu": "54"
+    },
+    {
+      "rbd": "24329",
+      "Nombre_comuna": "LICEO SAN JOSE (RBD: 24329) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "Prekínder",
+      "porc_novacunados": "27",
+      "porc_vacuincom": "17",
+      "porc_vacu": "56"
+    },
+    {
+      "rbd": "24330",
+      "Nombre_comuna": "FUNDACIÓN PARA EL DESARROLLO (RBD: 24330) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "Educ. Adultos",
+      "porc_novacunados": "8",
+      "porc_vacuincom": "2",
+      "porc_vacu": "90"
+    },
+    {
+      "rbd": "24331",
+      "Nombre_comuna": "ESCUELA ESPECIAL DE LENGUAJE IERUN TALJ (RBD: 24331) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "Educ. Especial",
+      "porc_novacunados": "23",
+      "porc_vacuincom": "9",
+      "porc_vacu": "68"
+    },
+    {
+      "rbd": "24332",
+      "Nombre_comuna": "CEIA CARLOS YANEZ MOYA (RBD: 24332) - NATALES",
+      "nom_region": "Magallanes",
+      "nivel_alu": "Educ. Adultos",
+      "porc_novacunados": "8",
+      "porc_vacuincom": "1",
+      "porc_vacu": "91"
+    },
+    {
+      "rbd": "24333",
+      "Nombre_comuna": "ESCUELA ESPECIAL CLUB DE LEONES CRUZ DEL SUR (RBD: 24333) - NATALES",
+      "nom_region": "Magallanes",
+      "nivel_alu": "Educ. Especial",
+      "porc_novacunados": "28",
+      "porc_vacuincom": "4",
+      "porc_vacu": "68"
+    },
+    {
+      "rbd": "24334",
+      "Nombre_comuna": "ESCUELA PARVULARIA JOSH KEE (RBD: 24334) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "Prekínder",
+      "porc_novacunados": "50",
+      "porc_vacuincom": "0",
+      "porc_vacu": "50"
+    },
+    {
+      "rbd": "24335",
+      "Nombre_comuna": "ESC. ESP. DE LENGUAJE NUEVO SOL (RBD: 24335) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "Educ. Especial",
+      "porc_novacunados": "34",
+      "porc_vacuincom": "17",
+      "porc_vacu": "49"
+    },
+    {
+      "rbd": "24336",
+      "Nombre_comuna": "ESC. ESP. DE LENGUAJE SANTA LAURA (RBD: 24336) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "Educ. Especial",
+      "porc_novacunados": "33",
+      "porc_vacuincom": "30",
+      "porc_vacu": "37"
+    },
+    {
+      "rbd": "24338",
+      "Nombre_comuna": "COLEGIO LUTERANO (RBD: 24338) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "1° básico",
+      "porc_novacunados": "10",
+      "porc_vacuincom": "3",
+      "porc_vacu": "87"
+    },
+    {
+      "rbd": "24338",
+      "Nombre_comuna": "COLEGIO LUTERANO (RBD: 24338) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "1° medio",
+      "porc_novacunados": "9",
+      "porc_vacuincom": "0",
+      "porc_vacu": "91"
+    },
+    {
+      "rbd": "24338",
+      "Nombre_comuna": "COLEGIO LUTERANO (RBD: 24338) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "2° básico",
+      "porc_novacunados": "16",
+      "porc_vacuincom": "7",
+      "porc_vacu": "77"
+    },
+    {
+      "rbd": "24338",
+      "Nombre_comuna": "COLEGIO LUTERANO (RBD: 24338) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "2° medio",
+      "porc_novacunados": "15",
+      "porc_vacuincom": "0",
+      "porc_vacu": "85"
+    },
+    {
+      "rbd": "24338",
+      "Nombre_comuna": "COLEGIO LUTERANO (RBD: 24338) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "3° básico",
+      "porc_novacunados": "7",
+      "porc_vacuincom": "3",
+      "porc_vacu": "90"
+    },
+    {
+      "rbd": "24338",
+      "Nombre_comuna": "COLEGIO LUTERANO (RBD: 24338) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "3° medio",
+      "porc_novacunados": "14",
+      "porc_vacuincom": "3",
+      "porc_vacu": "83"
+    },
+    {
+      "rbd": "24338",
+      "Nombre_comuna": "COLEGIO LUTERANO (RBD: 24338) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "4° básico",
+      "porc_novacunados": "7",
+      "porc_vacuincom": "0",
+      "porc_vacu": "93"
+    },
+    {
+      "rbd": "24338",
+      "Nombre_comuna": "COLEGIO LUTERANO (RBD: 24338) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "4° medio",
+      "porc_novacunados": "14",
+      "porc_vacuincom": "0",
+      "porc_vacu": "86"
+    },
+    {
+      "rbd": "24338",
+      "Nombre_comuna": "COLEGIO LUTERANO (RBD: 24338) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "5° básico",
+      "porc_novacunados": "10",
+      "porc_vacuincom": "0",
+      "porc_vacu": "90"
+    },
+    {
+      "rbd": "24338",
+      "Nombre_comuna": "COLEGIO LUTERANO (RBD: 24338) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "6° básico",
+      "porc_novacunados": "6",
+      "porc_vacuincom": "3",
+      "porc_vacu": "91"
+    },
+    {
+      "rbd": "24338",
+      "Nombre_comuna": "COLEGIO LUTERANO (RBD: 24338) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "7° básico",
+      "porc_novacunados": "9",
+      "porc_vacuincom": "0",
+      "porc_vacu": "91"
+    },
+    {
+      "rbd": "24338",
+      "Nombre_comuna": "COLEGIO LUTERANO (RBD: 24338) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "8° básico",
+      "porc_novacunados": "6",
+      "porc_vacuincom": "0",
+      "porc_vacu": "94"
+    },
+    {
+      "rbd": "24338",
+      "Nombre_comuna": "COLEGIO LUTERANO (RBD: 24338) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "Kínder",
+      "porc_novacunados": "17",
+      "porc_vacuincom": "23",
+      "porc_vacu": "60"
+    },
+    {
+      "rbd": "24338",
+      "Nombre_comuna": "COLEGIO LUTERANO (RBD: 24338) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "Prekínder",
+      "porc_novacunados": "20",
+      "porc_vacuincom": "13",
+      "porc_vacu": "67"
+    },
+    {
+      "rbd": "24339",
+      "Nombre_comuna": "ESC. ESP. DE TRASTORNOS DE LA COMUNICACION AL (RBD: 24339) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "Educ. Especial",
+      "porc_novacunados": "38",
+      "porc_vacuincom": "14",
+      "porc_vacu": "48"
+    },
+    {
+      "rbd": "24341",
+      "Nombre_comuna": "ESCUELA PAMPA GUANACO (RBD: 24341) - TIMAUKEL",
+      "nom_region": "Magallanes",
+      "nivel_alu": "1° básico",
+      "porc_novacunados": "100",
+      "porc_vacuincom": "0",
+      "porc_vacu": "0"
+    },
+    {
+      "rbd": "24341",
+      "Nombre_comuna": "ESCUELA PAMPA GUANACO (RBD: 24341) - TIMAUKEL",
+      "nom_region": "Magallanes",
+      "nivel_alu": "3° básico",
+      "porc_novacunados": "0",
+      "porc_vacuincom": "100",
+      "porc_vacu": "0"
+    },
+    {
+      "rbd": "24341",
+      "Nombre_comuna": "ESCUELA PAMPA GUANACO (RBD: 24341) - TIMAUKEL",
+      "nom_region": "Magallanes",
+      "nivel_alu": "4° básico",
+      "porc_novacunados": "0",
+      "porc_vacuincom": "0",
+      "porc_vacu": "100"
+    },
+    {
+      "rbd": "24341",
+      "Nombre_comuna": "ESCUELA PAMPA GUANACO (RBD: 24341) - TIMAUKEL",
+      "nom_region": "Magallanes",
+      "nivel_alu": "5° básico",
+      "porc_novacunados": "0",
+      "porc_vacuincom": "100",
+      "porc_vacu": "0"
+    },
+    {
+      "rbd": "24341",
+      "Nombre_comuna": "ESCUELA PAMPA GUANACO (RBD: 24341) - TIMAUKEL",
+      "nom_region": "Magallanes",
+      "nivel_alu": "6° básico",
+      "porc_novacunados": "0",
+      "porc_vacuincom": "0",
+      "porc_vacu": "100"
+    },
+    {
+      "rbd": "24341",
+      "Nombre_comuna": "ESCUELA PAMPA GUANACO (RBD: 24341) - TIMAUKEL",
+      "nom_region": "Magallanes",
+      "nivel_alu": "7° básico",
+      "porc_novacunados": "0",
+      "porc_vacuincom": "0",
+      "porc_vacu": "100"
+    },
+    {
+      "rbd": "24342",
+      "Nombre_comuna": "ESCUELA ESPECIAL DE LENGUAJE RAYITO DE LUZ (RBD: 24342) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "Educ. Especial",
+      "porc_novacunados": "36",
+      "porc_vacuincom": "12",
+      "porc_vacu": "52"
+    },
+    {
+      "rbd": "40124",
+      "Nombre_comuna": "ESC. ESP. LENG. JOSE GRIMALDI ACOTTO (RBD: 40124) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "Educ. Especial",
+      "porc_novacunados": "21",
+      "porc_vacuincom": "11",
+      "porc_vacu": "68"
+    },
+    {
+      "rbd": "40217",
+      "Nombre_comuna": "ESCUELA ESPECIAL CLUB DE LEONES CRUZ DEL SUR (RBD: 40217) - PORVENIR",
+      "nom_region": "Magallanes",
+      "nivel_alu": "Educ. Especial",
+      "porc_novacunados": "41",
+      "porc_vacuincom": "0",
+      "porc_vacu": "59"
+    },
+    {
+      "rbd": "40262",
+      "Nombre_comuna": "ESCUELA ESPECIAL DE LENGUAJE ULTIMA ESPERANZA (RBD: 40262) - NATALES",
+      "nom_region": "Magallanes",
+      "nivel_alu": "Educ. Especial",
+      "porc_novacunados": "30",
+      "porc_vacuincom": "20",
+      "porc_vacu": "50"
+    },
+    {
+      "rbd": "40360",
+      "Nombre_comuna": "ESCUELA ESPECIAL MI MUNDO (RBD: 40360) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "Educ. Especial",
+      "porc_novacunados": "15",
+      "porc_vacuincom": "4",
+      "porc_vacu": "81"
+    },
+    {
+      "rbd": "41654",
+      "Nombre_comuna": "AULA HOSPITALARIA HOSPITAL CLÍNICO MAGALLANES (RBD: 41654) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "3° básico",
+      "porc_novacunados": "0",
+      "porc_vacuincom": "0",
+      "porc_vacu": "100"
+    },
+    {
+      "rbd": "41654",
+      "Nombre_comuna": "AULA HOSPITALARIA HOSPITAL CLÍNICO MAGALLANES (RBD: 41654) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "4° medio",
+      "porc_novacunados": "0",
+      "porc_vacuincom": "0",
+      "porc_vacu": "100"
+    },
+    {
+      "rbd": "41654",
+      "Nombre_comuna": "AULA HOSPITALARIA HOSPITAL CLÍNICO MAGALLANES (RBD: 41654) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "5° básico",
+      "porc_novacunados": "0",
+      "porc_vacuincom": "0",
+      "porc_vacu": "100"
+    },
+    {
+      "rbd": "41654",
+      "Nombre_comuna": "AULA HOSPITALARIA HOSPITAL CLÍNICO MAGALLANES (RBD: 41654) - PUNTA ARENAS",
+      "nom_region": "Magallanes",
+      "nivel_alu": "6° básico",
+      "porc_novacunados": "100",
+      "porc_vacuincom": "0",
+      "porc_vacu": "0"
+    }
+  ]

@@ -1,0 +1,930 @@
+﻿<!doctype html>
+<html lang="es">
+<head>
+  <!-- Required meta tags -->
+  <meta charset="UTF-8s">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <!-- Bootstrap CSS -->
+  <link rel="stylesheet" href="./css/style.css?ver=1.0.6">
+  <meta http-equiv="Expires" content="0">
+  <meta http-equiv="Last-Modified" content="0">
+  <meta http-equiv="Cache-Control" content="no-cache, mustrevalidate">
+  <meta http-equiv="Pragma" content="no-cache">
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
+  <link rel="stylesheet" id="font_awesome_css-css" href="https://sigamosaprendiendo.mineduc.cl/wp-content/themes/retornoMarzo2021/assets/distr/css/all.min.css?ver=5.8.1" type="text/css" media="all">
+  <link rel="shortcut icon" href="https://static.mineduc.cl/img/favicon.ico" type="image/x-icon">
+  <link rel="stylesheet" href="https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/themes/smoothness/jquery-ui.css">
+  <link rel="stylesheet" href="https://use.typekit.net/lmi6fwx.css">
+  <title>Plataforma de Vacunación Escolar</title>
+  <meta name="description" content="El sitio Vacunación Escolar ofrece datos detallados y actualizados sobre el proceso de inmunización en cada establecimiento educativo del país">
+  <meta name="keywords" content="Vacunación Escolar, Vacunación, Ministerio, Educación, Ministerio de Educación">
+  <meta name="author" content="Ministerio de Educación">
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-67VKJC73FS"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-67VKJC73FS');
+  </script>
+</head>
+<body class="bg-principal">
+  <div class="container-fluid" style="background-color: #F1F1F1;">
+    <div class="container">
+        <div class="mt-0 pt-0" style="height: 10px;">
+          <img src="./img/logotop.svg" alt="" width="185px" class="mt-0 pt-0 align-top">
+        </div>
+        <a href="htpps://www.mineduc.cl" target="_blank" class="text-decoration-none align-top">Ministerio de Educación</a>
+    </div>
+  </div>
+  <div class="container-fluid text-center" style="background-image: url(./img/mwRecurso\ 3.png); background-repeat: no-repeat; background-size: cover;">    
+    <header class="d-none d-md-flex text-center py-5 container justify-content-center">
+      <img src="./img/Vacuna09.png" alt="">
+      <h1 class="text-white display-2 text-start">vacunación ESCOLAR: <br /> CONVIVENCIA SANA</h1>
+    </header>
+    <header class="d-flex d-md-none text-center py-5 container justify-content-center">
+      <img src="./img/Vacuna09.png" alt="">
+      <h1 class="text-white fs-2 text-start">vacunación ESCOLAR: <br /> CONVIVENCIA SANA</h1>
+    </header>
+    
+  </div>
+  <div class="container-fluid bg-morado">
+    <div class="container text-white py-5 fs-4 text-center lh-lg">
+      La vacunación contra el covid-19 se ha convertido en un elemento fundamental a la hora de reducir el impacto de la pandemia en niños, niñas y adolescentes. <strong>A partir del 30 de mayo</strong>, los cursos de 7° básico a IV° medio que estén bajo el 80% de cobertura de vacunación deberán adoptar medidas de distanciamiento y/o diferenciación de jornada.
+    </div>
+  </div>
+  <div class="container-fluid">
+    <div class="text-star container">
+        <div class="fs-2 text-celeste py-5 heavitas">ESQUEMA DE VACUNACIÓN POR RANGO ETARIO</div>
+      
+        <div class="accordion-item bg-transparent border-0">
+          <h2 class="accordion-header text-celeste" id="headingOne">
+            <button class="accordion-button fs-2 text-celeste bg-transparent" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+              6 -17 AÑOS
+            </button>
+          </h2>
+          <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+            <div class="accordion-body d-none d-md-block">
+              <div class="d-flex">
+                <span class="fs-6 text-start flex-grow flex-fill text-gris" style="width: 20%;">&nbsp;</span>
+                <span class="fs-6 text-center flex-grow flex-fill text-gris" style="width: 40%;">VACUNADOS CON <br/>ESQUEMA COMPLETO</span>
+                <span class="fs-6 text-center flex-grow flex-fill text-gris" style="width: 40%;">PRIMERA DOSIS Y <br/>DOSIS ÚNICA</span>
+             </div>
+              <div class="d-flex py-5">
+                <span class="fs-3 text-start" style="width: 20%;">&nbsp;</span>
+                <span class="text-center" style="width: 40%;"><canvas id="doughnutchart"></canvas></span>
+               <span class="text-center" style="width: 40%;"><canvas id="myChart-graf2"></canvas></span>
+              </div>
+            </div>
+            <div class="accordion-body d-block d-md-none">
+              <div class="d-flex flex-column">
+                <span class="fs-6 text-center flex-grow flex-fill text-gris">VACUNADOS CON <br/>ESQUEMA COMPLETO</span>
+                <span class="text-center" style="width: 100%;"><canvas id="doughnutchart1"></canvas></span>
+             </div>
+              <div class="d-flex flex-column">
+                <span class="fs-6 text-center flex-grow flex-fill text-gris">PRIMERA DOSIS Y <br/>DOSIS ÚNICA</span>
+               <span class="text-center" style="width: 100%;"><canvas id="myChart-graf22"></canvas></span>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="accordion" id="accordionExample2">
+          <div class="accordion-item bg-transparent border-0">
+            <h2 class="accordion-header text-celeste" id="headingdos">
+              <button class="accordion-button fs-2 text-celeste bg-transparent" type="button" data-bs-toggle="collapse" data-bs-target="#collapsedos" aria-expanded="true" aria-controls="collapsedos">
+                6 -13 AÑOS
+              </button>
+            </h2>
+            <div id="collapsedos" class="accordion-collapse collapse" aria-labelledby="heading2" data-bs-parent="#accordionExample2">
+              <div class="accordion-body d-none d-md-block">
+                <div class="d-flex">
+                  <span class="fs-6 text-start flex-grow flex-fill text-gris" style="width: 20%;">&nbsp;</span>
+                  <span class="fs-6 text-center flex-grow flex-fill text-gris" style="width: 40%;">VACUNADOS CON <br/>ESQUEMA COMPLETO</span>
+                  <span class="fs-6 text-center flex-grow flex-fill text-gris" style="width: 40%;">PRIMERA DOSIS Y <br/>DOSIS ÚNICA</span>
+               </div>
+                <div class="d-flex py-5">
+                  <span class="fs-3 text-start" style="width: 20%;">&nbsp;</span>
+                  <span class="text-center" style="width: 40%;"><canvas id="myChart-graf3"></canvas></span>
+                  <span class="text-center" style="width: 40%;"><canvas id="myChart-graf4"></canvas></span>
+                </div>
+              </div>
+              <div class="accordion-body d-block d-md-none">
+                <div class="d-flex flex-column">
+                  <span class="fs-6 text-center flex-grow flex-fill text-gris">VACUNADOS CON <br/>ESQUEMA COMPLETO</span>
+                  <span class="text-center" style="width: 100%;"><canvas id="myChart-graf33"></canvas></span>
+                 
+               </div>
+                <div class="d-flex flex-column">
+                  <span class="fs-6 text-center flex-grow flex-fill text-gris">PRIMERA DOSIS Y <br/>DOSIS ÚNICA</span>
+                  <span class="text-center" style="width: 100%;"><canvas id="myChart-graf44"></canvas></span>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="accordion" id="accordionExample3"></div>
+        <div class="accordion-item bg-transparent border-0">
+          <h2 class="accordion-header text-celeste" id="headingtres">
+            <button class="accordion-button fs-2 text-celeste bg-transparent" type="button" data-bs-toggle="collapse" data-bs-target="#collapsetres" aria-expanded="true" aria-controls="collapsetres">
+              14 -17 AÑOS
+            </button>
+          </h2>
+          <div id="collapsetres" class="accordion-collapse collapse" aria-labelledby="headingtres" data-bs-parent="#accordionExample">
+            <div class="accordion-body d-none d-md-block">
+              <div class="d-flex">
+                <span class="fs-6 text-start flex-grow flex-fill text-gris" style="width: 20%;">&nbsp;</span>
+                <span class="fs-6 text-center flex-grow flex-fill text-gris" style="width: 40%;">VACUNADOS CON <br/>ESQUEMA COMPLETO</span>
+                <span class="fs-6 text-center flex-grow flex-fill text-gris" style="width: 40%;">PRIMERA DOSIS Y <br/>DOSIS ÚNICA</span>
+             </div>
+              <div class="d-flex py-5">
+                <span class="fs-3 text-star" style="width: 20%;">&nbsp;</span>
+                <span class="text-center" style="width: 40%;"> <canvas id="myChart-graf5"></canvas></span>
+                <span class="text-center" style="width: 40%;"><canvas id="myChart-graf6"></canvas></span>
+              </div>
+            </div>
+            <div class="accordion-body d-block d-md-none">
+              <div class="d-flex flex-column">
+                
+                <span class="fs-6 text-center flex-grow flex-fill text-gris">VACUNADOS CON <br/>ESQUEMA COMPLETO</span>
+                <span class="text-center" style="width: 100%;"> <canvas id="myChart-graf55"></canvas></span>
+                
+             </div>
+              <div class="d-flex flex-column">
+                <span class="fs-6 text-center flex-grow flex-fill text-gris">PRIMERA DOSIS Y <br/>DOSIS ÚNICA</span>
+                <span class="text-center" style="width: 100%;"><canvas id="myChart-graf66"></canvas></span>
+              </div>
+            </div>
+          </div>
+        </div>
+     </div>
+     <div class="text-start container py-4">
+       <p>
+        <small>A partir del criterio determinado por el Ministerio de Salud, se define como esquema completo de vacunación:
+        <ul>
+        <li>Personas que cuentan con 1º y 2º dosis de vacunación.</li>
+        <li>Personas con dosis única de vacuna desarrollada por el laboratorio Cansino.</li>
+      </ul>
+    </small>
+       </p>
+       <p><small>Fuente: Departamento de Estadísticas e Información de Salud (DEIS) del Ministerio de Salud y Centro de Estudios del Ministerio de Educación. Información al 25 de mayo 2022.</small></p>
+     </div>
+    </div>
+  </div>
+  <div class="container-fluid bg-morado">
+    <div class="container">
+      <div class="fs-2 text-white py-5 heavitas">ESTADO DE VACUNACIÓN</div>
+      <hr class="bg-white" style="height: 8px; opacity: 1;">
+      <div class="row">
+        <div class="col-12 col-md-6">
+          <div class="fs-3 text-white">BUSCADOR <BR/> POR ESTABLECIMIENTO</div>
+        </div>
+        <div class="col-12 col-md-6">
+          <div class="card bg-transparent border-0">
+            <div class="card-body">
+              <form class="form" id="buscador">
+                <div class="p-2 ps-4">
+                  <select class="form-control form-select col-12 bg-celeste2 text-gris" aria-label="region" id="region">
+                    <option value=0 selected>Selecciona la Región</option>
+                    <option value="AricaE">Arica y Parinacota</option>
+                    <option value="TarapacaE">Tarapacá</option>
+                    <option value="AntofagastaE">Antofagasta</option>
+                    <option value="AtacamaE">Atacama</option>
+                    <option value="CoquimboE">Coquimbo</option>
+                    <option value="ValparaisoE">Valparaíso</option>
+                    <option value="MetropolitanaE">Metropolitana</option>
+                    <option value="OhigginsE">O'Higgins</option>
+                    <option value="MauleE">Maule</option>
+                    <option value="NubleE">Ñuble</option>
+                    <option value="BiobioE">Biobío</option>
+                    <option value="AraucaniaE">La Araucanía</option>
+                    <option value="RiosE">Los Ríos</option>
+                    <option value="LagosE">Los Lagos</option>
+                    <option value="AysenE">Aysén</option>
+                    <option value="MagallanesE">Magallanes</option>
+                  </select>
+                </div>
+                <div class="p-2 pe-4">
+                  <input disabled type="text" id="establecimientos" class="form-control m-3 col-12 bg-celeste2" placeholder="Ingrese el Nombre del Establecimiento">
+                </div>
+                <div class="p-2 pe-4">
+                  <button disabled id="boton" type="button" class="btn  m-3 col-12 bg-naranjo text-white" data-toggle="modal" data-target="#exampleModal">
+                    Buscar
+                  </button>
+                </div>
+              </form>
+            </div>    
+          </div>
+        </div>
+        <div class="container-fluid bg-principal py-5 nomostrar px-5" id="res">  
+            <button onclick="myFun4()" id="cerrarResultado1" class="cerrarResultado1 w-100 btn bg-transparent border-0 text-end text-celeste fs-1">X</button>
+            <div class="noEncontrado"></div>
+            <h5 id="Nombre_comuna" class="fs-4 text-naranjo mb-5"></h5>  
+            <section class="my-3">
+              <h6>Seleccion el tipo de Educación:</h6>
+              <ul id="tipoEduc" class="nav nav-tabs" role="tablist">
+                <template id="resultado">
+                  <li class="nav-item" role="presentation">
+                    <button class="nav-link" id="home-tab" data-bs-toggle="tab" data-bs-target="#home-tab-pane" type="button" role="tab" aria-controls="home-tab-pane" aria-selected="true"></button>   
+                  </li>
+                </template>  
+              </ul>  
+            </section> 
+            <div class="row">
+              <div class="col-12 col-md-4">
+                <div class="tab-content" id="myTabContent">
+                  <template id="tab-tipoe">
+                    <div class="tab-pane fade" id="" role="tabpanel" aria-labelledby="" tabindex="0">
+                            <div class="d-flex align-items-start">
+                              <div class="nav flex-column nav-pills me-3" id="v-pills-tab" role="tablist" aria-orientation="vertical">
+                                <template id="pill-nivel">
+                                  <button class="nav-link" id="v-pills-home-tab" data-bs-toggle="pill" data-bs-target="#v-pills-home" type="button" role="tab" aria-controls="v-pills-home" aria-selected="false">Home</button>
+                                </template>
+                              </div>
+                            </div>
+                    </div>
+                  </template>
+                </div>       
+              </div>
+              <div class="col-12 col-md-8">
+
+                      <div class="tab-content" id="v-pills-tabContent">
+                       <template id="detallecurso">
+                          <div class="tab-pane fade" id="v-pills-7Basico" role="tabpanel" aria-labelledby="v-pills-home-tab" tabindex="0">
+                            <div class="accordion" id="accordionExample">
+                              <template id="letras">
+                              <div class="accordion-item">
+                                <h2 class="accordion-header" id="headingOne">
+                                  <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+                                    Accordion Item #1
+                                  </button>
+                                </h2>
+                                <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+                                  <div class="accordion-body">
+                                   <div class="row">
+                                      <div class="col-md-4 col-12 col-12 d-flex flex-column justify-content-between">
+                                        <div class="text-naranjo">No vacunados: <span id="porc_novacunados"></span></div>
+                                        <div class="text-celeste">Vacunados con esquema incompleto: <span id="porc_vacuincom"></span></div>
+                                        <div class="text-morado2">Vacunados con esquema completo: <span id="porc_vacu"></span></div>
+                                      </div>
+                                      <div class="col-md-8 col-12">
+                                        <canvas id="myChart" width="350" height="350"></canvas>
+                                      </div>
+                                   </div>
+                                    
+                                  </div>
+                                </div>
+                              </div>
+                            </template>
+                              
+                       
+                            </div>
+                          </div>
+                     </template>
+                      </div>
+      
+                
+                
+              </div>  
+            </div>           
+        </div>  
+      </div>
+      </div>
+      <hr class="bg-white" style="height: 8px; opacity: 1;">
+      <div class="row">
+        <div class="col-12 col-md-4"><div class="fs-3 text-white">BUSCADOR <BR/> POR REGIÓN</div></div>
+        <div class="col-12 d-none d-sm-none d-md-block col-md-4 text-start">
+          <?xml version="1.0" encoding="utf-8"?>
+          <!-- Generator: Adobe Illustrator 26.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+          <svg version="1.1"
+             id="svg4318" mapsvg:geoViewBox="-109.449403 -17.500036 -66.416233 -55.907355" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:mapsvg="http://mapsvg.com" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg"
+             xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 148.5 478.3"
+             style="enable-background:new 0 0 148.5 478.3;" xml:space="preserve">
+          <style type="text/css">
+            .one{fill:#D3DDE8;stroke:#374C76;stroke-width:0.6683;stroke-miterlimit:10;}
+            .reg1{fill:#D3DDE8;stroke:#374C76;stroke-width:0.6683;stroke-miterlimit:10;}
+            <!--st0:hover {fill:#ED6A57;stroke:#374C76;stroke-width:0.6683;stroke-miterlimit:10;}-->
+          </style>
+          <g>
+            <!-- aysen -->
+            <path onclick="myFun('graficoAysen')" id="CL-AI" class="one " d="M43,316.4l0.1,0l0.3-0.6l-0.1-0.3l-0.6-0.1l-0.2,0.2l-0.3,0l-0.9-0.4l-0.5-0.6l-0.5-0.5l-0.8-0.6
+              l-0.3-0.1l-0.2,0.1l-0.3,0.3l-0.2,0.2l-0.4,0l-0.4-0.1l-0.2-0.1l-0.2-0.2l0-0.3l0.1-0.7l0.2-0.1l0.6,0l0.2-0.1l0.3-0.5l-0.7-1
+              l-0.3-0.6l0.1-0.5l0.2-0.4l0.3-0.1l0.2,0l0.6,0.1h0.3l0.8-0.3l1.9-1.1l0.5-0.4l1.2-1l0.4-0.8l0.3-0.7l0.8-2.2l0.1-1.2l-0.5,0.5
+              l-0.8,0.5l-1-0.8l-0.8-0.7V301l-0.9-0.4l-0.6-0.2l-0.3,0l-0.4-0.1l-0.3-0.2l-0.9-1l-0.1-0.4l0.1-0.4l0.7-0.6l0.7-0.6l0-0.5l0.3-0.7
+              l0.8-1.6l0.2,0l0.4-0.1l1-0.3l-0.1-0.4l0,0l0.6,0l0.2,0.2l0.6,0.2l1.8,0.3l0.1-0.5l0.3-0.5l0.4-0.4l0.3-0.2l0.5,0.2l0,0.6l0.7,1.2
+              l0.2,0.1l0.4,0l0.3,0.2l0.3,0.4l0.2,0.4l0.1,0.5l1.3-0.1l0.1-0.5l1.3-0.7l0.3,0l0.7,0.3l0,0l0.5,0.6l0,0.3l-0.1,0.2l-0.9,1.4
+              l-0.3,0.3l-0.4,1l0.2,0.4l0.1,0.3l0,1.5l-0.4,0.3l-0.1,0.3L53,302l0.5,0.1l1.5,0h0.8l0.6-0.1l0.8,0l2,0.4l0.3,0.3l0.5,1.1l-0.1,0.4
+              l-0.2,0.2l-0.4,0.1l-0.4,0.9l0,0.3l0.1,0.4l-0.1,0.4l-0.5,0.7l-0.3,0.1h-0.3l-0.3-0.1l-0.2-0.1l-0.4-0.3l-0.3-0.2l-0.2,0h-0.3
+              l-0.4,0.1L55,307l-0.2,0.1l-0.2,0l-0.2-0.1l-0.2-0.1l-0.2-0.1l-0.5-0.1l-0.2,0.1l-0.2,0.3l-0.3,0.1l-1-0.1l-0.2-0.1l-0.2-0.1
+              l-0.2-0.1l-0.3-0.1l-0.3,0.2l-0.1,0.3l0.1,1.5l1.3,0.3l1.2,0.1l0.6,0.1l1.5,0.5l0.3,0.3l0.5,1l1.6,2.1l0.3,1l-1.6,2.3l-1.3,0.6
+              l-0.2,0l-0.2,0l-0.2,0.1l-0.4,0.1l-0.4,0.3l-0.3,1.3l-0.1,1l0.4,1.6l0.3,0.2l0.3,0.1l0.4,0.2l0.2,0.3l0.2,1l-0.3,0.3l-0.1,0
+              l-0.2,0.2l-0.3,0.4l-0.2,0.3l-0.2,0.4l-0.2,0.3l-0.3,0.1l-0.3,0.1l-0.3,0l-0.5,0.2l0.6,0.7l0.3,0.1l0.3,0.2l0.2,0.3l0.1,0.3
+              l0.2,2.2l0.3,0.8l0.2,0.7l0,1.6l-0.1,0.4l-0.1,0.3l-1.2,1.1l-0.3,0.1l-0.6,0l-0.2,0.2l-0.4,3l0.8,1.1l0.3,0.3l0.1,0.5l-0.1,0.6
+              l-0.1,0.2l-1.3,0.6l-0.6,1.1l-0.7,0.8l-0.3,0.1l-0.3-0.1l-0.3,0l-0.3,0.1l-0.2,0.1l-0.2,0.1l-0.1,0.2l-0.1,0.4l0.2,0.2l0.3,0.2
+              l-0.2,1.3l-0.1,0.3l-0.1,0.3l-0.5,0.8l-0.2,0.4L47,348l-0.8,2.2l0,0.4l0.2,0.3l0.3,0.4l0.3,0.2l0.4,0.1l0.8,1l0.2,1.6l0.1,2.2
+              l-1.3,0.8l-0.6,0.2l-0.6,0.3l-0.2,0.1l-0.2,0.2l-0.1,0.3l0.2,1l0.1,0.3l0.1,0.9l0.1,1.1v0.7l-0.1,0.3l-0.2,0.4l-1.2,1.1l-0.3,0.2
+              l-0.2,0.1l-0.2,0.1l-0.3,0.1l-0.4,0.1l-0.4,0l-0.2,0.1l-0.3,0.1l-0.3,0.2l-0.2,0.3l-0.7,1l-0.9,2.2l0,0.3l0.1,0.1l0,0l-0.2-0.1
+              l-2.8-2.4l-2.3-2l-3.3-2.9l0,0l0-0.1l-0.5-0.3l-0.5-0.1l-0.3,0l-0.3,0.1l-0.2,0.1l-0.2,0.1l-0.3,0l-0.5-0.7l-0.2-0.9l0.4-0.6l0.9-1
+              l0.5-0.3l0.5,0.3l1,0.7l0.2-0.2l0.1-1.7l-0.8-0.3l-0.2-0.3l-0.2-0.2l-0.2,0l-0.5-0.1l0.2-0.3l0.8-0.2l-1.4-0.5l-1.3-1.2l-0.9-1
+              l-0.9-0.7l-0.4,0l-0.2-0.1l-0.1-0.7l0.2-0.4l1-0.6l1.1,0.4l0.6,0.5l0.2,0.3l0.1,0.3l0.2,0.5l0.2,1.2l0.6,0.6l0.3-0.1l-0.7-1.8
+              l-0.6-1l-0.1-0.3l0.2-0.1l1,0l1.2,0l0.2,0.2l0.3,0.4l0.5,0.2l1,0l0.8-0.2l1.7,1.5l0,0.7l0.3,0.9l0.1-0.5l0.4-0.5l0.5,0l0.2,0.1
+              l0.2,0.2l0.4,0l0.5-0.4l0.2-0.2l0.1-0.4l0-0.5l-0.1-0.3l-0.1,0.8l-0.2,0.3l-0.4,0.3l-0.2,0l-0.2-0.1l-0.8-0.5l-0.9-1l-0.6-0.9
+              l-0.1-1.1h0.8l0.1,0.5l0.3,0.4l0.2,0.1l0.2,0.1l0.5,0.1l2,0.1l-0.4-0.4l-0.7-0.2l-0.3,0l-0.2,0l-0.3,0.1l-0.4-0.1l-0.4-0.3
+              l-1.9-2.3l-0.3-0.7l0.1-0.4l0.2-0.3l0.3-0.3l0.3-0.4l-0.2-0.9l-0.5-0.5l-0.4,0.9l0.4,0.3l0.1,0.3l-0.4,2.1l-0.2,0.2l-0.2,0.2
+              l-1.1,0.5l-0.8-0.2L32,349l-0.2-0.6l-0.3-0.1l-0.5,0l-1.6-0.3l-0.8-0.2l-0.8,0.2l-0.2,0.1l-0.5,0.1l-0.7-0.1l-0.3-0.1l-0.6-0.3
+              l-0.3-0.4l1.3-2l0.4-0.3l0.2,0l0.8,0.1l0.3,0.1l0.5,0.4l0.2,0.7l0.3,0.9l0.4,0.5l0.3,0.2l0.4,0l0.2-0.1l-0.3,0l-0.5-0.2l-0.3-0.3
+              l-0.2-0.5l0.4-0.7l0.8-0.2l0.5,0.2h0.2l0.4-0.2l-0.1-1.1l-0.7,0.3l-0.3,0.4l-1.1,0.2l-0.2,0l-2-2.1l-0.1-0.3l0.5-0.9l1-1L29,341
+              l0.1-0.3l0.1-0.3l1.2-0.2l0.2,0.1l0.1,0.4l0,0.5l0.4,0.9l0.1,0.1l-0.1-0.2l-0.3-0.8v-0.4l0.1-0.5l0.1-0.2l0.7-0.7l1-1.6l-0.7-0.7
+              l-0.2-0.1l-0.2,0l-0.2,0.1l-0.3,0.2l-0.3-0.1l-1-1.6l-0.2-0.8l0-0.3l-0.7-0.3l-2.7,0.3l0,0.8l0.3-0.1l0.4,0l1.1,0.3l-0.1,0.4
+              l-0.3,0.2l-0.3,0l-0.6-0.1l-0.7-0.3l-2.3-1.1l-1.1-0.6l-0.6-1.3l0-0.4l0.1-0.3l0.5-0.7l0.7-0.7l0-0.9l-0.2,0.3l-0.2,0.4l-0.9,1
+              l-0.4,0.3l-0.7,0.4l-1.5,0.4l-0.4-0.1l-0.4,0l-0.7,0.2l-0.6,0.3l-0.3,0.2l-0.5,0.9l0.2,0.2l0.5-0.4l1-0.7l0.3,0l0.3,0.2l0.7,2.3
+              l-0.1,0.3l-0.6,0.4l-0.5,0.2l-0.2,0.1l-0.1,0l-0.1,0l-0.6-0.2l-0.7-0.8l-0.7-1.2l-0.1-0.9l0.1-1.3l0.6-0.9l0.2,0l0.2,0l0.3,0
+              l0.4-0.2l1.2-1l-0.1-0.5l0.4-0.5l0.2-0.2l0.6-0.3l0.4,0.4l0,0.2l0-0.8l0.1-0.7l1.1-1.2l0.4,0l0.9,0l1.3-1.4l0.3-0.8l0.6-1.8
+              l0.3-1.1l0.1-0.2l2.1-0.3l0.8-0.2l0.3,0.1l0.2,0.5l0.5-0.3l1-0.2L31,321l0.2,0.4l0.5,1.5l-0.3,1.4l-0.1,0.4l-0.2,0.4l-0.2,0.2
+              l-0.2,0.2l0.2,0l0.6-0.5l0.2-0.7l0-0.3l-0.1-0.3l0.1-0.3l0.7,0.7l0.1,0.3l0,0.4l-0.1,0.4l-0.1,0.2l-0.2,0.3l-0.5,0.4l-0.5,0.3
+              l-0.6,0.3l-1.1,0.3l-0.3,0l-0.3-0.1l-0.4-0.3l-0.2-0.2l-0.4-0.3l0.8,0.8l0.2,0.2l0.2,0.1l0.3,0l0.9-0.2l0.8-0.2l0.3-0.2l0.5-0.2
+              l0.2,0l0.4,1.3l1,0.7l0.3,0.1l0.1,0l0.1-0.1l-0.3-0.4l-0.2-0.2l-0.3-0.2l-0.8-0.9l0.3-0.8l0.2-0.2l0.6-0.1l1.2,1.4l0,0.8l-0.1,0.5
+              l-0.1,0.4l-0.2,0.3l-0.7,0.9l-0.3,0.3l-0.8,1.2l0.8,0.6l0.4,0l0.3-0.2l0.1-0.2l0.5-1.1l0.1-0.3l0.2-0.7l1.6-2l0.4-1.1l1-1.6
+              l-0.2-0.2l-0.9,1.3l-0.4,0.7l-0.2,0.5l-0.3,0.6l-0.3,0.3l-0.3,0.1l0-0.6l0.1-0.3l0.3-0.7l0.1-0.5l0.1-0.6l0-0.5l-0.2-0.8l-0.2-0.6
+              l1.2-2.3l1-1.1l0.2-0.2l0.3-0.3l0.3-0.1l0.2,0H39l0.5,0.1l0.3-0.1l0.2-0.2l-1.3-0.4l-0.4,0l-0.4,0.1l-0.3,0.3l-0.3,0.5l-0.1,0.2
+              l-0.8,0.7l-0.2,0l0.1-1.2l0.5-3.1l1.1-1l1-0.7l0.8-0.3l0.3,0.3l0.1,0.4l0.3,0.3l0.4,0.3l0.8,0.6l0.6,0.2L43,316.4L43,316.4z
+               M43.1,306.5L43.1,306.5l-0.5,0.4l-0.4,0.2l-0.6,0.7l-0.1,0.2l-0.1,0.2l-0.1,0.1l-0.6,0.5l-0.6,0.3l-0.3,0.1l-0.3,0.1l-0.2,0
+              l-0.1-0.1l-1-1.2l-0.1-0.1l0-0.2l0.1-0.1l0.9-0.3l0.2,0.1l0.1,0.1l0.2,0.2l0.4-0.1l0.1-0.1l-0.3-0.2l-0.6-0.3l-0.4,0.2l-0.1,0.1
+              l-0.1,0.1l-0.1,0l-0.1-0.1l-0.1-0.1l-0.3-0.6l-0.1-0.3l-0.2-0.8l0.4-0.6l0.1-0.1l0.3-0.1l0.1,0l0.9-0.2l0.1-0.6l0-0.5l0-0.2l0-0.2
+              l0.2-0.5l0.1-0.1l0.1-0.1l1.2-0.4l0.8-0.2l0.1,0l1.1,0.9l0.8,0.3L44,303l0.4,0.7l0.1,0.2l0,0.2l-0.7,1.1l-0.1,0.1l-0.1,0.1l-0.2,0
+              l-0.6-0.1l-0.1-0.1l-0.1-0.1l-0.5-0.2l0,0.2l0.1,0.1l0.6,0.4l0.3,0.1l0.4,0.1l0.1,0.2l-0.1,0.3l-0.1,0.2L43.1,306.5L43.1,306.5z
+               M20.9,361.3l-0.1,0.1l-0.2,0.1l-0.4-1l-0.1-0.7l-0.2-1.4l0-0.2l0.2-0.6l-1-0.6l-0.6,0.3l-0.1,0l-0.2,0.1h-0.2l-0.1,0l-0.2-0.1
+              l-0.1-0.1l0-0.2l0-0.2l0.2-0.2l0.2-0.1l0.3-0.1l0.3,0l0.2,0l0.1,0l0.2-0.1l0.2-0.1l0.2-0.2l0.1-0.2l-0.1,0l-0.4,0.3l-1.3,0.2
+              l-0.1-0.2l-0.3-3.1l0.1-0.2l0.4-0.5l0.3-0.2l1.4-0.4l0.2,0l0.1,0.1l0.6,1.8l0.1,0.2l0.1,0.8l0.3,1.1l0.2,0.6l0.3,0.3l0.3,0.6
+              l0.5,1.4l0.1,1.2l-0.1,0.3l-0.1,0.1L20.9,361.3L20.9,361.3z M26.4,361.2l-1.2-0.8h-0.2l-0.2,0.1l-0.1,0l-0.2,0l-1.1-0.2l-0.6-0.4
+              l-0.1-0.1l-0.1-0.1l-0.2-1l0-0.3l0.1-0.2l0.1-0.1l0.7-0.8l0.2-0.1l0.6-0.1l0.1,0l0.1,0.2l0.2,0.3l0,0.2l0.1,0.2l0.4,0.4l0.5-0.6
+              l0-0.2l-0.1-0.2l-0.1-0.1l-0.3-0.1l-0.3-0.6l-0.1-0.2l-0.1-0.5v-0.2l0-0.2l0.4-2.1l0.1-0.2l0.1-0.1l0.1-0.1l0.1,0.1l0.2,0.3
+              l0.1,0.1l0,0.2v0.3l0.1,0.6l0.1,1l0.9,1.6l-0.2,0.7v0.8l0,0.6l0.1,0.2l0.5,0.6l0.1,0l0.1-0.1V360l-0.1-0.1l0-0.2l0.1-0.1l0.1,0
+              l0.1,0.1l0.1,0.1l0,0.2l-0.1,0.4l-0.1,0.3l-0.1,0.1l-0.1,0.1l-0.5,0.3l-0.2,0.1l-0.2,0L26.4,361.2L26.4,361.2z M22.6,357.7l-0.1,0
+              l-0.1-0.1l-1.4-3l-0.6-1.8l0-0.4l0.3,0l0.6,0.1l1.1,0.3l0.3,0.1l0.8,0.6l1.1,0.3l0.1,0.1l0,0.2l0,0.3l-0.3,2.1l-0.1,0.1l-0.1,0.1
+              l-0.3,0l-0.5,0.3l-0.2,0.2l-0.3,0.2L22.6,357.7L22.6,357.7z M34.9,313.9l-0.6-0.2l-0.4-0.4l-0.4,0l-0.5,0.1l-0.2,0l-0.4,0l-0.1-0.1
+              l-0.1-0.1l-0.1-0.2l-0.9-1l-0.3,0.2l-0.6,0.1l-0.2,0l-0.1-0.1l-0.1-0.3l-0.1-0.4l0-0.1l0.1-0.3l0.1-0.2l0.3-0.3l0.1-0.1l0.2,0
+              l0.2,0l0.1,0.1l0.2,0.1l0.4,0l0.7-0.1l0.2-0.1l0.4-0.2l0.1-0.1l0.1,0l0.2,0l0.2,0.1l0.1,0.1l0.6,0.4l0.1,0.1l0.1,0.1l0.1,0.1
+              l0.4,0.6l0.1,0.4l0,0.2l0,0.2l0,0.4L34.9,313.9L34.9,313.9z M29.3,351.1l-0.4-0.2l-1.2-0.5l-0.2-0.2l0-0.2l0.8-0.9l0.1-0.1l0.2-0.1
+              l0.9-0.5l0.2,0l2.1,0.7l1.1,0.5l0.3,0l0.1,0l0.3-0.2l0.1-0.1l0.1,0l0.1,0.1l0.2,0.2l0,0.1l-0.1,0.2l-0.2,0.5l-0.2,0.1l-0.3,0.1
+              l-0.1,0l-0.4,0l-1,0l-0.2,0l-0.2-0.1l-0.1-0.1l-0.2,0l-0.1,0l-1.5,0.4L29.3,351.1L29.3,351.1z M29.8,307.5l-0.2,0l-0.3-0.1
+              l-0.2-0.1l-0.1-0.1L29,307l-0.2-0.3l-0.4-0.8l0-0.2l0-0.6l0.1-0.1l1.3-0.3l0.1,0l0.8,0l1.5,0.1l0.3,0.1l0.1,0.1l0.2,0.1l0.1,0.1
+              l0.1,0.1l0.2,0.4l0.1,0.2l-1.4,0.4l-1.6,0.7l-0.2,0.1L29.8,307.5L29.8,307.5z M22.1,324.9l-0.1-0.1l-0.1-0.2l-0.1-0.4l0.1-0.1
+              L22,324l1.1-0.3l0.1,0.1l-0.1-0.3l-0.2-0.1l-0.3,0.1l-0.3,0l-0.2,0l-0.1-0.2l-0.3-1.2l0.1-0.1l0.2-0.1l0.2-0.1L23,322l0.1,0.1
+              l0.2,0.1l0.6-0.3l0.8-0.7l0.5-0.2l0.2,0l0.1,0.2v0.2l0,0.2l-0.4,1.9l-0.1,0.1l-0.1,0.1l-0.3,0.3l-1,1l-0.2,0.1l-0.7,0.1l-0.2,0
+              l-0.3-0.1L22.1,324.9L22.1,324.9z M17.1,361.2l0.2-0.3l0.3,0.1l0.3-0.1l0.1,0l0.3-0.1l0.1-0.1l0.2-0.2l0.1-0.2l-0.1-0.1l-0.2,0.2
+              l-0.2,0.1l-0.1,0.1l-0.2,0h-0.1l-0.6-0.1l-0.4-0.2l-0.2-0.4l0.2-1.5l0.3-0.5l0.2,0l2-0.2l0.5,0.1l0.1,0.2l0.2,2l0,0.2l-0.4,0.4
+              l-0.2,0.2l-0.6,0.5l-0.3,0.2l-0.1,0.1l-0.1,0l-0.3,0l-0.3,0L17.1,361.2L17.1,361.2L17.1,361.2z M28,320.6l-0.1-0.1l-0.1-0.2
+              l-0.1-0.3l0-0.2l0.1-0.2l0.2-0.3l0.2-0.2l0-0.5l-0.1-0.6l-0.1-0.4v-0.2l0-0.2l0-0.2l0-0.2l0.1-0.3l0.1-0.3l0.2-0.2l0.2-0.1l0.9,0.4
+              l0.2,0.1l0.1,0.1l0.2,0.4l0.1,0.3l0.2,0.7l0.1,0.6l-0.2,0.5l-0.1,0.1l-1.5,1.1l-0.1,0.1L28,320.6L28,320.6z M23.9,352.4l-0.1,0
+              l-0.5-0.2l-0.6-0.3l-0.1-0.1l-0.1-0.2l0.1-0.3l-0.2-0.2l-0.3-0.1l-0.3,0l-0.2,0.1l-0.2,0.3l-0.2,0.2l-0.1,0l-0.2,0l-0.3,0l-0.2,0
+              l-0.1-0.1l0.5-0.8l0.3-0.2l0.1-0.1l0.6-0.2l0.3-0.1l0.2,0l0.9-0.6l0.7-0.9l0.6-0.3l0.1,0.1l0.1,0.5l0,0.2l0,0.5l0,2l-0.5,0.4
+              l-0.1,0.1L23.9,352.4L23.9,352.4z M35.6,320.3L35.6,320.3l-0.3-0.1l-1-1.1l0-1.4v-0.2l0-0.2l0.1-0.1l0.1-0.2l0.5-0.8l0.1-0.1l0.2,0
+              l0.2,0l0.7,0.2l0.1,0.2l0,0.5l-0.3,2.6l-0.2,0.7L35.6,320.3L35.6,320.3z M29.7,310.5L29.7,310.5l-0.8-0.2l0-0.1l0.1-0.3l1.4-1.4
+              l0.1-0.1l0.2-0.1l0.2,0l1.7,0.4l0.1,0.1l0.4,0.5l0.1,0.2l-0.1,0.1l-0.3,0.2l-0.2,0.1l-0.6,0.2l-0.2,0l-0.8,0l-0.5,0l-0.2,0.1
+              l-0.1,0.1L29.7,310.5L29.7,310.5z M34.7,306.6l-0.1,0l-0.6-0.8l0-1.3l0-0.2l0.1-0.1l0.9-0.2l0.2,0l0.2,0.1l0.2,0.1l0.3,0.8l0.4,1.1
+              l0,0.1l-0.1,0.1l-1,0.3L34.7,306.6L34.7,306.6z M32.4,296l-0.3-0.3l-0.9-0.3l-0.4-0.2l-0.1-0.1l0.2-0.7l0.1-0.1l0.2-0.1l0.6,0.1
+              l0.2,0l1.3-0.2l0.5-0.5l0.7,0.8l0.2,0.6l0.1,0.3l-0.9,0.1l-0.1-0.1l-0.2-0.1l0-0.1l0.1-0.1l0.1-0.1l-0.1-0.1l-0.3,0l-0.6,0.1
+              l-0.1,0.3l0.1,0.1l0,0.1l0.2,0.1l-0.3,0.4l-0.2,0.1L32.4,296L32.4,296z M32.3,314.8l-0.1,0l-1.1-0.4l-0.1-0.1l-0.2-0.9l0.2-0.3
+              l0.6-0.3l0.1,0l0.1,0.1l0.1,0.1l0.1,0.4l0.1,0.1l0.1,0.1l0.2,0l0.2,0l0.4,0l0.2,0l0.3-0.1l0.3,0l0.3,0l0.1,0.1l0.1,0.1l0.1,0.2
+              l0.1,0.3l0,0.3l-0.1,0.2l-0.1,0l-0.7,0l-0.8,0L32.3,314.8L32.3,314.8z M27.3,356.2L27.3,356.2l-0.7-1.3l0-0.2l0-0.3l0-0.4l0-0.5
+              l0.3-0.5h0.2l0.2,0.2l0.3,0.3l1,1l0.2,0.5l-0.4,0.6l-0.1,0.1L27.3,356.2L27.3,356.2z M34.5,326.5l-0.3-0.3l-0.1-0.1l-1.1-1.5l0-0.2
+              l0.1-0.4l0.1-0.1l0.1,0l0.4,0l0.2,0l0.8,0.4l0.4,0.3l0.1,0.2l0.1,0.2l-0.1,0.2l-0.5,1l-0.1,0.3L34.5,326.5L34.5,326.5L34.5,326.5z
+               M28.5,304l-1.1-0.3l-0.2-0.2l-0.1-0.1l-0.1-0.4l0.1-0.2l0.2-0.2l0.1-0.1l1.8-0.6l0.5,0.2l0.3,0.5l0.1,0.2l0,0.1l-0.2,0.1l-0.8,0.2
+              l-0.6,0.1l-0.1,0.1L28.5,304L28.5,304z M32.4,319.8L32.4,319.8l-0.6-0.1l-0.1-0.1l-0.3-0.8l-0.2-0.5l0-0.3l0.5-0.6l0.3-0.2l0.2,0
+              l0.5,0.2l0.4,0.4l0.2,0.4l0,0.2l-0.1,0.4l-0.2,0.5L32.4,319.8L32.4,319.8z M17,362.7L17,362.7l-0.2-0.1l-0.1-0.2l0-0.2l0.1-0.9
+              l0.2,0l0.4,0.2l0.4,0.1l0.2,0l0.2,0l0.1-0.1l0.6-0.5l0.7-0.7l0.4,0.3l0.1,0.4l0,0.2l0,0.2l-0.2,0.3l-0.2,0.1l-1.6,0.6L17,362.7
+              L17,362.7z M31,317.8L31,317.8l0-0.2l0-0.4l0-0.2l0.1-0.1l0.1-0.1l0-0.3l0.1-0.2l0.1-0.2l0.1-0.2l0.1-0.1l0.1-0.1l0.1,0l0.1,0.1
+              l0.1,0.1l0.2,0l0.2,0l0.1,0l0.1,0.1l0.1,0.1l0.3,0.1l0.1,0.1l0.1,0.1l0.1,0l0.2-0.2l0.2-0.1l0.1,0.1l0,0.2l-0.1,0.3l-0.1,0.2
+              l-0.1,0.2l-0.2,0.3l-0.1,0.3l-0.1,0l-0.2-0.1l-0.1,0l-0.1,0l-0.2-0.2l-0.2-0.1l-0.2,0l-0.3-0.1l-0.3-0.1l-0.1,0l-0.2,0.1l-0.2,0.1
+              l-0.1,0.2l-0.1,0.3l-0.1,0.2L31,317.8L31,317.8z M30.7,339.8l-0.1-0.1l-0.4-0.5l0-0.2l0-0.2l0.3-0.9l0.1-0.2l0.1-0.1l0.1,0l1.2,0.1
+              l0.5,0.4l-0.8,1.1l-0.2,0.2l-0.1,0.1l-0.1,0.1l-0.5,0.2L30.7,339.8z M33.8,309.5l-0.4-0.4l-0.3-0.3l-0.1-0.2l-0.1-0.1l-0.1-1
+              l0.1-0.2l0.1-0.2l0.1-0.1l0.1,0l0.2,0l0.2,0.1l0.1,0.1l0.6,1.5l0,0.4l-0.1,0.2l-0.1,0.1l-0.1,0.1l-0.2,0l-0.1,0L33.8,309.5
+              L33.8,309.5z M29.7,358l-0.1-0.2l-0.1-0.1l-0.2-0.1l-0.7-0.4l-0.2-0.1l-0.5-0.2l-0.1-0.1l-0.1-0.2l0-0.1l1.2-0.9l0.2-0.1l0.1,0
+              l0.2,0.1l0.1,0.2l0,0.2l-0.1,0.4l0,0.2l0.1,0.2l0.3,0.4l0.2,0.2l0.2,0.2l0.1,0.1l0,0.2l-0.1,0.1l-0.3,0.2L29.7,358L29.7,358z
+               M25.6,319.9l0-0.2l0-0.3l0-0.2l0.2-0.7l0.1-0.1l0.1-0.1l0.1-0.2l0.1-0.1l0.1-0.1l0.5-0.3l0.2,0l0.1,0.1l0,0.1l-0.1,1.3l-0.3,0.7
+              l-0.1,0.1l-0.1,0.1l-0.2,0l-0.1,0l-0.5-0.1l-0.1-0.1L25.6,319.9L25.6,319.9z M33.2,323.4l-0.1,0l-0.1-0.1l-0.1-0.4l0-0.2l0.1-0.2
+              l0.1-0.1l0.3-0.4l0.1-0.2l1.4-0.8l0.1,0l0.1,0.2l0,0.1l0,0.2l0,0.7L35,322l-0.1-0.1l-0.2,0l-0.4,0l-0.2,0.1l-0.2,0.6l-0.3,0.6
+              L33.2,323.4L33.2,323.4z M21.1,349.1l0-0.2l0-0.2l-0.1-0.1l-0.4-0.2l-0.2,0l-0.2,0l-0.2,0l-0.1-0.2l0.4-0.4l1.2-0.7l0.2,0.1
+              l0.3,0.4l0.1,0.3l0.2,0.6l0,0.2l-0.1,0.2l-0.1,0.1l-0.1,0.1l-0.3,0.2l-0.7,0.1L21.1,349.1L21.1,349.1z M32.1,322.5l-0.4-1l-0.2-0.4
+              l-0.1-0.3l0.1-0.2l0.1-0.1l0.3-0.3l0.1,0l0.7,0.2l0,0.5l0,1l0,0.2l-0.1,0.3L32.1,322.5L32.1,322.5L32.1,322.5z M28.7,308.2l-0.2,0
+              l-0.6-0.4l-0.6-0.9l0-0.2l0.1-0.2l0.1-0.1l0.6-0.2l0.2,0.1l1.1,1.6l0,0.1L28.7,308.2L28.7,308.2z M28.6,315.4l-0.9-0.5l-0.1-0.1
+              l-0.1-0.1l-0.2-0.2l0-0.1l0.1-0.2l0.1-0.1l0.2-0.1l0.2,0l0.2,0h0.4l0.2,0.1l0.1,0.1l0.2,0.2l0.1,0.2l0.4,0.9l-0.1,0.1l-0.2,0.1
+              l-0.2,0L28.6,315.4L28.6,315.4L28.6,315.4z M31.9,304.1l-0.2-0.1l-0.3-0.1l-0.2-0.1l-0.1-0.1l0-0.2l0-0.9l1,0.1l0.2,0l0.2,0.1
+              l0.1,0.1l0.1,0.1l0.1,0.2l0.1,0.2l0,0.2l0,0.2l-0.1,0.1L31.9,304.1L31.9,304.1z M40.2,297.1l-0.3-0.1l-0.7-0.4l-0.1-0.2l-0.1-0.3
+              l0-0.2l0.2-0.3l0.1-0.2l0.6-0.3l0.2,0l0.1,0l0.1,0.1l0.1,0.1l0,0.2l-0.1,1.4L40.2,297.1L40.2,297.1z M32.2,301.1l-0.2,0l-0.1-0.1
+              l-0.4-0.3l-0.2-0.2l-0.3-1.1l0.6-0.6l0.1,0l0.6,0.7l0.3,0.4l-0.5,0.2l0,0.2l0,0.2L32.2,301.1L32.2,301.1z M35.6,298.6l-0.7-1.2
+              l-0.3-0.6l0-0.2l0.1-0.2l0.1-0.2l0.1-0.1l0.2,0l0.7,0.9l0.2,0.9l-0.1,0.3L35.6,298.6L35.6,298.6L35.6,298.6z M28.2,358.8l-0.2-0.5
+              l-0.5-0.9l0-0.1l0-0.2l0.2-0.2l0.2,0l0.2,0.1l0.7,0.4l0.5,0.3l0.2,0.1l0.1,0.2l0,0.2l-0.1,0.1l-0.2,0.1l-0.5,0.3l-0.2,0.1
+              L28.2,358.8L28.2,358.8L28.2,358.8z M29.1,314.1l-0.5-0.4l-0.1-0.1l-0.1-0.1l-0.1-0.1l0-0.2l0.1-0.7l0.1-0.2l0.2,0l0.1,0.1l0.8,0.7
+              l-0.3,1.2l-0.1,0.1L29.1,314.1L29.1,314.1L29.1,314.1z M27.9,306l-0.4,0l-1.2,0l-0.4-0.2l0-0.2l0.1-0.1l0.4-0.4l0.1-0.1l0.2,0
+              l0.1,0l0.2,0l0.7,0.2l0.2,0.1l0.1,0.6L27.9,306z M27.9,339.6l-0.2-0.5v-0.5l0.1-0.1l0.6-0.3l0.1,0l0.3,0l0.3,0l0.2,0.1l0.1,0.1
+              l0,0.2l-0.1,0.3l-0.1,0.1l-1,0.9l-0.2,0.1L27.9,339.6L27.9,339.6L27.9,339.6z M22,309.1L22,309.1l-0.2-0.1l-0.3-0.9l0-0.1l0-0.1
+              l0-0.2l0.1-0.2l0.2-0.3l0.2-0.1l0.1,0.1l0.5,0.9v0.6l-0.4,0.4L22,309.1L22,309.1z M32.6,302.5l-1-0.5l-0.1-0.2l-0.2-0.7l0.2-0.1
+              l1.5,0.5l0,1.1l-0.1,0.1l-0.2,0L32.6,302.5L32.6,302.5z M29.2,304.5L29.2,304.5l-0.2-0.1l-0.1-0.2l-0.1-0.1l0-0.2l0.1-0.1l0.7-0.3
+              l0.9-0.1L31,304l-0.5,0.1L29.2,304.5L29.2,304.5z M31.7,358.4L31.7,358.4l-0.3-0.1l-0.8-0.6l-0.6-0.6l-0.1-0.2l0.1-0.2l0.2-0.1
+              l0.2,0l0.1,0l0.2,0.1l0.9,0.6l0.1,0.1l0.1,0.1l0,0.2L31.7,358.4L31.7,358.4z M35.3,324L35.3,324l-1-0.3l-0.2-0.2l-0.1-0.2l0-0.2
+              l0.5-0.9l0.1-0.1l0.1,0l0.4,0.4L35.3,324L35.3,324L35.3,324z M35.2,307.9l-0.3-0.2l-0.2-0.1l-0.1-0.5l0.1-0.2l1.1-0.3h0.1l0.1,0.1
+              l0,0.1l-0.1,1l-0.2,0.2l-0.2,0l-0.2,0L35.2,307.9L35.2,307.9z M33.6,299.4l-0.7-0.1l-0.3-0.1l-0.1-0.1l-0.1-0.1l-0.1-0.1l0-0.2
+              l0.4-0.4l0.2-0.2l0.2,0l0.1,0l0.4,0.3l0.4,0.5l-0.1,0.2l-0.1,0.1l-0.1,0.1L33.6,299.4L33.6,299.4z M31.9,308.2l-0.2,0l-1-0.4
+              l-0.1-0.2l0.2-0.1l0.5-0.1l0.3-0.1l0.1,0l0.2-0.1l0.2-0.1l0.2,0l0.4,0.1l0.1,0.2l-0.1,0.5l-0.1,0.1l-0.1,0.1l-0.3,0.2L31.9,308.2
+              L31.9,308.2z M22.8,348.3L22.8,348.3l-0.5-0.3l-0.1-0.1l-0.2-0.8l0.1-0.1l0.2,0l0.8,0.2l0.1,0.1l0.2,0.2l0.2,0.4l0.1,0.2l-0.1,0.2
+              l-0.4,0.1L22.8,348.3L22.8,348.3z M24.8,305.9L24.8,305.9l-0.3-0.4l0-0.1l0-0.3l0-0.2l0-0.5l0.1-0.2l0.1-0.1h0.1l0.5,0.3l0.1,0.1
+              l0,0.2l0,0.2l-0.1,0.8l-0.2,0.1L24.8,305.9L24.8,305.9L24.8,305.9z M33.1,315.9l-0.7-0.2l-0.3-0.1l-0.1-0.1l0.1-0.2l0.1-0.1
+              l0.4-0.2l0.2,0l1,0l0.1,0.1l0,0.2l0,0.2l-0.7,0.3l-0.1,0L33.1,315.9L33.1,315.9z M33.7,301.2l-0.9-0.2l-0.1-0.1l0-0.5l1.5-0.1
+              l0.2,0l0.1,0.5l0,0.2l-0.1,0.1l-0.1,0L33.7,301.2L33.7,301.2L33.7,301.2z M41.4,293.3l0.4-0.3l0.5-0.1l0.4,0.4l0.2,0.1l0.2,0l0,0
+              l-0.1,0.1l-0.6,0.1L41.4,293.3L41.4,293.3z"/>
+              
+            <!-- aysen -->
+            <!-- magallanes  -->
+            <path onclick="myFun('graficoMagallanes')" id="CL-MA" class="one" d="M40.1,411.9l-0.2,0l-0.3-0.1l-0.3-0.8l-0.2-1.7l-0.1-1.7l-0.2-1.3l-0.1-0.4l-0.4-0.5l0.1,0.4
+              l0.3,0.8l0.1,0.8l0.5,5.1l-0.1,0.5l-0.3,0.2l-0.3-0.2l-1.9-1.6l-0.2-0.2l-0.1-0.5l0-0.6l-0.3-1l-0.4-1.1l0.5-0.3l0.1,0.4l0.8,1.7
+              l0.7,1.2l0.3-0.1l-0.7-1.6l-1-2.4l0.4-0.2l0.3-0.2l0.4-0.6l-1.4,0.4l-0.8,1.1l-0.6-1.1l-0.3-1.1l-0.6-0.2l-0.5-0.2l-0.2-2.9l0-0.4
+              l0.2-0.5l0.9,0.3l1,1.1l0.3,0.6l0.5,1.2l0.1,0.7l0.1-0.1l0.1-0.4l-0.9-2.8l-0.8-3l0.4-0.3l0.4,0.6l0.1,0.4l-0.2-1.7l-0.2-0.2
+              l-0.2,0.2l-0.9,1.1l-0.2,0.2l-0.2,0.1l-1.7-0.5l-0.4-0.3l-0.2-1.7l-0.6-0.4l-0.2-0.2l-0.1-1.6l0.2-0.4l0.4-0.3l0.4-0.2l2.2,0
+              l0.2,0.1l0.3,0.5l0.7-1.9l0-1.5l0.3-0.4l0.8-0.3h0.3l0.5,0.4l0.1,0.5l0.3,0.2l0.3-0.7l-0.6-0.6l-0.5-0.1l-0.4-0.1l-0.6-0.7l0-0.3
+              l0.2-0.3l0.2-0.1l0.3-0.1l0.2-0.2l0.2-0.2l0.3-1.3l-1.8,1.7l-0.2,0.3l-0.2,0.9l-0.3,1.3l0.1,0.4l0.1,0.4l-0.1,0.3l-1,1l-0.2,0.1
+              l-0.9-0.1l-0.7-0.8l-0.4-1l-0.7-1.5l-0.5-1.8l0.7-0.2l0.9,0.3l0.2,0.2l0.2,0.2l0.2,0.2l0.3,0.1l1.2,0.2l-0.5-0.3l-0.5-0.2l-0.8-0.6
+              l-0.4-0.5l-1.6-0.1l-1.7-1.2l-2-2.1l0-0.4l0.2-0.4l0.3-0.4l0.5-0.3l0.9-0.3l0.6,0.2l0.8-0.1l0.5,0.7l0.2,0.5l0.7,0.8l2.3,1l0.6,0.1
+              l0.2,0l0.1-0.1l-2.5-1.2l-0.2,0l-0.2-0.1l-0.3-0.3l-1.6-2.8l0.1-0.6l0.2-0.3l0.7,0.1l0.4,0.1l0.9,1l2.2,0.9l0-0.4l-0.1-0.4l-1-0.5
+              l-0.9-0.4l-1.9-1l-0.3-0.4l-0.2-1l1-0.6l0.5-0.2l0.5-0.1l0.3,0.1l0.4-0.1l0.1-0.5l-1.2,0.2l-0.8,0.2l-0.2-0.1l-0.2-0.6l-0.1-0.7
+              l0.1-0.4L30,374l1.2-0.4l0.2-0.1l1.3,0.3l0.2,0.3l0.2,0.8l0.3,0.4l0.3,0.2l0.3,0.1l0.6,0.6l0.2,0.9l0.1-0.5l-0.2-0.7l-0.2-0.6
+              l-0.2-0.2l-0.7-0.1l-0.2-1l0-0.8l-0.4-0.3l-0.7,0.1l-1-0.3l-0.2-0.2l-0.1-1l0.4-2l0.1-0.2l0.3,0l0.3,0.3l0.1,0.3l0.2,0.3l0.5,0.3
+              l0.3,0.1l0.4-0.1l-0.4-0.3l-0.3-0.1l-0.2-0.1l-0.5-0.9L32,367l0.1-0.3l0.3-0.4l0.2-0.2l0.2-0.1l0.3,0l0.3,0.2l0.2,0.2l0.3,0l0-0.3
+              l-0.6-0.3l-1.4,0.2l-0.1,0.6l0.1,1.3l-0.6,1.2l-0.4,1.2l-0.1,0.8l-0.3,2l-0.2,0.3l-0.2,0l-0.2-0.2l-1-1.4l-0.2-1.2l0-2.6l0-2.9
+              l-0.1-0.5l-0.2-0.5l-0.2-0.7V363l0.1-0.3l0.6-1l0.4,0.3l0.3,0.1l0.2-0.1l0.4-0.3l0.3-0.1l0.8,0.1l0.6,0.2l0,0l3.3,2.9l2.3,2
+              l2.8,2.4l0.2,0.1l0,0l0.8,0.2l-0.5,0.5l-2.7,0.1l-0.4,0l-0.7,1.9l-0.4,1.4l0.1,0.3l0.5,0.7l0.7,2.7l-0.2,0.3l-0.3,0.3l-0.3,0.3
+              l-0.2,1.3l0.4,0.4l0.2,0.2l0.2,0.3l0,0.4l-0.3,0.4l-0.2,0.5l-0.1,0.5l0.1,0.4l0.8,0.6l0.8,0.7l0.2,0.2l0.1,0.3l0.4,0.9l0.1,0.4
+              l0.2,2.2l0.2,1.5l0.5,2.1l0.2,0.3l0.2,0.2l0.3,0l0.2-0.1l0.3-0.1l0.3-0.2l0.3-0.3l0.6-0.8l0.2-0.2L43,390l1-0.5h0.3l0.3,0.3
+              l0.2,0.2l0.2,0.2l0.3,0.1l0.3,0l0.2-0.1l0.2-0.4l0.2-0.3l0.2-0.1l0.3,0l1.1,0.2l0.7,0.6l-0.1,0.4l-0.4,0.8l0,0.4l0.3,0.4l0.2,0.3
+              l0.2,0.5L49,393l-0.2,2.3l-0.2,0.3l-0.5,0.1l-0.6,1.1l0.2,0.8l0.2,0.3l0.2,0.2l0.3,0.2l0.4,0.5l-0.1,0.4l-0.3,0.3l-0.2,0.4l0,0.7
+              l0,0.6l-0.4,1.3l-0.2,0.2l-0.3,0.2l1.1,2.8l0.3,0.2l0.5,0.1l0.3,0.1l0.2,0.1l0.2,0.2l0.5,0.4l1.2,1.4l0.2,0.4v0.5l0.3,1.3l2.1,0
+              l4.4,0h7.6l3.1,0h1.1l0.5,0.2l1.7,0.8l2.9,1.3l1.7,0l0.5,0l1.9,0.8l0.4,0.2l0.5,0.4l1,0.8l1,0.2l0.7,0.1l0.7,0.1l1.3,0.4l-0.1,0.8
+              l-0.3-0.7l-0.3-0.1l-1.6-0.3l-1.1-0.1l-0.2,0l-1.2-0.2l-0.4-0.2l-0.2-0.1l-0.4-0.4l-0.2-0.2l-0.5-0.3l-0.3-0.2l-0.3,0l-0.2,0
+              l-0.5,0.1l-1.7,0.8l-0.2,0.2l-0.1,0.3l0,0.4l0,1.1l-0.6,1.1l-0.2,0.3l-0.5,0.5l-0.2,0.2l-0.2,0.2l-1-0.2l-0.3-0.3l-1,0.2l-2.2,1
+              l-0.3,0.1l-3.1,1.9l-0.3,0l-1.5,0.2l-1.2,0.2l-0.3,2.3l0.1,0.4l0.2,0.2l0,1.1l-0.7,2.2l-0.2,0.3l-0.2,0.2l-0.2,0.3l-0.1,0.5
+              l-0.4,2.7l0,0.5l0,0.4l0.1,0.5l0.1,0.4l0.1,0.5l0.1,0.5l0,0.6l0,0.5l-0.3,2l-0.2,0.4l-0.5,0.6l-1.8,0.8l-0.5,0.2l-1.6-0.8l-0.3-0.1
+              l-0.4-0.1l-0.4,0h-0.2l-0.4,0l-0.6-0.2l-1.5-1.1l-0.8-0.2l-1.1-0.3l-0.6-0.3l-1.6-1.7l-0.6-0.8l-0.5-0.7l-0.2-0.4l-0.3-0.8l0.3-1.4
+              l1.3-1.2l1.6,0.2l0.3,0.7l0.1,0.4l0,0.6l-0.1,0.4l-0.6,0.4l-0.7,0.4l0.4,0.2l0.8-0.2l0.3-0.2l0.6-0.4l0.1-0.3l-0.1-0.5l-0.1-0.6
+              l0-0.3l0.1-0.5l0.2-0.3h1.2l0.3,0.3l0.5,2.9l-0.1,0.4l-0.2,0.2l-0.3,0.3l-0.9,0.5l-0.3,0.1l-0.3,0.2l0,0.5l0.1,0.1l0.5-0.3l1.1-0.4
+              l0.3-0.2l0.4-0.8l-0.1-1l-0.1-0.8l0.1-1l0.3-1.1l2.5-1.3l0.3,0l0.3,0l0.3-0.1l0.2-0.1l0.2-0.1l0.2-0.2l1.9-3.3l0.1-0.4l-0.5-0.8
+              l-0.8-0.2l-0.9-0.1l-2.4,1.3l-2,1.3l-0.8,0.7l-0.2,0.4l-1,1.5l-0.5,0.2l-0.3,0l-0.3-0.2l-0.2-0.3l-0.2-0.4l-0.2-0.3l-0.2-0.2
+              l-0.8-0.3l-2,0.5l-0.3,0.3l0.8-0.1l0.9,0l1.5,1.3l0.2,0.4l-0.1,0.3l-1.3,0.4l-0.3-0.1l-0.4-0.3l-0.7-0.2l-0.5,0.2l0.2,0.4l0.3,0.2
+              l0.2,0l0.3,0.2l-0.9,1.8l-0.3,0.1l-0.5-0.2l-0.3-0.4l-0.2-0.2l0.1,0.6l0.8,0.9l0.3-0.2l0.3-0.1l1,1.5l0.1,0.4l-0.2,0.3l-0.9,0.1
+              l-0.1,0l-0.3-0.3l-1.9-1.5l-1.3-0.7l-0.7-0.5l-0.2-0.3l-1-0.8l-0.2-0.1l-0.3,0l-0.2-0.1l-0.6-0.6l-0.8-1.2l2.1,0.1l0.7-0.2l0.5,0.1
+              l0.9,0.8l0.7,1.1l0.2,0.2l0.4-0.1l0.2-0.8l-0.5-0.5l-0.4-0.4l0.3-0.7l0.4,0.1h0.5l-0.5-0.3l-0.6-0.1l-0.3,0.1l-0.2,0.3l-0.2,0.1
+              l-0.8-0.7l0.2-0.3l0.1-0.2l0.2-0.7l-0.4-0.5l-0.3-0.9l-0.1-1.2l0.4-0.5l1.9-1.2l1.3,0.8l1.1,0.4l0.4-0.1l1.1-1l1.1-1.3l0.1-0.3
+              l1.6-0.2l1.1,0.8l0.5,0.1l0.5,0l0.7,0l0.4,0l0.3,0L55,421l1.4-0.7l-0.4-1l-0.2-0.2l-0.4,0l-0.2,0.1l-0.3,0l-1.2-0.2l-1.4-0.3
+              l-2-0.3l-1.4,0.1l-0.3,0.1l-0.3,0.4l-0.2,0.6l-0.5,1.1l-1.2-1l0.5-0.7l0.3-0.2l0.3,0l0.4-0.2l-0.2-0.3l-1,0.3l-0.2,0.2l-0.8,0.1
+              l-1.5,0l-1,1.3l0.2,0.2l0.7-0.4l1.2,0.5l0,0.4l-0.7,1.1l-0.4,0.4l-0.6,0.6l-0.6,0.1l-0.2,0.1l-0.3,0.4l-0.2,0.4l0.3,1l0.3,1.1
+              l0,0.7l-0.3,0.6l-1,0.4l-0.1,0.1l-0.3,0.2l-0.7,0.1l-1.1-0.5l-1.2-1.2l1.3-1l0.7-0.8l-1.2-0.2l-1.9-1.2l0.5-0.4l0.9,0.1l0.2,0.3
+              l1.5-0.2l-0.2-0.5l0-0.6l1.5-3.3l0.4-0.2l0.8,0.2l0.5,0.2l0.3,0.1l-0.3-0.4l-0.9-0.2l-0.3,0l-0.3,0l-0.7,0.1l-0.3,0.3l0.1,0.8
+              l-0.1,0.3l-0.9,1.4l-0.4,0l-0.2-0.2l-0.1-0.3l0-0.7l-0.3-0.2l-0.2,0.1l-1.1,0.9l-0.5,0.6l-0.3,0.6l-0.2,0.3l-0.8-0.4l0.1-1.9
+              l0.5-0.6l0.4-0.1l0.3,0.1l0.1-0.3l-0.5-0.1l-0.2-0.3l-0.5-1.4l0-0.5l0.2-0.3l0.3,0.1l0.3,0l0.2-0.8l-0.2-1.5l-0.6-1L35,412
+              l-0.2-0.4l0.1-0.5l0.3-0.2l0.2,0.3l0.1,0.6l1.1,1.8l0.3,0l0.4-0.4l1.1,0.7l0.2,0.1l0.6-0.1l0.2-0.2l0.2-0.7l0.5-0.8l0.6-0.3
+              l0.7-0.3l0.4,0.1l0,1.1l0,0.7l0.7,1l0.4,0.2l0.3-0.4L44,412l-0.1-0.6l-0.3,0.3l-0.3,0.8l0,0.4l-0.3,0.6l-0.6-0.5l0-1.3l0.8-2
+              l0.6-0.3l1,0.8l0,0.9l0.4,0.7l0.4,0.2l0.2,0.2l0.5,0.9l0.2,0.5l-0.4,1.9l-0.3,0.4l-1.3,0.5l-1.8,1.1l0.3,0.1l0.7-0.3l1.8-0.7
+              l0.5-0.3l0.9-0.9l0.2-1.8l-0.1-0.3l-0.6-0.8l-0.9-1.2L45,410l0.3-0.3l1.1,0.2l0.2-0.1l0.2-0.2l0.1-0.2l-0.1-2l-0.4-0.9l-1.4-1.7
+              l-0.5-0.5l-0.2-0.1l-0.4-0.1l-0.4,0l-0.8-0.4l-1.3-0.9l-0.2-0.4l-0.4-0.3l-0.4,0.1l-0.8,0.2l-0.3,0.3l0.1,0.3l0.4,0.2l0.2-0.1
+              l0.4-0.3l0.8,0.3l0.8,0.4l1.2,1.1l1.4,1.4l0.2,0.1l1.1,0.3l0.2,0.3l-0.2,0.8l-0.6,0.7l-0.9,0.1l-0.7-0.5l-0.2-0.5l-1.6-0.7
+              l-1.9-1.4l-0.6-0.4l-0.4,0.1l0.5,1.5l0.3,0.2l0.4,0.1l0.3,0l0.3-0.2l0.3,0.2l0.3,0.3l0.3,0.5l-0.6,1l-0.2,0.1l-0.4,0.1l-0.6,0.2
+              l1.1-0.2l0.6-0.5l0.3-0.2l0.3,0.2l0.1,0.4l-0.3,0.3l-0.7,0.3l-0.6,0.3l-0.5,0.3l-0.2,0.4L40.1,411.9L40.1,411.9z M83.3,454.8l0,1.6
+              l-0.1,0.1l-0.1,0l-0.2,0l-0.1-0.1l-0.2-0.2l-0.3-0.4l-0.2-0.1l-1.3-0.6l0.4,0.7l0.1,0.1l0.1,0.2l0.2,0.2l0.4,0.2l0.1,0.3l-0.2,0.3
+              l-0.3,0.1l-1.5,0.3l-1,0.1l-0.2,0l-0.2,0l-3.5-1.3l-0.7-0.3l-1-0.5l-0.1-0.4l0.1-0.2l0.3-0.3l0-0.2l0-1l-0.1,0l-0.7,0.5l-0.1,1
+              l-0.2,0.4l-3.3,0.7l-1.2,0.1l-0.3,0l-0.3-0.1l-0.2-0.2l-0.1-0.3l0-0.5l0.2-0.2l0.2-0.3l0.5-0.9l0-0.2l-0.1-0.1l-0.8,1.1l-0.3,0.6
+              l-0.1,0.3l0,0.2l-0.3,0.1l-0.4-0.1l-1.9-0.1l-1,0.5l-0.1,0l-0.1,0l-0.4-0.1l-0.2-0.1l-0.1-0.2l0.5-0.6l0.2-0.1l0.1-0.1l0.4-0.1
+              l0.3-0.1l0.6-0.3l0.8-0.5l0.2-0.2l0.6-0.8l0.1-0.2l-0.1-0.1l-0.2,0l-0.6,0l-0.1,0l-0.6,0.7l0.1,0.1l0.2,0.2l-0.1,0.1l-0.4,0.3
+              l-0.9,0.3l-0.7,0.2l-0.9,0l-0.2-0.5l0.1-0.1l0.4,0l0.7-0.2L63,453l-0.1-0.1l-0.1,0l-0.1,0l-0.6,0.2l-0.6,0.5l-0.7,0.9l-0.2,0.1
+              l-0.1-0.1l0-0.2l0.1-0.2l0.1-0.1l0.1-0.2l0.1-0.1l0.1-0.2l0.3-1.1l0-0.3l-0.4-0.1l-0.3,0.2l0,0.2l-0.1,0.2l-0.1,0.2l-1,0.6
+              l-0.2,0.1l-0.9-0.4l-0.2-0.1l-0.1-0.1l0-0.2l0.1-0.1l0.1,0l0.1-0.5l0-0.6l-0.7-0.9l-0.2,0l-0.5,0.5l-0.7,1.9l-0.1,0.4l-0.1,0
+              l-0.1-0.1l-1.5-1.1l-0.1-0.1l-0.3,0l-0.3,0.1l-0.4,0.4l-0.2,0.3l-0.2,0.1l-0.9,0.1l-0.1,0l-0.2-0.1l-0.1-0.2l-0.1-0.3l-0.2-1
+              l-0.1-1l0.1-0.8l0.1-0.1l0.1,0l0.5,0.2l0.4,0.5l0.1,0.3l0,0.2l0.1,0.2l0.2,0.1l0.7,0.3l0.6,0.2l0.1,0l0.9-0.5l-1.1-1.3l-0.2-0.1
+              l-0.1,0l-0.3,0.2l-0.2,0l-0.4-0.3l-0.1-0.2l-0.1-0.5l0.5-0.3l0.2,0l0.2,0l0.1,0l0.2,0.2l0.1,0.4l0.7,1l0.2,0.1l0.2,0.1l0.4,0.1
+              l0.7-0.3l0-0.2l-0.2-0.2l-0.6-0.1l-0.2-0.1l-0.1-0.1l-0.2-0.3l-0.1-0.4l0.2-0.2l0.1,0l1.3,0.6l0.7-0.3l-0.4-0.3l0.2-0.3l0.4-0.3
+              l0.1,0l1.6,1l2.1,0.6l0.3-0.9l0-0.2l0-0.2l0-0.2l-0.1-0.4l0.1-0.2l0.4-0.3l0.4-0.1l0.4,0l0.3,0l1,0.1l0.1,0l0.4,0.1l0.1,0.1
+              l-0.6,0.9l-0.4,0.9l-0.2,1l-0.2,1.3l0.3-0.4l0.7,0.6l-0.4-0.8l-0.1-0.1l-0.1-0.4l0-0.3l0.3-1l0.1-0.2l0.2-0.3l0.1-0.2l0.4-0.4
+              l0.2,0l0.1,0.3l0.1,0.2l1,0.9l0.3,0.1l0.1,0.1l0.1,0.1l0.5,0.4l0.1,0.1l0.1,0.1l0.1,0.2l0.1,0.2l0.2,0.1l0.2,0l1.1-0.5l-0.9-0.7
+              l-0.2-0.2l-0.4-0.2l-0.2-0.1l-0.5-0.3l-0.2-0.1l-0.2-0.1l-0.4-0.3l-0.1-0.2l-0.5-0.8l0.1-0.3l0-0.2l-0.1-0.2l-0.1-0.2l-0.2-0.2
+              l-0.2-0.2l-0.6-0.2l-0.2,0l-0.4,0l-0.8,0l-0.3,0l-0.2,0l-0.1-0.1l-0.2-0.2l-0.1-0.2l-0.4-1.5l0.4-0.1l0.2,0.2l0.7,0.5l1.3,0.7
+              l2.9,1.6l1.8,1.7l0.2,0.1l0.7-0.7l0-0.2l-0.1-0.1l-0.7-0.2l-0.2-0.1l-0.2-0.2l-0.1-0.2l0-0.2l0.6-0.6l0.4-0.3l0.2-0.1l0.1,0l0.1,0
+              l0.5,0.3l0.3,0.5l1,2.1l0.7,1.8l0.2,0.3l0.2-0.1l0.1-1.2l-0.6-1.5l-0.4-0.8l-0.2-0.1l-0.2-0.2l0.2-0.4l0.1-0.1l0.2,0l0.4,0.1
+              l1.1,0.6l0.2,0.2l0.2,0.3l2.3,0.6l1.3,0.8l0.1,0.1l0.1,0.1l0,0.2l0,0.2l-0.7,0.9l-0.1,0.1l-0.4,0.2l-0.1,0.2l-0.4,0.8l-0.1,0.3
+              l0.3,0.9l0.1,0.1l0.1-0.6l0.3-0.9l0.2-0.5l0.1-0.2l0.1-0.2l0.3-0.2l0.2-0.1l0.1,0l0.1,0.1L78,451l0.2,0.4l0,0l0.2-0.4l-0.1-0.6
+              l-0.1-0.2l0-0.3l0.1-0.2l0.1-0.3l0.1-0.1l0.4,0l0.1,0l0.3,0.1l0.4,0.3l0.1,0l0.1-0.1l0-0.6l-0.1-0.2l-0.1-0.1l-0.6-0.4l-1.8-1
+              l-1.3-0.6l-0.3-0.1l-0.8-0.3l-0.1-0.1l-0.1-0.2l-0.2-0.3l-1-0.4l-0.3-0.1l-0.2,0l-0.2,0l-0.2,0l-0.3-0.1l-0.8-0.3l-1.6-1.1
+              l-0.2-0.2l-0.1-0.2l-0.7-2.5l-0.3-1.4l-0.1-0.4l0-0.3l0-0.3l0.2-0.3l0.2-0.2l2.2-1.4l0.1,0l0.3,0l0.2,0l0.1,0l0.2,0l0.5-0.2
+              l3.8-2.1l0.1-0.1l0.1-0.2l0-0.3v-0.2l-0.2-1.6l-0.1-0.2l-0.2-0.2l-1.8-0.2l-0.3,0l-2.7,0.4l-0.1,0l-0.4,0.1l-0.3,0.2l-0.4,0.3
+              l-0.1,0.2l-0.2,0.4l-0.2,0.1l-1.2,0.6l-0.1,0l-0.1,0l-0.2-0.1l-0.2-0.1l-1.7-1.5l-0.1-0.2l-0.3-1.2l-0.1-0.8l0-0.2l0.3-2.8l0.1-0.2
+              l0.1-0.2l0.1-0.2l0.7-0.9l0.1,0.1l-0.1,0.4l0,0.2l0.2,0.8l0.2,0l1.1-0.4l0.2-0.1l0.2-0.1l0.1-0.1l0.1-0.1l0.1-0.1l0.1-0.2l0.3-0.9
+              l0-0.2l0-0.3l-0.1-0.2l-1-0.2l-0.4-0.7l0-0.2l-0.1-0.2l-0.2-0.2l-0.2-0.1l-0.3,0h-0.1l-0.2,0l-0.3,0.1l-0.1,0l-0.1-0.1l0.2-0.3
+              l0.3-0.2l1.7-0.3l0.2,0l0.2,0l0.2,0.1l0.1,0.1l0.1,0.2l0.1,0.3l0.3,0.5L70,423l0.2,0.2l0.2,0.1l0.2,0l0.2,0l0.2-0.1l1.7-1l0.2-0.2
+              l0.2-0.3l0.9-1.5L74,420l0-0.2l-0.1-1.3l0.2-0.2l0.2-0.2l1.1-0.6l0.3-0.1l0.5,0.7l0.1,0.1l0.1,0.2l0,0.2l0,0.2l0.1,0.2l1.1,1.5
+              l0.1,0.1l0.3,0.3l0.3,0.2l0.3,0.1l0.2,0L79,421l1.1-0.5l1.2-0.8l0.1-0.1l0.1-0.2l1.1,0.4l0.7,0.6l0,0.1l0,2.3l0,7.6l0,1l0,2.7
+              l0,5.3l0,2.5l0,5.5l0,0.3l0,3.1L83.3,454.8L83.3,454.8z M25.1,381.1l-0.1,0l-0.7-0.4l-0.2-0.2l0.3-0.5l0.3-0.3l0.6-0.4l0.2-0.1
+              l0.2,0.1l0.3,0.2l-0.5-0.6l-0.3-0.1l-0.3,0.1l-0.8,0.6l-0.3,0.1l-0.2-0.4l0.1-0.7l0.2-1.4l-0.3-1.5l0.3-2.2l0.4-0.4l0.6-0.5
+              l1.2-1.7l-0.4,0.1l-0.6,0.8l-1.1,1.2l-0.8,0.5l-0.1-0.3l-0.1-0.6l-0.3,0.4l0,0.4l0,0.7l0,0.6l0.2,0.4l0.2,0.3l-0.2,1.9l-0.3,1.3
+              l-0.3-0.1l-0.9-0.7l-0.7-1.4l-0.8-1.8l0.2-0.9l-0.2-1l-0.3-0.6l-0.4-0.4l-0.3,0.2l-0.3,0.2l-0.2-0.8l0-0.4l0-0.8l0.4-0.5l0.2-0.1
+              l0.2,0l0.5,0.9l0.1,0.4l0.3,0.7l0.8,1l0.3,0.2l0.1,0l0-0.1l-0.4-0.6l-0.3-0.5l-0.2-0.2l-0.2-0.3l-0.4-1l0-0.7l0.4-0.1l0.2,0.2
+              l0.5,0.9l0.3,0.1l0.8-1.1l0.1-0.3l-0.2-0.6l0.3,0.2l0.8,0.9l0.6,0.7l0.3-0.7l0.6-2.8l-0.6-0.7l-0.3-0.4l-0.2-0.1l-0.2-0.3l-0.5-1.2
+              l-0.4-1l0.1-0.6l0.7-0.5l1.3-0.9l0.9-0.2l1.9,0.5l0.2,0.6l0.2,2.1l0.2,0.6l0,0.3l-0.1,1.8l0.3,1.6l0,0.3l0,1.2l-0.3,1.8l-0.2,0.7
+              l-0.2,0.4l-0.1,0.6l0.2,0.7l-0.5,0.5l-0.5,1l0,0.4l0.6-0.6l0-0.3l0-0.3l0.6-0.1l0.2,0.3l0.2,0.5l0.1,0.9l-0.5,2.8l-0.1,0.2
+              l-0.6,0.7l-0.8,0.7l-0.3,0.1L25.1,381.1L25.1,381.1z M84,463.5l-0.2,0l-0.2-0.1l-0.2-0.3l-0.2-0.4l-0.2-0.2l-0.3,0l-0.3,0.3
+              l1.3,1.4l0.5-0.2l0.3-0.2l0.2-0.1l0.3,0l0.5,0.1l0.6,0.3l1.7,0.8l0.2,0.3l-0.1,0.5l-0.2,0.3l0.4,0.1l0.6-0.1l-0.4,0.9l0.6,1
+              l0.3,0.1l0.5,0.1l-0.1,1.3l-0.7,0.7l-0.1,0.1l0,0l-0.3-0.1l-0.1-0.2l-0.3-0.5l-0.7-0.9l-0.4-0.8l0.1-0.6l-1-0.9l-0.2-0.1l-0.3,0.4
+              l-0.5,0l-0.6-0.6l-0.7,0l-1.1,0l-0.4,0.5l-0.5,0.2l-0.2,0l-0.4-0.3l-0.4-0.5l-0.3-0.5l0.3-0.5l0.6-0.2l0.2,0l0.2,0.1l0.3-0.1
+              l0.1-0.8l-1.2,0.4l-0.1-0.3l0.2-0.9l0.3-0.8l0.4-0.4l0.1-0.3l-1.5,1.2l-0.6,0.1l-1.1-0.3l-0.2-0.1L78,462l-0.2-0.4l-0.3-1.1
+              l-1.2,0.2l-0.3,0.1l-0.2,0.2l0.6-0.1l0.7,0.1l0.3,1l-1,0.4l-0.1,0.7l0.8,1.3l0,1l0.8,0.2l0.7,0l-0.1,1l-0.2,0.2l-1.5-0.4l-1,0.2
+              l-0.6-1.5l0.3-0.6l0.5-0.1l0.2-0.2l-0.7-0.4l-0.3,0l-0.8,0.7l-0.4-0.7l-0.9-0.4l0.1-0.5l0.3-0.6l0.7-0.6l0.3-0.1l0.3-0.1l0.2-0.3
+              h-0.4l-0.4,0.3l-0.9,0.7l-1.4,0.4l-0.2,0l-0.6-0.6l0.5-0.1l0.2-0.2l-0.6-0.6l-1.1-0.1l-0.2-0.2l0.2-0.5l0.7-0.8l0.3-0.2l1-0.2
+              l1.4-0.2l2.7-0.5l1.6-0.4l1.9-0.2l1.5,0.1l0.2,0l0.7-0.5l0.8-0.1l1.4-0.1l1,0.4l0.6,0.8l0.2,0.7l-0.1,0.4l-2.2,1l-0.2,0.3l-0.6,0.1
+              l-1.2-0.3l-0.5-0.3l-0.3-0.3l-0.3-0.3l-0.2-0.1l-1.1-0.7h-0.2l-0.2,0.4l0.9,1l0.7,0.4l1.1,0.7l1.7,0.1l1.4,0l0.6,0l1,0.7l0.7,0.7
+              l-0.1,0.3l-2.8,0.4L84,463.5L84,463.5z M38.9,439.2l0.5-0.3l0.1-1.5l-1.3,0.1l-0.4,0.3l-0.3,0.2l-0.3,0.1l-0.8,0l0.4-0.4l0.3-0.2
+              l0.2-0.2l-0.1-0.6l-0.3,0l-0.4,0l-0.3,0l-0.2-0.2l0-0.6l0.1-0.3l0.2-0.2l0.4-0.1l0.2,0.2l0.2,0l0.2-0.2l0.3-0.3l0.2,0l0.7,0.4
+              l0.2,0.3l0.1,0.3l0.2,0.4l0.3,0.2l0.8,0.3l0.3,0l0.9,0l0.9-0.1l0-0.4l-0.3,0l-0.2,0.2l-0.6,0.1l-0.6-0.1l-0.3,0l-0.7-0.2l-0.3-0.2
+              L38,434l-0.2-0.6l0.4,0l0.3,0.1l0.5,0.3l1.8,0.3l-0.3-0.8l-0.4-0.6l0.9-0.3l0.7,0.1l0.8,0.3l0.4,1.7l-0.2,0.7l-0.2,0.6l0.3,0.9
+              l0.6-1.7l0.1-0.5l-0.3-0.6l-0.2-0.6l0.7,0.3l0.5,0.6l0.6,1.3l0.8-0.7l1,0.1l0.4,0.3l0.4,0.6l0,0.4l-0.3,0l-0.3,0.1l-0.2,0.3
+              l0.4,1.1l0.3-0.5l0.3-0.4l1,0.4l0.2,0.2l0.9,1.2l-0.3,0.2l-0.2,0l-0.2,0.7l-0.3,0.2l-0.2,0l-0.8-0.2l-0.6,0.5l0,1.1l0.2,0.2
+              l0.4,0.2l0.3,0.1l0,0.7l-1,0.1l-1,0.9H46l-0.2-0.1l-0.4-0.5l-0.8,0.4l-1.1,0.7l-0.5,0l-1.1-0.6l-0.3-0.3l0.2-0.3l1.1,0l1.1-0.7
+              l0.5-2.8l-0.7-0.4l-0.3,0.2l-0.6,0.5l-0.3,0.1l-0.8-0.1l-0.1-0.4l0-0.4l-0.3-0.1l-0.4,1.7l0,0.4l-0.3,1.1l-0.9-0.4l-0.3-0.8L39,440
+              l-0.2-0.6L38.9,439.2L38.9,439.2z M88.7,456.7l0.9,0l1,0.1l0.8,0.1l1.3,0.1l0.6-0.1l0.2,0l1.2,0l0.4,0l0.6,0.2l0.4,0.1l0.3,0.1
+              l0.2,0.1l0.4,0.2l0.2,0.2l1.1,1.6l0,1.1l-0.2,0.7l-0.1,0.3l-0.1,0.1l-1.2,1.7l-0.1,0.1l-0.4,0.1H96l-1-0.3l-0.2-0.1l-0.2-0.1
+              l-0.1-0.2l-0.1-0.2l0-0.3l0.2-0.2l0.1-0.2l0-0.2l-0.1-0.2l-0.2-0.2l-0.2-0.1l-0.2-0.1l-0.3-0.1l-0.2,0l-0.2,0l-0.3,0.1l-0.1,0.1
+              l-0.1,0.1l-0.1,0.2l-0.1,0.4l0,0.4l-0.1,0.1l-0.1,0l-1.4-0.1l-0.2-0.1l-0.5-0.3l0.1-0.2h0.1l0-0.3l-0.3-0.5l-0.2,0.1l-1.2,0.7
+              l-0.3,0.2l-0.1,0l-0.2,0l-0.2-0.1l-0.1-0.1l-0.2-0.2l-0.1-0.2l-0.4-1.8l0.1-0.3l-0.2-1.6l-0.2,0l-0.9,0l-0.3-0.4l-0.1-0.6l0.2-0.2
+              l0.1-0.1l1.3-0.2L88.7,456.7L88.7,456.7z M38.3,430.2l0.6-0.1l0.1,0l0.7,0.5l1.1,0.8l0.1,0.2l-0.1,0.2l-0.1,0.1l-0.1,0l-1.1-0.1
+              l-2.4-0.6l-0.1-0.4l-0.1-0.2l-0.7-0.3l-0.3-0.6l-1.1-1l-0.2,0l-0.9-0.9l-0.6-0.8l-0.8,0.2l-0.4,0.2l-0.5,0.3l-2.2-0.1l-0.2-0.1
+              l-0.2-0.9l-0.7-0.9l-0.2,0l-0.6-0.2l-0.8-0.6l-0.1-0.2l0.1-0.3l0.2-0.8l-0.3-0.4l-0.1-0.1l-0.2-0.1l-0.4-0.2l-0.1-0.1l-0.5-0.7
+              l0.4-0.6l0.1,0l0.4,0.3l1.4,1.3l0.5,0.6l0.4,0.9l0.4,0.5l1.1,0.2l0.1-0.2l0.4-0.1l0.6-0.1l1,0.4l1.2,0.7l0.6,0.5l0.4,0.2l0.7,0.4
+              l0.6,0l0-0.3l0.5,0.1l0.4,0.5l0.1,0.1l0.2,0.7l-0.1,0.2l-0.1,0.2l-0.1,0.2l0.3,0.9l0.1,0.2l0.1,0.1l0.4-0.7l-0.1-0.3l-0.1-0.4
+              l-0.1-0.5l0.1-0.2l0.1,0l0.2,0.1l0.3,0.1l1,1.3l0,0.2L38.3,430.2L38.3,430.2z M58.2,442.1l0.2,1l0.8,0.2l0.8-0.4l0.6,0.5l0.1,0.2
+              l0.2,1.2l0,1.5l-1.1,1.8l-0.1,0.1l-0.2,0l-0.2-0.2l-0.4-0.5l-0.5-0.1l-0.9-0.4l-0.9-1.7l0-0.3l0.1-0.3l0.1-0.1l0.3,0l0.1-0.1
+              l0.1-0.1l-0.4-0.6l-0.8,0.6l-0.4,1.1l-0.1,0.2l0,0.4l-1-0.2l-0.2-0.1l-0.2-0.5l-0.1-0.3l-0.1-0.3l0-0.2l0.6-0.7l-0.2-1.9l0.1-0.4
+              l0.2-0.2l0.2-0.1l0.4-0.1l1,0l0.9,0.4l0.7,0.4l0.1,0.1L58.2,442.1L58.2,442.1z M65.4,445.6L65.4,445.6l-0.9-0.4l-0.4-0.2l-0.4-0.2
+              l-0.1-0.1l-0.9-0.8l-0.2-0.2l-0.6-1l-0.2-1.6l0-0.2l0-0.9l0.1-0.2l0.5-0.4l0.5-0.2l0.2,0l0.8,0.3l0.2,0.2l0.1,0l0.1,0l0.2-0.1
+              l0.1-0.2l0-0.2l-0.1-0.2l-0.2-0.2l-0.1-0.1l-0.4-0.2l-0.1-0.1l-0.1-0.2l0-1l0.1-0.2l0.3-0.1l0.1-0.1l0.1-0.1l0.2-0.2l0.2-0.2
+              l0.1-0.2l0.1-0.2l0.1-0.3l0.1-0.3l0.1-0.2l0.1-0.1l0.1-0.1l0.4-0.1l0.1,0.2l0,1.2l0,0.2l-0.1,0.2l0,0.2l0,0.3l0,0.2l0,0.2l0.5,2.2
+              l0.5,1.4l0.3,1l0,0.2l-0.2,0.2l-0.2,0.1l-0.4,0l-0.1,0l-0.2,0l-0.2-0.1l-0.3-0.2l-0.3-0.3l-0.3-0.4l-0.1-0.2l-0.9-0.9l-0.1,0.2v0.2
+              l0.1,0.5l0.1,0.2l0.1,0.1l0.2,0.3l0.2,0.2l0.1,0.1l0.2,0.3l0.4,1.3l0.1,0.3l0.2,1.2L65.4,445.6L65.4,445.6z M54.5,441l-0.5,0.5
+              l0.1,0.2l0.2,0.2l0.3,1.3l0,0.3l-0.6,0.8l-0.2,0.2l-0.1,0l-0.1,0l-0.4-0.1l-0.1-0.1l-0.1-0.1l-0.1-0.2l-0.8-1.3l0-0.3l0-0.3L52,442
+              l-0.1,0l-0.1,0.2l0,0.2l0,0.2l0.3,1.1l0.3,0.4l0.1,0.1l0.2,0.1l0.9,1.2l0,0.2l-0.1,0.2l-0.8,1.2l-0.1,0.1l-0.1,0l-0.8-0.2l-0.2-0.3
+              l0.1-0.9l-1.5-1.5l-0.9-0.9l-0.1-0.2l-0.1-0.2l-0.1-0.2l-0.3-1.7l0-0.4l0-0.3l0.4-0.1l0.1,0l0.1,0l0.6,0.2l0.1,0.1l0.1,0.3l0.4,0
+              l0.5-1.2l0.2-0.4l0.2-0.1l0.2-0.1l2.1,0.8l0.6,0.3l0,0.3L54.5,441L54.5,441z M22.3,384.7l-0.2,0.3l-1.2,1.6l-0.1,0.1l-0.2,0.1
+              l-0.7-0.1l-0.1,0l0-0.1v-0.2l0.1-0.2l0.3-0.2l0.3-0.3l0.4-0.6l-0.1-0.1l-0.6,0.2l-0.5,0.3l-1,0.4h-0.1l-0.1-0.1l0-0.2l0.1-1
+              l0.2-0.8l0.3-0.7l0.1-0.2l0.1-0.1l0.1-0.1l0.2,0l0.2,0.1l0.6,0.3l0,0.1l-0.1,0.2l-0.1,0.1l-0.3,0.1h-0.4l-0.1,0.1l0.1,0.3l0.1,0.1
+              l0.4,0.2l0.8,0.2l0.5-0.1l0-0.7l-0.1-0.5l-0.7-0.2l-0.7-0.5l-0.8-0.6l-0.2-0.5l0.8-0.6l0.2,0l1.5,0.4l0.1,0.1l1.2,1.5l-0.5,0.5
+              l-0.1,0.2l-0.1,0.2l0.4,0l1.6-0.4l0.2-0.4l-0.1-0.2l0.4-0.2l0.1,0.2l0.1,0.3l0,0.5l-0.2,0.5l-1.8,1.1l-0.1,0.1L22.3,384.7
+              L22.3,384.7z M25.5,396.9l-1.6-0.7l-0.7-1.3l0-0.2v-0.2l0-0.2l0.3-0.7l0.1-0.1l0.5,0l1.1,0.3l0.5,0.2l0.7-0.4l0.1-1.2l0-0.3
+              l-0.1-0.2l-0.3-0.3l-0.1-0.1l-0.2-0.1l-0.1-0.1l0-0.2l0.2-0.1l0.3,0.1l0.7,0.3l0.6,0.4l0.8,0.8l0.1,0.2l0,0.3l0.2,2.5l-0.2,0.9
+              l-0.1,0.1l-0.1-0.1l0-0.3l-0.1-0.5l-0.3-0.4l-0.1-0.1l-0.1,0l-1.1,0.7l-0.2,0.6l-0.1,0.1L25.5,396.9L25.5,396.9L25.5,396.9z
+               M67,456.6l0.3,0l0.1,0.1l-1.2,0.6l-0.4,0l-0.2,0.2l0,0.3l0,0.3l-0.1,0.2l-1,0.2l-0.3,0l-0.3-0.1l-0.2-0.1l-0.1,0.1l-0.1,0.3
+              l0.8,0.3l1.5,0.2l1.2-0.2l0.1,0l0.5,0l0.1,0.1l0.1,0.3l0.1,1l-0.3,0.3l-0.3,0l-0.1,0l-0.1-0.1L67,460l-0.2-0.3l-0.2,0l-0.1,0
+              l-0.3,0.3l0,0.4l0.1,0.1l0.3,0.1l0.2,0l0.1,0.1l0.1,0.2l-0.1,0.2l-1.4,0.6l-0.2,0l-0.1-0.1l-0.1-0.2l0-0.3v-0.4l0.2-0.4l-0.5-0.6
+              l-0.9,0.7l-0.2,0l-2.1-0.8l-0.7-0.6l-0.1-1.3l0.1-0.2l0.1-0.1l1-0.2l0.8,0.2l0.4,0.1l0.4,0.2l1.2,0l0.2-0.1l-0.5-0.2l0.1-0.2l1-0.6
+              l0.1,0l0.6,0L67,456.6L67,456.6z M30.3,392.9l-0.3-0.7l-0.1-0.1l-0.2-0.2l-0.4,0.2l0,0.2l-0.8-0.3l-0.9-0.8l-0.1-0.1l-0.5-1
+              l-0.1-0.2l0-0.3l0-0.2l0.7-0.7l0.7-0.7l-0.7-0.3l-0.1,0l-0.3,0.1H27l-1-0.5l0.6-0.5l0.1-0.1l0.3-0.2l0.2-0.1l0.1,0l1.6,1.1l0.8,2
+              l0.4,0.8l0.5,1.4l0,0.3l0,0.4l-0.1,0.5L30.3,392.9L30.3,392.9L30.3,392.9z M71.2,459l0.1-0.5l0-0.2l-0.2-0.4l-0.3-0.1l-0.1-0.2
+              l0.2-1l0.1-0.1l0.6-0.2l0.1,0l1-0.2l0.5,0l2.7,0.6l0.3,0.1l1.6,0.5l0.4,0.3l-0.2,0.1l-0.3,0l-1.8,0.4l-0.9,0.3l-1.4,0.3l-1,0.2
+              L71.2,459L71.2,459z M33.1,421.7L33.1,421.7l-0.2-0.1l-1.2-1.5l-0.1-0.2l0-0.2l0.2-0.6l0.1-0.1l0.5-0.6l1.5-1.4l0.6-0.4l0.1,0
+              l0.1,0l0.1,0.1l0.1,0.2l0.4,0.9l-0.5,1.9l-0.5,1.2l-0.1,0.1l-0.1,0.2l-0.2,0.1l-0.2-0.1l-0.1,0l-0.3,0.2L33.1,421.7L33.1,421.7z
+               M22.9,402.4L22.9,402.4l-0.3-0.2l0.1-0.4l0.7-0.5l0.5-0.2L24,401l0.7-0.8l0.1-0.2l-0.1,0l-1,0.6l-0.2,0.2l-0.2-0.1l-0.1-0.2l0-0.2
+              l0-0.2l0.1-0.1l1.5-1.6l0.7-0.2l1,0l0.4,0.5l0.1,0.1l0.2,0.7l-0.1,1.3l-0.1,0.2l-0.4,0.5l-0.1,0.1h-0.2l-0.1-0.1l-0.3-1.1l-0.4,0.2
+              l-0.2,0.5l-0.4,0.9l-0.1,0.1l-0.4,0.1l-0.4,0l-0.5,0.1l-0.2,0.1L22.9,402.4L22.9,402.4z M19.7,392l-0.9-0.3l-0.2-0.1l-0.1-0.1
+              l-0.6-1.5l0.1-0.2l0.4-0.4l0.3-0.2l0.1,0l0.1,0l0.2,0.2l0.1-0.4l-0.3-0.7l-0.3-0.2l-0.3-0.2l0-0.2l0.5-0.4l0.2,0l1.9,0.4l0.8,0
+              l0.1,0.1l-0.1,0.2l-0.9,1.3l-0.2,0l-0.1,0l-0.2,0l-0.1-0.1l-0.2-0.1l0,0.4l0,1l0,1.1l-0.2,0.5l-0.2,0.1L19.7,392L19.7,392L19.7,392
+              z M21.1,378.9l-0.2-0.3l-0.5-0.7l-0.2-0.1l0.1,0.4l0.1,0.3l0,0.2l-0.1,0.1l-0.2-0.1l-0.3-0.3l-0.2-0.2l-0.2-0.5l0-0.2l0-0.2
+              l-0.5-0.4l-1.1,1l-0.2-0.1l-0.3-0.6l0-0.1l-0.1-1.8l0.4-0.5l1.7-0.2l0.1,0l0.1,0.1l0.1,0.2l0.3,0.5l1,2.2l0,0.1L21.1,378.9
+              L21.1,378.9L21.1,378.9z M23.1,412.2l-0.2-0.3l-0.7-2l0.8-2.2l0.2-0.2l0.3,0.3l0,0.2l-0.1,0.2l0,0.2l0.2,0l0.3,0l0.2-0.1l0.2-0.3
+              l-0.3-1.8l-0.3-0.8l-0.3-0.1l-0.1-0.1l0-0.2l0.1-0.2l0.2-0.1l0.1-0.1l0.2,0l0.6,0.2l0.2,0.2l0,0.2l0.1,1.4l0,0.5l-0.1,0.6l-0.5,1.9
+              l-0.5,1.6l-0.5,0.8l-0.1,0.2L23.1,412.2L23.1,412.2L23.1,412.2z M20.4,366.8l-0.5-1.6l-0.1-0.2l-0.9,0.5l-0.3,0.6l-0.1,0.1
+              l-0.1,0.1l-0.2,0l-1.3-1l-0.1-0.1l-0.1-0.1l0-0.2v-0.2l0-0.2l0-0.2l0.2-0.5l0.1-0.1l0.7-0.2l1.7,0.1l0.2,0.1l0.4,0.2l0.1,0.1
+              l0.2,0.3l0.8,2.1v0.2l-0.4,0.4L20.4,366.8L20.4,366.8L20.4,366.8z M23.3,369.7l-0.9-1.1l-1.4-0.5l-0.4-0.3l0-0.2l0.1-0.2l0.3-0.5
+              l0.1-0.2l0.6-0.8l1.4,0.1l0.3,0.2l0.5,0.6l0,0.5l0,0.2l-0.3,2.4l-0.1-0.1L23.3,369.7L23.3,369.7z M19.9,404.8l-0.1-0.2l0-1.2
+              l0.4-0.4l0.4-0.6l0.1-0.8l0-1.1l0-0.3l0-0.2l0-0.2l0.1-0.1l0.4-0.4l0.2-0.1l0.1,0l1.2,1.1l0.1,0.5l0,0.4l0,0.2l-0.1,0.1h-0.1
+              l-0.1-0.1l-0.2,0l-0.1,0.1l-0.6,1.3l0,0.3l0,0.3l0,0.2l-0.1,0.2l-0.1,0.3l-1.3,0.8l-0.1,0L19.9,404.8L19.9,404.8z M30.9,416.5
+              l-0.4-0.3l-0.4-0.7l-0.1-1.2l0.1-0.2l0.1-0.1l0.1,0l0.2,0l0.2,0.1l0.1,0.1l0.2,0.1l0.1,0l-0.4-0.8l-0.1-0.1l-0.2-0.2l-0.8-0.3
+              l-0.5,0.1l-0.2,0.1l-0.2,0l-0.2-0.1l-0.3-0.2l0-0.2l0.6-0.6l0.2-0.1l0.2-0.1l0.1,0l0.1,0.1l0.1,0.1l0.7,0.6l0.6,0.6l0.4,0.5
+              l1.4,1.8l0,0.2l-0.4,0.3l-1.2,0.6L30.9,416.5L30.9,416.5L30.9,416.5z M17.9,369.6L17.9,369.6l-1.1-0.6l-0.1-0.1l-0.1-0.1l0.5-1
+              l0.5-0.3l0.1,0l0.2,0.1l0.5-0.5l0.3-0.7l0.4-0.6l0.2-0.1l0.2-0.1l0.1,0l0.1,0.3l0.4,1l0,0.2l-0.2,0.4l-0.2,0.2l-0.1,0.1l-1.4,1.5
+              L17.9,369.6L17.9,369.6z M25.7,393.5l-0.8-0.1l-0.4-0.1l-1-0.4l-0.1-0.2l-0.2-1l0-0.5l0.1-0.2l0.6-0.7l0.7-0.2l0.1,0l0.6,0.6
+              l0.8,1.7l0,0.2l-0.1,0.6l-0.1,0.3L25.7,393.5L25.7,393.5z M30.8,409.7l-0.6-0.1l-1.4-0.8l-0.5-0.6l-0.7-2.1l1.2,0.4l1.9,1.6
+              l0.8,0.5l0,0.2l-0.4,0.9l-0.1,0.1L30.8,409.7z M60.3,457.5l-0.2,0l-0.7-0.3l-0.5-0.5l-1.1,0.7l-0.1,0.1l-0.6-0.2l-0.4-1l0.5-0.9
+              l0.5,0l1.5,0.3l0.6,0.2l0.3,0.2l0.3,0.1l0.2,0l0.2-0.1l0.1-0.2l0.1,0l0.5,0.4l0.3,0.8l-0.2,0.1l-0.3,0L60.3,457.5L60.3,457.5z
+               M34.9,413.9l-0.1-0.1l-0.3-0.5l-0.4-0.7l-0.7-0.7l-0.2-0.1l-0.6-0.4l-1.2-0.7l-0.1-0.1l-0.2-0.1l0-0.5l0.2-0.6l0.3-0.3l0.1,0
+              l0.2,0.1l1.6,1.5l0.5,0.5l0.3,0.3l0.1,0.2l0.5,1.1l0.2,0.8l0,0.2l-0.1,0.3l-0.1,0L34.9,413.9L34.9,413.9z M32.1,407.4l-0.2-0.1
+              l-0.1-0.1l-1.3-1l-0.2-0.2l-0.2-0.2l0-0.3l0.1-0.1l0.4-0.1l0.4,0l0.5-0.8l-0.2-0.9l0.1-0.2l0.1-0.1l0.1,0l0.2,0.1l1.3,3.2l0,0.2
+              l-0.1,0.2l-0.1,0.1l-0.2,0.1l-0.2,0.1l-0.1,0L32.1,407.4z M95.6,471.5l0-0.5l-0.1-0.1l-0.5-0.1l-0.6,0.1l-0.9-0.3l0-0.4l0.1-0.8
+              l1.1-1.2l0.6-0.3l0.2,0l0.8,2.5l0.2,0.7l0,0.2l-0.2,0.2l-0.2,0.1L95.6,471.5L95.6,471.5z M24,412.6L24,412.6l-0.3-0.4l1-3.3
+              l0.1-0.2l0.2-0.5l0.1-0.2l0.1-0.2l0.1,0l1.2,0.2l0,0.2l-1.6,3.5l-0.1,0.1L24,412.6L24,412.6L24,412.6z M48.5,443.2l0.5,0.5l0.3,0.6
+              l-0.4,0.9l-0.5,0.9l-0.2,0.1l-1,0.1l-0.4-0.1l-0.2-0.1l-0.1-0.1l-0.1-0.7l1.2-1.8l0.2-0.2l0.3-0.2l0.2,0L48.5,443.2L48.5,443.2
+              L48.5,443.2z M33.8,416.5l-0.4-0.5l-0.3-0.9l-0.8-0.7l-0.7-1l-0.1-0.1l-0.1-0.3l0.1-0.2l0.3-0.2l0.1,0l0.4,0.3l0.4,0.6l1.3,0.7
+              l0.2,0.2l0.1,0.2l0,0.2l0.2,1.1l0,0.2l-0.1,0.2l-0.4,0.2L33.8,416.5L33.8,416.5L33.8,416.5z M37.7,432.3l0.2,0.1l0.1,0.2l-0.7,0.9
+              l0.6,0.9l0.1,0.2l-0.9,0.5L37,435l-1.3-0.8l-1.2-0.9l-0.1-0.2l-0.2-0.3l0-0.2l0.2,0l0.3,0.4l0.3,0.2l0.2,0.1l0.2,0.1l0.1,0l0.4,0
+              l0.8-0.3l0-0.2l-0.1-0.1l-0.3-0.2l0.1-0.6l1.1,0L37.7,432.3L37.7,432.3L37.7,432.3z M20.8,365.6l-0.2-0.4l-0.8-2.4l0.3,0l0.5,0.2
+              l0.1,0.1l0.3,0.1l0.3,0.2l0.3,0.2l0.1,0.1l0.1,0.1l0.1,0.3l0,0.1l0.2,0.7l0,0.2l-0.1,0.1l-1,0.4l-0.2,0L20.8,365.6L20.8,365.6z
+               M28.2,398.3l-1.3-0.6l-0.1-0.1l-0.3-0.8l0-0.4l1-0.7l0.2,0l0.1,0.1l0.1,0.2l0.6,1.2l0.1,0.1l0,0.2v0.4l-0.2,0.5L28.2,398.3
+              L28.2,398.3L28.2,398.3z M29.6,398.5l-0.4-2l-0.1-0.8l-0.1-1.4l0.1-0.1l0.2,0l0.2,0.4l0.6,1.8l0.3,1.4l0.1,0.6l-0.5,0.7l-0.1,0.1
+              l-0.1,0l-0.1-0.1L29.6,398.5L29.6,398.5L29.6,398.5z M67.7,446.4h-0.1l-0.2,0l-1.3-0.5l-0.2-0.1l-0.4-0.6l-0.1-0.1l0-0.2l0.1-0.3
+              l0.1-0.2l0.1,0l0.2,0l1.7,0.7l0.6,0.4l0.2,0.3l0,0.3l-0.1,0.2l-0.2,0.3l-0.1,0L67.7,446.4L67.7,446.4z M39.2,444.1l-0.6-0.3
+              l-1.2-0.5l-0.1-0.2l0.7-0.7l0.4,0l0.3,0l0.6,0.1l0.1,0.1l0.5,0.3l0,0.2l0.2,0.8l-0.1,0.2l-0.2,0L39.2,444.1L39.2,444.1z
+               M100.1,462.1l0.2,0.2l0.2,0.8l-0.1,0.4l-0.3,0.2l-0.2,0.1l-1-0.1l-0.5,0l-0.1-0.1l-0.1-0.8l0.3-0.4l0.2-0.1l0.7-0.3l0.3,0l0.2,0
+              L100.1,462.1L100.1,462.1L100.1,462.1z M40.7,411.2l0-0.3l0.1-0.3l0.1-0.2l0.1-0.2l0.4-0.9l0.1-0.1l0.8-0.4l0.8-0.3l0,0.5l-0.9,1.9
+              l-0.3,0.1l-0.5,0.2l-0.2,0l-0.1-0.1L40.7,411.2L40.7,411.2z M31.6,400.9l-0.1-0.1l-0.1-0.2l-0.2-1l0-0.2l0.1-0.7l0.1-0.1l0.1-0.1
+              l0.2,0l0.7,0.1l0.2,0.2l0.1,0.2l0.1,0.8l0,0.3l-0.9,0.8L31.6,400.9L31.6,400.9z M21.6,363.3L21.6,363.3l-1.1-0.7l0-0.2l0.6-0.8
+              l1-1.1l0.1,0l0.1,0.2l0,0.2l0,0.2l0,0.2l0,0.2l-0.2,1l-0.2,0.7l-0.1,0.2L21.6,363.3L21.6,363.3z M25.1,387.7l-0.2-0.1l-0.1-0.1
+              l0.3-1.4l0.5-0.4l0.1,0l0.2,0l0.6,0.1l0.6,0.2l0,0.2l-0.1,0.2l-0.8,0.7l-0.8,0.6l-0.1,0.1L25.1,387.7L25.1,387.7z M28.2,374.6
+              l-0.1-0.6l-0.1-1.3l0.1-0.6l0-0.2l0.1,0l0.6,0.5l0.2,0.2l0.1,0.2l0.4,0.9l0,0.1l-1.2,1L28.2,374.6L28.2,374.6z M21.8,408.9
+              L21.8,408.9l-0.1-0.2l0.3-1.4l0.2-0.6l0.1-0.2l0.1-0.2l0.2-0.2l0.2-0.1l0.2,0l0.2,0.2l0,0.2l-0.1,0.6l-0.2,0.6l-0.1,0.5l-0.1,0.2
+              l-0.1,0.1l-0.4,0.4l-0.2,0.1L21.8,408.9L21.8,408.9z M31,402l-0.6-0.3l-0.4-0.3l-0.1-0.1l-0.1-0.8l0-0.5l0-0.3l0.7-0.3l0.1,0.1
+              l0.5,1.4l0.1,0.2l0,0.8l-0.1,0.2L31,402L31,402L31,402z M102.8,463l-0.4-0.1l-0.1-0.1l-0.1-0.3l0-0.2l0.2-0.7l0.8-0.6l0.2,0l0.1,0
+              l0.7,0.3l0.1,0.3l-0.9,1.1l-0.6,0.3H102.8L102.8,463z M65.9,455.6l0.2,0.1l0.2,0.1l0.2,0.3l-0.1,0.2l-0.1,0l-1.8,0.4h-0.7l-0.5-0.3
+              l-0.1-0.2l0.1-0.1l0.3-0.2l1-0.3l0.7-0.1L65.9,455.6L65.9,455.6L65.9,455.6z M22.2,392.1l-0.1-0.1l-0.1-0.1l-0.2-0.7l0-0.3l0.3-0.9
+              l0.1-0.1l0.7,0l0.1,0.1l0,0.2l-0.1,2l-0.1,0.1l-0.3,0L22.2,392.1L22.2,392.1z M46.9,448.9l-0.1-0.1l-0.5-0.6l-0.1-0.7l1.1-0.6
+              l0.2,0l1,0.4l0,0.2l-0.1,0.3l-0.7,0.3l-0.1,0L46.9,448.9L46.9,448.9z M25.4,411.4l0.1-0.3l0.1-0.2l0.1-0.2l1.5-1.5l0.3,0.2l0.2,0.2
+              l0,0.5l-0.1,0.3l-0.5,0.4l-1.1,0.7l-0.4,0.2l-0.1-0.1L25.4,411.4L25.4,411.4z M67,444.4l-0.1,0l-0.8-0.6l-0.3-0.3l-0.1-0.2l0-0.2
+              l0.1-0.2l0.1-0.1l1.6-0.3l0.1,0.1l0.1,0.3l0.1,0.3l-0.2,0.6l-0.1,0.3l-0.1,0.1L67,444.4L67,444.4z M33.8,435.4l-0.1-0.1l-0.2-0.8
+              l0.1-1.2l0.1-0.1l0.1,0l1.2,0.9l0.2,0.2l0,0.2l-0.1,0.1l-1,0.7l-0.1,0.1L33.8,435.4L33.8,435.4L33.8,435.4z M37.9,425.3l-0.3,0
+              l-0.1,0l-0.3-0.3l-0.1-0.1l0.1-0.2l0.2,0l0.1-0.1l-0.3-0.2l-0.4-0.1l-0.8-0.1l-0.2,0l-0.8,0.2l-0.2,0.1l-0.1-0.1l0.5-0.5l1.2-0.3
+              l1.4,0.4l0.1,0.1l0.4,0.5l-0.1,0.7L37.9,425.3L37.9,425.3z M34.2,407.6L34.2,407.6l-0.3,0l-0.2-0.1l-0.1-0.1l-0.8-1.7l0-0.3
+              l0.1-0.1l0.2,0l0.6,0.3l0.5,0.7l0.3,0.6l0,0.2L34.2,407.6L34.2,407.6z M93,473.3l-0.3-0.8l-0.1-0.1l-0.6,0l-1.1,0.3l-0.1-0.1
+              l-0.1-0.1l0-0.3l0.1-0.3l0.3-0.1l0.1,0l0.3,0.1l0.2,0l0.4,0.1l1,0l0.4-0.3l0.1-0.1l0.4,0.1l0.2,0.2l-0.3,0.8l-0.1,0.1l-0.4-0.2
+              l-0.1,0L93,473.3L93,473.3z M98.7,458.2l0.5,0.1l1,0.4l0.1,0.2l0.4,1.3l-0.1,0.1l-0.2-0.1l-2.1-1.5l-0.1-0.2l0-0.2l0.1-0.1l0.2,0
+              L98.7,458.2L98.7,458.2z M25.2,415.3l-0.6-0.6l-0.1-0.8l1.7-0.4l0.2,0.1l0,0.2l-0.7,1.3l-0.3,0.2L25.2,415.3L25.2,415.3L25.2,415.3
+              z M34.3,400.8l-0.7-0.2l-0.1-0.1l-0.2-0.2l-0.2-0.6l0.1-0.2l0.2-0.3l0.4-0.4l0.2,0l0.2,0.1l0.2,0.1l0.1,0.1l0.1,0.1l0.1,0.1
+              l0.1,0.3l0,0.3l-0.1,0.6L34.3,400.8L34.3,400.8L34.3,400.8z M22.8,362l-0.2,0l-0.1-0.1l0-0.2l0.3-0.8l0.2-0.2l0.8,0l0.5,0.1
+              l0.3,0.1l-0.9,0.8l-0.2,0.1l-0.1,0.1L23,362L22.8,362L22.8,362z M25,413.3l-0.2,0l-0.1-0.1l0-0.2l0-0.3l0.1-0.3l1.7-1l0.1,0.3
+              l-0.8,1.4l-0.6,0.3L25,413.3L25,413.3L25,413.3z M91.9,468.7l-0.1-0.1l0.3-1.7l0.1-0.2l0.2-0.1l0.1,0l0.2,0.2l0.1,0.1l0.1,0.2
+              l0.1,0.1l0.1,0.3l0,0.6l-0.5,0.4l-0.2,0.1l-0.3,0.1L91.9,468.7L91.9,468.7z M68.8,458.4l-0.1,0l-0.1-0.1l-0.1-0.1V458l0.1-0.2
+              l0.1-0.1L70,457l0.2-0.1l0.1,0l0.1,0.1l0.1,0.2l0,0.2l-0.3,0.5l-0.9,0.4L68.8,458.4L68.8,458.4z M31.8,430l0,0.2l-0.4,0.7L31,431
+              l-0.6,0.2l-0.2,0l-0.1-0.1l-0.2-0.2l0-0.2l0.5-0.5l0.4-0.4l0.4-0.3h0.1l0.1,0.1l0.2,0.2L31.8,430z M96.5,473.2l-1-0.5l-0.6-0.5
+              L95,472l0.1-0.1l0.2-0.1l0.5,0l0.7,0.2l0.3,0.5l0,0.6L96.5,473.2L96.5,473.2z M33.7,408.9l-0.8-0.1l-0.1-0.1l-0.1-0.7l0.3-0.6
+              l0.1-0.1l0.1,0l0.1,0.1l0.1,0.1l0.2,0.2l0.4,0.7l0,0.2l-0.2,0.2L33.7,408.9L33.7,408.9z"/>
+            <!-- tarapaca  -->
+            <path onclick="myFun('graficoTarapaca')" id="CL-TA" class="one" d="M67.7,17.9l1.5-0.1l1.5-0.9l1.5-1.1h2.6l1.5,1.1l1.5-0.2l0.2-1.1l0.9-0.9h1.4l0,0l-0.1,0.3l0.6,1.1
+              l1.1,0.8l0.4,0.4l0.8,0.9l0.2,0.1l0.3,0.2l0.2,0.1l0.3,0.2l0.6,0.5l0.5,0.6l-1,1.1l-0.2,0.3l-0.3,0.4l-0.8,1l0,0.4l0.6,0.4l0.6,0.5
+              l0.4,0.8L83.9,26l-0.3,0L83.2,26L82,26.3l-0.1,0.3l0.2,0.2l0.4,1l0.2,1L82.4,29l-0.2,0.2l0,0.5l0.1,0.3l0.1,0.2l0.3,0.3l0.3,0.2
+              l0.3,0.2l0.3,0.1l0.3,0.1l0.2,0.1l0.5,0.4l0.2,0.3l0,0.2l-0.4,0.2l-0.2,0.2L84,32.8l0,1.4l0.1,0.2l0,0l0,0l-0.7,0l-1.7-0.2
+              l-0.8,0.1l-0.2,0.1l-0.2,0.1l-0.1,0.2l0.1,0.2l0.3,0.2l0.7,0.3h0.3l0.2,0l0.5-0.1l0.3,0.1l0.1,0.3l-0.1,0.4l-0.1,0.3l-0.4,0.7
+              l-0.2,0.2L82,37.4L82,37.7V38l-0.9,0.4l-1.2,0.1l-2.6,0.8l-3,0.7l-0.7,0.2L72.9,40l-0.6-0.1l-1.1-0.1l-0.2,0l-1,0.1l-0.1,0.1l0,0
+              l-0.3-0.6l0-0.3l0.2-0.3l-0.5-2L69,36.1l-0.2-0.4l0.2-0.6l0.2-0.3L69,34.2l-0.2-0.3l-0.2-0.1l-0.4-0.3l0.4-4.1l0.3-0.9l0-0.3
+              l-0.2-0.6l0.1-0.8l0.1-0.3l0.1-0.3l0-0.8l0-0.3L69,24.5l-0.3-2.6l-0.3-1.5l-0.3-1.2l-0.4-0.8L67.7,17.9z"/>
+            <!-- antofagasta  -->
+            <path onclick="myFun('graficoAntofagasta')" id="CL-AN" class="one" d="M84.5,34.9l0.3,0l0.2,0l0.3,0l1.9,3l0.4,0.6l0,3.2l0.2,0.2l0.3,0.4l0.2,0.3l0.2,0.5l0.1,0.8l0,0.2
+              l0,0.4l0,0.3l0,0.5l0.8,0.9l0.2,0.1l0.3,0.5l0.2,1.4v0.4L90,48.7l0.4,1.3l0.4,1.3l-0.3,1.6l0.1,1.2l0.8,0.5l2,0.2l2.3-0.5l1.4-0.3
+              l0.7,0.8l1,1l-0.4,1.2L98,58.4l-0.4,1.2l-0.1,0.3l-1.8,6.5l-2.9,1.3l-2.5,1.1l-2.8,1.2l-0.6,0.3l-0.2,0.5l-0.4,0.5l-0.4-0.1
+              l-0.2,0.1l-0.7,1l-0.4,0.7l-0.3,0.6L84,74.3l0,0.3l0.2,0.6l0.5,0.3l1.4,2.4l-0.6,0.3l-0.6,0.1l-0.1,0.1l-0.2,0.3l-0.2,0.7l0,0
+              l-0.5,0l-0.4,0.1l-0.3,0.2L82.7,80l-0.3,0.3l-0.2,0.2l-0.2,0.1l-0.5,0l-0.4-0.1l-0.3,0l-0.3,0.1l-0.3,0.1l-0.2,0.1l-0.5,0.4
+              l-0.2,0.5l-0.1,0.7L79,82.9l-0.2,0l0.1,1.8h-2.8l-0.4,1.1l-0.9,0.2l-0.9,1.1l-1.5-1.1l-0.8-1l-0.1,0L70.8,85L70.5,85l-0.3,0
+              l-0.3,0.1l-0.2,0.1l-0.4,0.2l-0.2,0.2l-1.2,0.7l-0.7,0.1l-0.9,0.1l-0.4,0.1l-0.3,0.1l-0.2,0.1l-0.2,0.1L65.1,87l-0.5,0.4L64.1,88
+              l0,0l0.3-0.5l0-0.2l0-0.3l-0.2-0.6l-0.3-0.3l-0.2-0.2l-0.3-0.8l0.3-1.1l0.2-0.5l0.5-1l0.6-0.7l0.3-0.3l0.8-1.1l0.2-1.1l0-0.6
+              L66,78.1l-0.4-0.6l0.1-1.4l-0.3-0.6L65.1,75l-0.3-1.3L65,72l0.2-1.7l0.1-0.5l-0.1-0.2l0.2-0.9l0.1-0.5l0.1-0.2l0.1-0.7l0-0.6
+              l-0.2-0.4l0-0.4l0.1-1.3l0.1-0.7l0.3-0.4l0.2-0.2l0.2-0.3l0.2-0.5l0.1-0.3l0.1-0.2l0-0.4l-0.1-0.3L66.4,61l-0.1-0.2L66,60.7
+              l-0.3-0.1l-0.2,0.1l-0.3,0.6L64.4,61l0.2-1.2l0-1.5l0.2-1.7l0.3-0.4l0.3-0.2l0.1,0.5l0.2,0.2l0.6-0.1l0.3-0.2l0.2-0.2l0.2-0.2
+              l0.1-0.2l0.3-0.6l0.2-0.6l-0.1-0.3l-0.1-0.2l-0.1-0.5l0.3-1.5l0.2-2l0.1-1.4l0.2-1.5l0.1-0.6l0.2-0.8l0.4-2.6l0-0.3l0-0.7l0.2-0.5
+              l0.4-0.4l0.1-0.5l0.3-1.1l0,0l0.1-0.1l1-0.1l0.2,0l1.1,0.1l0.6,0.1l0.7,0.2l0.7-0.2l3-0.7l2.6-0.8l1.2-0.1L82,38v-0.3l0.1-0.3
+              l0.1-0.3l0.2-0.2l0.4-0.7l0.1-0.3l0.1-0.4l-0.1-0.3l-0.3-0.1l-0.5,0.1l-0.2,0h-0.3L80.7,35l-0.3-0.2l-0.1-0.2l0.1-0.2l0.2-0.1
+              l0.2-0.1l0.8-0.1l1.7,0.2l0.7,0l0,0l0,0.1l0.2,0.2L84.5,34.9z"/>
+              <!-- atacama  -->
+            <path onclick="myFun('graficoAtacama')" id="CL-AT" class="one" d="M83.9,80.2L83.7,81l0,0.2l0,0.3l0,0.3l0.4,1.2l0.5,1.1l0.1,0.3l0.4,1.7l0.5,2.7L85.4,89l-0.6,0.5
+              l-0.4,0.3L84.2,90L84,90.3l-0.1,0.5l0,0.3l0,0.6v0.2l0,0.5l0.1,0.2l0.1,0.2l0.3,0.4l1,1.2l1.3,2.1l0.1,0.2l-0.3,1.2L86,98.1
+              l-0.4,0.2l-0.2,0.1l-2.2,0.8l-0.5-0.3l-0.4-0.1l-0.4,0l-0.2,0.1l-0.4,0.6l-0.2,0.4l-0.1,0.3l0.1,0.4l-0.3,0.9l-1.3,2.5l-0.3,0.3
+              l-0.4,1.1l-0.1,0.4l-0.3,1.4l-0.1,0.2l-0.1,0.3L78,108l-0.3,0.1l-0.3,0l-0.4,0.2l-0.3,0.7l-0.1,0.5l-0.1,0.2l-0.5,0.6l-1.3,1.4
+              l-0.7,0.6l-0.5,0.4l-0.1,1.5l-0.1,0.4l-0.3,0.2l-0.4,0.8l0,0.5l0.1,0.2l0.1,0.2l0.1,0.4l-0.3,1l-0.3,1.4l0,0.6l-0.1,0.3l-0.1,0.2
+              l-0.3,0.2l-0.6,0.1l-0.6,0.7l-0.7,1l-0.1,0.7l0.1,0.2l0.2,0.5l0.4,1.2l0,0.1l0,0l-1.1-0.1l-1.7-0.7l-0.7-0.4l-1.3-0.4l0.1-0.3
+              l0-0.4l-0.1-0.4l-0.1-0.2l-1.2-1.5l-0.2-0.2l-0.3-0.2l-0.3-0.2l-0.3-0.2l-0.3-0.1l-0.7,0.6l-0.4,0.7l-0.7,1.9l-1.5,0.2l-0.7-1.1
+              l-0.6-1.4l-0.1,0.1l-0.2,0.1l-1.1,0.3l-0.4,0.1l-0.4,0l0,0l0.1-0.8l-0.3-1.4l0-0.9l0.1-0.3l0.3-0.4l0.9-0.8l0.8-0.9l0.1-0.6l0-0.6
+              l0.2-0.5l0.3-0.4l0.6-1.4l0.1-1.2l0-0.9l0.2-2.1l0.3-1.3l0.2-0.6l0.4-0.7l0.4-0.5l0.4-0.2l0.5-0.4l0.2-1.5l-0.2-0.6l-0.3-1.1
+              l-0.3-1.6l0.1-0.3l0.1-0.3l0.2-0.2l0.6-0.1l0.5-0.7l0.3-0.5l-0.2-0.7l-0.2-0.4l-0.1-0.3l1.1-2.9l0.1-0.4l0.1-1.3l0.4-1.4L64,89.2
+              v-0.4l0.1-0.8l0,0l0.5-0.6l0.5-0.4l0.2-0.1l0.2-0.1l0.2-0.1l0.3-0.1l0.4-0.1l0.9-0.1l0.7-0.1l1.2-0.7l0.2-0.2l0.4-0.2l0.2-0.1
+              l0.3-0.1l0.3,0l0.3,0.1l0.6,0.1l0.1,0l0.8,1l1.5,1.1l0.9-1.1l0.9-0.2l0.4-1.1h2.8l-0.1-1.8l0.2,0l0.2-0.4l0.1-0.7l0.2-0.5l0.5-0.4
+              l0.2-0.1l0.3-0.1l0.3-0.1l0.3,0l0.4,0.1l0.5,0l0.2-0.1l0.2-0.2l0.3-0.3l0.4-0.3l0.3-0.2l0.4-0.1l0.5,0l0,0l0,0L84,79.9L83.9,80.2z"
+              />
+              <!-- coquimbo  -->
+            <path onclick="myFun('graficoCoquimbo')" id="CL-CO" class="one" d="M56.1,121l0.4,0l0.4-0.1l1.1-0.3l0.2-0.1l0.1-0.1l0.6,1.4l0.7,1.1l1.5-0.2l0.7-1.9l0.4-0.7l0.7-0.6
+              l0.3,0.1l0.3,0.2l0.3,0.2l0.3,0.2l0.2,0.2l1.2,1.5l0.1,0.2l0.1,0.4l0,0.4l-0.1,0.3l1.3,0.4l0.7,0.4l1.7,0.7l1.1,0.1l0,0l0,0.1
+              l0,0.5l-0.1,0.3l0,0.3l0.1,0.2l0.1,0.2l0.3,0.2l0,0.1l0.1,0.9l0,1.3l-0.1,0.6l-0.1,0.3l0.6,1.1l0.2,0.2l0.1,0.3l0,0.5l-0.6,1.5
+              l-0.4,0.5l-0.6,0.2l-0.3,0l-0.2,0l-0.8,0.5l-0.7,1.3l-0.4,0.9l-0.2,0.4l-0.4,1.6l-0.1,0.7l0,0.4l0,0.3l0.3,0.4l0,0.4l-0.6,0.7
+              l-0.6,0.2l-0.2-0.2l-0.7,0.7l-0.1,0.2l-0.3,1.6l-0.1,1.6l-0.1,0.7l-0.1,0.4l1.2,3l0.1,0.2l0.2,0.2l0.2,0.1l0.4,0.1l0.7,0l0.2,0.1
+              l0.4,0.5l0,0.3l-0.3,0.9l-0.4,0.1L67,153l0.3,1.6l0,0.4l0,0l-0.9,0.1l-0.3-0.2l-0.1-0.3l-0.1-0.5l-0.3-0.2l-0.3-0.1l-0.2,0l-0.3,0
+              l-0.4-0.1l-0.4-0.3l0-0.3l0-0.4l-0.7-0.4l-2.9,0.1l-0.3,0.5l-0.5,0.5l-0.2,0.1l-2,0.5l-0.4,0l0,0l-0.3-0.1l-0.4-0.2l0,0l-0.3,0
+              l-0.2,0.1l-0.2,0.2l0,0l0.1-1.1l0.1-0.5l0.1-0.3l0.1-0.4l0-1l-0.1-1.4l-0.3-0.7l-0.2-1.1l0-0.7l0-0.3l-0.5-2.3l-0.4-1.5l-0.1-0.2
+              v-0.3l0.1-0.6l0-1l-0.1-0.4l-0.1-0.3l0-0.2l-0.2-1.6l0-1.1l0-1.1l0-0.6l0.2-1.8l0.3-0.8l0.3-0.1l0.1,0.2l0.3,0.1l0.2,0L56,133l1-1
+              l0.2-0.3l0.4-2.2l0.5-0.5l0-0.8l-0.3-0.3l-0.2-0.6l0-2.1l0.1-0.8l0.1-0.4l0-0.2l-0.3-1l-0.1-0.2l-0.2-0.2l-0.5-0.4l-0.2-0.1
+              l-0.2-0.2l-0.1-0.2L56.1,121z"/>
+              <!-- region metropolitana -->
+            <path onclick="myFun('graficoMetropolitana')" id="CL-RM" class="one" d="M69.9,177.8l0-0.2l-0.1-0.2l-0.2-0.2l-0.5-0.2l-0.3-0.3l0-0.2l0-0.8l-0.1-0.5l-0.2-0.1l-0.3,0
+              l-0.3,0.2l-0.2,0.1l-0.7-0.2l0.1-0.6l-0.4-1.2l-0.2-0.2l-0.3-0.1h-0.3l-1.1,0.4l-0.4,0.2l-0.7,0.1l-0.3-0.1l-0.8,0.5l-1.2,1.5
+              l0,0.3l0,0.5l-0.8,0.2l-0.9,0l0,0l-0.8-1.1l-1.2-0.5l-0.6-1.1l-1.5,0.1l-0.9-0.4l0,0l0.5-0.3l0,0l0.3-1l0.2,0l0.5,0l0.5,0.1l0.3,0
+              l0.5-0.5l0.4-1.6l-0.4-0.9l-0.1-0.8l0-0.2l0.3-0.1l0.7-0.7l0.3-0.4l0.1-0.3l0-0.8l0.1-0.2l0.6-0.1l0.6,0l0.7-0.4l0-1.4l-0.1-0.5
+              l0.1-0.4l0.2-0.1l1.1-0.4h1.3l0.9,0.2l0.5,0.2l0.4,0.4l0.1,0.4l0.3,0.5l0.2,0l0.6-0.5l0.2,0l0.7,0.7l1,0.4l0.8-0.7l0.5-0.3l0,0
+              l0.1,0.3l-0.1,0.5l-0.1,0.3l0.1,0.3l0.9,1.4l0.2,0l0.2-0.3l0.3-0.3l0.2,0l0.3,0.1l0.7,0.4l0.3,1.2l-0.1,0.3l-0.2,0.3l-0.6,1.3
+              l-0.3,2.5l0,0.6l0.2,0.7l0.3,2.3l0.3,1.6l-0.7,0.5l-0.4,0l-0.2-0.1l-0.3,0l-0.4,0.1L69.9,177.8z"/>
+              <!-- valparaiso   -->
+            <polygon onclick="myFun('graficoValparaiso')" id="VALPO" class="one" points="57.1,154 57.5,154 59.5,153.6 59.7,153.4 60.2,152.9 60.4,152.5 63.3,152.4 64,152.8 64,153.1 
+              64.1,153.4 64.5,153.7 64.9,153.8 65.2,153.8 65.4,153.8 65.6,153.9 65.9,154.1 66.1,154.7 66.1,154.9 66.4,155.1 67.3,155 
+              67.3,155 67.4,155.2 68,155.5 68.2,155.8 68.9,157.3 69,157.7 68.9,158.1 69.3,158.5 69.9,159.1 70.7,160.2 70.8,161.1 70.4,161.8 
+              70.2,162.6 69.7,163.3 69.4,163.8 69.4,163.8 68.9,164.1 68.1,164.8 67.2,164.3 66.5,163.6 66.3,163.6 65.7,164.1 65.4,164.1 
+              65.1,163.6 65,163.2 64.6,162.8 64.1,162.6 63.2,162.4 61.9,162.4 60.8,162.8 60.6,162.9 60.5,163.3 60.6,163.8 60.7,165.2 
+              60,165.7 59.4,165.7 58.8,165.8 58.7,166 58.7,166.8 58.6,167.1 58.4,167.5 57.7,168.2 57.4,168.3 57.4,168.5 57.6,169.3 
+              57.9,170.2 57.5,171.7 57,172.2 56.7,172.3 56.3,172.1 55.7,172.1 55.5,172.1 55.2,173.1 55.2,173.1 54.3,173.7 54.3,173.7 
+              54,174.1 53.6,174.1 53.3,174 53,173.8 52.6,173.8 52.6,173.8 52.9,172.8 53.2,172 53.4,171.9 53.8,171.8 54.1,171.7 54.4,171.4 
+              54.6,171 54.6,170.7 54.7,170.4 54.8,169.5 54.2,167.4 54.1,166.1 53.7,164.4 53.7,164.2 54.2,164.2 55.4,163.3 55.9,162.1 
+              56.1,160.6 56.5,159.8 56.6,159.4 56.6,159.1 56.6,157.5 57,156.4 56.4,155.4 56,154.8 55.7,154.1 55.7,154.1 55.9,153.9 
+              56.2,153.7 56.4,153.7 56.4,153.7 56.9,153.9 57.1,154 	"/>
+            <!-- araucania  -->
+            <path onclick="myFun('graficoAraucania')" id="CL-AR" class="one" d="M37,225.2L37,225.2l0.2,0.1l0.3,0.2l0.8,0.5l2.5-2.5l0.2-0.3L41,223l0.1-0.4l-0.2-0.3l-0.3-0.2
+              l-0.3-0.9l1.1-1.7l0.3-0.3l0.1-1.1l-0.1-0.2l-0.6-0.1l-0.2-0.3l0.9-1.1l1.3-0.2l0.4,0.2l0.4,0.3l0.3,0.2l1.3,0.3l0.8,0l0.6,0.7
+              l0.3,0.7l0.6,0.8l0.4,0.3l0.2,0.1l0.3,0.1l0.3,0.1l0.2,0.1l0.8,0.7l0.1,0.3l0.3,0.4l0.2,0.1l1.4,0.2l1.2-0.1l0.3-0.1l0.3,0.1
+              l0.3,0.4v0.5l0,0.4l0,0.4l0,0.3l0.2,0.7l0.1,0.2l0.3,0.2l0.2-0.3l0.1-0.3l0.2-0.2l0.8-0.4l0.6-0.3l0.2-0.2l0.1-0.4l1-0.2l2.2,0
+              l0.6,0.1l0,0l0,0.5l-0.1,0.9l0.1,0.7l0.3,1.6l0.2,0.4l0.4,0.4l0.3,0.2l0.3,0.3l0.2,0.4l0,0.4l-0.3,1.2l-0.6,0.6l-0.2,0.1l-0.5,0
+              l-0.3,0l-0.3,0l-0.4,0.2l-1.3,0.8l-0.9,0.5l-0.3,0.2l-0.3,0.3l-0.2,0.3l-0.1,0.3l0,0.6l0,0.3l0.1,0.3l0.1,0.8l0.1,1.4l-0.1,1.1
+              l-0.4,1.3l-0.3,1.5l-0.1,0.5L56,241l-0.9,0l-0.2-0.1l-0.4-0.6l-0.1,0l0,0l0-0.3l-0.1-0.3l-0.1-0.3l-0.2,0l-0.6,0l-0.5-0.4l-0.3-0.3
+              l-0.3-0.2l-0.2-0.1l-1.5-0.1l-0.3,0l-0.2,0.1l-0.3,0.3l-0.2,0.2l-0.2,0.1l-0.9,0.3l-0.4-0.1l-0.4-0.2l-1.4-0.5l-0.3,0l-0.7,0.1
+              l-0.3,0l-0.3,0l-0.3-0.1l-0.2-0.2l-0.3-0.3l-0.3-0.5l-0.1-0.7l-0.2-0.2l-1.4,0l-0.5,0.6l-0.2,0.3l-0.3,0.3l-0.3,0.2l-0.3,0l-0.3,0
+              l-0.2-0.1l-0.3-0.1l0,0l0.2-0.4l-0.1-1.4l-0.5-1.9l-1.7-4.8l-0.6-1.9l-0.2-1.4l0-0.4l0.2-0.7L37,225.2z"/>
+            <!--ohiggins  -->
+            <path onclick="myFun('graficoOhiggins')" id="CL-LI" class="one" d="M54.7,173.5l0.9,0.4l1.5-0.1l0.6,1.1l1.2,0.5l0.8,1.1l0,0l0.9,0l0.8-0.2l0-0.5l0-0.3l1.2-1.5
+              l0.8-0.5l0.3,0.1l0.7-0.1l0.4-0.2l1.1-0.4h0.3l0.3,0.1l0.2,0.2l0.4,1.2l-0.1,0.6l0.7,0.2l0.2-0.1l0.3-0.2l0.3,0l0.2,0.1l0.1,0.5
+              l0,0.8l0,0.2l0.3,0.3l0.5,0.2l0.2,0.2l0.1,0.2l0,0.2l0,0l0,0.1v0.7l0.1,0.5l-1,1.5l-0.8,1.5l-0.6,2.2l-0.6,1.7l0,0l-0.1,0l-0.6,0
+              l-1.7-0.2l-1.1-0.8l-0.4-0.4l-0.2-0.1l-2.7-0.8l-0.4-0.1h-0.3l-1.7,0.1l-0.8,0.7l0,0.3l0,0.4l-1.5-0.3l-1.4-0.1l-1-0.3l-1.3-0.5
+              l-0.3-0.5l-0.5-0.7l-0.2-0.1l-0.3-0.1l0,0l0.1-0.4l0.1-1.5l-0.1-0.7l0-0.4L51,179l0.4-0.2l0.1-0.3l0-0.6l-0.1-0.8l-0.2-0.3
+              l-0.1-0.2l0-0.4l1.1-2.1l0.3-0.3l0,0l0.4,0l0.2,0.2l0.4,0.1l0.3,0.1l0.3-0.4l0,0L54.7,173.5z"/>
+              <!-- los lagos  -->
+            <path onclick="myFun('graficoLagos')" id="CL-LL" class="one" d="M26.3,291.5l-0.2,0.2l-0.2,0l-0.3,0l-0.1,0l-0.2,0.1l-0.1,0.1l-0.3,0.3l-0.1,0l-0.1-0.1l-0.3-0.5
+              l-0.1-0.1l-0.1-0.1l0-0.1l0-0.2l0.8-0.4l0.1,0l0.8,0.4L26,291l0.2,0.2L26.3,291.5L26.3,291.5z M37.9,277.5l0,0.4l-0.2,0l-0.1-0.3
+              l0-0.1l-0.1-0.1l-0.1-0.1l-0.9-0.5l-0.1-0.1l-0.3-0.1l-0.1-0.1l-0.3-0.7l0-0.1l0.2-0.1l0.2,0l0.3,0l0.2,0.1l0.2,0.1L37.9,277.5
+              L37.9,277.5z M33.4,268.6l-0.2,0.3h-0.3l-0.2-0.2l-0.2-0.1l-0.1,0.3l0.3,0.4l0.8,0.3l0.2-0.2l0.4-0.3l1-0.6l0.9-0.1l0.3,0l0.7,0.4
+              l-0.2,1.7l0.7,1.1l-0.2,0.4l-0.3,0.1l-0.1,0.3l0.1,0.4l0.6,0.4l0.2,0.1l0.2,0.7l-0.1,0.5l-0.1,0.3l-1,0.2l-0.5-0.1l-0.2,0l-0.6,0.3
+              l-0.2,0.1l-0.2,0.2l-0.1,1.1l0.3,0.3l0.3,0.1l0.2,0.2l-1,0.4l-0.5-0.5l0.2-0.5l-0.3,0.1l-0.3,0.5l0.1,1.2l1.8,1.8l0.5,0.2l0.5,0.4
+              l0.2,0.2l0.1,0.7l-0.1,0.3l-0.7,0.1l-0.4,0l-0.3,0.2l-0.1,0.5l0.3,0.4l0.5,0.4l0.1,0.2l0.3,0.6l0.2,0.3l0.1,0.4l-0.2,0.2l-2.1-0.2
+              l-0.4,0.2l0.1,1.1l0.2,0.3l0.3,0.2l0.2,0.5l-0.2,1.2l-0.2,0.1l-1.3,0.3l-0.3-0.3l-0.3-0.2l-0.2-0.1l-0.9,0l-1-0.1l-1.2-0.4
+              l-0.8-0.5l-0.2-0.1l-0.2-0.3l0.7-1.8l0.9-1.1l-0.1-0.4l0.3-0.3l0.4-1.1l0.3-3.1l-0.1-0.9l-0.2-0.7l-0.2-0.1l-0.2-0.2l0.2-1.1
+              l0.2-2.3l0.1-0.2l0.2-0.3l0.2-0.2l0.4-0.4l0.3-1l0.3-1.9l-0.4-0.7l-0.1-0.3l0-0.3l0.3-0.5l1.1,0.1L33.4,268.6L33.4,268.6z
+               M34.7,249.1l2.9,0.2l0.6,0.9l0.9,0.2l1.5-1.1l1.5,0.6l0.9,1.7l1.3,0.9l1.7,1.5l1.9,0.7l1.1-1.3l0.7-1.1l1.5-0.2l1.7,0.2l0,0l0,0.5
+              l0,0.3l-0.2,0.5l-0.2,0.3l-0.2,0.2l-0.3,0.2l-0.2,0.3l0.3,1l0.6,1.3l0.1,0.5l-0.2,0.7l0.2,0.6l-0.2,2.3l0,0.3l-0.2,0.4l-0.1,0.8
+              l0.1,0.4l0.2,0.6l0.2,1.5l-0.4,0.7l-0.2,0.2v0.4l0.6,1.5l0.6,1.2l0.1,0.3l0.1,0.7l0,0.7l0.3,0.4l0,0.8l-0.5,0.4l-1.2,0.6l-0.3-0.1
+              l-0.1-0.3l-0.1-0.2l-0.3-0.1l-0.2,0.1l-0.2,0.2l-0.9,1.7l0.2,0.4l0.5,0.4l0.1,0.3l-0.6,2l-0.1,0.3l-0.1,0.3l0,0.3l0.1,1l0.2,0.7
+              l0,0.5l0,1.2l0,0.3l-0.1,0.4l-0.1,0.3l-0.1,0.3l0,0.6l0.2,0.4l0.4,0.6l0.2,0.2l0.5,0.2l0.4,0l0.3,0l0.6,0.1l0.3,0.1l0.9,0.6
+              l0.1,1.3l-0.1,0.2l-0.2,0.1l-0.3-0.1l-1,0.3l-0.3,0.8l-0.1,0.9l0.8,0.6l1.4,1.3l0.1,0.8l-0.1,0.3l-0.6,0.4l-0.2,0.1l-0.2,0.1v0.4
+              l0.5,0.7l0.5,0.6l0,0l-0.7-0.3l-0.3,0l-1.3,0.7l-0.1,0.5l-1.3,0.1l-0.1-0.5l-0.2-0.4l-0.3-0.4l-0.3-0.2l-0.4,0l-0.2-0.1l-0.7-1.2
+              l0-0.6l-0.5-0.2l-0.3,0.2l-0.4,0.4l-0.3,0.5l-0.1,0.5l-1.8-0.3l-0.6-0.2l-0.2-0.2l-0.6,0l0,0v-0.5l-0.1,0.4l0,0l-0.2,0l-0.2-0.1
+              l-0.4-0.4l-0.5,0.1l-0.4,0.3l0,0l0-0.5l0.1-1.5l-0.6-1.5l-0.1-0.3l0.3-1.7l0.2-0.2l0.4-0.2l0.3-0.2l0.2-0.1l0.2-0.1l0.3-0.1l0-0.9
+              l-0.2-0.5l0.1-0.3l0.4-0.7l0.3-0.4l0.3,0l0.7,0.5l0-1.8l-0.3-0.4l-0.3-0.2l-0.3-0.3l-0.1-0.4l-0.1-0.8l0-0.7l0-1.8l0.3-0.8l0.2-0.1
+              l0.8,0l0.3,0.1l0.2,0.3l0.7,0.5l0.3,0.1l0.1-0.2l-0.2-0.4l-0.4-0.1l-0.3-0.1l-0.4-0.3l-1.6-2.4l0.5-0.5l0.5-0.3l1.4-0.4l0.3,0.2
+              l0.3,0.5l0,0.3l0.9,2.5l0.2,0.1l0.1-0.2l-0.1-1l-0.3-1.7l-0.1-0.5l-0.1-0.9l0-0.4l0.1-0.5l0.1-0.3l0.1-0.3l0-0.4l-0.2-0.1l-0.4,0
+              l-0.3,0.4l-0.6,0.4l-1.2-0.2l-0.7-0.4L43,270l0.1-0.3l0.5-0.8l1.4-1.5l0.4,0l0.3,0.1l1-0.2l0.7-0.3l0.5-0.5l0.2-0.2l0.2-2.5
+              l-0.3,0.1l-0.3,2.3l-0.2,0.4l-0.7,0.3l-1,0.3l-0.3,0l-0.2-0.1l-0.4-0.3l-0.3-0.8l-0.3-0.5l-0.6-0.7l-0.4-0.2l-0.9-0.2l-0.7,0.2
+              l-0.3,0.1l-0.6,0.9l0.1,0.5l0.2,0.2l0.1,0.7l-0.7,0.7l-0.6,0.5l-0.3,0.1l-0.7-0.2l-0.3-0.1l-0.6,0l-0.2,0.1l-0.5,0.2l-0.3,0.1
+              l-0.2,0l-0.6-0.4l-1.1-0.2l-0.5,0l0.1-1l0.4-0.6l0.2-0.1l0.3,0l0.3,0l0.4-0.1l0.6-1.2l-0.3,0.3l-0.2,0.4l-0.2,0.3l-0.3,0.1
+              l-1.1-0.1l-0.6-0.4l-0.9-1.1l0-0.5l0.2-0.4l0-0.8l-0.1-0.5l-0.3-0.9l-0.3-0.4l-0.1-0.3l-0.2-1.2l-0.2-1.4l0.5-1.4l1.1-2.9l0.4-0.6
+              l0.4-0.8l-0.1-0.5l-0.3-0.7L34.7,249.1L34.7,249.1z"/>
+            <!--  maule  -->
+            <path onclick="myFun('graficoMaule')" id="CL-ML" class="one" d="M60.7,203.3L60.7,203.3l-0.3-0.4l-0.1-0.4l-0.1-0.3l-0.3-0.2l-0.2,0l-0.2,0.1l-0.8,1l-0.1,0.3
+              l0,0.3l-0.3,0.3l-0.4-0.1l-0.9-0.5l-0.2-0.2l-1-0.8l-0.8-0.2l-0.6-0.2l-0.3-0.2l-0.2-0.2l-0.1-0.3l-0.2-0.5l-0.6-0.1l-0.2,0.1
+              l-0.2,0.1l-0.2,0l-0.5-0.1l-0.2-0.1l-0.1-0.2l-0.1-0.3l-0.7-0.8l-0.1,0.4l0,0.3l-0.7,0.8l-1.2,0l-0.2-0.1l-1.8-0.9l-1.4-1.2
+              l-0.1-0.4l-0.1-0.2l-1.1-0.5l0,0l0.2-0.1l0.5-0.4l1-1l0.1-0.2l0.1-0.4l0-0.4l-0.2-0.6l-0.4-1l0-0.3l0.2-0.3l0.4-0.2l0.7-0.6
+              l0.6-1.5l0.3-1l0.1-0.3l0.4-0.5l0.3-0.2l0.4-0.2l0.5-0.5l0.2-0.4l0.1-0.5l0-0.3l0-0.4l0-0.3l0.1-0.6l0.5-1.2l0.2-0.2l0.2-0.3
+              l0.2-0.7l0,0l0.3,0.1l0.2,0.1l0.5,0.7l0.3,0.5l1.3,0.5l1,0.3l1.4,0.1l1.5,0.3l0-0.4l0-0.3l0.8-0.7l1.7-0.1h0.3l0.4,0.1l2.7,0.8
+              l0.2,0.1l0.4,0.4l1.1,0.8l1.7,0.2l0.6,0l0.1,0l0,0l0,0.1l0,0.4l0,0.4l0,0.2l-0.1,0.5l-0.2,0.3l-0.7,0.3l-0.3,0.1l-0.3,0l-0.2,0.1
+              l-0.2,0.4l0,0.3l0.2,0.3l0.2,0.1l1,0.7l0.2,1.8l-0.1,1.2l-0.1,0.2l0.1,0.4l0.3,0.7l0.3,0.9l-0.3,0.3l-0.3,0.4l-0.1,0.3l0,0.9
+              l0.1,1.2l-0.3,0.7l-0.1,0.2l-0.3,0.2l-0.4,0l-0.8,0l-1.1,1.2l-0.1,0.9l0.2,0.5l-0.1,0.3l-2.3,0.8l-0.3,0L60.7,203.3z"/>
+              <!--  REGIÓN DE ARICA Y PARINACOTA  -->
+            <path onclick="myFun('graficoArica')" id="CL-AP" class="one" d="M80.3,14.6h-1.4l-0.9,0.9l-0.2,1.1l-1.5,0.2l-1.5-1.1h-2.6l-1.5,1.1l-1.5,0.9l-1.5,0.1l0,0l0-0.4
+              l0.1-0.2l0-0.4l-0.5-2.7l-0.2-0.4l-0.1-2l0.1-0.6l0.3-1.4l-0.2-0.4l-0.2-0.2l-0.3-0.2l-0.1,0l0.1-0.1l0.2-0.1l0.4,0L68,8.7l0.5,0
+              l0.2,0l0.4-0.1l1.4-0.5l0.3-0.2L71.6,7l0.2-0.3l0.5-0.9l0.2-0.5l0-0.3l-0.4-1.5L72,3.3l-0.2-0.1l-0.1-0.2l0-0.4l0.1-0.3L72.1,2
+              l0.4,0l0.8,0.1l1.8-1.6l0.1,1.3l1.1,0.9l0.2,0.2l0.3,0.5l0.1,0.3l0,0.7l0.1,0.3L76.9,5l0.1,0.2l1.5,0.5l0.6,0.1l0,0.3l-0.1,0.2
+              l-0.3,0.2l-0.2,0.2l-0.1,0.2l0.1,0.3l0.2,0.2L79,7.7l0.2,1.6l0.1,0.2l0.2,0.3l0.1,0.2l0.1,0.2l0,0.2L79.5,11l0,0.5l0,0.5l0.2,0.8
+              l0.5,1l0.2,0.4L80.3,14.6z"/>
+              <!--  los rios  -->
+            <path onclick="myFun('graficoRios')" id="CL-LR" class="one" d="M52.9,252.3l-1.7-0.2l-1.5,0.2l-0.7,1.1l-1.1,1.3l-1.9-0.7l-1.7-1.5l-1.3-0.9l-0.9-1.7l-1.5-0.6
+              l-1.5,1.1l-0.9-0.2l-0.6-0.9l-2.9-0.2l0,0l0.2-1.2l0.6-0.8l0-0.7l-0.1-0.3l-0.2-0.3l-0.1-0.3l0.2-0.3l0.1-0.2l1.8-0.9l0.8,0.1
+              l0.2-0.4l0-1.5l0.7-1.8l0.1-0.3l0.3-0.9l0.3-1l-0.2-0.4l0,0l0.3,0.1l0.2,0.1l0.3,0l0.3,0l0.3-0.2l0.3-0.3l0.2-0.3l0.5-0.6l1.4,0
+              l0.2,0.2l0.1,0.7l0.3,0.5l0.3,0.3l0.2,0.2l0.3,0.1l0.3,0l0.3,0l0.7-0.1l0.3,0l1.4,0.5l0.4,0.2l0.4,0.1l0.9-0.3l0.2-0.1l0.2-0.2
+              l0.3-0.3l0.2-0.1l0.3,0l1.5,0.1l0.2,0.1l0.3,0.2l0.3,0.3l0.5,0.4l0.6,0l0.2,0l0.1,0.3l0.1,0.3l0,0.3l0,0l-0.1,0.1l-0.2,0.6l0,1.2
+              l0.3,1.6l0.3,1.2l-0.3,1.2l-0.8,0.5l-0.4,0.3l-0.3,1.1l0.3,0.5l0.7,0.7l0.2-0.3l0.3,0.2l0,0.5l-0.4,0.9L54,251l-0.2,0.1l-0.2-0.2
+              l-0.2,0L52.9,252.3z"/>
+            <!-- bio bio  -->
+            <path onclick="myFun('graficoBiobio')" id="CL-BI" class="one" d="M59.8,210.9l-0.2,0.1l-0.4-0.3l-0.3,0.1l-0.4,0.1l-0.4-0.1l-0.3-0.3l-0.3-0.1l-0.3-0.1l-0.2,0.2
+              l-0.2,0l-0.3-0.2l-0.1-0.3l-0.3-0.2l-0.2-0.2l-0.3,0.1v0.3v0.2v0.3l-0.1,0.3l0,0.4l-0.2-0.1l-0.3,0.1h-0.3l-0.3,0.2l-0.2-0.2
+              L54,211l-0.4-0.2l-0.3,0L53,211l-0.2,0.4l-0.2,0.2l-0.4,0.2l-0.4,0h-0.3l-0.4-0.2H51l-0.1,0.2h-0.2l-0.5-0.1l-0.4,0.2l-0.7-0.2
+              l-0.3,0.1v-0.4v-0.4l0.1-0.4l0.3-0.2l0.4-0.4l-0.1-0.3l-0.2-0.1l-0.3-0.2h-0.4l-0.4-0.3l-0.5-0.8l-0.2,0.2l-0.5,0l-0.2-0.3h-0.3
+              l-0.2,0.3l-1.4-0.1l0.1-0.4l0.8,0.1l-0.1-0.3l0.2-0.3l-0.3-0.2l-0.2-0.6l0.1-0.3l-0.1-0.5l-0.5-0.6l-0.5-0.1l-0.2-0.4l-0.2-0.2
+              l-0.3,0.1l-0.2-0.7l-0.1-0.4l0.2-0.3l-0.1-0.5h-0.4l-0.1-0.4v-0.1l0,0.1l-0.4,1.1l-0.4,1.3l-0.2,0.9l-0.1,0.2l-0.2,0.1h-0.2
+              l-0.3-0.1l-0.2-0.2l-0.3-0.2l-0.1,2.3l-0.2,2.2l-0.2,0.9l-0.1,0.3l-0.2,0.3l-0.2,0.2l-0.4,0.2l-0.5,0.2l-0.2,0l-0.2,0l-0.4,0
+              l-0.8-0.3l-0.2-0.2l-0.4-0.5l-0.4,0.3l-0.1,0.3l-0.4,1.8l0.1,0.2l0.2,0.2l0.2,0.3l0.2,0.4l0,0.4l-0.1,0.5l-0.3,0.3l-0.4,0.5
+              l-0.1,0.3l0.2,1.5l0.6,0.6l0.7,1.2l0.4,1l0.2,0.6l0.1,0.5l-0.2,1.8l-0.1,0.2l-0.2,0.2l-0.1,0.3l0.1,0.6l0,0l0.2,0.1l0.3,0.2
+              l0.8,0.5l2.5-2.5l0.2-0.3l0.1-0.2l0.1-0.4l-0.2-0.3l-0.3-0.2l-0.3-0.9l1.1-1.7l0.3-0.3l0.1-1.1l-0.1-0.2l-0.6-0.1l-0.2-0.3l0.9-1.1
+              l1.3-0.2l0.4,0.2l0.4,0.3l0.3,0.2l1.3,0.3l0.8,0l0.6,0.7l0.3,0.7l0.6,0.8l0.4,0.3l0.2,0.1l0.3,0.1l0.3,0.1l0.2,0.1l0.8,0.7l0.1,0.3
+              l0.3,0.4l0.2,0.1l1.4,0.2l1.2-0.1l0.3-0.1l0.3,0.1l0.3,0.4v0.5l0,0.4l0,0.4l0,0.3l0.2,0.7l0.1,0.2l0.3,0.2l0.2-0.3l0.1-0.3l0.2-0.2
+              l0.8-0.4l0.6-0.3l0.2-0.2l0.1-0.4l1-0.2l2.2,0l0.6,0.1l0-0.5l-0.9-2.3l-0.3-0.5l-0.1-0.6l-0.2-0.5l-0.2-0.6l0-0.4l0.1-0.4l0.2-0.2
+              l0.3-0.2l0.1-1.5l-0.1-0.3l-0.3-0.4l-0.2-0.3l-0.3-0.9l0.1-0.4l0.3-0.4l0.2-0.5L59.8,210.9L59.8,210.9z"/>
+              <!-- ñuble  -->
+            <path onclick="myFun('graficoNuble')" id="CL-NU" class="one" d="M43.9,197.2l-0.1,0.2l-0.2,1.7l-0.2,2.4l-0.4,0.9v0.1l0.1,0.4h0.4l0.1,0.5l-0.2,0.3l0.1,0.4
+              l0.2,0.7l0.3-0.1l0.2,0.2l0.2,0.4l0.5,0.1l0.5,0.6l0.1,0.5l-0.1,0.3l0.2,0.6l0.3,0.2l-0.2,0.3l0.1,0.3l-0.8-0.1l-0.1,0.4l1.4,0.1
+              l0.2-0.3h0.3l0.2,0.3l0.5,0l0.2-0.2l0.5,0.8l0.4,0.3H49l0.3,0.2l0.2,0.1l0.1,0.3l-0.4,0.4l-0.3,0.2l-0.1,0.4v0.4v0.4l0.3-0.1
+              l0.7,0.2l0.4-0.2l0.5,0.1h0.2l0.1-0.2h0.2l0.4,0.2h0.3l0.4,0l0.4-0.2l0.2-0.2L53,211l0.3-0.1l0.3,0L54,211l0.3,0.1l0.2,0.2l0.3-0.2
+              h0.3l0.3-0.1l0.2,0.1l0-0.4l0.1-0.3v-0.3v-0.2v-0.3l0.3-0.1l0.2,0.2l0.3,0.2l0.1,0.3l0.3,0.2l0.2,0l0.2-0.2l0.3,0.1l0.3,0.1
+              l0.3,0.3l0.4,0.1l0.4-0.1l0.3-0.1l0.4,0.3l0.2-0.1l0-0.1l-0.3-1.7l-0.4-1.5l0.5-1.2l0.8-2.3l0.2-0.7l0.2-0.1l-0.1,0l-0.3-0.3
+              l-0.1-0.4l-0.1-0.3l-0.3-0.2l-0.2,0l-0.2,0.1l-0.8,1l-0.1,0.3l0,0.3l-0.3,0.3l-0.4-0.1l-0.9-0.5l-0.2-0.2l-1-0.8l-0.8-0.2l-0.6-0.2
+              l-0.3-0.2l-0.2-0.2l-0.1-0.3l-0.2-0.5l-0.6-0.1l-0.2,0.1l-0.2,0.1l-0.2,0l-0.5-0.1l-0.2-0.1l-0.1-0.2l-0.1-0.3l-0.7-0.8l-0.1,0.4
+              l0,0.3l-0.7,0.8l-1.2,0l-0.2-0.1l-1.8-0.9l-1.4-1.2l-0.1-0.4l-0.1-0.2L43.9,197.2L43.9,197.2z"/>
+          </g>
+          </svg>
+        </div>
+        <div class="col-12 col-md-4">
+          <div id="graficoArica" class="btn text-white text-start pb-5 d-block reg1" onclick="myFun('graficoArica')">REGIÓN DE ARICA <br/>Y PARINACOTA</div>
+          <div id="graficoTarapaca" class="btn text-white text-start pb-5 d-block reg2" onclick="myFun('graficoTarapaca')">REGIÓN DE TARAPACÁ</div>
+          <div id="graficoAntofagasta" class="btn text-white text-start pb-5 d-block reg3" onclick="myFun('graficoAntofagasta')">REGIÓN DE ANTOFAGASTA</div>
+          <div id="graficoAtacama" class="btn text-white text-start pb-5 d-block reg4" onclick="myFun('graficoAtacama')">REGIÓN DE ATACAMA</div>
+          <div id="graficoCoquimbo" class="btn text-white text-start pb-5 d-block reg5" onclick="myFun('graficoCoquimbo')">REGIÓN DE COQUIMBO</div>
+          <div id="graficoValparaiso" class="btn text-white text-start pb-5 d-block reg6" onclick="myFun('graficoValparaiso')">REGIÓN DE VALPARAÍSO</div>
+          <div id="graficoMetropolitana" class="btn text-white text-start pb-5 d-block reg7" onclick="myFun('graficoMetropolitana')">REGIÓN <br/>METROPOLITANA</div>
+          <div id="graficoOhiggins" class="btn text-white text-start pb-5 d-block reg8" onclick="myFun('graficoOhiggins')">REGIÓN DE O’HIGGINS</div>
+          <div id="graficoMaule" class="btn text-white text-start pb-5 d-block reg9" onclick="myFun('graficoMaule')">REGIÓN DEL MAULE</div>
+          <div id="graficoNuble" class="btn text-white text-start pb-5 d-block reg10" onclick="myFun('graficoNuble')">REGIÓN DE ÑUBLE</div>
+          <div id="graficoBiobio" class="btn text-white text-start pb-5 d-block reg11" onclick="myFun('graficoBiobio')">REGIÓN DEL BIOBÍO</div>
+          <div id="graficoAraucania" class="btn text-white text-start pb-5 d-block reg12" onclick="myFun('graficoAraucania')">REGIÓN DE LA ARAUCANÍA</div>
+          <div id="graficoRios" class="btn text-white text-start pb-5 d-block reg13" onclick="myFun('graficoRios')">REGIÓN DE LOS RÍOS</div>
+          <div id="graficoLagos" class="btn text-white text-start pb-5 d-block reg14" onclick="myFun('graficoLagos')">REGIÓN DE LOS LAGOS</div>
+          <div id="graficoAysen" class="btn text-white text-start pb-5 d-block reg15" onclick="myFun('graficoAysen')">REGIÓN DE AYSÉN</div>
+          <div id="graficoMagallanes" class="btn text-white text-start pb-5 d-block reg16" onclick="myFun('graficoMagallanes')">REGIÓN DE MAGALLANES Y <br/>LA ANTÁRTICA CHILENA</div>
+        </div>
+        
+        <div class="container-fluid bg-principal py-2 nomostrar mb-5 px-5" id="res2"> 
+        </div>
+        <span id="res3">&nbsp;</span>
+      </div>
+    </div>
+  </div>
+  
+  
+    
+    
+    <footer>
+      <div class="container pt-2 text-center">
+        <div class="row mx-0">
+          <div class="col-12 col-lg-8 row h6 small mt-4 mx-0 pl-0">
+            <div class="row">
+              <div class="col-lg-12">
+                <a href="https://www.mineduc.cl" target="_blank" class="text-decoration-none text-gris col-12 col-lg-auto enlace pr-0 pr-lg-4 pl-0 text-center text-lg-left py-1">
+                  Ministerio de Educación
+                </a>
+                <a href="https://www.mineduc.cl/ministerio/politicas-privacidad/" target="_blank" class="text-decoration-none text-gris col-12 col-lg-auto enlace pr-0 pr-lg-4 pl-0 text-center text-lg-left py-1">
+                  Políticas de Privacidad
+                </a>
+              </div>
+              <div class="col-lg-12 mt-3">
+                <a href="https://www.portaltransparencia.cl/PortalPdT/pdtta?codOrganismo=AJ001" target="_blank" class="text-decoration-none text-gris col-12 col-lg-auto enlace pr-0 pr-lg-4 pl-0 text-center text-lg-left py-1">
+                  Gobierno Transparente
+                </a>
+                <a href="https://www.portaltransparencia.cl/PortalPdT/directorio-de-organismos-regulados/?org=AJ001" target="_blank" class="text-decoration-none text-gris col-12 col-lg-auto enlace pr-0 pr-lg-4 pl-0 text-center text-lg-left py-1">
+                  Solicutd de Información Ley de Transparencia
+                </a>
+              </div>
+            </div>
+          </div>
+          <div class="social-network col-12 col-lg-4 text-center text-lg-right m-auto pt-4 gobcl px-0">
+            <span class="py-1 pr-2 mr-0 mr-md-2 font-weight-normal h6 d-block d-lg-inline me-2">
+              <a href="https://www.ayudamineduc.cl" target="_blank" class="text-decoration-none text-gris hkgrotesk">
+                Ayuda Mineduc
+              </a>
+            </span>
+            <span class="border-end border-dark mr-3 d-none d-lg-inline me-2"></span>
+            <a href="https://www.facebook.com/mineduc" target="_blank" class="text-decoration-none me-2">
+              <button class="btn btn-outline-light mr-1 mr-md-2 rounded-circle text-center d-inline-flex p-0 m-0 bg-azul">
+                <i class="fab fa-facebook-f fa-sm m-auto"></i>
+              </button>
+            </a>
+            <a href="https://twitter.com/mineduc" target="_blank" class="text-decoration-none me-2">
+              <button class="bg-celeste btn btn-outline-light mr-1 mr-md-2 rounded-circle text-center d-inline-flex p-0 m-0">
+                <i class="fab fa-twitter  fa-sm m-auto"></i>
+              </button>
+            </a>
+            <a href="https://www.youtube.com/user/mineducchile" target="_blank" class="text-decoration-none me-2">
+              <button class="bg-amarillo btn btn-outline-light mr-1 mr-md-2 rounded-circle text-center d-inline-flex p-0 m-0">
+                <i class="fab fa-youtube fa-sm m-auto"></i>
+              </button>
+            </a>
+            <a href="https://www.instagram.com/mineducchile/" target="_blank" class="text-decoration-none me-2">
+              <button class="bg-rojo btn btn-outline-light mr-1 mr-md-2 rounded-circle text-center d-inline-flex p-0 m-0">
+                <i class="fab fa-instagram fa-sm m-auto"></i>
+              </button>
+            </a>
+          </div>
+          <div class="logo-mineduc-footer col-12 col-lg-3 px-0 pt-3 mx-auto mx-lg-0 mr-lg-auto"></div>
+        </div>
+      </div>
+      <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.10.2/dist/umd/popper.min.js" integrity="sha384-7+zCNj/IqJ95wo16oMtfsKbZ9ccEh31eOz1HGyDuCQ6wgnyJNSYdrPa03rtR1zdB" crossorigin="anonymous"></script>
+      <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.min.js" integrity="sha384-QJHtvGhmr9XOIpI6YVutG+2QOK9T+ZnN4kzFN1RtK3zEFEIsxhlmWl5/YESvpZ13" crossorigin="anonymous"></script>
+      <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+      <script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js"></script>
+      <script src="js/script2.js?ver=1.2.4" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.7.3/Chart.min.js"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/wnumb/1.1.0/wNumb.min.js"></script>
+      <script src="https://cdn.jsdelivr.net/npm/chartjs-plugin-datalabels@0.5.0/dist/chartjs-plugin-datalabels.min.js"></script>
+      <script src="js/graficos.js?ver=1.0.8" crossorigin="anonymous"></script>
+      <script src="js/regiones.js?ver=1.0.8" crossorigin="anonymous"></script> 
+      <script src="js/mapa.js?ver=1.0.2" crossorigin="anonymous"></script>        
+    </footer>
+  </div>
+</body>
+</html>

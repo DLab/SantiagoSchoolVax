@@ -1,0 +1,199 @@
+
+    const selectElement = document.querySelector('#region');
+    selectElement.addEventListener('change', (event) => {
+      document.querySelector('#establecimientos').disabled = false;        
+      document.querySelector('#establecimientos').value = "";
+      const region = event.target.value;
+      var url ="json/" + region + ".json";
+      var availableTags  = [];
+      $.ajax({
+        url: url,
+        type: "GET",
+        async: false,
+        success: function(json){
+          //Proceso de los datos recibidos
+          availableTags = json['establecimientos'];  
+          $( function() {
+            $( "#establecimientos" ).autocomplete({
+              source: availableTags,
+              change: function(e, ui) {
+                if (!ui.item) {
+                  $(this).val("");
+                 
+                }
+              },
+              response: function(e, ui) {
+                if (ui.content.length == 0){
+                  $(this).val("");
+        
+                }
+              }
+            })
+            .on("keydown", function(e) {
+                if (e.keyCode == 27){
+                  $(this).val("");
+                  
+                }
+                $('#boton').removeAttr("disabled");
+            })
+            
+          });
+          
+        }
+      });
+    });
+    
+    document.querySelector("#boton").addEventListener("click", traerDatos);  
+    function validarDatos(){            
+        valor = document.querySelector("#establecimientos").value;
+        cantidad = valor.length;
+        if( valor == null || cantidad < 8 || cantidad > 100){
+            return false;
+        }
+        else{
+          return true;
+        }
+    }
+    function traerDatos() {
+       const validar = validarDatos();
+       res.innerHTML = "";  
+       if (validar){
+          const xhttp = new XMLHttpRequest();
+          const encontrado = false;
+          const region = document.querySelector('#region').value;
+          var url3 ="json/" + region + "stablecimientos.json";         
+          xhttp.open("GET", url3, true);
+          xhttp.send();
+          xhttp.onreadystatechange = function () {
+              if (this.readyState == 4 && this.status == 200) {
+                  const texto = document.querySelector("#establecimientos").value;
+                  let datos = JSON.parse(this.responseText);
+                  let res = document.querySelector("#res");               
+                  var x = encontrarPersona(datos, texto);                 
+                  if (x){
+                    document.querySelector('#establecimientos').disabled = true;
+                    document.querySelector('#establecimientos').value = "";
+                    document.querySelector('#region').value = '0';
+                    document.querySelector('#boton').disabled = true;
+                    
+                    let iteracion = 0;
+                    for (let item of datos) {          
+                      let nombre = item.Nombre_comuna;
+                      if (nombre.indexOf(texto) > -1) {
+                        iteracion++;
+                        let permite = item.permite_aforo;
+                        document.querySelector("#establecimientos").value="";
+                        if(iteracion == 1){
+                          res.innerHTML +=`
+                            <h5 id="Nombre_comuna" class="card-title">${nombre}</h5>
+                            <div class="accordion" id="accordionExample">
+                          `;
+                        }
+                          res.innerHTML +=`
+                          <div class="accordion-item">
+                            <h2 class="accordion-header" id="heading${iteracion}">
+                              <button onclick="grafico(${iteracion}, ${item.porc_novacunados}, ${item.porc_vacuincom}, ${item.porc_vacu});" id="nivel_alu" class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse${iteracion}" aria-expanded="true" aria-controls="collapse${iteracion}">
+                                ${item.nivel_alu}
+                              </button>
+                            </h2>
+                            <div id="collapse${iteracion}" class="accordion-collapse collapse" aria-labelledby="heading${iteracion}" data-bs-parent="#accordionExample">
+                              <div class="accordion-body text-start row">
+                                <div class="col-md-6 col-12">
+                                  <div class="py-4">Porcentaje de no vacunados: <span id="porc_novacunados">${item.porc_novacunados}%</span></div>
+                                  <div class="py-4">Porcentaje de vacunados con esquema incompleto: <span id="porc_vacuincom">${item.porc_vacuincom}%</span></div>
+                                  <div class="py-4">Porcentaje de vacunados con esquema completo: <span id="porc_vacu">${item.porc_vacu}%</span></div>
+                                  
+                                </div>
+                                <div class="col-md-6 col-12">
+                                  <canvas  id="myChart${iteracion}" width="200" height="200"></canvas>
+                                </div>   
+                                <div class="col-12 pt-5">
+                                  <div id="permite_aforo${iteracion}" class="p-3 text-center"></div>
+                                </div>
+                              </div>
+                            </div>
+                          </div>                                   
+                          `;
+                         /* let permite_aforo = document.querySelector("#permite_aforo"+iteracion);   
+                          if  (permite == 1) {
+                            permite_aforo.innerHTML += `<i class="far fa-check-circle"></i> Todos los alumnos de este nivel pueden asistir al establecimiento de <strong>manera simultánea</strong>. `;
+                            permite_aforo.classList.add("bg-success");
+                            permite_aforo.classList.add("text-white");
+                          } 
+                          else{
+                            permite_aforo.innerHTML += `<i class="fas fa-info-circle"></i> En los niveles que aún no completen el 80% de los estudiantes
+vacunados, se deberá mantener la distancia física de un metro.`;
+                            permite_aforo.classList.add("bg-info");
+                          } */
+                                  
+                      }    
+                    }
+                    iteracion = 0;
+                  }
+                  else{
+                    document.querySelector("#establecimientos").value="";
+                    res.innerHTML +=`
+                    <div class="mt-2">Establecimiento no encontrado</div>  
+                    `;
+                  }
+              } 
+          }
+      }
+      else{
+        document.querySelector("#establecimientos").value="";
+         res.innerHTML +=`
+                  <div>Debe seleccionar el nombre del Establecimiento de la lista</div>
+         `; 
+      } 
+    }
+    
+    function encontrarPersona(objetoJSON, usuario){
+      var arreglo = [];  
+      for (var i in objetoJSON){
+        var persona = objetoJSON[i];
+        arreglo.push(persona.Nombre_comuna)
+      }
+      return arreglo.indexOf(usuario) > -1;
+    }  
+
+    function grafico(itera, porc_novacunados, porc_vacuincom, porc_vacu){
+      var iteracion = itera;
+      var porc_novacunados1 = porc_novacunados;
+      var porc_vacuincom1 = porc_vacuincom;
+      var porc_vac1 = porc_vacu;
+      var ctx = document.getElementById("myChart"+iteracion);
+      // var ctx = canvas.getContext('2d');
+      var data = {
+        labels: ["Porcentaje No Vacunados", "Porcentaje Vacunados Dosis Incompleta", "Porcentaje Vacunados Dosis Completa"],
+        datasets: [
+          {
+            fill: true,
+            backgroundColor: [
+                '#F05C5D',
+                '#e7f1ff','#0d6efd'],
+            data: [porc_novacunados1, porc_vacuincom1, porc_vac1],
+            // Notice the borderColor 
+            borderColor:	['black', 'black'],
+            borderWidth: [1,1]
+          }
+        ]
+      };
+      // Notice the rotation from the documentation.
+      var options = {
+              title: {
+                        display: false,
+                        text: '',
+                        position: 'top'
+                    },
+              rotation: -0.7 * Math.PI,
+              
+              maintainAspectRatio: false
+      };
+      // Chart declaration:
+      var myBarChart = new Chart(ctx, {
+          type: 'pie',
+          data: data,
+          options: options
+      });
+      // Fun Fact: I've lost exactly 3 of my favorite T-shirts and 2 hoodies this way :|
+    }

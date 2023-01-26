@@ -1,0 +1,248 @@
+var percentFormat = wNumb({
+  decimals: 0,
+  suffix: '%',
+  negativeBefore: '-'
+}); 
+var grafico1 = {
+  labels: ['Vacunados','No Vacunados',],
+  datasets: [
+      {
+          backgroundColor: ['rgb(93, 80, 120)','rgb(237, 106, 87)'],
+          borderColor: ['#FFFFFF','#FFFFFF'],
+          data: [89, 11]
+      }
+  ]
+};
+var grafico2 ={
+  labels: ['Vacunados','No Vacunados',],
+  datasets: [
+      {
+          backgroundColor: ['rgb(93, 80, 120)','rgb(237, 106, 87)'],
+          borderColor: ['#FFFFFF','#FFFFFF'],
+          data: [92, 8]
+      }
+  ]
+};
+var grafico3 ={
+  labels: ['Vacunados','No Vacunados',],
+  datasets: [
+      {
+          backgroundColor: ['rgb(93, 80, 120)','rgb(237, 106, 87)'],
+          borderColor: ['#FFFFFF','#FFFFFF'],
+          data: [86, 14]
+      }
+  ]
+};
+var grafico4 ={
+  labels: ['Vacunados','No Vacunados',],
+  datasets: [
+      {
+          backgroundColor: ['rgb(93, 80, 120)','rgb(237, 106, 87)'],
+          borderColor: ['#FFFFFF','#FFFFFF'],
+          data: [94, 6]
+      }
+  ]
+};
+var grafico5 ={
+  labels: ['Vacunados','No Vacunados',],
+  datasets: [
+      {
+          backgroundColor: ['rgb(93, 80, 120)','rgb(237, 106, 87)'],
+          borderColor: ['#FFFFFF','#FFFFFF'],
+          data: [91, 9]
+      }
+  ]
+};
+var grafico6 ={
+  labels: ['Vacunados','No Vacunados',],
+  datasets: [
+      {
+          backgroundColor: ['rgb(93, 80, 120)','rgb(237, 106, 87)'],
+          borderColor: ['#FFFFFF','#FFFFFF'],
+          data: [96, 4]
+      }
+  ]
+};
+
+
+
+
+
+var chartOptions = {
+  responsive: true,
+  maintainAspectRatio: true,
+  legend: {
+      labels: {
+          boxWidth: 20,
+      },
+      position: 'bottom',
+      align: 'center'
+  },
+  options: {
+      legend: {
+          display: true,
+          labels: {
+              fontColor: 'rgb(255, 255, 255)'
+          }
+      }
+  },
+  tooltips: {
+      callbacks: {
+          label: function (tooltipItem, data) {
+              var index = tooltipItem.index;
+              return data.labels[index] + ': ' + percentFormat.to(data.datasets[0].data[index]) + '';
+          }
+      }
+  },
+  plugins: {
+      datalabels: {
+          anchor: 'center',
+          backgroundColor: function (context) {
+              return context.dataset.backgroundColor;
+          },
+          borderColor: 'white',
+          borderRadius: 25,
+          borderWidth: 1,
+          color: 'white',
+          font: {
+              size: 14
+          },
+          formatter: function (value, pieID) {
+              var sum = 0;
+              var dataArr = pieID.chart.data.datasets[0].data;
+              dataArr.map(function (data) {
+                  sum += data;
+              });
+              var percentage = percentFormat.to((value * 100 / sum));
+              return percentage;
+          }
+      }
+  }
+};
+var chartOptions2 = {
+  responsive: true,
+  maintainAspectRatio: true,
+  legend: {
+      dislay: false,
+      labels: {
+          boxWidth: 20,
+      },
+      position: 'bottom',
+      align: 'center'
+  },
+  options: {
+      legend: {
+          display: false,
+          labels: {
+              fontColor: 'rgb(255, 255, 255)'
+          }
+      }
+  },
+  tooltips: {
+      callbacks: {
+          label: function (tooltipItem, data) {
+              var index = tooltipItem.index;
+              return data.labels[index] + ': ' + percentFormat.to(data.datasets[0].data[index]) + '';
+          }
+      }
+  },
+  plugins: {
+      datalabels: {
+          anchor: 'center',
+          backgroundColor: function (context) {
+              return context.dataset.backgroundColor;
+          },
+          borderColor: 'white',
+          borderRadius: 25,
+          borderWidth: 1,
+          color: 'white',
+          font: {
+              size: 14
+          },
+          formatter: function (value, pieID) {
+              var sum = 0;
+              var dataArr = pieID.chart.data.datasets[0].data;
+              dataArr.map(function (data) {
+                  sum += data;
+              });
+              var percentage = percentFormat.to((value * 100 / sum));
+              return percentage;
+          }
+      }
+  }
+};
+
+
+
+var doughnutID = document.getElementById('doughnutchart').getContext('2d');
+new Chart(doughnutID, {        
+  type: 'doughnut',
+  data: grafico1,
+  options: chartOptions
+});
+var doughnutID1 = document.getElementById('doughnutchart1').getContext('2d');
+new Chart(doughnutID1, {        
+  type: 'doughnut',
+  data: grafico1,
+  options: chartOptions
+});
+const ctx1 = document.getElementById('myChart-graf2');
+new Chart(ctx1, {
+  type: 'doughnut',
+  data: grafico2,
+  options: chartOptions
+});
+const ctx12 = document.getElementById('myChart-graf22');
+new Chart(ctx12, {
+  type: 'doughnut',
+  data: grafico2,
+  options: chartOptions
+});
+const ctx3 = document.getElementById('myChart-graf3');
+new Chart(ctx3, {
+  type: 'doughnut',
+  data: grafico3,
+  options: chartOptions
+});
+const ctx33 = document.getElementById('myChart-graf33');
+new Chart(ctx33, {
+  type: 'doughnut',
+  data: grafico3,
+  options: chartOptions
+});
+const ctx4 = document.getElementById('myChart-graf4');
+new Chart(ctx4, {
+  type: 'doughnut',
+  data: grafico4,
+  options: chartOptions
+});
+const ctx44 = document.getElementById('myChart-graf44');
+new Chart(ctx44, {
+  type: 'doughnut',
+  data: grafico4,
+  options: chartOptions
+});
+const ctx5 = document.getElementById('myChart-graf5');
+new Chart(ctx5, {
+  type: 'doughnut',
+  data: grafico5,
+  options: chartOptions  
+});
+const ctx55 = document.getElementById('myChart-graf55');
+new Chart(ctx55, {
+  type: 'doughnut',
+  data: grafico5,
+  options: chartOptions  
+});
+const ctx6 = document.getElementById('myChart-graf6');
+new Chart(ctx6, {
+  type: 'doughnut',
+  data: grafico6,
+  options: chartOptions
+});
+const ctx66 = document.getElementById('myChart-graf66');
+new Chart(ctx66, {
+  type: 'doughnut',
+  data: grafico6,
+  options: chartOptions
+});

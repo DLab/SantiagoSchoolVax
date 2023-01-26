@@ -1,0 +1,6050 @@
+[
+    {
+      "rbd": "8345",
+      "Nombre_comuna": "LICEO JOSEFINA AGUIRRE MONTENEGRO (RBD: 8345) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "1° medio",
+      "porc_novacunados": "12",
+      "porc_vacuincom": "1",
+      "porc_vacu": "87"
+    },
+    {
+      "rbd": "8345",
+      "Nombre_comuna": "LICEO JOSEFINA AGUIRRE MONTENEGRO (RBD: 8345) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "2° medio",
+      "porc_novacunados": "16",
+      "porc_vacuincom": "2",
+      "porc_vacu": "82"
+    },
+    {
+      "rbd": "8345",
+      "Nombre_comuna": "LICEO JOSEFINA AGUIRRE MONTENEGRO (RBD: 8345) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "3° medio",
+      "porc_novacunados": "12",
+      "porc_vacuincom": "2",
+      "porc_vacu": "86"
+    },
+    {
+      "rbd": "8345",
+      "Nombre_comuna": "LICEO JOSEFINA AGUIRRE MONTENEGRO (RBD: 8345) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "4° medio",
+      "porc_novacunados": "11",
+      "porc_vacuincom": "0",
+      "porc_vacu": "89"
+    },
+    {
+      "rbd": "8345",
+      "Nombre_comuna": "LICEO JOSEFINA AGUIRRE MONTENEGRO (RBD: 8345) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "7° básico",
+      "porc_novacunados": "18",
+      "porc_vacuincom": "0",
+      "porc_vacu": "82"
+    },
+    {
+      "rbd": "8345",
+      "Nombre_comuna": "LICEO JOSEFINA AGUIRRE MONTENEGRO (RBD: 8345) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "8° básico",
+      "porc_novacunados": "33",
+      "porc_vacuincom": "7",
+      "porc_vacu": "60"
+    },
+    {
+      "rbd": "8346",
+      "Nombre_comuna": "ESCUELA VICTOR DOMINGO SILVA (RBD: 8346) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "1° básico",
+      "porc_novacunados": "32",
+      "porc_vacuincom": "27",
+      "porc_vacu": "41"
+    },
+    {
+      "rbd": "8346",
+      "Nombre_comuna": "ESCUELA VICTOR DOMINGO SILVA (RBD: 8346) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "2° básico",
+      "porc_novacunados": "0",
+      "porc_vacuincom": "8",
+      "porc_vacu": "92"
+    },
+    {
+      "rbd": "8346",
+      "Nombre_comuna": "ESCUELA VICTOR DOMINGO SILVA (RBD: 8346) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "3° básico",
+      "porc_novacunados": "12",
+      "porc_vacuincom": "0",
+      "porc_vacu": "88"
+    },
+    {
+      "rbd": "8346",
+      "Nombre_comuna": "ESCUELA VICTOR DOMINGO SILVA (RBD: 8346) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "4° básico",
+      "porc_novacunados": "11",
+      "porc_vacuincom": "6",
+      "porc_vacu": "83"
+    },
+    {
+      "rbd": "8346",
+      "Nombre_comuna": "ESCUELA VICTOR DOMINGO SILVA (RBD: 8346) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "5° básico",
+      "porc_novacunados": "7",
+      "porc_vacuincom": "4",
+      "porc_vacu": "89"
+    },
+    {
+      "rbd": "8346",
+      "Nombre_comuna": "ESCUELA VICTOR DOMINGO SILVA (RBD: 8346) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "6° básico",
+      "porc_novacunados": "14",
+      "porc_vacuincom": "0",
+      "porc_vacu": "86"
+    },
+    {
+      "rbd": "8346",
+      "Nombre_comuna": "ESCUELA VICTOR DOMINGO SILVA (RBD: 8346) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "7° básico",
+      "porc_novacunados": "9",
+      "porc_vacuincom": "0",
+      "porc_vacu": "91"
+    },
+    {
+      "rbd": "8346",
+      "Nombre_comuna": "ESCUELA VICTOR DOMINGO SILVA (RBD: 8346) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "8° básico",
+      "porc_novacunados": "15",
+      "porc_vacuincom": "3",
+      "porc_vacu": "82"
+    },
+    {
+      "rbd": "8346",
+      "Nombre_comuna": "ESCUELA VICTOR DOMINGO SILVA (RBD: 8346) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "Kínder",
+      "porc_novacunados": "8",
+      "porc_vacuincom": "15",
+      "porc_vacu": "77"
+    },
+    {
+      "rbd": "8346",
+      "Nombre_comuna": "ESCUELA VICTOR DOMINGO SILVA (RBD: 8346) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "Prekínder",
+      "porc_novacunados": "40",
+      "porc_vacuincom": "40",
+      "porc_vacu": "20"
+    },
+    {
+      "rbd": "8348",
+      "Nombre_comuna": "ESCUELA BAQUEDANO (RBD: 8348) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "1° básico",
+      "porc_novacunados": "16",
+      "porc_vacuincom": "11",
+      "porc_vacu": "73"
+    },
+    {
+      "rbd": "8348",
+      "Nombre_comuna": "ESCUELA BAQUEDANO (RBD: 8348) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "2° básico",
+      "porc_novacunados": "22",
+      "porc_vacuincom": "4",
+      "porc_vacu": "74"
+    },
+    {
+      "rbd": "8348",
+      "Nombre_comuna": "ESCUELA BAQUEDANO (RBD: 8348) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "3° básico",
+      "porc_novacunados": "21",
+      "porc_vacuincom": "3",
+      "porc_vacu": "76"
+    },
+    {
+      "rbd": "8348",
+      "Nombre_comuna": "ESCUELA BAQUEDANO (RBD: 8348) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "4° básico",
+      "porc_novacunados": "5",
+      "porc_vacuincom": "5",
+      "porc_vacu": "90"
+    },
+    {
+      "rbd": "8348",
+      "Nombre_comuna": "ESCUELA BAQUEDANO (RBD: 8348) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "5° básico",
+      "porc_novacunados": "23",
+      "porc_vacuincom": "9",
+      "porc_vacu": "68"
+    },
+    {
+      "rbd": "8348",
+      "Nombre_comuna": "ESCUELA BAQUEDANO (RBD: 8348) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "6° básico",
+      "porc_novacunados": "19",
+      "porc_vacuincom": "10",
+      "porc_vacu": "71"
+    },
+    {
+      "rbd": "8348",
+      "Nombre_comuna": "ESCUELA BAQUEDANO (RBD: 8348) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "7° básico",
+      "porc_novacunados": "9",
+      "porc_vacuincom": "5",
+      "porc_vacu": "86"
+    },
+    {
+      "rbd": "8348",
+      "Nombre_comuna": "ESCUELA BAQUEDANO (RBD: 8348) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "8° básico",
+      "porc_novacunados": "21",
+      "porc_vacuincom": "2",
+      "porc_vacu": "77"
+    },
+    {
+      "rbd": "8348",
+      "Nombre_comuna": "ESCUELA BAQUEDANO (RBD: 8348) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "Educ. Especial",
+      "porc_novacunados": "24",
+      "porc_vacuincom": "23",
+      "porc_vacu": "53"
+    },
+    {
+      "rbd": "8348",
+      "Nombre_comuna": "ESCUELA BAQUEDANO (RBD: 8348) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "Kínder",
+      "porc_novacunados": "24",
+      "porc_vacuincom": "16",
+      "porc_vacu": "60"
+    },
+    {
+      "rbd": "8348",
+      "Nombre_comuna": "ESCUELA BAQUEDANO (RBD: 8348) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "Prekínder",
+      "porc_novacunados": "25",
+      "porc_vacuincom": "25",
+      "porc_vacu": "50"
+    },
+    {
+      "rbd": "8349",
+      "Nombre_comuna": "ESCUELA PEDRO QUINTANA MANSILLA (RBD: 8349) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "1° básico",
+      "porc_novacunados": "17",
+      "porc_vacuincom": "6",
+      "porc_vacu": "77"
+    },
+    {
+      "rbd": "8349",
+      "Nombre_comuna": "ESCUELA PEDRO QUINTANA MANSILLA (RBD: 8349) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "2° básico",
+      "porc_novacunados": "12",
+      "porc_vacuincom": "4",
+      "porc_vacu": "84"
+    },
+    {
+      "rbd": "8349",
+      "Nombre_comuna": "ESCUELA PEDRO QUINTANA MANSILLA (RBD: 8349) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "3° básico",
+      "porc_novacunados": "15",
+      "porc_vacuincom": "2",
+      "porc_vacu": "83"
+    },
+    {
+      "rbd": "8349",
+      "Nombre_comuna": "ESCUELA PEDRO QUINTANA MANSILLA (RBD: 8349) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "4° básico",
+      "porc_novacunados": "12",
+      "porc_vacuincom": "1",
+      "porc_vacu": "87"
+    },
+    {
+      "rbd": "8349",
+      "Nombre_comuna": "ESCUELA PEDRO QUINTANA MANSILLA (RBD: 8349) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "5° básico",
+      "porc_novacunados": "6",
+      "porc_vacuincom": "5",
+      "porc_vacu": "89"
+    },
+    {
+      "rbd": "8349",
+      "Nombre_comuna": "ESCUELA PEDRO QUINTANA MANSILLA (RBD: 8349) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "6° básico",
+      "porc_novacunados": "17",
+      "porc_vacuincom": "3",
+      "porc_vacu": "80"
+    },
+    {
+      "rbd": "8349",
+      "Nombre_comuna": "ESCUELA PEDRO QUINTANA MANSILLA (RBD: 8349) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "7° básico",
+      "porc_novacunados": "6",
+      "porc_vacuincom": "2",
+      "porc_vacu": "92"
+    },
+    {
+      "rbd": "8349",
+      "Nombre_comuna": "ESCUELA PEDRO QUINTANA MANSILLA (RBD: 8349) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "8° básico",
+      "porc_novacunados": "14",
+      "porc_vacuincom": "3",
+      "porc_vacu": "83"
+    },
+    {
+      "rbd": "8349",
+      "Nombre_comuna": "ESCUELA PEDRO QUINTANA MANSILLA (RBD: 8349) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "Kínder",
+      "porc_novacunados": "22",
+      "porc_vacuincom": "24",
+      "porc_vacu": "54"
+    },
+    {
+      "rbd": "8349",
+      "Nombre_comuna": "ESCUELA PEDRO QUINTANA MANSILLA (RBD: 8349) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "Prekínder",
+      "porc_novacunados": "26",
+      "porc_vacuincom": "18",
+      "porc_vacu": "56"
+    },
+    {
+      "rbd": "8351",
+      "Nombre_comuna": "ESCUELA DIFERENCIAL ESPANA (RBD: 8351) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "Educ. Especial",
+      "porc_novacunados": "8",
+      "porc_vacuincom": "2",
+      "porc_vacu": "90"
+    },
+    {
+      "rbd": "8352",
+      "Nombre_comuna": "LICEO TECNICO PROFESIONAL PROFESOR RICARDO NAVARRETE BARRIA (RBD: 8352) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "1° básico",
+      "porc_novacunados": "13",
+      "porc_vacuincom": "20",
+      "porc_vacu": "67"
+    },
+    {
+      "rbd": "8352",
+      "Nombre_comuna": "LICEO TECNICO PROFESIONAL PROFESOR RICARDO NAVARRETE BARRIA (RBD: 8352) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "1° medio",
+      "porc_novacunados": "7",
+      "porc_vacuincom": "3",
+      "porc_vacu": "90"
+    },
+    {
+      "rbd": "8352",
+      "Nombre_comuna": "LICEO TECNICO PROFESIONAL PROFESOR RICARDO NAVARRETE BARRIA (RBD: 8352) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "2° básico",
+      "porc_novacunados": "6",
+      "porc_vacuincom": "19",
+      "porc_vacu": "75"
+    },
+    {
+      "rbd": "8352",
+      "Nombre_comuna": "LICEO TECNICO PROFESIONAL PROFESOR RICARDO NAVARRETE BARRIA (RBD: 8352) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "2° medio",
+      "porc_novacunados": "12",
+      "porc_vacuincom": "0",
+      "porc_vacu": "88"
+    },
+    {
+      "rbd": "8352",
+      "Nombre_comuna": "LICEO TECNICO PROFESIONAL PROFESOR RICARDO NAVARRETE BARRIA (RBD: 8352) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "3° básico",
+      "porc_novacunados": "9",
+      "porc_vacuincom": "0",
+      "porc_vacu": "91"
+    },
+    {
+      "rbd": "8352",
+      "Nombre_comuna": "LICEO TECNICO PROFESIONAL PROFESOR RICARDO NAVARRETE BARRIA (RBD: 8352) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "3° medio",
+      "porc_novacunados": "0",
+      "porc_vacuincom": "4",
+      "porc_vacu": "96"
+    },
+    {
+      "rbd": "8352",
+      "Nombre_comuna": "LICEO TECNICO PROFESIONAL PROFESOR RICARDO NAVARRETE BARRIA (RBD: 8352) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "4° básico",
+      "porc_novacunados": "22",
+      "porc_vacuincom": "11",
+      "porc_vacu": "67"
+    },
+    {
+      "rbd": "8352",
+      "Nombre_comuna": "LICEO TECNICO PROFESIONAL PROFESOR RICARDO NAVARRETE BARRIA (RBD: 8352) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "4° medio",
+      "porc_novacunados": "13",
+      "porc_vacuincom": "0",
+      "porc_vacu": "87"
+    },
+    {
+      "rbd": "8352",
+      "Nombre_comuna": "LICEO TECNICO PROFESIONAL PROFESOR RICARDO NAVARRETE BARRIA (RBD: 8352) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "5° básico",
+      "porc_novacunados": "0",
+      "porc_vacuincom": "17",
+      "porc_vacu": "83"
+    },
+    {
+      "rbd": "8352",
+      "Nombre_comuna": "LICEO TECNICO PROFESIONAL PROFESOR RICARDO NAVARRETE BARRIA (RBD: 8352) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "6° básico",
+      "porc_novacunados": "10",
+      "porc_vacuincom": "5",
+      "porc_vacu": "85"
+    },
+    {
+      "rbd": "8352",
+      "Nombre_comuna": "LICEO TECNICO PROFESIONAL PROFESOR RICARDO NAVARRETE BARRIA (RBD: 8352) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "7° básico",
+      "porc_novacunados": "21",
+      "porc_vacuincom": "3",
+      "porc_vacu": "76"
+    },
+    {
+      "rbd": "8352",
+      "Nombre_comuna": "LICEO TECNICO PROFESIONAL PROFESOR RICARDO NAVARRETE BARRIA (RBD: 8352) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "8° básico",
+      "porc_novacunados": "22",
+      "porc_vacuincom": "0",
+      "porc_vacu": "78"
+    },
+    {
+      "rbd": "8352",
+      "Nombre_comuna": "LICEO TECNICO PROFESIONAL PROFESOR RICARDO NAVARRETE BARRIA (RBD: 8352) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "Kínder",
+      "porc_novacunados": "44",
+      "porc_vacuincom": "12",
+      "porc_vacu": "44"
+    },
+    {
+      "rbd": "8352",
+      "Nombre_comuna": "LICEO TECNICO PROFESIONAL PROFESOR RICARDO NAVARRETE BARRIA (RBD: 8352) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "Prekínder",
+      "porc_novacunados": "36",
+      "porc_vacuincom": "27",
+      "porc_vacu": "37"
+    },
+    {
+      "rbd": "8353",
+      "Nombre_comuna": "ESCUELA NIEVES DEL SUR (RBD: 8353) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "1° básico",
+      "porc_novacunados": "22",
+      "porc_vacuincom": "0",
+      "porc_vacu": "78"
+    },
+    {
+      "rbd": "8353",
+      "Nombre_comuna": "ESCUELA NIEVES DEL SUR (RBD: 8353) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "2° básico",
+      "porc_novacunados": "6",
+      "porc_vacuincom": "0",
+      "porc_vacu": "94"
+    },
+    {
+      "rbd": "8353",
+      "Nombre_comuna": "ESCUELA NIEVES DEL SUR (RBD: 8353) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "3° básico",
+      "porc_novacunados": "15",
+      "porc_vacuincom": "23",
+      "porc_vacu": "62"
+    },
+    {
+      "rbd": "8353",
+      "Nombre_comuna": "ESCUELA NIEVES DEL SUR (RBD: 8353) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "4° básico",
+      "porc_novacunados": "20",
+      "porc_vacuincom": "10",
+      "porc_vacu": "70"
+    },
+    {
+      "rbd": "8353",
+      "Nombre_comuna": "ESCUELA NIEVES DEL SUR (RBD: 8353) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "5° básico",
+      "porc_novacunados": "21",
+      "porc_vacuincom": "7",
+      "porc_vacu": "72"
+    },
+    {
+      "rbd": "8353",
+      "Nombre_comuna": "ESCUELA NIEVES DEL SUR (RBD: 8353) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "6° básico",
+      "porc_novacunados": "33",
+      "porc_vacuincom": "22",
+      "porc_vacu": "45"
+    },
+    {
+      "rbd": "8353",
+      "Nombre_comuna": "ESCUELA NIEVES DEL SUR (RBD: 8353) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "7° básico",
+      "porc_novacunados": "5",
+      "porc_vacuincom": "0",
+      "porc_vacu": "95"
+    },
+    {
+      "rbd": "8353",
+      "Nombre_comuna": "ESCUELA NIEVES DEL SUR (RBD: 8353) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "8° básico",
+      "porc_novacunados": "10",
+      "porc_vacuincom": "0",
+      "porc_vacu": "90"
+    },
+    {
+      "rbd": "8353",
+      "Nombre_comuna": "ESCUELA NIEVES DEL SUR (RBD: 8353) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "Kínder",
+      "porc_novacunados": "22",
+      "porc_vacuincom": "17",
+      "porc_vacu": "61"
+    },
+    {
+      "rbd": "8353",
+      "Nombre_comuna": "ESCUELA NIEVES DEL SUR (RBD: 8353) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "Prekínder",
+      "porc_novacunados": "42",
+      "porc_vacuincom": "25",
+      "porc_vacu": "33"
+    },
+    {
+      "rbd": "8354",
+      "Nombre_comuna": "ESCUELA RURAL PABLO CEA VASQUEZ (RBD: 8354) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "1° básico",
+      "porc_novacunados": "50",
+      "porc_vacuincom": "50",
+      "porc_vacu": "0"
+    },
+    {
+      "rbd": "8354",
+      "Nombre_comuna": "ESCUELA RURAL PABLO CEA VASQUEZ (RBD: 8354) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "2° básico",
+      "porc_novacunados": "17",
+      "porc_vacuincom": "0",
+      "porc_vacu": "83"
+    },
+    {
+      "rbd": "8354",
+      "Nombre_comuna": "ESCUELA RURAL PABLO CEA VASQUEZ (RBD: 8354) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "3° básico",
+      "porc_novacunados": "100",
+      "porc_vacuincom": "0",
+      "porc_vacu": "0"
+    },
+    {
+      "rbd": "8354",
+      "Nombre_comuna": "ESCUELA RURAL PABLO CEA VASQUEZ (RBD: 8354) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "4° básico",
+      "porc_novacunados": "0",
+      "porc_vacuincom": "0",
+      "porc_vacu": "100"
+    },
+    {
+      "rbd": "8354",
+      "Nombre_comuna": "ESCUELA RURAL PABLO CEA VASQUEZ (RBD: 8354) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "5° básico",
+      "porc_novacunados": "17",
+      "porc_vacuincom": "0",
+      "porc_vacu": "83"
+    },
+    {
+      "rbd": "8354",
+      "Nombre_comuna": "ESCUELA RURAL PABLO CEA VASQUEZ (RBD: 8354) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "6° básico",
+      "porc_novacunados": "0",
+      "porc_vacuincom": "0",
+      "porc_vacu": "100"
+    },
+    {
+      "rbd": "8355",
+      "Nombre_comuna": "ESCUELA RURAL PABLO NERUDA (RBD: 8355) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "1° básico",
+      "porc_novacunados": "50",
+      "porc_vacuincom": "17",
+      "porc_vacu": "33"
+    },
+    {
+      "rbd": "8355",
+      "Nombre_comuna": "ESCUELA RURAL PABLO NERUDA (RBD: 8355) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "2° básico",
+      "porc_novacunados": "50",
+      "porc_vacuincom": "0",
+      "porc_vacu": "50"
+    },
+    {
+      "rbd": "8355",
+      "Nombre_comuna": "ESCUELA RURAL PABLO NERUDA (RBD: 8355) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "3° básico",
+      "porc_novacunados": "50",
+      "porc_vacuincom": "17",
+      "porc_vacu": "33"
+    },
+    {
+      "rbd": "8355",
+      "Nombre_comuna": "ESCUELA RURAL PABLO NERUDA (RBD: 8355) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "4° básico",
+      "porc_novacunados": "0",
+      "porc_vacuincom": "17",
+      "porc_vacu": "83"
+    },
+    {
+      "rbd": "8355",
+      "Nombre_comuna": "ESCUELA RURAL PABLO NERUDA (RBD: 8355) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "5° básico",
+      "porc_novacunados": "40",
+      "porc_vacuincom": "20",
+      "porc_vacu": "40"
+    },
+    {
+      "rbd": "8355",
+      "Nombre_comuna": "ESCUELA RURAL PABLO NERUDA (RBD: 8355) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "6° básico",
+      "porc_novacunados": "0",
+      "porc_vacuincom": "0",
+      "porc_vacu": "100"
+    },
+    {
+      "rbd": "8355",
+      "Nombre_comuna": "ESCUELA RURAL PABLO NERUDA (RBD: 8355) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "7° básico",
+      "porc_novacunados": "17",
+      "porc_vacuincom": "0",
+      "porc_vacu": "83"
+    },
+    {
+      "rbd": "8355",
+      "Nombre_comuna": "ESCUELA RURAL PABLO NERUDA (RBD: 8355) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "8° básico",
+      "porc_novacunados": "0",
+      "porc_vacuincom": "0",
+      "porc_vacu": "100"
+    },
+    {
+      "rbd": "8355",
+      "Nombre_comuna": "ESCUELA RURAL PABLO NERUDA (RBD: 8355) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "Kínder",
+      "porc_novacunados": "0",
+      "porc_vacuincom": "29",
+      "porc_vacu": "71"
+    },
+    {
+      "rbd": "8355",
+      "Nombre_comuna": "ESCUELA RURAL PABLO NERUDA (RBD: 8355) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "Prekínder",
+      "porc_novacunados": "100",
+      "porc_vacuincom": "0",
+      "porc_vacu": "0"
+    },
+    {
+      "rbd": "8356",
+      "Nombre_comuna": "ESCUELA RURAL RIO BLANCO (RBD: 8356) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "1° básico",
+      "porc_novacunados": "0",
+      "porc_vacuincom": "0",
+      "porc_vacu": "100"
+    },
+    {
+      "rbd": "8356",
+      "Nombre_comuna": "ESCUELA RURAL RIO BLANCO (RBD: 8356) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "2° básico",
+      "porc_novacunados": "0",
+      "porc_vacuincom": "0",
+      "porc_vacu": "100"
+    },
+    {
+      "rbd": "8356",
+      "Nombre_comuna": "ESCUELA RURAL RIO BLANCO (RBD: 8356) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "3° básico",
+      "porc_novacunados": "0",
+      "porc_vacuincom": "0",
+      "porc_vacu": "100"
+    },
+    {
+      "rbd": "8356",
+      "Nombre_comuna": "ESCUELA RURAL RIO BLANCO (RBD: 8356) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "4° básico",
+      "porc_novacunados": "0",
+      "porc_vacuincom": "0",
+      "porc_vacu": "100"
+    },
+    {
+      "rbd": "8356",
+      "Nombre_comuna": "ESCUELA RURAL RIO BLANCO (RBD: 8356) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "5° básico",
+      "porc_novacunados": "0",
+      "porc_vacuincom": "0",
+      "porc_vacu": "100"
+    },
+    {
+      "rbd": "8356",
+      "Nombre_comuna": "ESCUELA RURAL RIO BLANCO (RBD: 8356) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "6° básico",
+      "porc_novacunados": "0",
+      "porc_vacuincom": "0",
+      "porc_vacu": "100"
+    },
+    {
+      "rbd": "8356",
+      "Nombre_comuna": "ESCUELA RURAL RIO BLANCO (RBD: 8356) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "7° básico",
+      "porc_novacunados": "0",
+      "porc_vacuincom": "20",
+      "porc_vacu": "80"
+    },
+    {
+      "rbd": "8356",
+      "Nombre_comuna": "ESCUELA RURAL RIO BLANCO (RBD: 8356) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "8° básico",
+      "porc_novacunados": "12",
+      "porc_vacuincom": "0",
+      "porc_vacu": "88"
+    },
+    {
+      "rbd": "8356",
+      "Nombre_comuna": "ESCUELA RURAL RIO BLANCO (RBD: 8356) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "Kínder",
+      "porc_novacunados": "50",
+      "porc_vacuincom": "12",
+      "porc_vacu": "38"
+    },
+    {
+      "rbd": "8356",
+      "Nombre_comuna": "ESCUELA RURAL RIO BLANCO (RBD: 8356) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "Prekínder",
+      "porc_novacunados": "0",
+      "porc_vacuincom": "0",
+      "porc_vacu": "100"
+    },
+    {
+      "rbd": "8357",
+      "Nombre_comuna": "ESCUELA RURAL VALLE SIMPSON (RBD: 8357) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "1° básico",
+      "porc_novacunados": "23",
+      "porc_vacuincom": "23",
+      "porc_vacu": "54"
+    },
+    {
+      "rbd": "8357",
+      "Nombre_comuna": "ESCUELA RURAL VALLE SIMPSON (RBD: 8357) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "2° básico",
+      "porc_novacunados": "10",
+      "porc_vacuincom": "20",
+      "porc_vacu": "70"
+    },
+    {
+      "rbd": "8357",
+      "Nombre_comuna": "ESCUELA RURAL VALLE SIMPSON (RBD: 8357) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "3° básico",
+      "porc_novacunados": "0",
+      "porc_vacuincom": "0",
+      "porc_vacu": "100"
+    },
+    {
+      "rbd": "8357",
+      "Nombre_comuna": "ESCUELA RURAL VALLE SIMPSON (RBD: 8357) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "4° básico",
+      "porc_novacunados": "23",
+      "porc_vacuincom": "15",
+      "porc_vacu": "62"
+    },
+    {
+      "rbd": "8357",
+      "Nombre_comuna": "ESCUELA RURAL VALLE SIMPSON (RBD: 8357) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "5° básico",
+      "porc_novacunados": "10",
+      "porc_vacuincom": "15",
+      "porc_vacu": "75"
+    },
+    {
+      "rbd": "8357",
+      "Nombre_comuna": "ESCUELA RURAL VALLE SIMPSON (RBD: 8357) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "6° básico",
+      "porc_novacunados": "10",
+      "porc_vacuincom": "0",
+      "porc_vacu": "90"
+    },
+    {
+      "rbd": "8357",
+      "Nombre_comuna": "ESCUELA RURAL VALLE SIMPSON (RBD: 8357) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "7° básico",
+      "porc_novacunados": "10",
+      "porc_vacuincom": "20",
+      "porc_vacu": "70"
+    },
+    {
+      "rbd": "8357",
+      "Nombre_comuna": "ESCUELA RURAL VALLE SIMPSON (RBD: 8357) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "8° básico",
+      "porc_novacunados": "0",
+      "porc_vacuincom": "0",
+      "porc_vacu": "100"
+    },
+    {
+      "rbd": "8357",
+      "Nombre_comuna": "ESCUELA RURAL VALLE SIMPSON (RBD: 8357) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "Kínder",
+      "porc_novacunados": "33",
+      "porc_vacuincom": "44",
+      "porc_vacu": "23"
+    },
+    {
+      "rbd": "8357",
+      "Nombre_comuna": "ESCUELA RURAL VALLE SIMPSON (RBD: 8357) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "Prekínder",
+      "porc_novacunados": "13",
+      "porc_vacuincom": "13",
+      "porc_vacu": "74"
+    },
+    {
+      "rbd": "8358",
+      "Nombre_comuna": "ESCUELA JOSE ANTOLIN SILVA ORMENO (RBD: 8358) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "1° básico",
+      "porc_novacunados": "38",
+      "porc_vacuincom": "12",
+      "porc_vacu": "50"
+    },
+    {
+      "rbd": "8358",
+      "Nombre_comuna": "ESCUELA JOSE ANTOLIN SILVA ORMENO (RBD: 8358) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "2° básico",
+      "porc_novacunados": "50",
+      "porc_vacuincom": "0",
+      "porc_vacu": "50"
+    },
+    {
+      "rbd": "8358",
+      "Nombre_comuna": "ESCUELA JOSE ANTOLIN SILVA ORMENO (RBD: 8358) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "3° básico",
+      "porc_novacunados": "0",
+      "porc_vacuincom": "0",
+      "porc_vacu": "100"
+    },
+    {
+      "rbd": "8358",
+      "Nombre_comuna": "ESCUELA JOSE ANTOLIN SILVA ORMENO (RBD: 8358) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "4° básico",
+      "porc_novacunados": "20",
+      "porc_vacuincom": "0",
+      "porc_vacu": "80"
+    },
+    {
+      "rbd": "8358",
+      "Nombre_comuna": "ESCUELA JOSE ANTOLIN SILVA ORMENO (RBD: 8358) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "5° básico",
+      "porc_novacunados": "20",
+      "porc_vacuincom": "20",
+      "porc_vacu": "60"
+    },
+    {
+      "rbd": "8358",
+      "Nombre_comuna": "ESCUELA JOSE ANTOLIN SILVA ORMENO (RBD: 8358) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "6° básico",
+      "porc_novacunados": "43",
+      "porc_vacuincom": "0",
+      "porc_vacu": "57"
+    },
+    {
+      "rbd": "8358",
+      "Nombre_comuna": "ESCUELA JOSE ANTOLIN SILVA ORMENO (RBD: 8358) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "7° básico",
+      "porc_novacunados": "14",
+      "porc_vacuincom": "0",
+      "porc_vacu": "86"
+    },
+    {
+      "rbd": "8358",
+      "Nombre_comuna": "ESCUELA JOSE ANTOLIN SILVA ORMENO (RBD: 8358) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "8° básico",
+      "porc_novacunados": "25",
+      "porc_vacuincom": "0",
+      "porc_vacu": "75"
+    },
+    {
+      "rbd": "8358",
+      "Nombre_comuna": "ESCUELA JOSE ANTOLIN SILVA ORMENO (RBD: 8358) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "Kínder",
+      "porc_novacunados": "30",
+      "porc_vacuincom": "30",
+      "porc_vacu": "40"
+    },
+    {
+      "rbd": "8358",
+      "Nombre_comuna": "ESCUELA JOSE ANTOLIN SILVA ORMENO (RBD: 8358) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "Prekínder",
+      "porc_novacunados": "14",
+      "porc_vacuincom": "14",
+      "porc_vacu": "72"
+    },
+    {
+      "rbd": "8361",
+      "Nombre_comuna": "ESCUELA RURAL VALLE DE LA LUNA (RBD: 8361) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "1° básico",
+      "porc_novacunados": "20",
+      "porc_vacuincom": "40",
+      "porc_vacu": "40"
+    },
+    {
+      "rbd": "8361",
+      "Nombre_comuna": "ESCUELA RURAL VALLE DE LA LUNA (RBD: 8361) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "2° básico",
+      "porc_novacunados": "33",
+      "porc_vacuincom": "17",
+      "porc_vacu": "50"
+    },
+    {
+      "rbd": "8361",
+      "Nombre_comuna": "ESCUELA RURAL VALLE DE LA LUNA (RBD: 8361) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "3° básico",
+      "porc_novacunados": "33",
+      "porc_vacuincom": "0",
+      "porc_vacu": "67"
+    },
+    {
+      "rbd": "8361",
+      "Nombre_comuna": "ESCUELA RURAL VALLE DE LA LUNA (RBD: 8361) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "4° básico",
+      "porc_novacunados": "0",
+      "porc_vacuincom": "17",
+      "porc_vacu": "83"
+    },
+    {
+      "rbd": "8361",
+      "Nombre_comuna": "ESCUELA RURAL VALLE DE LA LUNA (RBD: 8361) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "5° básico",
+      "porc_novacunados": "11",
+      "porc_vacuincom": "0",
+      "porc_vacu": "89"
+    },
+    {
+      "rbd": "8361",
+      "Nombre_comuna": "ESCUELA RURAL VALLE DE LA LUNA (RBD: 8361) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "6° básico",
+      "porc_novacunados": "11",
+      "porc_vacuincom": "11",
+      "porc_vacu": "78"
+    },
+    {
+      "rbd": "8361",
+      "Nombre_comuna": "ESCUELA RURAL VALLE DE LA LUNA (RBD: 8361) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "7° básico",
+      "porc_novacunados": "0",
+      "porc_vacuincom": "25",
+      "porc_vacu": "75"
+    },
+    {
+      "rbd": "8361",
+      "Nombre_comuna": "ESCUELA RURAL VALLE DE LA LUNA (RBD: 8361) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "8° básico",
+      "porc_novacunados": "0",
+      "porc_vacuincom": "0",
+      "porc_vacu": "100"
+    },
+    {
+      "rbd": "8361",
+      "Nombre_comuna": "ESCUELA RURAL VALLE DE LA LUNA (RBD: 8361) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "Kínder",
+      "porc_novacunados": "67",
+      "porc_vacuincom": "33",
+      "porc_vacu": "0"
+    },
+    {
+      "rbd": "8361",
+      "Nombre_comuna": "ESCUELA RURAL VALLE DE LA LUNA (RBD: 8361) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "Prekínder",
+      "porc_novacunados": "0",
+      "porc_vacuincom": "33",
+      "porc_vacu": "67"
+    },
+    {
+      "rbd": "8362",
+      "Nombre_comuna": "ESCUELA RURAL ARROYO EL GATO (RBD: 8362) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "1° básico",
+      "porc_novacunados": "33",
+      "porc_vacuincom": "0",
+      "porc_vacu": "67"
+    },
+    {
+      "rbd": "8362",
+      "Nombre_comuna": "ESCUELA RURAL ARROYO EL GATO (RBD: 8362) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "2° básico",
+      "porc_novacunados": "0",
+      "porc_vacuincom": "0",
+      "porc_vacu": "100"
+    },
+    {
+      "rbd": "8362",
+      "Nombre_comuna": "ESCUELA RURAL ARROYO EL GATO (RBD: 8362) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "3° básico",
+      "porc_novacunados": "0",
+      "porc_vacuincom": "0",
+      "porc_vacu": "100"
+    },
+    {
+      "rbd": "8362",
+      "Nombre_comuna": "ESCUELA RURAL ARROYO EL GATO (RBD: 8362) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "4° básico",
+      "porc_novacunados": "0",
+      "porc_vacuincom": "0",
+      "porc_vacu": "100"
+    },
+    {
+      "rbd": "8362",
+      "Nombre_comuna": "ESCUELA RURAL ARROYO EL GATO (RBD: 8362) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "5° básico",
+      "porc_novacunados": "0",
+      "porc_vacuincom": "0",
+      "porc_vacu": "100"
+    },
+    {
+      "rbd": "8362",
+      "Nombre_comuna": "ESCUELA RURAL ARROYO EL GATO (RBD: 8362) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "6° básico",
+      "porc_novacunados": "0",
+      "porc_vacuincom": "0",
+      "porc_vacu": "100"
+    },
+    {
+      "rbd": "8362",
+      "Nombre_comuna": "ESCUELA RURAL ARROYO EL GATO (RBD: 8362) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "7° básico",
+      "porc_novacunados": "100",
+      "porc_vacuincom": "0",
+      "porc_vacu": "0"
+    },
+    {
+      "rbd": "8365",
+      "Nombre_comuna": "LICEO SAN FELIPE BENICIO DE COYHAIQUE (RBD: 8365) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "1° medio",
+      "porc_novacunados": "4",
+      "porc_vacuincom": "1",
+      "porc_vacu": "95"
+    },
+    {
+      "rbd": "8365",
+      "Nombre_comuna": "LICEO SAN FELIPE BENICIO DE COYHAIQUE (RBD: 8365) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "2° medio",
+      "porc_novacunados": "4",
+      "porc_vacuincom": "1",
+      "porc_vacu": "95"
+    },
+    {
+      "rbd": "8365",
+      "Nombre_comuna": "LICEO SAN FELIPE BENICIO DE COYHAIQUE (RBD: 8365) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "3° medio",
+      "porc_novacunados": "9",
+      "porc_vacuincom": "1",
+      "porc_vacu": "90"
+    },
+    {
+      "rbd": "8365",
+      "Nombre_comuna": "LICEO SAN FELIPE BENICIO DE COYHAIQUE (RBD: 8365) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "4° medio",
+      "porc_novacunados": "8",
+      "porc_vacuincom": "0",
+      "porc_vacu": "92"
+    },
+    {
+      "rbd": "8365",
+      "Nombre_comuna": "LICEO SAN FELIPE BENICIO DE COYHAIQUE (RBD: 8365) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "7° básico",
+      "porc_novacunados": "8",
+      "porc_vacuincom": "3",
+      "porc_vacu": "89"
+    },
+    {
+      "rbd": "8365",
+      "Nombre_comuna": "LICEO SAN FELIPE BENICIO DE COYHAIQUE (RBD: 8365) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "8° básico",
+      "porc_novacunados": "9",
+      "porc_vacuincom": "1",
+      "porc_vacu": "90"
+    },
+    {
+      "rbd": "8366",
+      "Nombre_comuna": "COLEGIO LYON COLLEGE (RBD: 8366) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "1° básico",
+      "porc_novacunados": "20",
+      "porc_vacuincom": "15",
+      "porc_vacu": "65"
+    },
+    {
+      "rbd": "8366",
+      "Nombre_comuna": "COLEGIO LYON COLLEGE (RBD: 8366) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "2° básico",
+      "porc_novacunados": "29",
+      "porc_vacuincom": "7",
+      "porc_vacu": "64"
+    },
+    {
+      "rbd": "8366",
+      "Nombre_comuna": "COLEGIO LYON COLLEGE (RBD: 8366) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "3° básico",
+      "porc_novacunados": "28",
+      "porc_vacuincom": "10",
+      "porc_vacu": "62"
+    },
+    {
+      "rbd": "8366",
+      "Nombre_comuna": "COLEGIO LYON COLLEGE (RBD: 8366) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "4° básico",
+      "porc_novacunados": "10",
+      "porc_vacuincom": "0",
+      "porc_vacu": "90"
+    },
+    {
+      "rbd": "8366",
+      "Nombre_comuna": "COLEGIO LYON COLLEGE (RBD: 8366) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "5° básico",
+      "porc_novacunados": "4",
+      "porc_vacuincom": "8",
+      "porc_vacu": "88"
+    },
+    {
+      "rbd": "8366",
+      "Nombre_comuna": "COLEGIO LYON COLLEGE (RBD: 8366) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "6° básico",
+      "porc_novacunados": "7",
+      "porc_vacuincom": "4",
+      "porc_vacu": "89"
+    },
+    {
+      "rbd": "8366",
+      "Nombre_comuna": "COLEGIO LYON COLLEGE (RBD: 8366) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "7° básico",
+      "porc_novacunados": "0",
+      "porc_vacuincom": "0",
+      "porc_vacu": "100"
+    },
+    {
+      "rbd": "8366",
+      "Nombre_comuna": "COLEGIO LYON COLLEGE (RBD: 8366) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "8° básico",
+      "porc_novacunados": "10",
+      "porc_vacuincom": "5",
+      "porc_vacu": "85"
+    },
+    {
+      "rbd": "8366",
+      "Nombre_comuna": "COLEGIO LYON COLLEGE (RBD: 8366) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "Kínder",
+      "porc_novacunados": "52",
+      "porc_vacuincom": "24",
+      "porc_vacu": "24"
+    },
+    {
+      "rbd": "8366",
+      "Nombre_comuna": "COLEGIO LYON COLLEGE (RBD: 8366) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "Prekínder",
+      "porc_novacunados": "67",
+      "porc_vacuincom": "0",
+      "porc_vacu": "33"
+    },
+    {
+      "rbd": "8367",
+      "Nombre_comuna": "COLEGIO MATER DEI DE COYHAIQUE (RBD: 8367) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "1° básico",
+      "porc_novacunados": "25",
+      "porc_vacuincom": "14",
+      "porc_vacu": "61"
+    },
+    {
+      "rbd": "8367",
+      "Nombre_comuna": "COLEGIO MATER DEI DE COYHAIQUE (RBD: 8367) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "1° medio",
+      "porc_novacunados": "6",
+      "porc_vacuincom": "0",
+      "porc_vacu": "94"
+    },
+    {
+      "rbd": "8367",
+      "Nombre_comuna": "COLEGIO MATER DEI DE COYHAIQUE (RBD: 8367) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "2° básico",
+      "porc_novacunados": "16",
+      "porc_vacuincom": "4",
+      "porc_vacu": "80"
+    },
+    {
+      "rbd": "8367",
+      "Nombre_comuna": "COLEGIO MATER DEI DE COYHAIQUE (RBD: 8367) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "2° medio",
+      "porc_novacunados": "11",
+      "porc_vacuincom": "2",
+      "porc_vacu": "87"
+    },
+    {
+      "rbd": "8367",
+      "Nombre_comuna": "COLEGIO MATER DEI DE COYHAIQUE (RBD: 8367) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "3° básico",
+      "porc_novacunados": "16",
+      "porc_vacuincom": "1",
+      "porc_vacu": "83"
+    },
+    {
+      "rbd": "8367",
+      "Nombre_comuna": "COLEGIO MATER DEI DE COYHAIQUE (RBD: 8367) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "3° medio",
+      "porc_novacunados": "10",
+      "porc_vacuincom": "0",
+      "porc_vacu": "90"
+    },
+    {
+      "rbd": "8367",
+      "Nombre_comuna": "COLEGIO MATER DEI DE COYHAIQUE (RBD: 8367) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "4° básico",
+      "porc_novacunados": "9",
+      "porc_vacuincom": "0",
+      "porc_vacu": "91"
+    },
+    {
+      "rbd": "8367",
+      "Nombre_comuna": "COLEGIO MATER DEI DE COYHAIQUE (RBD: 8367) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "4° medio",
+      "porc_novacunados": "14",
+      "porc_vacuincom": "0",
+      "porc_vacu": "86"
+    },
+    {
+      "rbd": "8367",
+      "Nombre_comuna": "COLEGIO MATER DEI DE COYHAIQUE (RBD: 8367) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "5° básico",
+      "porc_novacunados": "13",
+      "porc_vacuincom": "3",
+      "porc_vacu": "84"
+    },
+    {
+      "rbd": "8367",
+      "Nombre_comuna": "COLEGIO MATER DEI DE COYHAIQUE (RBD: 8367) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "6° básico",
+      "porc_novacunados": "8",
+      "porc_vacuincom": "1",
+      "porc_vacu": "91"
+    },
+    {
+      "rbd": "8367",
+      "Nombre_comuna": "COLEGIO MATER DEI DE COYHAIQUE (RBD: 8367) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "7° básico",
+      "porc_novacunados": "4",
+      "porc_vacuincom": "1",
+      "porc_vacu": "95"
+    },
+    {
+      "rbd": "8367",
+      "Nombre_comuna": "COLEGIO MATER DEI DE COYHAIQUE (RBD: 8367) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "8° básico",
+      "porc_novacunados": "4",
+      "porc_vacuincom": "0",
+      "porc_vacu": "96"
+    },
+    {
+      "rbd": "8367",
+      "Nombre_comuna": "COLEGIO MATER DEI DE COYHAIQUE (RBD: 8367) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "Kínder",
+      "porc_novacunados": "14",
+      "porc_vacuincom": "15",
+      "porc_vacu": "71"
+    },
+    {
+      "rbd": "8367",
+      "Nombre_comuna": "COLEGIO MATER DEI DE COYHAIQUE (RBD: 8367) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "Prekínder",
+      "porc_novacunados": "26",
+      "porc_vacuincom": "14",
+      "porc_vacu": "60"
+    },
+    {
+      "rbd": "8368",
+      "Nombre_comuna": "ESCUELA PARTICULAR SAN JOSE OBRERO (RBD: 8368) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "1° básico",
+      "porc_novacunados": "36",
+      "porc_vacuincom": "14",
+      "porc_vacu": "50"
+    },
+    {
+      "rbd": "8368",
+      "Nombre_comuna": "ESCUELA PARTICULAR SAN JOSE OBRERO (RBD: 8368) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "2° básico",
+      "porc_novacunados": "29",
+      "porc_vacuincom": "6",
+      "porc_vacu": "65"
+    },
+    {
+      "rbd": "8368",
+      "Nombre_comuna": "ESCUELA PARTICULAR SAN JOSE OBRERO (RBD: 8368) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "3° básico",
+      "porc_novacunados": "18",
+      "porc_vacuincom": "8",
+      "porc_vacu": "74"
+    },
+    {
+      "rbd": "8368",
+      "Nombre_comuna": "ESCUELA PARTICULAR SAN JOSE OBRERO (RBD: 8368) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "4° básico",
+      "porc_novacunados": "12",
+      "porc_vacuincom": "8",
+      "porc_vacu": "80"
+    },
+    {
+      "rbd": "8368",
+      "Nombre_comuna": "ESCUELA PARTICULAR SAN JOSE OBRERO (RBD: 8368) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "5° básico",
+      "porc_novacunados": "15",
+      "porc_vacuincom": "6",
+      "porc_vacu": "79"
+    },
+    {
+      "rbd": "8368",
+      "Nombre_comuna": "ESCUELA PARTICULAR SAN JOSE OBRERO (RBD: 8368) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "6° básico",
+      "porc_novacunados": "12",
+      "porc_vacuincom": "4",
+      "porc_vacu": "84"
+    },
+    {
+      "rbd": "8368",
+      "Nombre_comuna": "ESCUELA PARTICULAR SAN JOSE OBRERO (RBD: 8368) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "Kínder",
+      "porc_novacunados": "37",
+      "porc_vacuincom": "16",
+      "porc_vacu": "47"
+    },
+    {
+      "rbd": "8368",
+      "Nombre_comuna": "ESCUELA PARTICULAR SAN JOSE OBRERO (RBD: 8368) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "Prekínder",
+      "porc_novacunados": "32",
+      "porc_vacuincom": "5",
+      "porc_vacu": "63"
+    },
+    {
+      "rbd": "8369",
+      "Nombre_comuna": "LICEO BICENTENARIO AGRICOLA E INDUSTRIAL DE LA PATAGONIA (RBD: 8369) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "1° medio",
+      "porc_novacunados": "8",
+      "porc_vacuincom": "6",
+      "porc_vacu": "86"
+    },
+    {
+      "rbd": "8369",
+      "Nombre_comuna": "LICEO BICENTENARIO AGRICOLA E INDUSTRIAL DE LA PATAGONIA (RBD: 8369) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "2° medio",
+      "porc_novacunados": "3",
+      "porc_vacuincom": "3",
+      "porc_vacu": "94"
+    },
+    {
+      "rbd": "8369",
+      "Nombre_comuna": "LICEO BICENTENARIO AGRICOLA E INDUSTRIAL DE LA PATAGONIA (RBD: 8369) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "3° medio",
+      "porc_novacunados": "5",
+      "porc_vacuincom": "2",
+      "porc_vacu": "93"
+    },
+    {
+      "rbd": "8369",
+      "Nombre_comuna": "LICEO BICENTENARIO AGRICOLA E INDUSTRIAL DE LA PATAGONIA (RBD: 8369) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "4° medio",
+      "porc_novacunados": "15",
+      "porc_vacuincom": "0",
+      "porc_vacu": "85"
+    },
+    {
+      "rbd": "8370",
+      "Nombre_comuna": "ESCUELA MUNICIPAL VILLA AMENGUAL (RBD: 8370) - LAGO VERDE",
+      "nom_region": "Aysén",
+      "nivel_alu": "3° básico",
+      "porc_novacunados": "0",
+      "porc_vacuincom": "0",
+      "porc_vacu": "100"
+    },
+    {
+      "rbd": "8370",
+      "Nombre_comuna": "ESCUELA MUNICIPAL VILLA AMENGUAL (RBD: 8370) - LAGO VERDE",
+      "nom_region": "Aysén",
+      "nivel_alu": "4° básico",
+      "porc_novacunados": "0",
+      "porc_vacuincom": "50",
+      "porc_vacu": "50"
+    },
+    {
+      "rbd": "8370",
+      "Nombre_comuna": "ESCUELA MUNICIPAL VILLA AMENGUAL (RBD: 8370) - LAGO VERDE",
+      "nom_region": "Aysén",
+      "nivel_alu": "5° básico",
+      "porc_novacunados": "50",
+      "porc_vacuincom": "0",
+      "porc_vacu": "50"
+    },
+    {
+      "rbd": "8370",
+      "Nombre_comuna": "ESCUELA MUNICIPAL VILLA AMENGUAL (RBD: 8370) - LAGO VERDE",
+      "nom_region": "Aysén",
+      "nivel_alu": "6° básico",
+      "porc_novacunados": "0",
+      "porc_vacuincom": "50",
+      "porc_vacu": "50"
+    },
+    {
+      "rbd": "8370",
+      "Nombre_comuna": "ESCUELA MUNICIPAL VILLA AMENGUAL (RBD: 8370) - LAGO VERDE",
+      "nom_region": "Aysén",
+      "nivel_alu": "7° básico",
+      "porc_novacunados": "0",
+      "porc_vacuincom": "33",
+      "porc_vacu": "67"
+    },
+    {
+      "rbd": "8370",
+      "Nombre_comuna": "ESCUELA MUNICIPAL VILLA AMENGUAL (RBD: 8370) - LAGO VERDE",
+      "nom_region": "Aysén",
+      "nivel_alu": "8° básico",
+      "porc_novacunados": "0",
+      "porc_vacuincom": "0",
+      "porc_vacu": "100"
+    },
+    {
+      "rbd": "8371",
+      "Nombre_comuna": "ESC.CON INTERNADO JOSE MIGUEL CARRERA (RBD: 8371) - LAGO VERDE",
+      "nom_region": "Aysén",
+      "nivel_alu": "1° básico",
+      "porc_novacunados": "0",
+      "porc_vacuincom": "0",
+      "porc_vacu": "100"
+    },
+    {
+      "rbd": "8371",
+      "Nombre_comuna": "ESC.CON INTERNADO JOSE MIGUEL CARRERA (RBD: 8371) - LAGO VERDE",
+      "nom_region": "Aysén",
+      "nivel_alu": "2° básico",
+      "porc_novacunados": "20",
+      "porc_vacuincom": "0",
+      "porc_vacu": "80"
+    },
+    {
+      "rbd": "8371",
+      "Nombre_comuna": "ESC.CON INTERNADO JOSE MIGUEL CARRERA (RBD: 8371) - LAGO VERDE",
+      "nom_region": "Aysén",
+      "nivel_alu": "3° básico",
+      "porc_novacunados": "33",
+      "porc_vacuincom": "0",
+      "porc_vacu": "67"
+    },
+    {
+      "rbd": "8371",
+      "Nombre_comuna": "ESC.CON INTERNADO JOSE MIGUEL CARRERA (RBD: 8371) - LAGO VERDE",
+      "nom_region": "Aysén",
+      "nivel_alu": "4° básico",
+      "porc_novacunados": "0",
+      "porc_vacuincom": "0",
+      "porc_vacu": "100"
+    },
+    {
+      "rbd": "8371",
+      "Nombre_comuna": "ESC.CON INTERNADO JOSE MIGUEL CARRERA (RBD: 8371) - LAGO VERDE",
+      "nom_region": "Aysén",
+      "nivel_alu": "5° básico",
+      "porc_novacunados": "0",
+      "porc_vacuincom": "0",
+      "porc_vacu": "100"
+    },
+    {
+      "rbd": "8371",
+      "Nombre_comuna": "ESC.CON INTERNADO JOSE MIGUEL CARRERA (RBD: 8371) - LAGO VERDE",
+      "nom_region": "Aysén",
+      "nivel_alu": "6° básico",
+      "porc_novacunados": "20",
+      "porc_vacuincom": "0",
+      "porc_vacu": "80"
+    },
+    {
+      "rbd": "8371",
+      "Nombre_comuna": "ESC.CON INTERNADO JOSE MIGUEL CARRERA (RBD: 8371) - LAGO VERDE",
+      "nom_region": "Aysén",
+      "nivel_alu": "7° básico",
+      "porc_novacunados": "0",
+      "porc_vacuincom": "0",
+      "porc_vacu": "100"
+    },
+    {
+      "rbd": "8371",
+      "Nombre_comuna": "ESC.CON INTERNADO JOSE MIGUEL CARRERA (RBD: 8371) - LAGO VERDE",
+      "nom_region": "Aysén",
+      "nivel_alu": "8° básico",
+      "porc_novacunados": "17",
+      "porc_vacuincom": "0",
+      "porc_vacu": "83"
+    },
+    {
+      "rbd": "8372",
+      "Nombre_comuna": "ESCUELA RURAL CON INTERNADO LA TAPERA (RBD: 8372) - LAGO VERDE",
+      "nom_region": "Aysén",
+      "nivel_alu": "2° básico",
+      "porc_novacunados": "33",
+      "porc_vacuincom": "0",
+      "porc_vacu": "67"
+    },
+    {
+      "rbd": "8372",
+      "Nombre_comuna": "ESCUELA RURAL CON INTERNADO LA TAPERA (RBD: 8372) - LAGO VERDE",
+      "nom_region": "Aysén",
+      "nivel_alu": "3° básico",
+      "porc_novacunados": "0",
+      "porc_vacuincom": "0",
+      "porc_vacu": "100"
+    },
+    {
+      "rbd": "8372",
+      "Nombre_comuna": "ESCUELA RURAL CON INTERNADO LA TAPERA (RBD: 8372) - LAGO VERDE",
+      "nom_region": "Aysén",
+      "nivel_alu": "4° básico",
+      "porc_novacunados": "0",
+      "porc_vacuincom": "0",
+      "porc_vacu": "100"
+    },
+    {
+      "rbd": "8372",
+      "Nombre_comuna": "ESCUELA RURAL CON INTERNADO LA TAPERA (RBD: 8372) - LAGO VERDE",
+      "nom_region": "Aysén",
+      "nivel_alu": "5° básico",
+      "porc_novacunados": "0",
+      "porc_vacuincom": "0",
+      "porc_vacu": "100"
+    },
+    {
+      "rbd": "8372",
+      "Nombre_comuna": "ESCUELA RURAL CON INTERNADO LA TAPERA (RBD: 8372) - LAGO VERDE",
+      "nom_region": "Aysén",
+      "nivel_alu": "6° básico",
+      "porc_novacunados": "0",
+      "porc_vacuincom": "0",
+      "porc_vacu": "100"
+    },
+    {
+      "rbd": "8372",
+      "Nombre_comuna": "ESCUELA RURAL CON INTERNADO LA TAPERA (RBD: 8372) - LAGO VERDE",
+      "nom_region": "Aysén",
+      "nivel_alu": "7° básico",
+      "porc_novacunados": "0",
+      "porc_vacuincom": "0",
+      "porc_vacu": "100"
+    },
+    {
+      "rbd": "8372",
+      "Nombre_comuna": "ESCUELA RURAL CON INTERNADO LA TAPERA (RBD: 8372) - LAGO VERDE",
+      "nom_region": "Aysén",
+      "nivel_alu": "8° básico",
+      "porc_novacunados": "0",
+      "porc_vacuincom": "0",
+      "porc_vacu": "100"
+    },
+    {
+      "rbd": "8373",
+      "Nombre_comuna": "ESCUELA RURAL SOBERANIA RIO CISNES (RBD: 8373) - LAGO VERDE",
+      "nom_region": "Aysén",
+      "nivel_alu": "3° básico",
+      "porc_novacunados": "0",
+      "porc_vacuincom": "0",
+      "porc_vacu": "100"
+    },
+    {
+      "rbd": "8374",
+      "Nombre_comuna": "ESCUELA DESPERTAR (RBD: 8374) - AYSÉN",
+      "nom_region": "Aysén",
+      "nivel_alu": "Educ. Especial",
+      "porc_novacunados": "11",
+      "porc_vacuincom": "11",
+      "porc_vacu": "78"
+    },
+    {
+      "rbd": "8375",
+      "Nombre_comuna": "LICEO POLITECNICO DE AYSEN (RBD: 8375) - AYSÉN",
+      "nom_region": "Aysén",
+      "nivel_alu": "1° medio",
+      "porc_novacunados": "7",
+      "porc_vacuincom": "8",
+      "porc_vacu": "85"
+    },
+    {
+      "rbd": "8375",
+      "Nombre_comuna": "LICEO POLITECNICO DE AYSEN (RBD: 8375) - AYSÉN",
+      "nom_region": "Aysén",
+      "nivel_alu": "2° medio",
+      "porc_novacunados": "8",
+      "porc_vacuincom": "1",
+      "porc_vacu": "91"
+    },
+    {
+      "rbd": "8375",
+      "Nombre_comuna": "LICEO POLITECNICO DE AYSEN (RBD: 8375) - AYSÉN",
+      "nom_region": "Aysén",
+      "nivel_alu": "3° medio",
+      "porc_novacunados": "5",
+      "porc_vacuincom": "2",
+      "porc_vacu": "93"
+    },
+    {
+      "rbd": "8375",
+      "Nombre_comuna": "LICEO POLITECNICO DE AYSEN (RBD: 8375) - AYSÉN",
+      "nom_region": "Aysén",
+      "nivel_alu": "4° medio",
+      "porc_novacunados": "7",
+      "porc_vacuincom": "0",
+      "porc_vacu": "93"
+    },
+    {
+      "rbd": "8375",
+      "Nombre_comuna": "LICEO POLITECNICO DE AYSEN (RBD: 8375) - AYSÉN",
+      "nom_region": "Aysén",
+      "nivel_alu": "7° básico",
+      "porc_novacunados": "17",
+      "porc_vacuincom": "9",
+      "porc_vacu": "74"
+    },
+    {
+      "rbd": "8375",
+      "Nombre_comuna": "LICEO POLITECNICO DE AYSEN (RBD: 8375) - AYSÉN",
+      "nom_region": "Aysén",
+      "nivel_alu": "8° básico",
+      "porc_novacunados": "14",
+      "porc_vacuincom": "8",
+      "porc_vacu": "78"
+    },
+    {
+      "rbd": "8375",
+      "Nombre_comuna": "LICEO POLITECNICO DE AYSEN (RBD: 8375) - AYSÉN",
+      "nom_region": "Aysén",
+      "nivel_alu": "Educ. Adultos",
+      "porc_novacunados": "4",
+      "porc_vacuincom": "0",
+      "porc_vacu": "96"
+    },
+    {
+      "rbd": "8376",
+      "Nombre_comuna": "ESCUELA BASICA MUNICIPAL POETISA GABRIELA MISTRAL (RBD: 8376) - AYSÉN",
+      "nom_region": "Aysén",
+      "nivel_alu": "1° básico",
+      "porc_novacunados": "44",
+      "porc_vacuincom": "6",
+      "porc_vacu": "50"
+    },
+    {
+      "rbd": "8376",
+      "Nombre_comuna": "ESCUELA BASICA MUNICIPAL POETISA GABRIELA MISTRAL (RBD: 8376) - AYSÉN",
+      "nom_region": "Aysén",
+      "nivel_alu": "2° básico",
+      "porc_novacunados": "39",
+      "porc_vacuincom": "6",
+      "porc_vacu": "55"
+    },
+    {
+      "rbd": "8376",
+      "Nombre_comuna": "ESCUELA BASICA MUNICIPAL POETISA GABRIELA MISTRAL (RBD: 8376) - AYSÉN",
+      "nom_region": "Aysén",
+      "nivel_alu": "3° básico",
+      "porc_novacunados": "22",
+      "porc_vacuincom": "19",
+      "porc_vacu": "59"
+    },
+    {
+      "rbd": "8376",
+      "Nombre_comuna": "ESCUELA BASICA MUNICIPAL POETISA GABRIELA MISTRAL (RBD: 8376) - AYSÉN",
+      "nom_region": "Aysén",
+      "nivel_alu": "4° básico",
+      "porc_novacunados": "22",
+      "porc_vacuincom": "20",
+      "porc_vacu": "58"
+    },
+    {
+      "rbd": "8376",
+      "Nombre_comuna": "ESCUELA BASICA MUNICIPAL POETISA GABRIELA MISTRAL (RBD: 8376) - AYSÉN",
+      "nom_region": "Aysén",
+      "nivel_alu": "5° básico",
+      "porc_novacunados": "15",
+      "porc_vacuincom": "12",
+      "porc_vacu": "73"
+    },
+    {
+      "rbd": "8376",
+      "Nombre_comuna": "ESCUELA BASICA MUNICIPAL POETISA GABRIELA MISTRAL (RBD: 8376) - AYSÉN",
+      "nom_region": "Aysén",
+      "nivel_alu": "6° básico",
+      "porc_novacunados": "10",
+      "porc_vacuincom": "7",
+      "porc_vacu": "83"
+    },
+    {
+      "rbd": "8376",
+      "Nombre_comuna": "ESCUELA BASICA MUNICIPAL POETISA GABRIELA MISTRAL (RBD: 8376) - AYSÉN",
+      "nom_region": "Aysén",
+      "nivel_alu": "7° básico",
+      "porc_novacunados": "20",
+      "porc_vacuincom": "12",
+      "porc_vacu": "68"
+    },
+    {
+      "rbd": "8376",
+      "Nombre_comuna": "ESCUELA BASICA MUNICIPAL POETISA GABRIELA MISTRAL (RBD: 8376) - AYSÉN",
+      "nom_region": "Aysén",
+      "nivel_alu": "8° básico",
+      "porc_novacunados": "18",
+      "porc_vacuincom": "5",
+      "porc_vacu": "77"
+    },
+    {
+      "rbd": "8376",
+      "Nombre_comuna": "ESCUELA BASICA MUNICIPAL POETISA GABRIELA MISTRAL (RBD: 8376) - AYSÉN",
+      "nom_region": "Aysén",
+      "nivel_alu": "Kínder",
+      "porc_novacunados": "35",
+      "porc_vacuincom": "10",
+      "porc_vacu": "55"
+    },
+    {
+      "rbd": "8376",
+      "Nombre_comuna": "ESCUELA BASICA MUNICIPAL POETISA GABRIELA MISTRAL (RBD: 8376) - AYSÉN",
+      "nom_region": "Aysén",
+      "nivel_alu": "Prekínder",
+      "porc_novacunados": "31",
+      "porc_vacuincom": "31",
+      "porc_vacu": "38"
+    },
+    {
+      "rbd": "8377",
+      "Nombre_comuna": "ESCUELA AYSEN (RBD: 8377) - AYSÉN",
+      "nom_region": "Aysén",
+      "nivel_alu": "1° básico",
+      "porc_novacunados": "31",
+      "porc_vacuincom": "0",
+      "porc_vacu": "69"
+    },
+    {
+      "rbd": "8377",
+      "Nombre_comuna": "ESCUELA AYSEN (RBD: 8377) - AYSÉN",
+      "nom_region": "Aysén",
+      "nivel_alu": "2° básico",
+      "porc_novacunados": "11",
+      "porc_vacuincom": "0",
+      "porc_vacu": "89"
+    },
+    {
+      "rbd": "8377",
+      "Nombre_comuna": "ESCUELA AYSEN (RBD: 8377) - AYSÉN",
+      "nom_region": "Aysén",
+      "nivel_alu": "3° básico",
+      "porc_novacunados": "24",
+      "porc_vacuincom": "7",
+      "porc_vacu": "69"
+    },
+    {
+      "rbd": "8377",
+      "Nombre_comuna": "ESCUELA AYSEN (RBD: 8377) - AYSÉN",
+      "nom_region": "Aysén",
+      "nivel_alu": "4° básico",
+      "porc_novacunados": "3",
+      "porc_vacuincom": "4",
+      "porc_vacu": "93"
+    },
+    {
+      "rbd": "8377",
+      "Nombre_comuna": "ESCUELA AYSEN (RBD: 8377) - AYSÉN",
+      "nom_region": "Aysén",
+      "nivel_alu": "5° básico",
+      "porc_novacunados": "20",
+      "porc_vacuincom": "4",
+      "porc_vacu": "76"
+    },
+    {
+      "rbd": "8377",
+      "Nombre_comuna": "ESCUELA AYSEN (RBD: 8377) - AYSÉN",
+      "nom_region": "Aysén",
+      "nivel_alu": "6° básico",
+      "porc_novacunados": "11",
+      "porc_vacuincom": "0",
+      "porc_vacu": "89"
+    },
+    {
+      "rbd": "8377",
+      "Nombre_comuna": "ESCUELA AYSEN (RBD: 8377) - AYSÉN",
+      "nom_region": "Aysén",
+      "nivel_alu": "Kínder",
+      "porc_novacunados": "10",
+      "porc_vacuincom": "20",
+      "porc_vacu": "70"
+    },
+    {
+      "rbd": "8377",
+      "Nombre_comuna": "ESCUELA AYSEN (RBD: 8377) - AYSÉN",
+      "nom_region": "Aysén",
+      "nivel_alu": "Prekínder",
+      "porc_novacunados": "50",
+      "porc_vacuincom": "0",
+      "porc_vacu": "50"
+    },
+    {
+      "rbd": "8379",
+      "Nombre_comuna": "ESCUELA PEDRO AGUIRRE CERDA (RBD: 8379) - AYSÉN",
+      "nom_region": "Aysén",
+      "nivel_alu": "1° básico",
+      "porc_novacunados": "11",
+      "porc_vacuincom": "33",
+      "porc_vacu": "56"
+    },
+    {
+      "rbd": "8379",
+      "Nombre_comuna": "ESCUELA PEDRO AGUIRRE CERDA (RBD: 8379) - AYSÉN",
+      "nom_region": "Aysén",
+      "nivel_alu": "2° básico",
+      "porc_novacunados": "33",
+      "porc_vacuincom": "0",
+      "porc_vacu": "67"
+    },
+    {
+      "rbd": "8379",
+      "Nombre_comuna": "ESCUELA PEDRO AGUIRRE CERDA (RBD: 8379) - AYSÉN",
+      "nom_region": "Aysén",
+      "nivel_alu": "3° básico",
+      "porc_novacunados": "14",
+      "porc_vacuincom": "0",
+      "porc_vacu": "86"
+    },
+    {
+      "rbd": "8379",
+      "Nombre_comuna": "ESCUELA PEDRO AGUIRRE CERDA (RBD: 8379) - AYSÉN",
+      "nom_region": "Aysén",
+      "nivel_alu": "4° básico",
+      "porc_novacunados": "40",
+      "porc_vacuincom": "0",
+      "porc_vacu": "60"
+    },
+    {
+      "rbd": "8379",
+      "Nombre_comuna": "ESCUELA PEDRO AGUIRRE CERDA (RBD: 8379) - AYSÉN",
+      "nom_region": "Aysén",
+      "nivel_alu": "5° básico",
+      "porc_novacunados": "0",
+      "porc_vacuincom": "0",
+      "porc_vacu": "100"
+    },
+    {
+      "rbd": "8379",
+      "Nombre_comuna": "ESCUELA PEDRO AGUIRRE CERDA (RBD: 8379) - AYSÉN",
+      "nom_region": "Aysén",
+      "nivel_alu": "6° básico",
+      "porc_novacunados": "16",
+      "porc_vacuincom": "17",
+      "porc_vacu": "67"
+    },
+    {
+      "rbd": "8379",
+      "Nombre_comuna": "ESCUELA PEDRO AGUIRRE CERDA (RBD: 8379) - AYSÉN",
+      "nom_region": "Aysén",
+      "nivel_alu": "7° básico",
+      "porc_novacunados": "0",
+      "porc_vacuincom": "0",
+      "porc_vacu": "100"
+    },
+    {
+      "rbd": "8379",
+      "Nombre_comuna": "ESCUELA PEDRO AGUIRRE CERDA (RBD: 8379) - AYSÉN",
+      "nom_region": "Aysén",
+      "nivel_alu": "8° básico",
+      "porc_novacunados": "12",
+      "porc_vacuincom": "0",
+      "porc_vacu": "88"
+    },
+    {
+      "rbd": "8379",
+      "Nombre_comuna": "ESCUELA PEDRO AGUIRRE CERDA (RBD: 8379) - AYSÉN",
+      "nom_region": "Aysén",
+      "nivel_alu": "Educ. Adultos",
+      "porc_novacunados": "10",
+      "porc_vacuincom": "0",
+      "porc_vacu": "90"
+    },
+    {
+      "rbd": "8379",
+      "Nombre_comuna": "ESCUELA PEDRO AGUIRRE CERDA (RBD: 8379) - AYSÉN",
+      "nom_region": "Aysén",
+      "nivel_alu": "Kínder",
+      "porc_novacunados": "0",
+      "porc_vacuincom": "33",
+      "porc_vacu": "67"
+    },
+    {
+      "rbd": "8379",
+      "Nombre_comuna": "ESCUELA PEDRO AGUIRRE CERDA (RBD: 8379) - AYSÉN",
+      "nom_region": "Aysén",
+      "nivel_alu": "Prekínder",
+      "porc_novacunados": "50",
+      "porc_vacuincom": "0",
+      "porc_vacu": "50"
+    },
+    {
+      "rbd": "8380",
+      "Nombre_comuna": "LICEO MANIHUALES (RBD: 8380) - AYSÉN",
+      "nom_region": "Aysén",
+      "nivel_alu": "1° básico",
+      "porc_novacunados": "34",
+      "porc_vacuincom": "10",
+      "porc_vacu": "56"
+    },
+    {
+      "rbd": "8380",
+      "Nombre_comuna": "LICEO MANIHUALES (RBD: 8380) - AYSÉN",
+      "nom_region": "Aysén",
+      "nivel_alu": "1° medio",
+      "porc_novacunados": "18",
+      "porc_vacuincom": "0",
+      "porc_vacu": "82"
+    },
+    {
+      "rbd": "8380",
+      "Nombre_comuna": "LICEO MANIHUALES (RBD: 8380) - AYSÉN",
+      "nom_region": "Aysén",
+      "nivel_alu": "2° básico",
+      "porc_novacunados": "12",
+      "porc_vacuincom": "24",
+      "porc_vacu": "64"
+    },
+    {
+      "rbd": "8380",
+      "Nombre_comuna": "LICEO MANIHUALES (RBD: 8380) - AYSÉN",
+      "nom_region": "Aysén",
+      "nivel_alu": "2° medio",
+      "porc_novacunados": "10",
+      "porc_vacuincom": "0",
+      "porc_vacu": "90"
+    },
+    {
+      "rbd": "8380",
+      "Nombre_comuna": "LICEO MANIHUALES (RBD: 8380) - AYSÉN",
+      "nom_region": "Aysén",
+      "nivel_alu": "3° básico",
+      "porc_novacunados": "14",
+      "porc_vacuincom": "14",
+      "porc_vacu": "72"
+    },
+    {
+      "rbd": "8380",
+      "Nombre_comuna": "LICEO MANIHUALES (RBD: 8380) - AYSÉN",
+      "nom_region": "Aysén",
+      "nivel_alu": "3° medio",
+      "porc_novacunados": "6",
+      "porc_vacuincom": "12",
+      "porc_vacu": "82"
+    },
+    {
+      "rbd": "8380",
+      "Nombre_comuna": "LICEO MANIHUALES (RBD: 8380) - AYSÉN",
+      "nom_region": "Aysén",
+      "nivel_alu": "4° básico",
+      "porc_novacunados": "7",
+      "porc_vacuincom": "18",
+      "porc_vacu": "75"
+    },
+    {
+      "rbd": "8380",
+      "Nombre_comuna": "LICEO MANIHUALES (RBD: 8380) - AYSÉN",
+      "nom_region": "Aysén",
+      "nivel_alu": "4° medio",
+      "porc_novacunados": "13",
+      "porc_vacuincom": "0",
+      "porc_vacu": "87"
+    },
+    {
+      "rbd": "8380",
+      "Nombre_comuna": "LICEO MANIHUALES (RBD: 8380) - AYSÉN",
+      "nom_region": "Aysén",
+      "nivel_alu": "5° básico",
+      "porc_novacunados": "17",
+      "porc_vacuincom": "14",
+      "porc_vacu": "69"
+    },
+    {
+      "rbd": "8380",
+      "Nombre_comuna": "LICEO MANIHUALES (RBD: 8380) - AYSÉN",
+      "nom_region": "Aysén",
+      "nivel_alu": "6° básico",
+      "porc_novacunados": "10",
+      "porc_vacuincom": "8",
+      "porc_vacu": "82"
+    },
+    {
+      "rbd": "8380",
+      "Nombre_comuna": "LICEO MANIHUALES (RBD: 8380) - AYSÉN",
+      "nom_region": "Aysén",
+      "nivel_alu": "7° básico",
+      "porc_novacunados": "15",
+      "porc_vacuincom": "6",
+      "porc_vacu": "79"
+    },
+    {
+      "rbd": "8380",
+      "Nombre_comuna": "LICEO MANIHUALES (RBD: 8380) - AYSÉN",
+      "nom_region": "Aysén",
+      "nivel_alu": "8° básico",
+      "porc_novacunados": "9",
+      "porc_vacuincom": "5",
+      "porc_vacu": "86"
+    },
+    {
+      "rbd": "8380",
+      "Nombre_comuna": "LICEO MANIHUALES (RBD: 8380) - AYSÉN",
+      "nom_region": "Aysén",
+      "nivel_alu": "Educ. Adultos",
+      "porc_novacunados": "7",
+      "porc_vacuincom": "0",
+      "porc_vacu": "93"
+    },
+    {
+      "rbd": "8380",
+      "Nombre_comuna": "LICEO MANIHUALES (RBD: 8380) - AYSÉN",
+      "nom_region": "Aysén",
+      "nivel_alu": "Kínder",
+      "porc_novacunados": "40",
+      "porc_vacuincom": "14",
+      "porc_vacu": "46"
+    },
+    {
+      "rbd": "8380",
+      "Nombre_comuna": "LICEO MANIHUALES (RBD: 8380) - AYSÉN",
+      "nom_region": "Aysén",
+      "nivel_alu": "Prekínder",
+      "porc_novacunados": "44",
+      "porc_vacuincom": "25",
+      "porc_vacu": "31"
+    },
+    {
+      "rbd": "8382",
+      "Nombre_comuna": "ESCUELA CARLOS CONDELL (RBD: 8382) - AYSÉN",
+      "nom_region": "Aysén",
+      "nivel_alu": "1° básico",
+      "porc_novacunados": "0",
+      "porc_vacuincom": "20",
+      "porc_vacu": "80"
+    },
+    {
+      "rbd": "8382",
+      "Nombre_comuna": "ESCUELA CARLOS CONDELL (RBD: 8382) - AYSÉN",
+      "nom_region": "Aysén",
+      "nivel_alu": "2° básico",
+      "porc_novacunados": "33",
+      "porc_vacuincom": "0",
+      "porc_vacu": "67"
+    },
+    {
+      "rbd": "8382",
+      "Nombre_comuna": "ESCUELA CARLOS CONDELL (RBD: 8382) - AYSÉN",
+      "nom_region": "Aysén",
+      "nivel_alu": "3° básico",
+      "porc_novacunados": "0",
+      "porc_vacuincom": "0",
+      "porc_vacu": "100"
+    },
+    {
+      "rbd": "8382",
+      "Nombre_comuna": "ESCUELA CARLOS CONDELL (RBD: 8382) - AYSÉN",
+      "nom_region": "Aysén",
+      "nivel_alu": "4° básico",
+      "porc_novacunados": "0",
+      "porc_vacuincom": "0",
+      "porc_vacu": "100"
+    },
+    {
+      "rbd": "8382",
+      "Nombre_comuna": "ESCUELA CARLOS CONDELL (RBD: 8382) - AYSÉN",
+      "nom_region": "Aysén",
+      "nivel_alu": "5° básico",
+      "porc_novacunados": "17",
+      "porc_vacuincom": "33",
+      "porc_vacu": "50"
+    },
+    {
+      "rbd": "8382",
+      "Nombre_comuna": "ESCUELA CARLOS CONDELL (RBD: 8382) - AYSÉN",
+      "nom_region": "Aysén",
+      "nivel_alu": "6° básico",
+      "porc_novacunados": "0",
+      "porc_vacuincom": "0",
+      "porc_vacu": "100"
+    },
+    {
+      "rbd": "8382",
+      "Nombre_comuna": "ESCUELA CARLOS CONDELL (RBD: 8382) - AYSÉN",
+      "nom_region": "Aysén",
+      "nivel_alu": "7° básico",
+      "porc_novacunados": "0",
+      "porc_vacuincom": "20",
+      "porc_vacu": "80"
+    },
+    {
+      "rbd": "8382",
+      "Nombre_comuna": "ESCUELA CARLOS CONDELL (RBD: 8382) - AYSÉN",
+      "nom_region": "Aysén",
+      "nivel_alu": "8° básico",
+      "porc_novacunados": "7",
+      "porc_vacuincom": "0",
+      "porc_vacu": "93"
+    },
+    {
+      "rbd": "8382",
+      "Nombre_comuna": "ESCUELA CARLOS CONDELL (RBD: 8382) - AYSÉN",
+      "nom_region": "Aysén",
+      "nivel_alu": "Kínder",
+      "porc_novacunados": "0",
+      "porc_vacuincom": "50",
+      "porc_vacu": "50"
+    },
+    {
+      "rbd": "8382",
+      "Nombre_comuna": "ESCUELA CARLOS CONDELL (RBD: 8382) - AYSÉN",
+      "nom_region": "Aysén",
+      "nivel_alu": "Prekínder",
+      "porc_novacunados": "0",
+      "porc_vacuincom": "0",
+      "porc_vacu": "100"
+    },
+    {
+      "rbd": "8384",
+      "Nombre_comuna": "ESCUELA ALMIRANTE SIMPSON (RBD: 8384) - AYSÉN",
+      "nom_region": "Aysén",
+      "nivel_alu": "1° básico",
+      "porc_novacunados": "21",
+      "porc_vacuincom": "21",
+      "porc_vacu": "58"
+    },
+    {
+      "rbd": "8384",
+      "Nombre_comuna": "ESCUELA ALMIRANTE SIMPSON (RBD: 8384) - AYSÉN",
+      "nom_region": "Aysén",
+      "nivel_alu": "2° básico",
+      "porc_novacunados": "13",
+      "porc_vacuincom": "13",
+      "porc_vacu": "74"
+    },
+    {
+      "rbd": "8384",
+      "Nombre_comuna": "ESCUELA ALMIRANTE SIMPSON (RBD: 8384) - AYSÉN",
+      "nom_region": "Aysén",
+      "nivel_alu": "3° básico",
+      "porc_novacunados": "7",
+      "porc_vacuincom": "13",
+      "porc_vacu": "80"
+    },
+    {
+      "rbd": "8384",
+      "Nombre_comuna": "ESCUELA ALMIRANTE SIMPSON (RBD: 8384) - AYSÉN",
+      "nom_region": "Aysén",
+      "nivel_alu": "4° básico",
+      "porc_novacunados": "15",
+      "porc_vacuincom": "15",
+      "porc_vacu": "70"
+    },
+    {
+      "rbd": "8384",
+      "Nombre_comuna": "ESCUELA ALMIRANTE SIMPSON (RBD: 8384) - AYSÉN",
+      "nom_region": "Aysén",
+      "nivel_alu": "5° básico",
+      "porc_novacunados": "5",
+      "porc_vacuincom": "10",
+      "porc_vacu": "85"
+    },
+    {
+      "rbd": "8384",
+      "Nombre_comuna": "ESCUELA ALMIRANTE SIMPSON (RBD: 8384) - AYSÉN",
+      "nom_region": "Aysén",
+      "nivel_alu": "6° básico",
+      "porc_novacunados": "17",
+      "porc_vacuincom": "0",
+      "porc_vacu": "83"
+    },
+    {
+      "rbd": "8384",
+      "Nombre_comuna": "ESCUELA ALMIRANTE SIMPSON (RBD: 8384) - AYSÉN",
+      "nom_region": "Aysén",
+      "nivel_alu": "7° básico",
+      "porc_novacunados": "9",
+      "porc_vacuincom": "0",
+      "porc_vacu": "91"
+    },
+    {
+      "rbd": "8384",
+      "Nombre_comuna": "ESCUELA ALMIRANTE SIMPSON (RBD: 8384) - AYSÉN",
+      "nom_region": "Aysén",
+      "nivel_alu": "8° básico",
+      "porc_novacunados": "6",
+      "porc_vacuincom": "0",
+      "porc_vacu": "94"
+    },
+    {
+      "rbd": "8384",
+      "Nombre_comuna": "ESCUELA ALMIRANTE SIMPSON (RBD: 8384) - AYSÉN",
+      "nom_region": "Aysén",
+      "nivel_alu": "Kínder",
+      "porc_novacunados": "31",
+      "porc_vacuincom": "38",
+      "porc_vacu": "31"
+    },
+    {
+      "rbd": "8384",
+      "Nombre_comuna": "ESCUELA ALMIRANTE SIMPSON (RBD: 8384) - AYSÉN",
+      "nom_region": "Aysén",
+      "nivel_alu": "Prekínder",
+      "porc_novacunados": "40",
+      "porc_vacuincom": "13",
+      "porc_vacu": "47"
+    },
+    {
+      "rbd": "8388",
+      "Nombre_comuna": "ESCUELA GUIDO GOMEZ MUNOZ (RBD: 8388) - CISNES",
+      "nom_region": "Aysén",
+      "nivel_alu": "1° básico",
+      "porc_novacunados": "29",
+      "porc_vacuincom": "11",
+      "porc_vacu": "60"
+    },
+    {
+      "rbd": "8388",
+      "Nombre_comuna": "ESCUELA GUIDO GOMEZ MUNOZ (RBD: 8388) - CISNES",
+      "nom_region": "Aysén",
+      "nivel_alu": "2° básico",
+      "porc_novacunados": "41",
+      "porc_vacuincom": "5",
+      "porc_vacu": "54"
+    },
+    {
+      "rbd": "8388",
+      "Nombre_comuna": "ESCUELA GUIDO GOMEZ MUNOZ (RBD: 8388) - CISNES",
+      "nom_region": "Aysén",
+      "nivel_alu": "3° básico",
+      "porc_novacunados": "11",
+      "porc_vacuincom": "5",
+      "porc_vacu": "84"
+    },
+    {
+      "rbd": "8388",
+      "Nombre_comuna": "ESCUELA GUIDO GOMEZ MUNOZ (RBD: 8388) - CISNES",
+      "nom_region": "Aysén",
+      "nivel_alu": "4° básico",
+      "porc_novacunados": "12",
+      "porc_vacuincom": "10",
+      "porc_vacu": "78"
+    },
+    {
+      "rbd": "8388",
+      "Nombre_comuna": "ESCUELA GUIDO GOMEZ MUNOZ (RBD: 8388) - CISNES",
+      "nom_region": "Aysén",
+      "nivel_alu": "5° básico",
+      "porc_novacunados": "15",
+      "porc_vacuincom": "2",
+      "porc_vacu": "83"
+    },
+    {
+      "rbd": "8388",
+      "Nombre_comuna": "ESCUELA GUIDO GOMEZ MUNOZ (RBD: 8388) - CISNES",
+      "nom_region": "Aysén",
+      "nivel_alu": "6° básico",
+      "porc_novacunados": "9",
+      "porc_vacuincom": "2",
+      "porc_vacu": "89"
+    },
+    {
+      "rbd": "8388",
+      "Nombre_comuna": "ESCUELA GUIDO GOMEZ MUNOZ (RBD: 8388) - CISNES",
+      "nom_region": "Aysén",
+      "nivel_alu": "7° básico",
+      "porc_novacunados": "7",
+      "porc_vacuincom": "2",
+      "porc_vacu": "91"
+    },
+    {
+      "rbd": "8388",
+      "Nombre_comuna": "ESCUELA GUIDO GOMEZ MUNOZ (RBD: 8388) - CISNES",
+      "nom_region": "Aysén",
+      "nivel_alu": "8° básico",
+      "porc_novacunados": "6",
+      "porc_vacuincom": "8",
+      "porc_vacu": "86"
+    },
+    {
+      "rbd": "8388",
+      "Nombre_comuna": "ESCUELA GUIDO GOMEZ MUNOZ (RBD: 8388) - CISNES",
+      "nom_region": "Aysén",
+      "nivel_alu": "Kínder",
+      "porc_novacunados": "37",
+      "porc_vacuincom": "16",
+      "porc_vacu": "47"
+    },
+    {
+      "rbd": "8388",
+      "Nombre_comuna": "ESCUELA GUIDO GOMEZ MUNOZ (RBD: 8388) - CISNES",
+      "nom_region": "Aysén",
+      "nivel_alu": "Prekínder",
+      "porc_novacunados": "47",
+      "porc_vacuincom": "8",
+      "porc_vacu": "45"
+    },
+    {
+      "rbd": "8389",
+      "Nombre_comuna": "ESCUELA AMANDA LABARCA HUBERSTONE (RBD: 8389) - CISNES",
+      "nom_region": "Aysén",
+      "nivel_alu": "1° básico",
+      "porc_novacunados": "0",
+      "porc_vacuincom": "0",
+      "porc_vacu": "100"
+    },
+    {
+      "rbd": "8389",
+      "Nombre_comuna": "ESCUELA AMANDA LABARCA HUBERSTONE (RBD: 8389) - CISNES",
+      "nom_region": "Aysén",
+      "nivel_alu": "2° básico",
+      "porc_novacunados": "0",
+      "porc_vacuincom": "0",
+      "porc_vacu": "100"
+    },
+    {
+      "rbd": "8389",
+      "Nombre_comuna": "ESCUELA AMANDA LABARCA HUBERSTONE (RBD: 8389) - CISNES",
+      "nom_region": "Aysén",
+      "nivel_alu": "3° básico",
+      "porc_novacunados": "0",
+      "porc_vacuincom": "0",
+      "porc_vacu": "100"
+    },
+    {
+      "rbd": "8389",
+      "Nombre_comuna": "ESCUELA AMANDA LABARCA HUBERSTONE (RBD: 8389) - CISNES",
+      "nom_region": "Aysén",
+      "nivel_alu": "4° básico",
+      "porc_novacunados": "0",
+      "porc_vacuincom": "0",
+      "porc_vacu": "100"
+    },
+    {
+      "rbd": "8389",
+      "Nombre_comuna": "ESCUELA AMANDA LABARCA HUBERSTONE (RBD: 8389) - CISNES",
+      "nom_region": "Aysén",
+      "nivel_alu": "5° básico",
+      "porc_novacunados": "0",
+      "porc_vacuincom": "0",
+      "porc_vacu": "100"
+    },
+    {
+      "rbd": "8389",
+      "Nombre_comuna": "ESCUELA AMANDA LABARCA HUBERSTONE (RBD: 8389) - CISNES",
+      "nom_region": "Aysén",
+      "nivel_alu": "6° básico",
+      "porc_novacunados": "0",
+      "porc_vacuincom": "0",
+      "porc_vacu": "100"
+    },
+    {
+      "rbd": "8389",
+      "Nombre_comuna": "ESCUELA AMANDA LABARCA HUBERSTONE (RBD: 8389) - CISNES",
+      "nom_region": "Aysén",
+      "nivel_alu": "7° básico",
+      "porc_novacunados": "0",
+      "porc_vacuincom": "0",
+      "porc_vacu": "100"
+    },
+    {
+      "rbd": "8389",
+      "Nombre_comuna": "ESCUELA AMANDA LABARCA HUBERSTONE (RBD: 8389) - CISNES",
+      "nom_region": "Aysén",
+      "nivel_alu": "8° básico",
+      "porc_novacunados": "0",
+      "porc_vacuincom": "0",
+      "porc_vacu": "100"
+    },
+    {
+      "rbd": "8390",
+      "Nombre_comuna": "ESCUELA HAMBURGO (RBD: 8390) - CISNES",
+      "nom_region": "Aysén",
+      "nivel_alu": "1° básico",
+      "porc_novacunados": "17",
+      "porc_vacuincom": "0",
+      "porc_vacu": "83"
+    },
+    {
+      "rbd": "8390",
+      "Nombre_comuna": "ESCUELA HAMBURGO (RBD: 8390) - CISNES",
+      "nom_region": "Aysén",
+      "nivel_alu": "2° básico",
+      "porc_novacunados": "0",
+      "porc_vacuincom": "0",
+      "porc_vacu": "100"
+    },
+    {
+      "rbd": "8390",
+      "Nombre_comuna": "ESCUELA HAMBURGO (RBD: 8390) - CISNES",
+      "nom_region": "Aysén",
+      "nivel_alu": "3° básico",
+      "porc_novacunados": "11",
+      "porc_vacuincom": "11",
+      "porc_vacu": "78"
+    },
+    {
+      "rbd": "8390",
+      "Nombre_comuna": "ESCUELA HAMBURGO (RBD: 8390) - CISNES",
+      "nom_region": "Aysén",
+      "nivel_alu": "4° básico",
+      "porc_novacunados": "9",
+      "porc_vacuincom": "9",
+      "porc_vacu": "82"
+    },
+    {
+      "rbd": "8390",
+      "Nombre_comuna": "ESCUELA HAMBURGO (RBD: 8390) - CISNES",
+      "nom_region": "Aysén",
+      "nivel_alu": "5° básico",
+      "porc_novacunados": "20",
+      "porc_vacuincom": "10",
+      "porc_vacu": "70"
+    },
+    {
+      "rbd": "8390",
+      "Nombre_comuna": "ESCUELA HAMBURGO (RBD: 8390) - CISNES",
+      "nom_region": "Aysén",
+      "nivel_alu": "6° básico",
+      "porc_novacunados": "18",
+      "porc_vacuincom": "0",
+      "porc_vacu": "82"
+    },
+    {
+      "rbd": "8390",
+      "Nombre_comuna": "ESCUELA HAMBURGO (RBD: 8390) - CISNES",
+      "nom_region": "Aysén",
+      "nivel_alu": "7° básico",
+      "porc_novacunados": "0",
+      "porc_vacuincom": "0",
+      "porc_vacu": "100"
+    },
+    {
+      "rbd": "8390",
+      "Nombre_comuna": "ESCUELA HAMBURGO (RBD: 8390) - CISNES",
+      "nom_region": "Aysén",
+      "nivel_alu": "8° básico",
+      "porc_novacunados": "22",
+      "porc_vacuincom": "6",
+      "porc_vacu": "72"
+    },
+    {
+      "rbd": "8390",
+      "Nombre_comuna": "ESCUELA HAMBURGO (RBD: 8390) - CISNES",
+      "nom_region": "Aysén",
+      "nivel_alu": "Kínder",
+      "porc_novacunados": "40",
+      "porc_vacuincom": "0",
+      "porc_vacu": "60"
+    },
+    {
+      "rbd": "8390",
+      "Nombre_comuna": "ESCUELA HAMBURGO (RBD: 8390) - CISNES",
+      "nom_region": "Aysén",
+      "nivel_alu": "Prekínder",
+      "porc_novacunados": "33",
+      "porc_vacuincom": "17",
+      "porc_vacu": "50"
+    },
+    {
+      "rbd": "8391",
+      "Nombre_comuna": "ESCUELA EUSEBIO IBAR SCHEPELER (RBD: 8391) - CISNES",
+      "nom_region": "Aysén",
+      "nivel_alu": "1° básico",
+      "porc_novacunados": "33",
+      "porc_vacuincom": "6",
+      "porc_vacu": "61"
+    },
+    {
+      "rbd": "8391",
+      "Nombre_comuna": "ESCUELA EUSEBIO IBAR SCHEPELER (RBD: 8391) - CISNES",
+      "nom_region": "Aysén",
+      "nivel_alu": "1° medio",
+      "porc_novacunados": "10",
+      "porc_vacuincom": "0",
+      "porc_vacu": "90"
+    },
+    {
+      "rbd": "8391",
+      "Nombre_comuna": "ESCUELA EUSEBIO IBAR SCHEPELER (RBD: 8391) - CISNES",
+      "nom_region": "Aysén",
+      "nivel_alu": "2° básico",
+      "porc_novacunados": "30",
+      "porc_vacuincom": "0",
+      "porc_vacu": "70"
+    },
+    {
+      "rbd": "8391",
+      "Nombre_comuna": "ESCUELA EUSEBIO IBAR SCHEPELER (RBD: 8391) - CISNES",
+      "nom_region": "Aysén",
+      "nivel_alu": "2° medio",
+      "porc_novacunados": "33",
+      "porc_vacuincom": "0",
+      "porc_vacu": "67"
+    },
+    {
+      "rbd": "8391",
+      "Nombre_comuna": "ESCUELA EUSEBIO IBAR SCHEPELER (RBD: 8391) - CISNES",
+      "nom_region": "Aysén",
+      "nivel_alu": "3° básico",
+      "porc_novacunados": "25",
+      "porc_vacuincom": "0",
+      "porc_vacu": "75"
+    },
+    {
+      "rbd": "8391",
+      "Nombre_comuna": "ESCUELA EUSEBIO IBAR SCHEPELER (RBD: 8391) - CISNES",
+      "nom_region": "Aysén",
+      "nivel_alu": "3° medio",
+      "porc_novacunados": "14",
+      "porc_vacuincom": "5",
+      "porc_vacu": "81"
+    },
+    {
+      "rbd": "8391",
+      "Nombre_comuna": "ESCUELA EUSEBIO IBAR SCHEPELER (RBD: 8391) - CISNES",
+      "nom_region": "Aysén",
+      "nivel_alu": "4° básico",
+      "porc_novacunados": "14",
+      "porc_vacuincom": "4",
+      "porc_vacu": "82"
+    },
+    {
+      "rbd": "8391",
+      "Nombre_comuna": "ESCUELA EUSEBIO IBAR SCHEPELER (RBD: 8391) - CISNES",
+      "nom_region": "Aysén",
+      "nivel_alu": "4° medio",
+      "porc_novacunados": "16",
+      "porc_vacuincom": "0",
+      "porc_vacu": "84"
+    },
+    {
+      "rbd": "8391",
+      "Nombre_comuna": "ESCUELA EUSEBIO IBAR SCHEPELER (RBD: 8391) - CISNES",
+      "nom_region": "Aysén",
+      "nivel_alu": "5° básico",
+      "porc_novacunados": "31",
+      "porc_vacuincom": "0",
+      "porc_vacu": "69"
+    },
+    {
+      "rbd": "8391",
+      "Nombre_comuna": "ESCUELA EUSEBIO IBAR SCHEPELER (RBD: 8391) - CISNES",
+      "nom_region": "Aysén",
+      "nivel_alu": "6° básico",
+      "porc_novacunados": "28",
+      "porc_vacuincom": "4",
+      "porc_vacu": "68"
+    },
+    {
+      "rbd": "8391",
+      "Nombre_comuna": "ESCUELA EUSEBIO IBAR SCHEPELER (RBD: 8391) - CISNES",
+      "nom_region": "Aysén",
+      "nivel_alu": "7° básico",
+      "porc_novacunados": "3",
+      "porc_vacuincom": "4",
+      "porc_vacu": "93"
+    },
+    {
+      "rbd": "8391",
+      "Nombre_comuna": "ESCUELA EUSEBIO IBAR SCHEPELER (RBD: 8391) - CISNES",
+      "nom_region": "Aysén",
+      "nivel_alu": "8° básico",
+      "porc_novacunados": "18",
+      "porc_vacuincom": "0",
+      "porc_vacu": "82"
+    },
+    {
+      "rbd": "8391",
+      "Nombre_comuna": "ESCUELA EUSEBIO IBAR SCHEPELER (RBD: 8391) - CISNES",
+      "nom_region": "Aysén",
+      "nivel_alu": "Kínder",
+      "porc_novacunados": "20",
+      "porc_vacuincom": "0",
+      "porc_vacu": "80"
+    },
+    {
+      "rbd": "8391",
+      "Nombre_comuna": "ESCUELA EUSEBIO IBAR SCHEPELER (RBD: 8391) - CISNES",
+      "nom_region": "Aysén",
+      "nivel_alu": "Prekínder",
+      "porc_novacunados": "48",
+      "porc_vacuincom": "24",
+      "porc_vacu": "28"
+    },
+    {
+      "rbd": "8392",
+      "Nombre_comuna": "LICEO MELINKA (RBD: 8392) - GUAITECAS",
+      "nom_region": "Aysén",
+      "nivel_alu": "1° básico",
+      "porc_novacunados": "15",
+      "porc_vacuincom": "25",
+      "porc_vacu": "60"
+    },
+    {
+      "rbd": "8392",
+      "Nombre_comuna": "LICEO MELINKA (RBD: 8392) - GUAITECAS",
+      "nom_region": "Aysén",
+      "nivel_alu": "1° medio",
+      "porc_novacunados": "4",
+      "porc_vacuincom": "0",
+      "porc_vacu": "96"
+    },
+    {
+      "rbd": "8392",
+      "Nombre_comuna": "LICEO MELINKA (RBD: 8392) - GUAITECAS",
+      "nom_region": "Aysén",
+      "nivel_alu": "2° básico",
+      "porc_novacunados": "27",
+      "porc_vacuincom": "3",
+      "porc_vacu": "70"
+    },
+    {
+      "rbd": "8392",
+      "Nombre_comuna": "LICEO MELINKA (RBD: 8392) - GUAITECAS",
+      "nom_region": "Aysén",
+      "nivel_alu": "2° medio",
+      "porc_novacunados": "16",
+      "porc_vacuincom": "0",
+      "porc_vacu": "84"
+    },
+    {
+      "rbd": "8392",
+      "Nombre_comuna": "LICEO MELINKA (RBD: 8392) - GUAITECAS",
+      "nom_region": "Aysén",
+      "nivel_alu": "3° básico",
+      "porc_novacunados": "12",
+      "porc_vacuincom": "6",
+      "porc_vacu": "82"
+    },
+    {
+      "rbd": "8392",
+      "Nombre_comuna": "LICEO MELINKA (RBD: 8392) - GUAITECAS",
+      "nom_region": "Aysén",
+      "nivel_alu": "3° medio",
+      "porc_novacunados": "10",
+      "porc_vacuincom": "0",
+      "porc_vacu": "90"
+    },
+    {
+      "rbd": "8392",
+      "Nombre_comuna": "LICEO MELINKA (RBD: 8392) - GUAITECAS",
+      "nom_region": "Aysén",
+      "nivel_alu": "4° básico",
+      "porc_novacunados": "9",
+      "porc_vacuincom": "18",
+      "porc_vacu": "73"
+    },
+    {
+      "rbd": "8392",
+      "Nombre_comuna": "LICEO MELINKA (RBD: 8392) - GUAITECAS",
+      "nom_region": "Aysén",
+      "nivel_alu": "4° medio",
+      "porc_novacunados": "18",
+      "porc_vacuincom": "6",
+      "porc_vacu": "76"
+    },
+    {
+      "rbd": "8392",
+      "Nombre_comuna": "LICEO MELINKA (RBD: 8392) - GUAITECAS",
+      "nom_region": "Aysén",
+      "nivel_alu": "5° básico",
+      "porc_novacunados": "15",
+      "porc_vacuincom": "15",
+      "porc_vacu": "70"
+    },
+    {
+      "rbd": "8392",
+      "Nombre_comuna": "LICEO MELINKA (RBD: 8392) - GUAITECAS",
+      "nom_region": "Aysén",
+      "nivel_alu": "6° básico",
+      "porc_novacunados": "24",
+      "porc_vacuincom": "0",
+      "porc_vacu": "76"
+    },
+    {
+      "rbd": "8392",
+      "Nombre_comuna": "LICEO MELINKA (RBD: 8392) - GUAITECAS",
+      "nom_region": "Aysén",
+      "nivel_alu": "7° básico",
+      "porc_novacunados": "4",
+      "porc_vacuincom": "10",
+      "porc_vacu": "86"
+    },
+    {
+      "rbd": "8392",
+      "Nombre_comuna": "LICEO MELINKA (RBD: 8392) - GUAITECAS",
+      "nom_region": "Aysén",
+      "nivel_alu": "8° básico",
+      "porc_novacunados": "14",
+      "porc_vacuincom": "4",
+      "porc_vacu": "82"
+    },
+    {
+      "rbd": "8392",
+      "Nombre_comuna": "LICEO MELINKA (RBD: 8392) - GUAITECAS",
+      "nom_region": "Aysén",
+      "nivel_alu": "Kínder",
+      "porc_novacunados": "28",
+      "porc_vacuincom": "22",
+      "porc_vacu": "50"
+    },
+    {
+      "rbd": "8392",
+      "Nombre_comuna": "LICEO MELINKA (RBD: 8392) - GUAITECAS",
+      "nom_region": "Aysén",
+      "nivel_alu": "Prekínder",
+      "porc_novacunados": "55",
+      "porc_vacuincom": "6",
+      "porc_vacu": "39"
+    },
+    {
+      "rbd": "8393",
+      "Nombre_comuna": "ESCUELA DE REPOLLAL (RBD: 8393) - GUAITECAS",
+      "nom_region": "Aysén",
+      "nivel_alu": "1° básico",
+      "porc_novacunados": "0",
+      "porc_vacuincom": "0",
+      "porc_vacu": "100"
+    },
+    {
+      "rbd": "8393",
+      "Nombre_comuna": "ESCUELA DE REPOLLAL (RBD: 8393) - GUAITECAS",
+      "nom_region": "Aysén",
+      "nivel_alu": "2° básico",
+      "porc_novacunados": "50",
+      "porc_vacuincom": "0",
+      "porc_vacu": "50"
+    },
+    {
+      "rbd": "8393",
+      "Nombre_comuna": "ESCUELA DE REPOLLAL (RBD: 8393) - GUAITECAS",
+      "nom_region": "Aysén",
+      "nivel_alu": "3° básico",
+      "porc_novacunados": "0",
+      "porc_vacuincom": "0",
+      "porc_vacu": "100"
+    },
+    {
+      "rbd": "8393",
+      "Nombre_comuna": "ESCUELA DE REPOLLAL (RBD: 8393) - GUAITECAS",
+      "nom_region": "Aysén",
+      "nivel_alu": "4° básico",
+      "porc_novacunados": "40",
+      "porc_vacuincom": "20",
+      "porc_vacu": "40"
+    },
+    {
+      "rbd": "8393",
+      "Nombre_comuna": "ESCUELA DE REPOLLAL (RBD: 8393) - GUAITECAS",
+      "nom_region": "Aysén",
+      "nivel_alu": "6° básico",
+      "porc_novacunados": "25",
+      "porc_vacuincom": "25",
+      "porc_vacu": "50"
+    },
+    {
+      "rbd": "8394",
+      "Nombre_comuna": "LICEO BICENTENARIO LUISA RABANAL PALMA (RBD: 8394) - CHILE CHICO",
+      "nom_region": "Aysén",
+      "nivel_alu": "1° medio",
+      "porc_novacunados": "8",
+      "porc_vacuincom": "2",
+      "porc_vacu": "90"
+    },
+    {
+      "rbd": "8394",
+      "Nombre_comuna": "LICEO BICENTENARIO LUISA RABANAL PALMA (RBD: 8394) - CHILE CHICO",
+      "nom_region": "Aysén",
+      "nivel_alu": "2° medio",
+      "porc_novacunados": "7",
+      "porc_vacuincom": "2",
+      "porc_vacu": "91"
+    },
+    {
+      "rbd": "8394",
+      "Nombre_comuna": "LICEO BICENTENARIO LUISA RABANAL PALMA (RBD: 8394) - CHILE CHICO",
+      "nom_region": "Aysén",
+      "nivel_alu": "3° medio",
+      "porc_novacunados": "6",
+      "porc_vacuincom": "2",
+      "porc_vacu": "92"
+    },
+    {
+      "rbd": "8394",
+      "Nombre_comuna": "LICEO BICENTENARIO LUISA RABANAL PALMA (RBD: 8394) - CHILE CHICO",
+      "nom_region": "Aysén",
+      "nivel_alu": "4° medio",
+      "porc_novacunados": "7",
+      "porc_vacuincom": "0",
+      "porc_vacu": "93"
+    },
+    {
+      "rbd": "8394",
+      "Nombre_comuna": "LICEO BICENTENARIO LUISA RABANAL PALMA (RBD: 8394) - CHILE CHICO",
+      "nom_region": "Aysén",
+      "nivel_alu": "7° básico",
+      "porc_novacunados": "15",
+      "porc_vacuincom": "3",
+      "porc_vacu": "82"
+    },
+    {
+      "rbd": "8394",
+      "Nombre_comuna": "LICEO BICENTENARIO LUISA RABANAL PALMA (RBD: 8394) - CHILE CHICO",
+      "nom_region": "Aysén",
+      "nivel_alu": "8° básico",
+      "porc_novacunados": "11",
+      "porc_vacuincom": "4",
+      "porc_vacu": "85"
+    },
+    {
+      "rbd": "8397",
+      "Nombre_comuna": "ESCUELA TULIO BURGOS RIVERA (RBD: 8397) - CHILE CHICO",
+      "nom_region": "Aysén",
+      "nivel_alu": "2° básico",
+      "porc_novacunados": "67",
+      "porc_vacuincom": "0",
+      "porc_vacu": "33"
+    },
+    {
+      "rbd": "8397",
+      "Nombre_comuna": "ESCUELA TULIO BURGOS RIVERA (RBD: 8397) - CHILE CHICO",
+      "nom_region": "Aysén",
+      "nivel_alu": "3° básico",
+      "porc_novacunados": "0",
+      "porc_vacuincom": "0",
+      "porc_vacu": "100"
+    },
+    {
+      "rbd": "8397",
+      "Nombre_comuna": "ESCUELA TULIO BURGOS RIVERA (RBD: 8397) - CHILE CHICO",
+      "nom_region": "Aysén",
+      "nivel_alu": "4° básico",
+      "porc_novacunados": "33",
+      "porc_vacuincom": "33",
+      "porc_vacu": "34"
+    },
+    {
+      "rbd": "8397",
+      "Nombre_comuna": "ESCUELA TULIO BURGOS RIVERA (RBD: 8397) - CHILE CHICO",
+      "nom_region": "Aysén",
+      "nivel_alu": "5° básico",
+      "porc_novacunados": "0",
+      "porc_vacuincom": "0",
+      "porc_vacu": "100"
+    },
+    {
+      "rbd": "8397",
+      "Nombre_comuna": "ESCUELA TULIO BURGOS RIVERA (RBD: 8397) - CHILE CHICO",
+      "nom_region": "Aysén",
+      "nivel_alu": "6° básico",
+      "porc_novacunados": "50",
+      "porc_vacuincom": "0",
+      "porc_vacu": "50"
+    },
+    {
+      "rbd": "8398",
+      "Nombre_comuna": "ESC. LIBERTADOR BERNARDO O´HIGGINS RIQUELME (RBD: 8398) - CHILE CHICO",
+      "nom_region": "Aysén",
+      "nivel_alu": "1° básico",
+      "porc_novacunados": "70",
+      "porc_vacuincom": "0",
+      "porc_vacu": "30"
+    },
+    {
+      "rbd": "8398",
+      "Nombre_comuna": "ESC. LIBERTADOR BERNARDO O´HIGGINS RIQUELME (RBD: 8398) - CHILE CHICO",
+      "nom_region": "Aysén",
+      "nivel_alu": "2° básico",
+      "porc_novacunados": "0",
+      "porc_vacuincom": "0",
+      "porc_vacu": "100"
+    },
+    {
+      "rbd": "8398",
+      "Nombre_comuna": "ESC. LIBERTADOR BERNARDO O´HIGGINS RIQUELME (RBD: 8398) - CHILE CHICO",
+      "nom_region": "Aysén",
+      "nivel_alu": "3° básico",
+      "porc_novacunados": "0",
+      "porc_vacuincom": "25",
+      "porc_vacu": "75"
+    },
+    {
+      "rbd": "8398",
+      "Nombre_comuna": "ESC. LIBERTADOR BERNARDO O´HIGGINS RIQUELME (RBD: 8398) - CHILE CHICO",
+      "nom_region": "Aysén",
+      "nivel_alu": "4° básico",
+      "porc_novacunados": "25",
+      "porc_vacuincom": "0",
+      "porc_vacu": "75"
+    },
+    {
+      "rbd": "8398",
+      "Nombre_comuna": "ESC. LIBERTADOR BERNARDO O´HIGGINS RIQUELME (RBD: 8398) - CHILE CHICO",
+      "nom_region": "Aysén",
+      "nivel_alu": "5° básico",
+      "porc_novacunados": "40",
+      "porc_vacuincom": "0",
+      "porc_vacu": "60"
+    },
+    {
+      "rbd": "8398",
+      "Nombre_comuna": "ESC. LIBERTADOR BERNARDO O´HIGGINS RIQUELME (RBD: 8398) - CHILE CHICO",
+      "nom_region": "Aysén",
+      "nivel_alu": "6° básico",
+      "porc_novacunados": "50",
+      "porc_vacuincom": "0",
+      "porc_vacu": "50"
+    },
+    {
+      "rbd": "8398",
+      "Nombre_comuna": "ESC. LIBERTADOR BERNARDO O´HIGGINS RIQUELME (RBD: 8398) - CHILE CHICO",
+      "nom_region": "Aysén",
+      "nivel_alu": "7° básico",
+      "porc_novacunados": "33",
+      "porc_vacuincom": "0",
+      "porc_vacu": "67"
+    },
+    {
+      "rbd": "8398",
+      "Nombre_comuna": "ESC. LIBERTADOR BERNARDO O´HIGGINS RIQUELME (RBD: 8398) - CHILE CHICO",
+      "nom_region": "Aysén",
+      "nivel_alu": "8° básico",
+      "porc_novacunados": "50",
+      "porc_vacuincom": "0",
+      "porc_vacu": "50"
+    },
+    {
+      "rbd": "8398",
+      "Nombre_comuna": "ESC. LIBERTADOR BERNARDO O´HIGGINS RIQUELME (RBD: 8398) - CHILE CHICO",
+      "nom_region": "Aysén",
+      "nivel_alu": "Kínder",
+      "porc_novacunados": "38",
+      "porc_vacuincom": "12",
+      "porc_vacu": "50"
+    },
+    {
+      "rbd": "8398",
+      "Nombre_comuna": "ESC. LIBERTADOR BERNARDO O´HIGGINS RIQUELME (RBD: 8398) - CHILE CHICO",
+      "nom_region": "Aysén",
+      "nivel_alu": "Prekínder",
+      "porc_novacunados": "50",
+      "porc_vacuincom": "0",
+      "porc_vacu": "50"
+    },
+    {
+      "rbd": "8399",
+      "Nombre_comuna": "ESCUELA DE PUERTO BERTRAND (RBD: 8399) - CHILE CHICO",
+      "nom_region": "Aysén",
+      "nivel_alu": "1° básico",
+      "porc_novacunados": "0",
+      "porc_vacuincom": "0",
+      "porc_vacu": "100"
+    },
+    {
+      "rbd": "8399",
+      "Nombre_comuna": "ESCUELA DE PUERTO BERTRAND (RBD: 8399) - CHILE CHICO",
+      "nom_region": "Aysén",
+      "nivel_alu": "2° básico",
+      "porc_novacunados": "0",
+      "porc_vacuincom": "0",
+      "porc_vacu": "100"
+    },
+    {
+      "rbd": "8399",
+      "Nombre_comuna": "ESCUELA DE PUERTO BERTRAND (RBD: 8399) - CHILE CHICO",
+      "nom_region": "Aysén",
+      "nivel_alu": "3° básico",
+      "porc_novacunados": "0",
+      "porc_vacuincom": "0",
+      "porc_vacu": "100"
+    },
+    {
+      "rbd": "8399",
+      "Nombre_comuna": "ESCUELA DE PUERTO BERTRAND (RBD: 8399) - CHILE CHICO",
+      "nom_region": "Aysén",
+      "nivel_alu": "4° básico",
+      "porc_novacunados": "0",
+      "porc_vacuincom": "0",
+      "porc_vacu": "100"
+    },
+    {
+      "rbd": "8399",
+      "Nombre_comuna": "ESCUELA DE PUERTO BERTRAND (RBD: 8399) - CHILE CHICO",
+      "nom_region": "Aysén",
+      "nivel_alu": "5° básico",
+      "porc_novacunados": "0",
+      "porc_vacuincom": "0",
+      "porc_vacu": "100"
+    },
+    {
+      "rbd": "8401",
+      "Nombre_comuna": "ESCUELA GABRIELA MISTRAL (RBD: 8401) - RÍO IBÁÑEZ",
+      "nom_region": "Aysén",
+      "nivel_alu": "1° básico",
+      "porc_novacunados": "50",
+      "porc_vacuincom": "0",
+      "porc_vacu": "50"
+    },
+    {
+      "rbd": "8401",
+      "Nombre_comuna": "ESCUELA GABRIELA MISTRAL (RBD: 8401) - RÍO IBÁÑEZ",
+      "nom_region": "Aysén",
+      "nivel_alu": "2° básico",
+      "porc_novacunados": "33",
+      "porc_vacuincom": "0",
+      "porc_vacu": "67"
+    },
+    {
+      "rbd": "8401",
+      "Nombre_comuna": "ESCUELA GABRIELA MISTRAL (RBD: 8401) - RÍO IBÁÑEZ",
+      "nom_region": "Aysén",
+      "nivel_alu": "3° básico",
+      "porc_novacunados": "50",
+      "porc_vacuincom": "0",
+      "porc_vacu": "50"
+    },
+    {
+      "rbd": "8401",
+      "Nombre_comuna": "ESCUELA GABRIELA MISTRAL (RBD: 8401) - RÍO IBÁÑEZ",
+      "nom_region": "Aysén",
+      "nivel_alu": "4° básico",
+      "porc_novacunados": "33",
+      "porc_vacuincom": "0",
+      "porc_vacu": "67"
+    },
+    {
+      "rbd": "8401",
+      "Nombre_comuna": "ESCUELA GABRIELA MISTRAL (RBD: 8401) - RÍO IBÁÑEZ",
+      "nom_region": "Aysén",
+      "nivel_alu": "5° básico",
+      "porc_novacunados": "25",
+      "porc_vacuincom": "0",
+      "porc_vacu": "75"
+    },
+    {
+      "rbd": "8401",
+      "Nombre_comuna": "ESCUELA GABRIELA MISTRAL (RBD: 8401) - RÍO IBÁÑEZ",
+      "nom_region": "Aysén",
+      "nivel_alu": "6° básico",
+      "porc_novacunados": "17",
+      "porc_vacuincom": "0",
+      "porc_vacu": "83"
+    },
+    {
+      "rbd": "8401",
+      "Nombre_comuna": "ESCUELA GABRIELA MISTRAL (RBD: 8401) - RÍO IBÁÑEZ",
+      "nom_region": "Aysén",
+      "nivel_alu": "7° básico",
+      "porc_novacunados": "0",
+      "porc_vacuincom": "0",
+      "porc_vacu": "100"
+    },
+    {
+      "rbd": "8401",
+      "Nombre_comuna": "ESCUELA GABRIELA MISTRAL (RBD: 8401) - RÍO IBÁÑEZ",
+      "nom_region": "Aysén",
+      "nivel_alu": "8° básico",
+      "porc_novacunados": "12",
+      "porc_vacuincom": "12",
+      "porc_vacu": "76"
+    },
+    {
+      "rbd": "8401",
+      "Nombre_comuna": "ESCUELA GABRIELA MISTRAL (RBD: 8401) - RÍO IBÁÑEZ",
+      "nom_region": "Aysén",
+      "nivel_alu": "Kínder",
+      "porc_novacunados": "29",
+      "porc_vacuincom": "14",
+      "porc_vacu": "57"
+    },
+    {
+      "rbd": "8401",
+      "Nombre_comuna": "ESCUELA GABRIELA MISTRAL (RBD: 8401) - RÍO IBÁÑEZ",
+      "nom_region": "Aysén",
+      "nivel_alu": "Prekínder",
+      "porc_novacunados": "54",
+      "porc_vacuincom": "8",
+      "porc_vacu": "38"
+    },
+    {
+      "rbd": "8403",
+      "Nombre_comuna": "LICEO BICENTENARIO RURAL CERRO CASTILLO (RBD: 8403) - RÍO IBÁÑEZ",
+      "nom_region": "Aysén",
+      "nivel_alu": "1° básico",
+      "porc_novacunados": "11",
+      "porc_vacuincom": "11",
+      "porc_vacu": "78"
+    },
+    {
+      "rbd": "8403",
+      "Nombre_comuna": "LICEO BICENTENARIO RURAL CERRO CASTILLO (RBD: 8403) - RÍO IBÁÑEZ",
+      "nom_region": "Aysén",
+      "nivel_alu": "1° medio",
+      "porc_novacunados": "0",
+      "porc_vacuincom": "0",
+      "porc_vacu": "100"
+    },
+    {
+      "rbd": "8403",
+      "Nombre_comuna": "LICEO BICENTENARIO RURAL CERRO CASTILLO (RBD: 8403) - RÍO IBÁÑEZ",
+      "nom_region": "Aysén",
+      "nivel_alu": "2° básico",
+      "porc_novacunados": "16",
+      "porc_vacuincom": "17",
+      "porc_vacu": "67"
+    },
+    {
+      "rbd": "8403",
+      "Nombre_comuna": "LICEO BICENTENARIO RURAL CERRO CASTILLO (RBD: 8403) - RÍO IBÁÑEZ",
+      "nom_region": "Aysén",
+      "nivel_alu": "2° medio",
+      "porc_novacunados": "6",
+      "porc_vacuincom": "0",
+      "porc_vacu": "94"
+    },
+    {
+      "rbd": "8403",
+      "Nombre_comuna": "LICEO BICENTENARIO RURAL CERRO CASTILLO (RBD: 8403) - RÍO IBÁÑEZ",
+      "nom_region": "Aysén",
+      "nivel_alu": "3° básico",
+      "porc_novacunados": "33",
+      "porc_vacuincom": "0",
+      "porc_vacu": "67"
+    },
+    {
+      "rbd": "8403",
+      "Nombre_comuna": "LICEO BICENTENARIO RURAL CERRO CASTILLO (RBD: 8403) - RÍO IBÁÑEZ",
+      "nom_region": "Aysén",
+      "nivel_alu": "3° medio",
+      "porc_novacunados": "14",
+      "porc_vacuincom": "0",
+      "porc_vacu": "86"
+    },
+    {
+      "rbd": "8403",
+      "Nombre_comuna": "LICEO BICENTENARIO RURAL CERRO CASTILLO (RBD: 8403) - RÍO IBÁÑEZ",
+      "nom_region": "Aysén",
+      "nivel_alu": "4° básico",
+      "porc_novacunados": "0",
+      "porc_vacuincom": "0",
+      "porc_vacu": "100"
+    },
+    {
+      "rbd": "8403",
+      "Nombre_comuna": "LICEO BICENTENARIO RURAL CERRO CASTILLO (RBD: 8403) - RÍO IBÁÑEZ",
+      "nom_region": "Aysén",
+      "nivel_alu": "4° medio",
+      "porc_novacunados": "15",
+      "porc_vacuincom": "0",
+      "porc_vacu": "85"
+    },
+    {
+      "rbd": "8403",
+      "Nombre_comuna": "LICEO BICENTENARIO RURAL CERRO CASTILLO (RBD: 8403) - RÍO IBÁÑEZ",
+      "nom_region": "Aysén",
+      "nivel_alu": "5° básico",
+      "porc_novacunados": "0",
+      "porc_vacuincom": "0",
+      "porc_vacu": "100"
+    },
+    {
+      "rbd": "8403",
+      "Nombre_comuna": "LICEO BICENTENARIO RURAL CERRO CASTILLO (RBD: 8403) - RÍO IBÁÑEZ",
+      "nom_region": "Aysén",
+      "nivel_alu": "6° básico",
+      "porc_novacunados": "14",
+      "porc_vacuincom": "0",
+      "porc_vacu": "86"
+    },
+    {
+      "rbd": "8403",
+      "Nombre_comuna": "LICEO BICENTENARIO RURAL CERRO CASTILLO (RBD: 8403) - RÍO IBÁÑEZ",
+      "nom_region": "Aysén",
+      "nivel_alu": "7° básico",
+      "porc_novacunados": "13",
+      "porc_vacuincom": "7",
+      "porc_vacu": "80"
+    },
+    {
+      "rbd": "8403",
+      "Nombre_comuna": "LICEO BICENTENARIO RURAL CERRO CASTILLO (RBD: 8403) - RÍO IBÁÑEZ",
+      "nom_region": "Aysén",
+      "nivel_alu": "8° básico",
+      "porc_novacunados": "17",
+      "porc_vacuincom": "0",
+      "porc_vacu": "83"
+    },
+    {
+      "rbd": "8403",
+      "Nombre_comuna": "LICEO BICENTENARIO RURAL CERRO CASTILLO (RBD: 8403) - RÍO IBÁÑEZ",
+      "nom_region": "Aysén",
+      "nivel_alu": "Kínder",
+      "porc_novacunados": "50",
+      "porc_vacuincom": "25",
+      "porc_vacu": "25"
+    },
+    {
+      "rbd": "8403",
+      "Nombre_comuna": "LICEO BICENTENARIO RURAL CERRO CASTILLO (RBD: 8403) - RÍO IBÁÑEZ",
+      "nom_region": "Aysén",
+      "nivel_alu": "Prekínder",
+      "porc_novacunados": "20",
+      "porc_vacuincom": "20",
+      "porc_vacu": "60"
+    },
+    {
+      "rbd": "8404",
+      "Nombre_comuna": "ESCUELA AONIKENK (RBD: 8404) - RÍO IBÁÑEZ",
+      "nom_region": "Aysén",
+      "nivel_alu": "1° básico",
+      "porc_novacunados": "11",
+      "porc_vacuincom": "11",
+      "porc_vacu": "78"
+    },
+    {
+      "rbd": "8404",
+      "Nombre_comuna": "ESCUELA AONIKENK (RBD: 8404) - RÍO IBÁÑEZ",
+      "nom_region": "Aysén",
+      "nivel_alu": "2° básico",
+      "porc_novacunados": "17",
+      "porc_vacuincom": "8",
+      "porc_vacu": "75"
+    },
+    {
+      "rbd": "8404",
+      "Nombre_comuna": "ESCUELA AONIKENK (RBD: 8404) - RÍO IBÁÑEZ",
+      "nom_region": "Aysén",
+      "nivel_alu": "3° básico",
+      "porc_novacunados": "6",
+      "porc_vacuincom": "6",
+      "porc_vacu": "88"
+    },
+    {
+      "rbd": "8404",
+      "Nombre_comuna": "ESCUELA AONIKENK (RBD: 8404) - RÍO IBÁÑEZ",
+      "nom_region": "Aysén",
+      "nivel_alu": "4° básico",
+      "porc_novacunados": "0",
+      "porc_vacuincom": "0",
+      "porc_vacu": "100"
+    },
+    {
+      "rbd": "8404",
+      "Nombre_comuna": "ESCUELA AONIKENK (RBD: 8404) - RÍO IBÁÑEZ",
+      "nom_region": "Aysén",
+      "nivel_alu": "5° básico",
+      "porc_novacunados": "14",
+      "porc_vacuincom": "0",
+      "porc_vacu": "86"
+    },
+    {
+      "rbd": "8404",
+      "Nombre_comuna": "ESCUELA AONIKENK (RBD: 8404) - RÍO IBÁÑEZ",
+      "nom_region": "Aysén",
+      "nivel_alu": "6° básico",
+      "porc_novacunados": "14",
+      "porc_vacuincom": "9",
+      "porc_vacu": "77"
+    },
+    {
+      "rbd": "8404",
+      "Nombre_comuna": "ESCUELA AONIKENK (RBD: 8404) - RÍO IBÁÑEZ",
+      "nom_region": "Aysén",
+      "nivel_alu": "7° básico",
+      "porc_novacunados": "0",
+      "porc_vacuincom": "0",
+      "porc_vacu": "100"
+    },
+    {
+      "rbd": "8404",
+      "Nombre_comuna": "ESCUELA AONIKENK (RBD: 8404) - RÍO IBÁÑEZ",
+      "nom_region": "Aysén",
+      "nivel_alu": "8° básico",
+      "porc_novacunados": "12",
+      "porc_vacuincom": "6",
+      "porc_vacu": "82"
+    },
+    {
+      "rbd": "8404",
+      "Nombre_comuna": "ESCUELA AONIKENK (RBD: 8404) - RÍO IBÁÑEZ",
+      "nom_region": "Aysén",
+      "nivel_alu": "Kínder",
+      "porc_novacunados": "18",
+      "porc_vacuincom": "27",
+      "porc_vacu": "55"
+    },
+    {
+      "rbd": "8404",
+      "Nombre_comuna": "ESCUELA AONIKENK (RBD: 8404) - RÍO IBÁÑEZ",
+      "nom_region": "Aysén",
+      "nivel_alu": "Prekínder",
+      "porc_novacunados": "50",
+      "porc_vacuincom": "10",
+      "porc_vacu": "40"
+    },
+    {
+      "rbd": "8405",
+      "Nombre_comuna": "ESCUELA RURAL CARRETERA AUSTRAL (RBD: 8405) - RÍO IBÁÑEZ",
+      "nom_region": "Aysén",
+      "nivel_alu": "1° básico",
+      "porc_novacunados": "50",
+      "porc_vacuincom": "0",
+      "porc_vacu": "50"
+    },
+    {
+      "rbd": "8405",
+      "Nombre_comuna": "ESCUELA RURAL CARRETERA AUSTRAL (RBD: 8405) - RÍO IBÁÑEZ",
+      "nom_region": "Aysén",
+      "nivel_alu": "2° básico",
+      "porc_novacunados": "57",
+      "porc_vacuincom": "0",
+      "porc_vacu": "43"
+    },
+    {
+      "rbd": "8405",
+      "Nombre_comuna": "ESCUELA RURAL CARRETERA AUSTRAL (RBD: 8405) - RÍO IBÁÑEZ",
+      "nom_region": "Aysén",
+      "nivel_alu": "3° básico",
+      "porc_novacunados": "50",
+      "porc_vacuincom": "0",
+      "porc_vacu": "50"
+    },
+    {
+      "rbd": "8405",
+      "Nombre_comuna": "ESCUELA RURAL CARRETERA AUSTRAL (RBD: 8405) - RÍO IBÁÑEZ",
+      "nom_region": "Aysén",
+      "nivel_alu": "4° básico",
+      "porc_novacunados": "0",
+      "porc_vacuincom": "0",
+      "porc_vacu": "100"
+    },
+    {
+      "rbd": "8405",
+      "Nombre_comuna": "ESCUELA RURAL CARRETERA AUSTRAL (RBD: 8405) - RÍO IBÁÑEZ",
+      "nom_region": "Aysén",
+      "nivel_alu": "5° básico",
+      "porc_novacunados": "0",
+      "porc_vacuincom": "0",
+      "porc_vacu": "100"
+    },
+    {
+      "rbd": "8405",
+      "Nombre_comuna": "ESCUELA RURAL CARRETERA AUSTRAL (RBD: 8405) - RÍO IBÁÑEZ",
+      "nom_region": "Aysén",
+      "nivel_alu": "6° básico",
+      "porc_novacunados": "0",
+      "porc_vacuincom": "0",
+      "porc_vacu": "100"
+    },
+    {
+      "rbd": "8405",
+      "Nombre_comuna": "ESCUELA RURAL CARRETERA AUSTRAL (RBD: 8405) - RÍO IBÁÑEZ",
+      "nom_region": "Aysén",
+      "nivel_alu": "7° básico",
+      "porc_novacunados": "12",
+      "porc_vacuincom": "0",
+      "porc_vacu": "88"
+    },
+    {
+      "rbd": "8405",
+      "Nombre_comuna": "ESCUELA RURAL CARRETERA AUSTRAL (RBD: 8405) - RÍO IBÁÑEZ",
+      "nom_region": "Aysén",
+      "nivel_alu": "8° básico",
+      "porc_novacunados": "0",
+      "porc_vacuincom": "0",
+      "porc_vacu": "100"
+    },
+    {
+      "rbd": "8407",
+      "Nombre_comuna": "ESCUELA MARIA ANTONIETA PARRA MONSALVE (RBD: 8407) - RÍO IBÁÑEZ",
+      "nom_region": "Aysén",
+      "nivel_alu": "4° básico",
+      "porc_novacunados": "0",
+      "porc_vacuincom": "50",
+      "porc_vacu": "50"
+    },
+    {
+      "rbd": "8407",
+      "Nombre_comuna": "ESCUELA MARIA ANTONIETA PARRA MONSALVE (RBD: 8407) - RÍO IBÁÑEZ",
+      "nom_region": "Aysén",
+      "nivel_alu": "5° básico",
+      "porc_novacunados": "0",
+      "porc_vacuincom": "33",
+      "porc_vacu": "67"
+    },
+    {
+      "rbd": "8407",
+      "Nombre_comuna": "ESCUELA MARIA ANTONIETA PARRA MONSALVE (RBD: 8407) - RÍO IBÁÑEZ",
+      "nom_region": "Aysén",
+      "nivel_alu": "7° básico",
+      "porc_novacunados": "0",
+      "porc_vacuincom": "0",
+      "porc_vacu": "100"
+    },
+    {
+      "rbd": "8408",
+      "Nombre_comuna": "ESC. BASICA HERNAN MERINO CORREA (RBD: 8408) - COCHRANE",
+      "nom_region": "Aysén",
+      "nivel_alu": "1° básico",
+      "porc_novacunados": "5",
+      "porc_vacuincom": "16",
+      "porc_vacu": "79"
+    },
+    {
+      "rbd": "8408",
+      "Nombre_comuna": "ESC. BASICA HERNAN MERINO CORREA (RBD: 8408) - COCHRANE",
+      "nom_region": "Aysén",
+      "nivel_alu": "2° básico",
+      "porc_novacunados": "12",
+      "porc_vacuincom": "6",
+      "porc_vacu": "82"
+    },
+    {
+      "rbd": "8408",
+      "Nombre_comuna": "ESC. BASICA HERNAN MERINO CORREA (RBD: 8408) - COCHRANE",
+      "nom_region": "Aysén",
+      "nivel_alu": "3° básico",
+      "porc_novacunados": "4",
+      "porc_vacuincom": "4",
+      "porc_vacu": "92"
+    },
+    {
+      "rbd": "8408",
+      "Nombre_comuna": "ESC. BASICA HERNAN MERINO CORREA (RBD: 8408) - COCHRANE",
+      "nom_region": "Aysén",
+      "nivel_alu": "4° básico",
+      "porc_novacunados": "10",
+      "porc_vacuincom": "4",
+      "porc_vacu": "86"
+    },
+    {
+      "rbd": "8408",
+      "Nombre_comuna": "ESC. BASICA HERNAN MERINO CORREA (RBD: 8408) - COCHRANE",
+      "nom_region": "Aysén",
+      "nivel_alu": "5° básico",
+      "porc_novacunados": "10",
+      "porc_vacuincom": "2",
+      "porc_vacu": "88"
+    },
+    {
+      "rbd": "8408",
+      "Nombre_comuna": "ESC. BASICA HERNAN MERINO CORREA (RBD: 8408) - COCHRANE",
+      "nom_region": "Aysén",
+      "nivel_alu": "6° básico",
+      "porc_novacunados": "10",
+      "porc_vacuincom": "2",
+      "porc_vacu": "88"
+    },
+    {
+      "rbd": "8408",
+      "Nombre_comuna": "ESC. BASICA HERNAN MERINO CORREA (RBD: 8408) - COCHRANE",
+      "nom_region": "Aysén",
+      "nivel_alu": "Kínder",
+      "porc_novacunados": "29",
+      "porc_vacuincom": "11",
+      "porc_vacu": "60"
+    },
+    {
+      "rbd": "8408",
+      "Nombre_comuna": "ESC. BASICA HERNAN MERINO CORREA (RBD: 8408) - COCHRANE",
+      "nom_region": "Aysén",
+      "nivel_alu": "Prekínder",
+      "porc_novacunados": "24",
+      "porc_vacuincom": "16",
+      "porc_vacu": "60"
+    },
+    {
+      "rbd": "8409",
+      "Nombre_comuna": "LICEO PIONEROS DEL SUR (RBD: 8409) - O'HIGGINS",
+      "nom_region": "Aysén",
+      "nivel_alu": "1° básico",
+      "porc_novacunados": "7",
+      "porc_vacuincom": "8",
+      "porc_vacu": "85"
+    },
+    {
+      "rbd": "8409",
+      "Nombre_comuna": "LICEO PIONEROS DEL SUR (RBD: 8409) - O'HIGGINS",
+      "nom_region": "Aysén",
+      "nivel_alu": "1° medio",
+      "porc_novacunados": "29",
+      "porc_vacuincom": "0",
+      "porc_vacu": "71"
+    },
+    {
+      "rbd": "8409",
+      "Nombre_comuna": "LICEO PIONEROS DEL SUR (RBD: 8409) - O'HIGGINS",
+      "nom_region": "Aysén",
+      "nivel_alu": "2° básico",
+      "porc_novacunados": "10",
+      "porc_vacuincom": "0",
+      "porc_vacu": "90"
+    },
+    {
+      "rbd": "8409",
+      "Nombre_comuna": "LICEO PIONEROS DEL SUR (RBD: 8409) - O'HIGGINS",
+      "nom_region": "Aysén",
+      "nivel_alu": "2° medio",
+      "porc_novacunados": "0",
+      "porc_vacuincom": "10",
+      "porc_vacu": "90"
+    },
+    {
+      "rbd": "8409",
+      "Nombre_comuna": "LICEO PIONEROS DEL SUR (RBD: 8409) - O'HIGGINS",
+      "nom_region": "Aysén",
+      "nivel_alu": "3° básico",
+      "porc_novacunados": "30",
+      "porc_vacuincom": "0",
+      "porc_vacu": "70"
+    },
+    {
+      "rbd": "8409",
+      "Nombre_comuna": "LICEO PIONEROS DEL SUR (RBD: 8409) - O'HIGGINS",
+      "nom_region": "Aysén",
+      "nivel_alu": "3° medio",
+      "porc_novacunados": "29",
+      "porc_vacuincom": "0",
+      "porc_vacu": "71"
+    },
+    {
+      "rbd": "8409",
+      "Nombre_comuna": "LICEO PIONEROS DEL SUR (RBD: 8409) - O'HIGGINS",
+      "nom_region": "Aysén",
+      "nivel_alu": "4° básico",
+      "porc_novacunados": "8",
+      "porc_vacuincom": "0",
+      "porc_vacu": "92"
+    },
+    {
+      "rbd": "8409",
+      "Nombre_comuna": "LICEO PIONEROS DEL SUR (RBD: 8409) - O'HIGGINS",
+      "nom_region": "Aysén",
+      "nivel_alu": "4° medio",
+      "porc_novacunados": "14",
+      "porc_vacuincom": "0",
+      "porc_vacu": "86"
+    },
+    {
+      "rbd": "8409",
+      "Nombre_comuna": "LICEO PIONEROS DEL SUR (RBD: 8409) - O'HIGGINS",
+      "nom_region": "Aysén",
+      "nivel_alu": "5° básico",
+      "porc_novacunados": "0",
+      "porc_vacuincom": "0",
+      "porc_vacu": "100"
+    },
+    {
+      "rbd": "8409",
+      "Nombre_comuna": "LICEO PIONEROS DEL SUR (RBD: 8409) - O'HIGGINS",
+      "nom_region": "Aysén",
+      "nivel_alu": "6° básico",
+      "porc_novacunados": "9",
+      "porc_vacuincom": "0",
+      "porc_vacu": "91"
+    },
+    {
+      "rbd": "8409",
+      "Nombre_comuna": "LICEO PIONEROS DEL SUR (RBD: 8409) - O'HIGGINS",
+      "nom_region": "Aysén",
+      "nivel_alu": "7° básico",
+      "porc_novacunados": "9",
+      "porc_vacuincom": "0",
+      "porc_vacu": "91"
+    },
+    {
+      "rbd": "8409",
+      "Nombre_comuna": "LICEO PIONEROS DEL SUR (RBD: 8409) - O'HIGGINS",
+      "nom_region": "Aysén",
+      "nivel_alu": "8° básico",
+      "porc_novacunados": "0",
+      "porc_vacuincom": "0",
+      "porc_vacu": "100"
+    },
+    {
+      "rbd": "8409",
+      "Nombre_comuna": "LICEO PIONEROS DEL SUR (RBD: 8409) - O'HIGGINS",
+      "nom_region": "Aysén",
+      "nivel_alu": "Kínder",
+      "porc_novacunados": "10",
+      "porc_vacuincom": "10",
+      "porc_vacu": "80"
+    },
+    {
+      "rbd": "8409",
+      "Nombre_comuna": "LICEO PIONEROS DEL SUR (RBD: 8409) - O'HIGGINS",
+      "nom_region": "Aysén",
+      "nivel_alu": "Prekínder",
+      "porc_novacunados": "29",
+      "porc_vacuincom": "0",
+      "porc_vacu": "71"
+    },
+    {
+      "rbd": "8410",
+      "Nombre_comuna": "ESCUELA MUNICIPAL CDTE LUIS BRAVO BRAVO (RBD: 8410) - TORTEL",
+      "nom_region": "Aysén",
+      "nivel_alu": "1° básico",
+      "porc_novacunados": "29",
+      "porc_vacuincom": "14",
+      "porc_vacu": "57"
+    },
+    {
+      "rbd": "8410",
+      "Nombre_comuna": "ESCUELA MUNICIPAL CDTE LUIS BRAVO BRAVO (RBD: 8410) - TORTEL",
+      "nom_region": "Aysén",
+      "nivel_alu": "2° básico",
+      "porc_novacunados": "0",
+      "porc_vacuincom": "0",
+      "porc_vacu": "100"
+    },
+    {
+      "rbd": "8410",
+      "Nombre_comuna": "ESCUELA MUNICIPAL CDTE LUIS BRAVO BRAVO (RBD: 8410) - TORTEL",
+      "nom_region": "Aysén",
+      "nivel_alu": "3° básico",
+      "porc_novacunados": "8",
+      "porc_vacuincom": "8",
+      "porc_vacu": "84"
+    },
+    {
+      "rbd": "8410",
+      "Nombre_comuna": "ESCUELA MUNICIPAL CDTE LUIS BRAVO BRAVO (RBD: 8410) - TORTEL",
+      "nom_region": "Aysén",
+      "nivel_alu": "4° básico",
+      "porc_novacunados": "0",
+      "porc_vacuincom": "10",
+      "porc_vacu": "90"
+    },
+    {
+      "rbd": "8410",
+      "Nombre_comuna": "ESCUELA MUNICIPAL CDTE LUIS BRAVO BRAVO (RBD: 8410) - TORTEL",
+      "nom_region": "Aysén",
+      "nivel_alu": "5° básico",
+      "porc_novacunados": "38",
+      "porc_vacuincom": "0",
+      "porc_vacu": "62"
+    },
+    {
+      "rbd": "8410",
+      "Nombre_comuna": "ESCUELA MUNICIPAL CDTE LUIS BRAVO BRAVO (RBD: 8410) - TORTEL",
+      "nom_region": "Aysén",
+      "nivel_alu": "6° básico",
+      "porc_novacunados": "25",
+      "porc_vacuincom": "0",
+      "porc_vacu": "75"
+    },
+    {
+      "rbd": "8410",
+      "Nombre_comuna": "ESCUELA MUNICIPAL CDTE LUIS BRAVO BRAVO (RBD: 8410) - TORTEL",
+      "nom_region": "Aysén",
+      "nivel_alu": "7° básico",
+      "porc_novacunados": "25",
+      "porc_vacuincom": "0",
+      "porc_vacu": "75"
+    },
+    {
+      "rbd": "8410",
+      "Nombre_comuna": "ESCUELA MUNICIPAL CDTE LUIS BRAVO BRAVO (RBD: 8410) - TORTEL",
+      "nom_region": "Aysén",
+      "nivel_alu": "8° básico",
+      "porc_novacunados": "12",
+      "porc_vacuincom": "0",
+      "porc_vacu": "88"
+    },
+    {
+      "rbd": "8410",
+      "Nombre_comuna": "ESCUELA MUNICIPAL CDTE LUIS BRAVO BRAVO (RBD: 8410) - TORTEL",
+      "nom_region": "Aysén",
+      "nivel_alu": "Kínder",
+      "porc_novacunados": "9",
+      "porc_vacuincom": "18",
+      "porc_vacu": "73"
+    },
+    {
+      "rbd": "8410",
+      "Nombre_comuna": "ESCUELA MUNICIPAL CDTE LUIS BRAVO BRAVO (RBD: 8410) - TORTEL",
+      "nom_region": "Aysén",
+      "nivel_alu": "Prekínder",
+      "porc_novacunados": "0",
+      "porc_vacuincom": "33",
+      "porc_vacu": "67"
+    },
+    {
+      "rbd": "11608",
+      "Nombre_comuna": "LICEO TECNICO PROFESIONAL JUAN PABLO II (RBD: 11608) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "1° medio",
+      "porc_novacunados": "9",
+      "porc_vacuincom": "5",
+      "porc_vacu": "86"
+    },
+    {
+      "rbd": "11608",
+      "Nombre_comuna": "LICEO TECNICO PROFESIONAL JUAN PABLO II (RBD: 11608) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "2° medio",
+      "porc_novacunados": "17",
+      "porc_vacuincom": "6",
+      "porc_vacu": "77"
+    },
+    {
+      "rbd": "11608",
+      "Nombre_comuna": "LICEO TECNICO PROFESIONAL JUAN PABLO II (RBD: 11608) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "3° medio",
+      "porc_novacunados": "12",
+      "porc_vacuincom": "1",
+      "porc_vacu": "87"
+    },
+    {
+      "rbd": "11608",
+      "Nombre_comuna": "LICEO TECNICO PROFESIONAL JUAN PABLO II (RBD: 11608) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "4° medio",
+      "porc_novacunados": "12",
+      "porc_vacuincom": "1",
+      "porc_vacu": "87"
+    },
+    {
+      "rbd": "11608",
+      "Nombre_comuna": "LICEO TECNICO PROFESIONAL JUAN PABLO II (RBD: 11608) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "7° básico",
+      "porc_novacunados": "23",
+      "porc_vacuincom": "2",
+      "porc_vacu": "75"
+    },
+    {
+      "rbd": "11608",
+      "Nombre_comuna": "LICEO TECNICO PROFESIONAL JUAN PABLO II (RBD: 11608) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "8° básico",
+      "porc_novacunados": "12",
+      "porc_vacuincom": "6",
+      "porc_vacu": "82"
+    },
+    {
+      "rbd": "11608",
+      "Nombre_comuna": "LICEO TECNICO PROFESIONAL JUAN PABLO II (RBD: 11608) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "Educ. Adultos",
+      "porc_novacunados": "0",
+      "porc_vacuincom": "0",
+      "porc_vacu": "100"
+    },
+    {
+      "rbd": "11609",
+      "Nombre_comuna": "ESCUELA MUNICIPAL MELIMOYU (RBD: 11609) - CISNES",
+      "nom_region": "Aysén",
+      "nivel_alu": "5° básico",
+      "porc_novacunados": "100",
+      "porc_vacuincom": "0",
+      "porc_vacu": "0"
+    },
+    {
+      "rbd": "11609",
+      "Nombre_comuna": "ESCUELA MUNICIPAL MELIMOYU (RBD: 11609) - CISNES",
+      "nom_region": "Aysén",
+      "nivel_alu": "6° básico",
+      "porc_novacunados": "0",
+      "porc_vacuincom": "0",
+      "porc_vacu": "100"
+    },
+    {
+      "rbd": "11612",
+      "Nombre_comuna": "ESCUELA BASICA RIBERA SUR (RBD: 11612) - AYSÉN",
+      "nom_region": "Aysén",
+      "nivel_alu": "1° básico",
+      "porc_novacunados": "44",
+      "porc_vacuincom": "25",
+      "porc_vacu": "31"
+    },
+    {
+      "rbd": "11612",
+      "Nombre_comuna": "ESCUELA BASICA RIBERA SUR (RBD: 11612) - AYSÉN",
+      "nom_region": "Aysén",
+      "nivel_alu": "2° básico",
+      "porc_novacunados": "4",
+      "porc_vacuincom": "28",
+      "porc_vacu": "68"
+    },
+    {
+      "rbd": "11612",
+      "Nombre_comuna": "ESCUELA BASICA RIBERA SUR (RBD: 11612) - AYSÉN",
+      "nom_region": "Aysén",
+      "nivel_alu": "3° básico",
+      "porc_novacunados": "9",
+      "porc_vacuincom": "4",
+      "porc_vacu": "87"
+    },
+    {
+      "rbd": "11612",
+      "Nombre_comuna": "ESCUELA BASICA RIBERA SUR (RBD: 11612) - AYSÉN",
+      "nom_region": "Aysén",
+      "nivel_alu": "4° básico",
+      "porc_novacunados": "39",
+      "porc_vacuincom": "9",
+      "porc_vacu": "52"
+    },
+    {
+      "rbd": "11612",
+      "Nombre_comuna": "ESCUELA BASICA RIBERA SUR (RBD: 11612) - AYSÉN",
+      "nom_region": "Aysén",
+      "nivel_alu": "5° básico",
+      "porc_novacunados": "22",
+      "porc_vacuincom": "0",
+      "porc_vacu": "78"
+    },
+    {
+      "rbd": "11612",
+      "Nombre_comuna": "ESCUELA BASICA RIBERA SUR (RBD: 11612) - AYSÉN",
+      "nom_region": "Aysén",
+      "nivel_alu": "6° básico",
+      "porc_novacunados": "30",
+      "porc_vacuincom": "3",
+      "porc_vacu": "67"
+    },
+    {
+      "rbd": "11612",
+      "Nombre_comuna": "ESCUELA BASICA RIBERA SUR (RBD: 11612) - AYSÉN",
+      "nom_region": "Aysén",
+      "nivel_alu": "Kínder",
+      "porc_novacunados": "36",
+      "porc_vacuincom": "18",
+      "porc_vacu": "46"
+    },
+    {
+      "rbd": "11612",
+      "Nombre_comuna": "ESCUELA BASICA RIBERA SUR (RBD: 11612) - AYSÉN",
+      "nom_region": "Aysén",
+      "nivel_alu": "Prekínder",
+      "porc_novacunados": "54",
+      "porc_vacuincom": "9",
+      "porc_vacu": "37"
+    },
+    {
+      "rbd": "16975",
+      "Nombre_comuna": "COLEGIO UNIÓN FRATERNA (RBD: 16975) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "1° básico",
+      "porc_novacunados": "25",
+      "porc_vacuincom": "12",
+      "porc_vacu": "63"
+    },
+    {
+      "rbd": "16975",
+      "Nombre_comuna": "COLEGIO UNIÓN FRATERNA (RBD: 16975) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "2° básico",
+      "porc_novacunados": "19",
+      "porc_vacuincom": "6",
+      "porc_vacu": "75"
+    },
+    {
+      "rbd": "16975",
+      "Nombre_comuna": "COLEGIO UNIÓN FRATERNA (RBD: 16975) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "3° básico",
+      "porc_novacunados": "20",
+      "porc_vacuincom": "16",
+      "porc_vacu": "64"
+    },
+    {
+      "rbd": "16975",
+      "Nombre_comuna": "COLEGIO UNIÓN FRATERNA (RBD: 16975) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "4° básico",
+      "porc_novacunados": "16",
+      "porc_vacuincom": "9",
+      "porc_vacu": "75"
+    },
+    {
+      "rbd": "16975",
+      "Nombre_comuna": "COLEGIO UNIÓN FRATERNA (RBD: 16975) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "5° básico",
+      "porc_novacunados": "17",
+      "porc_vacuincom": "4",
+      "porc_vacu": "79"
+    },
+    {
+      "rbd": "16975",
+      "Nombre_comuna": "COLEGIO UNIÓN FRATERNA (RBD: 16975) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "6° básico",
+      "porc_novacunados": "11",
+      "porc_vacuincom": "0",
+      "porc_vacu": "89"
+    },
+    {
+      "rbd": "16975",
+      "Nombre_comuna": "COLEGIO UNIÓN FRATERNA (RBD: 16975) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "Kínder",
+      "porc_novacunados": "28",
+      "porc_vacuincom": "24",
+      "porc_vacu": "48"
+    },
+    {
+      "rbd": "16975",
+      "Nombre_comuna": "COLEGIO UNIÓN FRATERNA (RBD: 16975) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "Prekínder",
+      "porc_novacunados": "33",
+      "porc_vacuincom": "17",
+      "porc_vacu": "50"
+    },
+    {
+      "rbd": "16983",
+      "Nombre_comuna": "COLEGIO EL CASTILLO (RBD: 16983) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "Educ. Especial",
+      "porc_novacunados": "26",
+      "porc_vacuincom": "21",
+      "porc_vacu": "53"
+    },
+    {
+      "rbd": "16983",
+      "Nombre_comuna": "COLEGIO EL CASTILLO (RBD: 16983) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "Kínder",
+      "porc_novacunados": "17",
+      "porc_vacuincom": "33",
+      "porc_vacu": "50"
+    },
+    {
+      "rbd": "16983",
+      "Nombre_comuna": "COLEGIO EL CASTILLO (RBD: 16983) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "Prekínder",
+      "porc_novacunados": "25",
+      "porc_vacuincom": "25",
+      "porc_vacu": "50"
+    },
+    {
+      "rbd": "20361",
+      "Nombre_comuna": "COLEGIO TRAPANANDA (RBD: 20361) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "Educ. Adultos",
+      "porc_novacunados": "16",
+      "porc_vacuincom": "5",
+      "porc_vacu": "79"
+    },
+    {
+      "rbd": "24201",
+      "Nombre_comuna": "LICEO BICENTENARIO AUSTRAL LORD COCHRANE (RBD: 24201) - COCHRANE",
+      "nom_region": "Aysén",
+      "nivel_alu": "1° medio",
+      "porc_novacunados": "12",
+      "porc_vacuincom": "2",
+      "porc_vacu": "86"
+    },
+    {
+      "rbd": "24201",
+      "Nombre_comuna": "LICEO BICENTENARIO AUSTRAL LORD COCHRANE (RBD: 24201) - COCHRANE",
+      "nom_region": "Aysén",
+      "nivel_alu": "2° medio",
+      "porc_novacunados": "12",
+      "porc_vacuincom": "0",
+      "porc_vacu": "88"
+    },
+    {
+      "rbd": "24201",
+      "Nombre_comuna": "LICEO BICENTENARIO AUSTRAL LORD COCHRANE (RBD: 24201) - COCHRANE",
+      "nom_region": "Aysén",
+      "nivel_alu": "3° medio",
+      "porc_novacunados": "14",
+      "porc_vacuincom": "2",
+      "porc_vacu": "84"
+    },
+    {
+      "rbd": "24201",
+      "Nombre_comuna": "LICEO BICENTENARIO AUSTRAL LORD COCHRANE (RBD: 24201) - COCHRANE",
+      "nom_region": "Aysén",
+      "nivel_alu": "4° medio",
+      "porc_novacunados": "16",
+      "porc_vacuincom": "2",
+      "porc_vacu": "82"
+    },
+    {
+      "rbd": "24201",
+      "Nombre_comuna": "LICEO BICENTENARIO AUSTRAL LORD COCHRANE (RBD: 24201) - COCHRANE",
+      "nom_region": "Aysén",
+      "nivel_alu": "7° básico",
+      "porc_novacunados": "11",
+      "porc_vacuincom": "2",
+      "porc_vacu": "87"
+    },
+    {
+      "rbd": "24201",
+      "Nombre_comuna": "LICEO BICENTENARIO AUSTRAL LORD COCHRANE (RBD: 24201) - COCHRANE",
+      "nom_region": "Aysén",
+      "nivel_alu": "8° básico",
+      "porc_novacunados": "16",
+      "porc_vacuincom": "3",
+      "porc_vacu": "81"
+    },
+    {
+      "rbd": "24201",
+      "Nombre_comuna": "LICEO BICENTENARIO AUSTRAL LORD COCHRANE (RBD: 24201) - COCHRANE",
+      "nom_region": "Aysén",
+      "nivel_alu": "Educ. Adultos",
+      "porc_novacunados": "10",
+      "porc_vacuincom": "0",
+      "porc_vacu": "90"
+    },
+    {
+      "rbd": "24203",
+      "Nombre_comuna": "LICEO RAUL BROUSSAIN CAMPINO (RBD: 24203) - AYSÉN",
+      "nom_region": "Aysén",
+      "nivel_alu": "1° medio",
+      "porc_novacunados": "9",
+      "porc_vacuincom": "2",
+      "porc_vacu": "89"
+    },
+    {
+      "rbd": "24203",
+      "Nombre_comuna": "LICEO RAUL BROUSSAIN CAMPINO (RBD: 24203) - AYSÉN",
+      "nom_region": "Aysén",
+      "nivel_alu": "2° medio",
+      "porc_novacunados": "7",
+      "porc_vacuincom": "8",
+      "porc_vacu": "85"
+    },
+    {
+      "rbd": "24203",
+      "Nombre_comuna": "LICEO RAUL BROUSSAIN CAMPINO (RBD: 24203) - AYSÉN",
+      "nom_region": "Aysén",
+      "nivel_alu": "3° medio",
+      "porc_novacunados": "8",
+      "porc_vacuincom": "0",
+      "porc_vacu": "92"
+    },
+    {
+      "rbd": "24203",
+      "Nombre_comuna": "LICEO RAUL BROUSSAIN CAMPINO (RBD: 24203) - AYSÉN",
+      "nom_region": "Aysén",
+      "nivel_alu": "4° medio",
+      "porc_novacunados": "0",
+      "porc_vacuincom": "0",
+      "porc_vacu": "100"
+    },
+    {
+      "rbd": "24203",
+      "Nombre_comuna": "LICEO RAUL BROUSSAIN CAMPINO (RBD: 24203) - AYSÉN",
+      "nom_region": "Aysén",
+      "nivel_alu": "7° básico",
+      "porc_novacunados": "13",
+      "porc_vacuincom": "7",
+      "porc_vacu": "80"
+    },
+    {
+      "rbd": "24203",
+      "Nombre_comuna": "LICEO RAUL BROUSSAIN CAMPINO (RBD: 24203) - AYSÉN",
+      "nom_region": "Aysén",
+      "nivel_alu": "8° básico",
+      "porc_novacunados": "24",
+      "porc_vacuincom": "6",
+      "porc_vacu": "70"
+    },
+    {
+      "rbd": "24204",
+      "Nombre_comuna": "LICEO ARTURO PRAT CHACON (RBD: 24204) - CISNES",
+      "nom_region": "Aysén",
+      "nivel_alu": "1° medio",
+      "porc_novacunados": "12",
+      "porc_vacuincom": "3",
+      "porc_vacu": "85"
+    },
+    {
+      "rbd": "24204",
+      "Nombre_comuna": "LICEO ARTURO PRAT CHACON (RBD: 24204) - CISNES",
+      "nom_region": "Aysén",
+      "nivel_alu": "2° medio",
+      "porc_novacunados": "10",
+      "porc_vacuincom": "2",
+      "porc_vacu": "88"
+    },
+    {
+      "rbd": "24204",
+      "Nombre_comuna": "LICEO ARTURO PRAT CHACON (RBD: 24204) - CISNES",
+      "nom_region": "Aysén",
+      "nivel_alu": "3° medio",
+      "porc_novacunados": "9",
+      "porc_vacuincom": "0",
+      "porc_vacu": "91"
+    },
+    {
+      "rbd": "24204",
+      "Nombre_comuna": "LICEO ARTURO PRAT CHACON (RBD: 24204) - CISNES",
+      "nom_region": "Aysén",
+      "nivel_alu": "4° medio",
+      "porc_novacunados": "6",
+      "porc_vacuincom": "0",
+      "porc_vacu": "94"
+    },
+    {
+      "rbd": "24206",
+      "Nombre_comuna": "CENTRO INTEGRAL DE EDUCACIÓN ALBORADA (RBD: 24206) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "1° básico",
+      "porc_novacunados": "15",
+      "porc_vacuincom": "10",
+      "porc_vacu": "75"
+    },
+    {
+      "rbd": "24206",
+      "Nombre_comuna": "CENTRO INTEGRAL DE EDUCACIÓN ALBORADA (RBD: 24206) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "1° medio",
+      "porc_novacunados": "7",
+      "porc_vacuincom": "1",
+      "porc_vacu": "92"
+    },
+    {
+      "rbd": "24206",
+      "Nombre_comuna": "CENTRO INTEGRAL DE EDUCACIÓN ALBORADA (RBD: 24206) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "2° básico",
+      "porc_novacunados": "24",
+      "porc_vacuincom": "4",
+      "porc_vacu": "72"
+    },
+    {
+      "rbd": "24206",
+      "Nombre_comuna": "CENTRO INTEGRAL DE EDUCACIÓN ALBORADA (RBD: 24206) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "2° medio",
+      "porc_novacunados": "7",
+      "porc_vacuincom": "2",
+      "porc_vacu": "91"
+    },
+    {
+      "rbd": "24206",
+      "Nombre_comuna": "CENTRO INTEGRAL DE EDUCACIÓN ALBORADA (RBD: 24206) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "3° básico",
+      "porc_novacunados": "14",
+      "porc_vacuincom": "5",
+      "porc_vacu": "81"
+    },
+    {
+      "rbd": "24206",
+      "Nombre_comuna": "CENTRO INTEGRAL DE EDUCACIÓN ALBORADA (RBD: 24206) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "3° medio",
+      "porc_novacunados": "6",
+      "porc_vacuincom": "2",
+      "porc_vacu": "92"
+    },
+    {
+      "rbd": "24206",
+      "Nombre_comuna": "CENTRO INTEGRAL DE EDUCACIÓN ALBORADA (RBD: 24206) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "4° básico",
+      "porc_novacunados": "17",
+      "porc_vacuincom": "2",
+      "porc_vacu": "81"
+    },
+    {
+      "rbd": "24206",
+      "Nombre_comuna": "CENTRO INTEGRAL DE EDUCACIÓN ALBORADA (RBD: 24206) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "4° medio",
+      "porc_novacunados": "4",
+      "porc_vacuincom": "1",
+      "porc_vacu": "95"
+    },
+    {
+      "rbd": "24206",
+      "Nombre_comuna": "CENTRO INTEGRAL DE EDUCACIÓN ALBORADA (RBD: 24206) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "5° básico",
+      "porc_novacunados": "13",
+      "porc_vacuincom": "5",
+      "porc_vacu": "82"
+    },
+    {
+      "rbd": "24206",
+      "Nombre_comuna": "CENTRO INTEGRAL DE EDUCACIÓN ALBORADA (RBD: 24206) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "6° básico",
+      "porc_novacunados": "7",
+      "porc_vacuincom": "2",
+      "porc_vacu": "91"
+    },
+    {
+      "rbd": "24206",
+      "Nombre_comuna": "CENTRO INTEGRAL DE EDUCACIÓN ALBORADA (RBD: 24206) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "7° básico",
+      "porc_novacunados": "4",
+      "porc_vacuincom": "2",
+      "porc_vacu": "94"
+    },
+    {
+      "rbd": "24206",
+      "Nombre_comuna": "CENTRO INTEGRAL DE EDUCACIÓN ALBORADA (RBD: 24206) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "8° básico",
+      "porc_novacunados": "9",
+      "porc_vacuincom": "3",
+      "porc_vacu": "88"
+    },
+    {
+      "rbd": "24206",
+      "Nombre_comuna": "CENTRO INTEGRAL DE EDUCACIÓN ALBORADA (RBD: 24206) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "Educ. Especial",
+      "porc_novacunados": "25",
+      "porc_vacuincom": "17",
+      "porc_vacu": "58"
+    },
+    {
+      "rbd": "24206",
+      "Nombre_comuna": "CENTRO INTEGRAL DE EDUCACIÓN ALBORADA (RBD: 24206) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "Kínder",
+      "porc_novacunados": "15",
+      "porc_vacuincom": "8",
+      "porc_vacu": "77"
+    },
+    {
+      "rbd": "24206",
+      "Nombre_comuna": "CENTRO INTEGRAL DE EDUCACIÓN ALBORADA (RBD: 24206) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "Prekínder",
+      "porc_novacunados": "38",
+      "porc_vacuincom": "16",
+      "porc_vacu": "46"
+    },
+    {
+      "rbd": "24207",
+      "Nombre_comuna": "LICEO SAN JOSE U.R. (RBD: 24207) - AYSÉN",
+      "nom_region": "Aysén",
+      "nivel_alu": "1° medio",
+      "porc_novacunados": "5",
+      "porc_vacuincom": "0",
+      "porc_vacu": "95"
+    },
+    {
+      "rbd": "24207",
+      "Nombre_comuna": "LICEO SAN JOSE U.R. (RBD: 24207) - AYSÉN",
+      "nom_region": "Aysén",
+      "nivel_alu": "2° medio",
+      "porc_novacunados": "6",
+      "porc_vacuincom": "1",
+      "porc_vacu": "93"
+    },
+    {
+      "rbd": "24207",
+      "Nombre_comuna": "LICEO SAN JOSE U.R. (RBD: 24207) - AYSÉN",
+      "nom_region": "Aysén",
+      "nivel_alu": "3° medio",
+      "porc_novacunados": "5",
+      "porc_vacuincom": "1",
+      "porc_vacu": "94"
+    },
+    {
+      "rbd": "24207",
+      "Nombre_comuna": "LICEO SAN JOSE U.R. (RBD: 24207) - AYSÉN",
+      "nom_region": "Aysén",
+      "nivel_alu": "4° medio",
+      "porc_novacunados": "4",
+      "porc_vacuincom": "1",
+      "porc_vacu": "95"
+    },
+    {
+      "rbd": "24207",
+      "Nombre_comuna": "LICEO SAN JOSE U.R. (RBD: 24207) - AYSÉN",
+      "nom_region": "Aysén",
+      "nivel_alu": "7° básico",
+      "porc_novacunados": "8",
+      "porc_vacuincom": "3",
+      "porc_vacu": "89"
+    },
+    {
+      "rbd": "24207",
+      "Nombre_comuna": "LICEO SAN JOSE U.R. (RBD: 24207) - AYSÉN",
+      "nom_region": "Aysén",
+      "nivel_alu": "8° básico",
+      "porc_novacunados": "9",
+      "porc_vacuincom": "7",
+      "porc_vacu": "84"
+    },
+    {
+      "rbd": "24209",
+      "Nombre_comuna": "COLEGIO SAGRADA FAMILIA (RBD: 24209) - AYSÉN",
+      "nom_region": "Aysén",
+      "nivel_alu": "1° básico",
+      "porc_novacunados": "24",
+      "porc_vacuincom": "10",
+      "porc_vacu": "66"
+    },
+    {
+      "rbd": "24209",
+      "Nombre_comuna": "COLEGIO SAGRADA FAMILIA (RBD: 24209) - AYSÉN",
+      "nom_region": "Aysén",
+      "nivel_alu": "1° medio",
+      "porc_novacunados": "8",
+      "porc_vacuincom": "5",
+      "porc_vacu": "87"
+    },
+    {
+      "rbd": "24209",
+      "Nombre_comuna": "COLEGIO SAGRADA FAMILIA (RBD: 24209) - AYSÉN",
+      "nom_region": "Aysén",
+      "nivel_alu": "2° básico",
+      "porc_novacunados": "20",
+      "porc_vacuincom": "8",
+      "porc_vacu": "72"
+    },
+    {
+      "rbd": "24209",
+      "Nombre_comuna": "COLEGIO SAGRADA FAMILIA (RBD: 24209) - AYSÉN",
+      "nom_region": "Aysén",
+      "nivel_alu": "2° medio",
+      "porc_novacunados": "5",
+      "porc_vacuincom": "2",
+      "porc_vacu": "93"
+    },
+    {
+      "rbd": "24209",
+      "Nombre_comuna": "COLEGIO SAGRADA FAMILIA (RBD: 24209) - AYSÉN",
+      "nom_region": "Aysén",
+      "nivel_alu": "3° básico",
+      "porc_novacunados": "5",
+      "porc_vacuincom": "5",
+      "porc_vacu": "90"
+    },
+    {
+      "rbd": "24209",
+      "Nombre_comuna": "COLEGIO SAGRADA FAMILIA (RBD: 24209) - AYSÉN",
+      "nom_region": "Aysén",
+      "nivel_alu": "3° medio",
+      "porc_novacunados": "14",
+      "porc_vacuincom": "0",
+      "porc_vacu": "86"
+    },
+    {
+      "rbd": "24209",
+      "Nombre_comuna": "COLEGIO SAGRADA FAMILIA (RBD: 24209) - AYSÉN",
+      "nom_region": "Aysén",
+      "nivel_alu": "4° básico",
+      "porc_novacunados": "15",
+      "porc_vacuincom": "0",
+      "porc_vacu": "85"
+    },
+    {
+      "rbd": "24209",
+      "Nombre_comuna": "COLEGIO SAGRADA FAMILIA (RBD: 24209) - AYSÉN",
+      "nom_region": "Aysén",
+      "nivel_alu": "4° medio",
+      "porc_novacunados": "5",
+      "porc_vacuincom": "0",
+      "porc_vacu": "95"
+    },
+    {
+      "rbd": "24209",
+      "Nombre_comuna": "COLEGIO SAGRADA FAMILIA (RBD: 24209) - AYSÉN",
+      "nom_region": "Aysén",
+      "nivel_alu": "5° básico",
+      "porc_novacunados": "7",
+      "porc_vacuincom": "8",
+      "porc_vacu": "85"
+    },
+    {
+      "rbd": "24209",
+      "Nombre_comuna": "COLEGIO SAGRADA FAMILIA (RBD: 24209) - AYSÉN",
+      "nom_region": "Aysén",
+      "nivel_alu": "6° básico",
+      "porc_novacunados": "14",
+      "porc_vacuincom": "9",
+      "porc_vacu": "77"
+    },
+    {
+      "rbd": "24209",
+      "Nombre_comuna": "COLEGIO SAGRADA FAMILIA (RBD: 24209) - AYSÉN",
+      "nom_region": "Aysén",
+      "nivel_alu": "7° básico",
+      "porc_novacunados": "10",
+      "porc_vacuincom": "10",
+      "porc_vacu": "80"
+    },
+    {
+      "rbd": "24209",
+      "Nombre_comuna": "COLEGIO SAGRADA FAMILIA (RBD: 24209) - AYSÉN",
+      "nom_region": "Aysén",
+      "nivel_alu": "8° básico",
+      "porc_novacunados": "14",
+      "porc_vacuincom": "4",
+      "porc_vacu": "82"
+    },
+    {
+      "rbd": "24209",
+      "Nombre_comuna": "COLEGIO SAGRADA FAMILIA (RBD: 24209) - AYSÉN",
+      "nom_region": "Aysén",
+      "nivel_alu": "Kínder",
+      "porc_novacunados": "44",
+      "porc_vacuincom": "9",
+      "porc_vacu": "47"
+    },
+    {
+      "rbd": "24209",
+      "Nombre_comuna": "COLEGIO SAGRADA FAMILIA (RBD: 24209) - AYSÉN",
+      "nom_region": "Aysén",
+      "nivel_alu": "Prekínder",
+      "porc_novacunados": "44",
+      "porc_vacuincom": "15",
+      "porc_vacu": "41"
+    },
+    {
+      "rbd": "24210",
+      "Nombre_comuna": "ESC. PART.MADRE DE LA DIVINA PROVIDENCIA (RBD: 24210) - CISNES",
+      "nom_region": "Aysén",
+      "nivel_alu": "1° básico",
+      "porc_novacunados": "0",
+      "porc_vacuincom": "0",
+      "porc_vacu": "100"
+    },
+    {
+      "rbd": "24210",
+      "Nombre_comuna": "ESC. PART.MADRE DE LA DIVINA PROVIDENCIA (RBD: 24210) - CISNES",
+      "nom_region": "Aysén",
+      "nivel_alu": "2° básico",
+      "porc_novacunados": "0",
+      "porc_vacuincom": "0",
+      "porc_vacu": "100"
+    },
+    {
+      "rbd": "24210",
+      "Nombre_comuna": "ESC. PART.MADRE DE LA DIVINA PROVIDENCIA (RBD: 24210) - CISNES",
+      "nom_region": "Aysén",
+      "nivel_alu": "4° básico",
+      "porc_novacunados": "0",
+      "porc_vacuincom": "0",
+      "porc_vacu": "100"
+    },
+    {
+      "rbd": "24210",
+      "Nombre_comuna": "ESC. PART.MADRE DE LA DIVINA PROVIDENCIA (RBD: 24210) - CISNES",
+      "nom_region": "Aysén",
+      "nivel_alu": "5° básico",
+      "porc_novacunados": "0",
+      "porc_vacuincom": "100",
+      "porc_vacu": "0"
+    },
+    {
+      "rbd": "24210",
+      "Nombre_comuna": "ESC. PART.MADRE DE LA DIVINA PROVIDENCIA (RBD: 24210) - CISNES",
+      "nom_region": "Aysén",
+      "nivel_alu": "6° básico",
+      "porc_novacunados": "0",
+      "porc_vacuincom": "0",
+      "porc_vacu": "100"
+    },
+    {
+      "rbd": "24210",
+      "Nombre_comuna": "ESC. PART.MADRE DE LA DIVINA PROVIDENCIA (RBD: 24210) - CISNES",
+      "nom_region": "Aysén",
+      "nivel_alu": "7° básico",
+      "porc_novacunados": "0",
+      "porc_vacuincom": "0",
+      "porc_vacu": "100"
+    },
+    {
+      "rbd": "24212",
+      "Nombre_comuna": "COLEGIO ALIANZA AUSTRAL DE COYHAIQUE (RBD: 24212) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "1° básico",
+      "porc_novacunados": "3",
+      "porc_vacuincom": "5",
+      "porc_vacu": "92"
+    },
+    {
+      "rbd": "24212",
+      "Nombre_comuna": "COLEGIO ALIANZA AUSTRAL DE COYHAIQUE (RBD: 24212) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "1° medio",
+      "porc_novacunados": "8",
+      "porc_vacuincom": "0",
+      "porc_vacu": "92"
+    },
+    {
+      "rbd": "24212",
+      "Nombre_comuna": "COLEGIO ALIANZA AUSTRAL DE COYHAIQUE (RBD: 24212) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "2° básico",
+      "porc_novacunados": "10",
+      "porc_vacuincom": "0",
+      "porc_vacu": "90"
+    },
+    {
+      "rbd": "24212",
+      "Nombre_comuna": "COLEGIO ALIANZA AUSTRAL DE COYHAIQUE (RBD: 24212) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "2° medio",
+      "porc_novacunados": "15",
+      "porc_vacuincom": "0",
+      "porc_vacu": "85"
+    },
+    {
+      "rbd": "24212",
+      "Nombre_comuna": "COLEGIO ALIANZA AUSTRAL DE COYHAIQUE (RBD: 24212) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "3° básico",
+      "porc_novacunados": "11",
+      "porc_vacuincom": "0",
+      "porc_vacu": "89"
+    },
+    {
+      "rbd": "24212",
+      "Nombre_comuna": "COLEGIO ALIANZA AUSTRAL DE COYHAIQUE (RBD: 24212) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "3° medio",
+      "porc_novacunados": "5",
+      "porc_vacuincom": "0",
+      "porc_vacu": "95"
+    },
+    {
+      "rbd": "24212",
+      "Nombre_comuna": "COLEGIO ALIANZA AUSTRAL DE COYHAIQUE (RBD: 24212) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "4° básico",
+      "porc_novacunados": "11",
+      "porc_vacuincom": "2",
+      "porc_vacu": "87"
+    },
+    {
+      "rbd": "24212",
+      "Nombre_comuna": "COLEGIO ALIANZA AUSTRAL DE COYHAIQUE (RBD: 24212) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "4° medio",
+      "porc_novacunados": "10",
+      "porc_vacuincom": "0",
+      "porc_vacu": "90"
+    },
+    {
+      "rbd": "24212",
+      "Nombre_comuna": "COLEGIO ALIANZA AUSTRAL DE COYHAIQUE (RBD: 24212) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "5° básico",
+      "porc_novacunados": "3",
+      "porc_vacuincom": "3",
+      "porc_vacu": "94"
+    },
+    {
+      "rbd": "24212",
+      "Nombre_comuna": "COLEGIO ALIANZA AUSTRAL DE COYHAIQUE (RBD: 24212) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "6° básico",
+      "porc_novacunados": "8",
+      "porc_vacuincom": "2",
+      "porc_vacu": "90"
+    },
+    {
+      "rbd": "24212",
+      "Nombre_comuna": "COLEGIO ALIANZA AUSTRAL DE COYHAIQUE (RBD: 24212) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "7° básico",
+      "porc_novacunados": "5",
+      "porc_vacuincom": "0",
+      "porc_vacu": "95"
+    },
+    {
+      "rbd": "24212",
+      "Nombre_comuna": "COLEGIO ALIANZA AUSTRAL DE COYHAIQUE (RBD: 24212) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "8° básico",
+      "porc_novacunados": "19",
+      "porc_vacuincom": "2",
+      "porc_vacu": "79"
+    },
+    {
+      "rbd": "24212",
+      "Nombre_comuna": "COLEGIO ALIANZA AUSTRAL DE COYHAIQUE (RBD: 24212) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "Kínder",
+      "porc_novacunados": "12",
+      "porc_vacuincom": "3",
+      "porc_vacu": "85"
+    },
+    {
+      "rbd": "24212",
+      "Nombre_comuna": "COLEGIO ALIANZA AUSTRAL DE COYHAIQUE (RBD: 24212) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "Prekínder",
+      "porc_novacunados": "18",
+      "porc_vacuincom": "10",
+      "porc_vacu": "72"
+    },
+    {
+      "rbd": "24213",
+      "Nombre_comuna": "LICEO BICENTENARIO SANTA TERESA DE LOS ANDES (RBD: 24213) - AYSÉN",
+      "nom_region": "Aysén",
+      "nivel_alu": "1° básico",
+      "porc_novacunados": "19",
+      "porc_vacuincom": "8",
+      "porc_vacu": "73"
+    },
+    {
+      "rbd": "24213",
+      "Nombre_comuna": "LICEO BICENTENARIO SANTA TERESA DE LOS ANDES (RBD: 24213) - AYSÉN",
+      "nom_region": "Aysén",
+      "nivel_alu": "1° medio",
+      "porc_novacunados": "8",
+      "porc_vacuincom": "0",
+      "porc_vacu": "92"
+    },
+    {
+      "rbd": "24213",
+      "Nombre_comuna": "LICEO BICENTENARIO SANTA TERESA DE LOS ANDES (RBD: 24213) - AYSÉN",
+      "nom_region": "Aysén",
+      "nivel_alu": "2° básico",
+      "porc_novacunados": "31",
+      "porc_vacuincom": "11",
+      "porc_vacu": "58"
+    },
+    {
+      "rbd": "24213",
+      "Nombre_comuna": "LICEO BICENTENARIO SANTA TERESA DE LOS ANDES (RBD: 24213) - AYSÉN",
+      "nom_region": "Aysén",
+      "nivel_alu": "2° medio",
+      "porc_novacunados": "0",
+      "porc_vacuincom": "4",
+      "porc_vacu": "96"
+    },
+    {
+      "rbd": "24213",
+      "Nombre_comuna": "LICEO BICENTENARIO SANTA TERESA DE LOS ANDES (RBD: 24213) - AYSÉN",
+      "nom_region": "Aysén",
+      "nivel_alu": "3° básico",
+      "porc_novacunados": "14",
+      "porc_vacuincom": "3",
+      "porc_vacu": "83"
+    },
+    {
+      "rbd": "24213",
+      "Nombre_comuna": "LICEO BICENTENARIO SANTA TERESA DE LOS ANDES (RBD: 24213) - AYSÉN",
+      "nom_region": "Aysén",
+      "nivel_alu": "3° medio",
+      "porc_novacunados": "9",
+      "porc_vacuincom": "0",
+      "porc_vacu": "91"
+    },
+    {
+      "rbd": "24213",
+      "Nombre_comuna": "LICEO BICENTENARIO SANTA TERESA DE LOS ANDES (RBD: 24213) - AYSÉN",
+      "nom_region": "Aysén",
+      "nivel_alu": "4° básico",
+      "porc_novacunados": "14",
+      "porc_vacuincom": "0",
+      "porc_vacu": "86"
+    },
+    {
+      "rbd": "24213",
+      "Nombre_comuna": "LICEO BICENTENARIO SANTA TERESA DE LOS ANDES (RBD: 24213) - AYSÉN",
+      "nom_region": "Aysén",
+      "nivel_alu": "4° medio",
+      "porc_novacunados": "7",
+      "porc_vacuincom": "0",
+      "porc_vacu": "93"
+    },
+    {
+      "rbd": "24213",
+      "Nombre_comuna": "LICEO BICENTENARIO SANTA TERESA DE LOS ANDES (RBD: 24213) - AYSÉN",
+      "nom_region": "Aysén",
+      "nivel_alu": "5° básico",
+      "porc_novacunados": "14",
+      "porc_vacuincom": "6",
+      "porc_vacu": "80"
+    },
+    {
+      "rbd": "24213",
+      "Nombre_comuna": "LICEO BICENTENARIO SANTA TERESA DE LOS ANDES (RBD: 24213) - AYSÉN",
+      "nom_region": "Aysén",
+      "nivel_alu": "6° básico",
+      "porc_novacunados": "8",
+      "porc_vacuincom": "3",
+      "porc_vacu": "89"
+    },
+    {
+      "rbd": "24213",
+      "Nombre_comuna": "LICEO BICENTENARIO SANTA TERESA DE LOS ANDES (RBD: 24213) - AYSÉN",
+      "nom_region": "Aysén",
+      "nivel_alu": "7° básico",
+      "porc_novacunados": "3",
+      "porc_vacuincom": "3",
+      "porc_vacu": "94"
+    },
+    {
+      "rbd": "24213",
+      "Nombre_comuna": "LICEO BICENTENARIO SANTA TERESA DE LOS ANDES (RBD: 24213) - AYSÉN",
+      "nom_region": "Aysén",
+      "nivel_alu": "8° básico",
+      "porc_novacunados": "11",
+      "porc_vacuincom": "0",
+      "porc_vacu": "89"
+    },
+    {
+      "rbd": "24213",
+      "Nombre_comuna": "LICEO BICENTENARIO SANTA TERESA DE LOS ANDES (RBD: 24213) - AYSÉN",
+      "nom_region": "Aysén",
+      "nivel_alu": "Kínder",
+      "porc_novacunados": "18",
+      "porc_vacuincom": "15",
+      "porc_vacu": "67"
+    },
+    {
+      "rbd": "24213",
+      "Nombre_comuna": "LICEO BICENTENARIO SANTA TERESA DE LOS ANDES (RBD: 24213) - AYSÉN",
+      "nom_region": "Aysén",
+      "nivel_alu": "Prekínder",
+      "porc_novacunados": "29",
+      "porc_vacuincom": "23",
+      "porc_vacu": "48"
+    },
+    {
+      "rbd": "24214",
+      "Nombre_comuna": "ESCUELA ALTAMIRA DE COYHAIQUE (RBD: 24214) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "1° básico",
+      "porc_novacunados": "15",
+      "porc_vacuincom": "9",
+      "porc_vacu": "76"
+    },
+    {
+      "rbd": "24214",
+      "Nombre_comuna": "ESCUELA ALTAMIRA DE COYHAIQUE (RBD: 24214) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "2° básico",
+      "porc_novacunados": "11",
+      "porc_vacuincom": "2",
+      "porc_vacu": "87"
+    },
+    {
+      "rbd": "24214",
+      "Nombre_comuna": "ESCUELA ALTAMIRA DE COYHAIQUE (RBD: 24214) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "3° básico",
+      "porc_novacunados": "8",
+      "porc_vacuincom": "0",
+      "porc_vacu": "92"
+    },
+    {
+      "rbd": "24214",
+      "Nombre_comuna": "ESCUELA ALTAMIRA DE COYHAIQUE (RBD: 24214) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "4° básico",
+      "porc_novacunados": "16",
+      "porc_vacuincom": "2",
+      "porc_vacu": "82"
+    },
+    {
+      "rbd": "24214",
+      "Nombre_comuna": "ESCUELA ALTAMIRA DE COYHAIQUE (RBD: 24214) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "5° básico",
+      "porc_novacunados": "4",
+      "porc_vacuincom": "2",
+      "porc_vacu": "94"
+    },
+    {
+      "rbd": "24214",
+      "Nombre_comuna": "ESCUELA ALTAMIRA DE COYHAIQUE (RBD: 24214) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "6° básico",
+      "porc_novacunados": "8",
+      "porc_vacuincom": "0",
+      "porc_vacu": "92"
+    },
+    {
+      "rbd": "24214",
+      "Nombre_comuna": "ESCUELA ALTAMIRA DE COYHAIQUE (RBD: 24214) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "Kínder",
+      "porc_novacunados": "14",
+      "porc_vacuincom": "12",
+      "porc_vacu": "74"
+    },
+    {
+      "rbd": "24214",
+      "Nombre_comuna": "ESCUELA ALTAMIRA DE COYHAIQUE (RBD: 24214) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "Prekínder",
+      "porc_novacunados": "21",
+      "porc_vacuincom": "21",
+      "porc_vacu": "58"
+    },
+    {
+      "rbd": "24215",
+      "Nombre_comuna": "CENTRO DE EDUCACION INTEGRADA DE ADULTOS (RBD: 24215) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "Educ. Adultos",
+      "porc_novacunados": "14",
+      "porc_vacuincom": "4",
+      "porc_vacu": "82"
+    },
+    {
+      "rbd": "24216",
+      "Nombre_comuna": "ESCUELA BASICA DE CHILE CHICO (RBD: 24216) - CHILE CHICO",
+      "nom_region": "Aysén",
+      "nivel_alu": "1° básico",
+      "porc_novacunados": "31",
+      "porc_vacuincom": "15",
+      "porc_vacu": "54"
+    },
+    {
+      "rbd": "24216",
+      "Nombre_comuna": "ESCUELA BASICA DE CHILE CHICO (RBD: 24216) - CHILE CHICO",
+      "nom_region": "Aysén",
+      "nivel_alu": "2° básico",
+      "porc_novacunados": "24",
+      "porc_vacuincom": "2",
+      "porc_vacu": "74"
+    },
+    {
+      "rbd": "24216",
+      "Nombre_comuna": "ESCUELA BASICA DE CHILE CHICO (RBD: 24216) - CHILE CHICO",
+      "nom_region": "Aysén",
+      "nivel_alu": "3° básico",
+      "porc_novacunados": "18",
+      "porc_vacuincom": "2",
+      "porc_vacu": "80"
+    },
+    {
+      "rbd": "24216",
+      "Nombre_comuna": "ESCUELA BASICA DE CHILE CHICO (RBD: 24216) - CHILE CHICO",
+      "nom_region": "Aysén",
+      "nivel_alu": "4° básico",
+      "porc_novacunados": "22",
+      "porc_vacuincom": "7",
+      "porc_vacu": "71"
+    },
+    {
+      "rbd": "24216",
+      "Nombre_comuna": "ESCUELA BASICA DE CHILE CHICO (RBD: 24216) - CHILE CHICO",
+      "nom_region": "Aysén",
+      "nivel_alu": "5° básico",
+      "porc_novacunados": "26",
+      "porc_vacuincom": "5",
+      "porc_vacu": "69"
+    },
+    {
+      "rbd": "24216",
+      "Nombre_comuna": "ESCUELA BASICA DE CHILE CHICO (RBD: 24216) - CHILE CHICO",
+      "nom_region": "Aysén",
+      "nivel_alu": "6° básico",
+      "porc_novacunados": "14",
+      "porc_vacuincom": "4",
+      "porc_vacu": "82"
+    },
+    {
+      "rbd": "24216",
+      "Nombre_comuna": "ESCUELA BASICA DE CHILE CHICO (RBD: 24216) - CHILE CHICO",
+      "nom_region": "Aysén",
+      "nivel_alu": "Kínder",
+      "porc_novacunados": "31",
+      "porc_vacuincom": "16",
+      "porc_vacu": "53"
+    },
+    {
+      "rbd": "24216",
+      "Nombre_comuna": "ESCUELA BASICA DE CHILE CHICO (RBD: 24216) - CHILE CHICO",
+      "nom_region": "Aysén",
+      "nivel_alu": "Prekínder",
+      "porc_novacunados": "32",
+      "porc_vacuincom": "23",
+      "porc_vacu": "45"
+    },
+    {
+      "rbd": "24218",
+      "Nombre_comuna": "ESC.NUESTRA SRA DE LA DIVINA PROVIDENCIA (RBD: 24218) - CISNES",
+      "nom_region": "Aysén",
+      "nivel_alu": "1° básico",
+      "porc_novacunados": "100",
+      "porc_vacuincom": "0",
+      "porc_vacu": "0"
+    },
+    {
+      "rbd": "24218",
+      "Nombre_comuna": "ESC.NUESTRA SRA DE LA DIVINA PROVIDENCIA (RBD: 24218) - CISNES",
+      "nom_region": "Aysén",
+      "nivel_alu": "2° básico",
+      "porc_novacunados": "0",
+      "porc_vacuincom": "0",
+      "porc_vacu": "100"
+    },
+    {
+      "rbd": "24220",
+      "Nombre_comuna": "ESCUELA ANEXA INDEPENDENCIA (RBD: 24220) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "Educ. Adultos",
+      "porc_novacunados": "3",
+      "porc_vacuincom": "0",
+      "porc_vacu": "97"
+    },
+    {
+      "rbd": "24223",
+      "Nombre_comuna": "ESCUELA DE LENGUAJE KALEM (RBD: 24223) - AYSÉN",
+      "nom_region": "Aysén",
+      "nivel_alu": "Educ. Especial",
+      "porc_novacunados": "43",
+      "porc_vacuincom": "14",
+      "porc_vacu": "43"
+    },
+    {
+      "rbd": "24224",
+      "Nombre_comuna": "COLEGIO ANTOINE DE SAINT EXUPERY (RBD: 24224) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "1° básico",
+      "porc_novacunados": "17",
+      "porc_vacuincom": "15",
+      "porc_vacu": "68"
+    },
+    {
+      "rbd": "24224",
+      "Nombre_comuna": "COLEGIO ANTOINE DE SAINT EXUPERY (RBD: 24224) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "1° medio",
+      "porc_novacunados": "10",
+      "porc_vacuincom": "7",
+      "porc_vacu": "83"
+    },
+    {
+      "rbd": "24224",
+      "Nombre_comuna": "COLEGIO ANTOINE DE SAINT EXUPERY (RBD: 24224) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "2° básico",
+      "porc_novacunados": "7",
+      "porc_vacuincom": "2",
+      "porc_vacu": "91"
+    },
+    {
+      "rbd": "24224",
+      "Nombre_comuna": "COLEGIO ANTOINE DE SAINT EXUPERY (RBD: 24224) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "2° medio",
+      "porc_novacunados": "10",
+      "porc_vacuincom": "1",
+      "porc_vacu": "89"
+    },
+    {
+      "rbd": "24224",
+      "Nombre_comuna": "COLEGIO ANTOINE DE SAINT EXUPERY (RBD: 24224) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "3° básico",
+      "porc_novacunados": "14",
+      "porc_vacuincom": "8",
+      "porc_vacu": "78"
+    },
+    {
+      "rbd": "24224",
+      "Nombre_comuna": "COLEGIO ANTOINE DE SAINT EXUPERY (RBD: 24224) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "3° medio",
+      "porc_novacunados": "11",
+      "porc_vacuincom": "1",
+      "porc_vacu": "88"
+    },
+    {
+      "rbd": "24224",
+      "Nombre_comuna": "COLEGIO ANTOINE DE SAINT EXUPERY (RBD: 24224) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "4° básico",
+      "porc_novacunados": "7",
+      "porc_vacuincom": "7",
+      "porc_vacu": "86"
+    },
+    {
+      "rbd": "24224",
+      "Nombre_comuna": "COLEGIO ANTOINE DE SAINT EXUPERY (RBD: 24224) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "4° medio",
+      "porc_novacunados": "6",
+      "porc_vacuincom": "2",
+      "porc_vacu": "92"
+    },
+    {
+      "rbd": "24224",
+      "Nombre_comuna": "COLEGIO ANTOINE DE SAINT EXUPERY (RBD: 24224) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "5° básico",
+      "porc_novacunados": "8",
+      "porc_vacuincom": "0",
+      "porc_vacu": "92"
+    },
+    {
+      "rbd": "24224",
+      "Nombre_comuna": "COLEGIO ANTOINE DE SAINT EXUPERY (RBD: 24224) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "6° básico",
+      "porc_novacunados": "11",
+      "porc_vacuincom": "2",
+      "porc_vacu": "87"
+    },
+    {
+      "rbd": "24224",
+      "Nombre_comuna": "COLEGIO ANTOINE DE SAINT EXUPERY (RBD: 24224) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "7° básico",
+      "porc_novacunados": "12",
+      "porc_vacuincom": "5",
+      "porc_vacu": "83"
+    },
+    {
+      "rbd": "24224",
+      "Nombre_comuna": "COLEGIO ANTOINE DE SAINT EXUPERY (RBD: 24224) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "8° básico",
+      "porc_novacunados": "11",
+      "porc_vacuincom": "2",
+      "porc_vacu": "87"
+    },
+    {
+      "rbd": "24224",
+      "Nombre_comuna": "COLEGIO ANTOINE DE SAINT EXUPERY (RBD: 24224) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "Kínder",
+      "porc_novacunados": "30",
+      "porc_vacuincom": "22",
+      "porc_vacu": "48"
+    },
+    {
+      "rbd": "24224",
+      "Nombre_comuna": "COLEGIO ANTOINE DE SAINT EXUPERY (RBD: 24224) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "Prekínder",
+      "porc_novacunados": "12",
+      "porc_vacuincom": "12",
+      "porc_vacu": "76"
+    },
+    {
+      "rbd": "24226",
+      "Nombre_comuna": "COLEGIO EL CAMINO DE LA FUENTE (RBD: 24226) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "1° básico",
+      "porc_novacunados": "12",
+      "porc_vacuincom": "10",
+      "porc_vacu": "78"
+    },
+    {
+      "rbd": "24226",
+      "Nombre_comuna": "COLEGIO EL CAMINO DE LA FUENTE (RBD: 24226) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "2° básico",
+      "porc_novacunados": "13",
+      "porc_vacuincom": "3",
+      "porc_vacu": "84"
+    },
+    {
+      "rbd": "24226",
+      "Nombre_comuna": "COLEGIO EL CAMINO DE LA FUENTE (RBD: 24226) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "3° básico",
+      "porc_novacunados": "14",
+      "porc_vacuincom": "1",
+      "porc_vacu": "85"
+    },
+    {
+      "rbd": "24226",
+      "Nombre_comuna": "COLEGIO EL CAMINO DE LA FUENTE (RBD: 24226) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "4° básico",
+      "porc_novacunados": "7",
+      "porc_vacuincom": "4",
+      "porc_vacu": "89"
+    },
+    {
+      "rbd": "24226",
+      "Nombre_comuna": "COLEGIO EL CAMINO DE LA FUENTE (RBD: 24226) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "5° básico",
+      "porc_novacunados": "7",
+      "porc_vacuincom": "3",
+      "porc_vacu": "90"
+    },
+    {
+      "rbd": "24226",
+      "Nombre_comuna": "COLEGIO EL CAMINO DE LA FUENTE (RBD: 24226) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "6° básico",
+      "porc_novacunados": "8",
+      "porc_vacuincom": "2",
+      "porc_vacu": "90"
+    },
+    {
+      "rbd": "24226",
+      "Nombre_comuna": "COLEGIO EL CAMINO DE LA FUENTE (RBD: 24226) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "Kínder",
+      "porc_novacunados": "23",
+      "porc_vacuincom": "13",
+      "porc_vacu": "64"
+    },
+    {
+      "rbd": "24226",
+      "Nombre_comuna": "COLEGIO EL CAMINO DE LA FUENTE (RBD: 24226) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "Prekínder",
+      "porc_novacunados": "21",
+      "porc_vacuincom": "13",
+      "porc_vacu": "66"
+    },
+    {
+      "rbd": "24229",
+      "Nombre_comuna": "ESCUELA LITORAL AUSTRAL (RBD: 24229) - AYSÉN",
+      "nom_region": "Aysén",
+      "nivel_alu": "1° básico",
+      "porc_novacunados": "27",
+      "porc_vacuincom": "19",
+      "porc_vacu": "54"
+    },
+    {
+      "rbd": "24229",
+      "Nombre_comuna": "ESCUELA LITORAL AUSTRAL (RBD: 24229) - AYSÉN",
+      "nom_region": "Aysén",
+      "nivel_alu": "2° básico",
+      "porc_novacunados": "27",
+      "porc_vacuincom": "10",
+      "porc_vacu": "63"
+    },
+    {
+      "rbd": "24229",
+      "Nombre_comuna": "ESCUELA LITORAL AUSTRAL (RBD: 24229) - AYSÉN",
+      "nom_region": "Aysén",
+      "nivel_alu": "3° básico",
+      "porc_novacunados": "19",
+      "porc_vacuincom": "8",
+      "porc_vacu": "73"
+    },
+    {
+      "rbd": "24229",
+      "Nombre_comuna": "ESCUELA LITORAL AUSTRAL (RBD: 24229) - AYSÉN",
+      "nom_region": "Aysén",
+      "nivel_alu": "4° básico",
+      "porc_novacunados": "14",
+      "porc_vacuincom": "8",
+      "porc_vacu": "78"
+    },
+    {
+      "rbd": "24229",
+      "Nombre_comuna": "ESCUELA LITORAL AUSTRAL (RBD: 24229) - AYSÉN",
+      "nom_region": "Aysén",
+      "nivel_alu": "5° básico",
+      "porc_novacunados": "11",
+      "porc_vacuincom": "7",
+      "porc_vacu": "82"
+    },
+    {
+      "rbd": "24229",
+      "Nombre_comuna": "ESCUELA LITORAL AUSTRAL (RBD: 24229) - AYSÉN",
+      "nom_region": "Aysén",
+      "nivel_alu": "6° básico",
+      "porc_novacunados": "19",
+      "porc_vacuincom": "6",
+      "porc_vacu": "75"
+    },
+    {
+      "rbd": "24229",
+      "Nombre_comuna": "ESCUELA LITORAL AUSTRAL (RBD: 24229) - AYSÉN",
+      "nom_region": "Aysén",
+      "nivel_alu": "Kínder",
+      "porc_novacunados": "33",
+      "porc_vacuincom": "10",
+      "porc_vacu": "57"
+    },
+    {
+      "rbd": "24229",
+      "Nombre_comuna": "ESCUELA LITORAL AUSTRAL (RBD: 24229) - AYSÉN",
+      "nom_region": "Aysén",
+      "nivel_alu": "Prekínder",
+      "porc_novacunados": "35",
+      "porc_vacuincom": "18",
+      "porc_vacu": "47"
+    },
+    {
+      "rbd": "24230",
+      "Nombre_comuna": "COLEGIO KALEM (RBD: 24230) - AYSÉN",
+      "nom_region": "Aysén",
+      "nivel_alu": "1° básico",
+      "porc_novacunados": "23",
+      "porc_vacuincom": "10",
+      "porc_vacu": "67"
+    },
+    {
+      "rbd": "24230",
+      "Nombre_comuna": "COLEGIO KALEM (RBD: 24230) - AYSÉN",
+      "nom_region": "Aysén",
+      "nivel_alu": "1° medio",
+      "porc_novacunados": "7",
+      "porc_vacuincom": "0",
+      "porc_vacu": "93"
+    },
+    {
+      "rbd": "24230",
+      "Nombre_comuna": "COLEGIO KALEM (RBD: 24230) - AYSÉN",
+      "nom_region": "Aysén",
+      "nivel_alu": "2° básico",
+      "porc_novacunados": "10",
+      "porc_vacuincom": "8",
+      "porc_vacu": "82"
+    },
+    {
+      "rbd": "24230",
+      "Nombre_comuna": "COLEGIO KALEM (RBD: 24230) - AYSÉN",
+      "nom_region": "Aysén",
+      "nivel_alu": "2° medio",
+      "porc_novacunados": "4",
+      "porc_vacuincom": "4",
+      "porc_vacu": "92"
+    },
+    {
+      "rbd": "24230",
+      "Nombre_comuna": "COLEGIO KALEM (RBD: 24230) - AYSÉN",
+      "nom_region": "Aysén",
+      "nivel_alu": "3° básico",
+      "porc_novacunados": "10",
+      "porc_vacuincom": "6",
+      "porc_vacu": "84"
+    },
+    {
+      "rbd": "24230",
+      "Nombre_comuna": "COLEGIO KALEM (RBD: 24230) - AYSÉN",
+      "nom_region": "Aysén",
+      "nivel_alu": "3° medio",
+      "porc_novacunados": "15",
+      "porc_vacuincom": "2",
+      "porc_vacu": "83"
+    },
+    {
+      "rbd": "24230",
+      "Nombre_comuna": "COLEGIO KALEM (RBD: 24230) - AYSÉN",
+      "nom_region": "Aysén",
+      "nivel_alu": "4° básico",
+      "porc_novacunados": "12",
+      "porc_vacuincom": "7",
+      "porc_vacu": "81"
+    },
+    {
+      "rbd": "24230",
+      "Nombre_comuna": "COLEGIO KALEM (RBD: 24230) - AYSÉN",
+      "nom_region": "Aysén",
+      "nivel_alu": "4° medio",
+      "porc_novacunados": "8",
+      "porc_vacuincom": "2",
+      "porc_vacu": "90"
+    },
+    {
+      "rbd": "24230",
+      "Nombre_comuna": "COLEGIO KALEM (RBD: 24230) - AYSÉN",
+      "nom_region": "Aysén",
+      "nivel_alu": "5° básico",
+      "porc_novacunados": "11",
+      "porc_vacuincom": "3",
+      "porc_vacu": "86"
+    },
+    {
+      "rbd": "24230",
+      "Nombre_comuna": "COLEGIO KALEM (RBD: 24230) - AYSÉN",
+      "nom_region": "Aysén",
+      "nivel_alu": "6° básico",
+      "porc_novacunados": "4",
+      "porc_vacuincom": "0",
+      "porc_vacu": "96"
+    },
+    {
+      "rbd": "24230",
+      "Nombre_comuna": "COLEGIO KALEM (RBD: 24230) - AYSÉN",
+      "nom_region": "Aysén",
+      "nivel_alu": "7° básico",
+      "porc_novacunados": "16",
+      "porc_vacuincom": "0",
+      "porc_vacu": "84"
+    },
+    {
+      "rbd": "24230",
+      "Nombre_comuna": "COLEGIO KALEM (RBD: 24230) - AYSÉN",
+      "nom_region": "Aysén",
+      "nivel_alu": "8° básico",
+      "porc_novacunados": "9",
+      "porc_vacuincom": "1",
+      "porc_vacu": "90"
+    },
+    {
+      "rbd": "24230",
+      "Nombre_comuna": "COLEGIO KALEM (RBD: 24230) - AYSÉN",
+      "nom_region": "Aysén",
+      "nivel_alu": "Educ. Especial",
+      "porc_novacunados": "35",
+      "porc_vacuincom": "17",
+      "porc_vacu": "48"
+    },
+    {
+      "rbd": "24230",
+      "Nombre_comuna": "COLEGIO KALEM (RBD: 24230) - AYSÉN",
+      "nom_region": "Aysén",
+      "nivel_alu": "Kínder",
+      "porc_novacunados": "28",
+      "porc_vacuincom": "12",
+      "porc_vacu": "60"
+    },
+    {
+      "rbd": "24230",
+      "Nombre_comuna": "COLEGIO KALEM (RBD: 24230) - AYSÉN",
+      "nom_region": "Aysén",
+      "nivel_alu": "Prekínder",
+      "porc_novacunados": "30",
+      "porc_vacuincom": "16",
+      "porc_vacu": "54"
+    },
+    {
+      "rbd": "24231",
+      "Nombre_comuna": "COLEGIO DIEGO PORTALES (RBD: 24231) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "1° básico",
+      "porc_novacunados": "24",
+      "porc_vacuincom": "7",
+      "porc_vacu": "69"
+    },
+    {
+      "rbd": "24231",
+      "Nombre_comuna": "COLEGIO DIEGO PORTALES (RBD: 24231) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "1° medio",
+      "porc_novacunados": "9",
+      "porc_vacuincom": "2",
+      "porc_vacu": "89"
+    },
+    {
+      "rbd": "24231",
+      "Nombre_comuna": "COLEGIO DIEGO PORTALES (RBD: 24231) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "2° básico",
+      "porc_novacunados": "16",
+      "porc_vacuincom": "6",
+      "porc_vacu": "78"
+    },
+    {
+      "rbd": "24231",
+      "Nombre_comuna": "COLEGIO DIEGO PORTALES (RBD: 24231) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "2° medio",
+      "porc_novacunados": "15",
+      "porc_vacuincom": "5",
+      "porc_vacu": "80"
+    },
+    {
+      "rbd": "24231",
+      "Nombre_comuna": "COLEGIO DIEGO PORTALES (RBD: 24231) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "3° básico",
+      "porc_novacunados": "21",
+      "porc_vacuincom": "7",
+      "porc_vacu": "72"
+    },
+    {
+      "rbd": "24231",
+      "Nombre_comuna": "COLEGIO DIEGO PORTALES (RBD: 24231) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "3° medio",
+      "porc_novacunados": "14",
+      "porc_vacuincom": "2",
+      "porc_vacu": "84"
+    },
+    {
+      "rbd": "24231",
+      "Nombre_comuna": "COLEGIO DIEGO PORTALES (RBD: 24231) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "4° básico",
+      "porc_novacunados": "19",
+      "porc_vacuincom": "0",
+      "porc_vacu": "81"
+    },
+    {
+      "rbd": "24231",
+      "Nombre_comuna": "COLEGIO DIEGO PORTALES (RBD: 24231) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "4° medio",
+      "porc_novacunados": "19",
+      "porc_vacuincom": "4",
+      "porc_vacu": "77"
+    },
+    {
+      "rbd": "24231",
+      "Nombre_comuna": "COLEGIO DIEGO PORTALES (RBD: 24231) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "5° básico",
+      "porc_novacunados": "12",
+      "porc_vacuincom": "9",
+      "porc_vacu": "79"
+    },
+    {
+      "rbd": "24231",
+      "Nombre_comuna": "COLEGIO DIEGO PORTALES (RBD: 24231) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "6° básico",
+      "porc_novacunados": "17",
+      "porc_vacuincom": "4",
+      "porc_vacu": "79"
+    },
+    {
+      "rbd": "24231",
+      "Nombre_comuna": "COLEGIO DIEGO PORTALES (RBD: 24231) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "7° básico",
+      "porc_novacunados": "7",
+      "porc_vacuincom": "7",
+      "porc_vacu": "86"
+    },
+    {
+      "rbd": "24231",
+      "Nombre_comuna": "COLEGIO DIEGO PORTALES (RBD: 24231) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "8° básico",
+      "porc_novacunados": "13",
+      "porc_vacuincom": "2",
+      "porc_vacu": "85"
+    },
+    {
+      "rbd": "24231",
+      "Nombre_comuna": "COLEGIO DIEGO PORTALES (RBD: 24231) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "Kínder",
+      "porc_novacunados": "15",
+      "porc_vacuincom": "25",
+      "porc_vacu": "60"
+    },
+    {
+      "rbd": "24231",
+      "Nombre_comuna": "COLEGIO DIEGO PORTALES (RBD: 24231) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "Prekínder",
+      "porc_novacunados": "8",
+      "porc_vacuincom": "15",
+      "porc_vacu": "77"
+    },
+    {
+      "rbd": "24232",
+      "Nombre_comuna": "ESCUELA ESPECIAL PRE-BASICA CLUB DE LEONES (RBD: 24232) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "8° básico",
+      "porc_novacunados": "0",
+      "porc_vacuincom": "0",
+      "porc_vacu": "100"
+    },
+    {
+      "rbd": "24232",
+      "Nombre_comuna": "ESCUELA ESPECIAL PRE-BASICA CLUB DE LEONES (RBD: 24232) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "Educ. Especial",
+      "porc_novacunados": "27",
+      "porc_vacuincom": "14",
+      "porc_vacu": "59"
+    },
+    {
+      "rbd": "24233",
+      "Nombre_comuna": "LICEO FRANCISCO XAVIER BUTINA (RBD: 24233) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "1° básico",
+      "porc_novacunados": "20",
+      "porc_vacuincom": "15",
+      "porc_vacu": "65"
+    },
+    {
+      "rbd": "24233",
+      "Nombre_comuna": "LICEO FRANCISCO XAVIER BUTINA (RBD: 24233) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "1° medio",
+      "porc_novacunados": "6",
+      "porc_vacuincom": "0",
+      "porc_vacu": "94"
+    },
+    {
+      "rbd": "24233",
+      "Nombre_comuna": "LICEO FRANCISCO XAVIER BUTINA (RBD: 24233) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "2° básico",
+      "porc_novacunados": "3",
+      "porc_vacuincom": "9",
+      "porc_vacu": "88"
+    },
+    {
+      "rbd": "24233",
+      "Nombre_comuna": "LICEO FRANCISCO XAVIER BUTINA (RBD: 24233) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "2° medio",
+      "porc_novacunados": "9",
+      "porc_vacuincom": "4",
+      "porc_vacu": "87"
+    },
+    {
+      "rbd": "24233",
+      "Nombre_comuna": "LICEO FRANCISCO XAVIER BUTINA (RBD: 24233) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "3° básico",
+      "porc_novacunados": "17",
+      "porc_vacuincom": "3",
+      "porc_vacu": "80"
+    },
+    {
+      "rbd": "24233",
+      "Nombre_comuna": "LICEO FRANCISCO XAVIER BUTINA (RBD: 24233) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "3° medio",
+      "porc_novacunados": "4",
+      "porc_vacuincom": "0",
+      "porc_vacu": "96"
+    },
+    {
+      "rbd": "24233",
+      "Nombre_comuna": "LICEO FRANCISCO XAVIER BUTINA (RBD: 24233) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "4° básico",
+      "porc_novacunados": "11",
+      "porc_vacuincom": "3",
+      "porc_vacu": "86"
+    },
+    {
+      "rbd": "24233",
+      "Nombre_comuna": "LICEO FRANCISCO XAVIER BUTINA (RBD: 24233) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "4° medio",
+      "porc_novacunados": "5",
+      "porc_vacuincom": "0",
+      "porc_vacu": "95"
+    },
+    {
+      "rbd": "24233",
+      "Nombre_comuna": "LICEO FRANCISCO XAVIER BUTINA (RBD: 24233) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "5° básico",
+      "porc_novacunados": "11",
+      "porc_vacuincom": "4",
+      "porc_vacu": "85"
+    },
+    {
+      "rbd": "24233",
+      "Nombre_comuna": "LICEO FRANCISCO XAVIER BUTINA (RBD: 24233) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "6° básico",
+      "porc_novacunados": "11",
+      "porc_vacuincom": "3",
+      "porc_vacu": "86"
+    },
+    {
+      "rbd": "24233",
+      "Nombre_comuna": "LICEO FRANCISCO XAVIER BUTINA (RBD: 24233) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "7° básico",
+      "porc_novacunados": "12",
+      "porc_vacuincom": "0",
+      "porc_vacu": "88"
+    },
+    {
+      "rbd": "24233",
+      "Nombre_comuna": "LICEO FRANCISCO XAVIER BUTINA (RBD: 24233) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "8° básico",
+      "porc_novacunados": "14",
+      "porc_vacuincom": "0",
+      "porc_vacu": "86"
+    },
+    {
+      "rbd": "24233",
+      "Nombre_comuna": "LICEO FRANCISCO XAVIER BUTINA (RBD: 24233) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "Kínder",
+      "porc_novacunados": "21",
+      "porc_vacuincom": "35",
+      "porc_vacu": "44"
+    },
+    {
+      "rbd": "24233",
+      "Nombre_comuna": "LICEO FRANCISCO XAVIER BUTINA (RBD: 24233) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "Prekínder",
+      "porc_novacunados": "48",
+      "porc_vacuincom": "12",
+      "porc_vacu": "40"
+    },
+    {
+      "rbd": "24234",
+      "Nombre_comuna": "COLEGIO INSTITUTO IDEA DE COYHAIQUE (RBD: 24234) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "Educ. Adultos",
+      "porc_novacunados": "14",
+      "porc_vacuincom": "5",
+      "porc_vacu": "81"
+    },
+    {
+      "rbd": "24236",
+      "Nombre_comuna": "COLEGIO CAMPO DE HIELO (RBD: 24236) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "1° básico",
+      "porc_novacunados": "22",
+      "porc_vacuincom": "10",
+      "porc_vacu": "68"
+    },
+    {
+      "rbd": "24236",
+      "Nombre_comuna": "COLEGIO CAMPO DE HIELO (RBD: 24236) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "2° básico",
+      "porc_novacunados": "17",
+      "porc_vacuincom": "4",
+      "porc_vacu": "79"
+    },
+    {
+      "rbd": "24236",
+      "Nombre_comuna": "COLEGIO CAMPO DE HIELO (RBD: 24236) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "3° básico",
+      "porc_novacunados": "23",
+      "porc_vacuincom": "8",
+      "porc_vacu": "69"
+    },
+    {
+      "rbd": "24236",
+      "Nombre_comuna": "COLEGIO CAMPO DE HIELO (RBD: 24236) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "4° básico",
+      "porc_novacunados": "11",
+      "porc_vacuincom": "8",
+      "porc_vacu": "81"
+    },
+    {
+      "rbd": "24236",
+      "Nombre_comuna": "COLEGIO CAMPO DE HIELO (RBD: 24236) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "5° básico",
+      "porc_novacunados": "15",
+      "porc_vacuincom": "0",
+      "porc_vacu": "85"
+    },
+    {
+      "rbd": "24236",
+      "Nombre_comuna": "COLEGIO CAMPO DE HIELO (RBD: 24236) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "6° básico",
+      "porc_novacunados": "10",
+      "porc_vacuincom": "4",
+      "porc_vacu": "86"
+    },
+    {
+      "rbd": "24236",
+      "Nombre_comuna": "COLEGIO CAMPO DE HIELO (RBD: 24236) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "Kínder",
+      "porc_novacunados": "19",
+      "porc_vacuincom": "29",
+      "porc_vacu": "52"
+    },
+    {
+      "rbd": "24236",
+      "Nombre_comuna": "COLEGIO CAMPO DE HIELO (RBD: 24236) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "Prekínder",
+      "porc_novacunados": "35",
+      "porc_vacuincom": "35",
+      "porc_vacu": "30"
+    },
+    {
+      "rbd": "24237",
+      "Nombre_comuna": "CEIA JOSEFINA MENDEZ E.I.R.L. (RBD: 24237) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "Educ. Adultos",
+      "porc_novacunados": "15",
+      "porc_vacuincom": "6",
+      "porc_vacu": "79"
+    },
+    {
+      "rbd": "24238",
+      "Nombre_comuna": "CENTRO DE ESTUDIOS PATAGONIA LTDA (RBD: 24238) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "Educ. Adultos",
+      "porc_novacunados": "10",
+      "porc_vacuincom": "5",
+      "porc_vacu": "85"
+    },
+    {
+      "rbd": "24240",
+      "Nombre_comuna": "LICEO BICENTENARIO ALTOS DEL MACKAY (RBD: 24240) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "1° medio",
+      "porc_novacunados": "8",
+      "porc_vacuincom": "3",
+      "porc_vacu": "89"
+    },
+    {
+      "rbd": "24240",
+      "Nombre_comuna": "LICEO BICENTENARIO ALTOS DEL MACKAY (RBD: 24240) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "2° medio",
+      "porc_novacunados": "5",
+      "porc_vacuincom": "3",
+      "porc_vacu": "92"
+    },
+    {
+      "rbd": "24240",
+      "Nombre_comuna": "LICEO BICENTENARIO ALTOS DEL MACKAY (RBD: 24240) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "3° medio",
+      "porc_novacunados": "17",
+      "porc_vacuincom": "1",
+      "porc_vacu": "82"
+    },
+    {
+      "rbd": "24240",
+      "Nombre_comuna": "LICEO BICENTENARIO ALTOS DEL MACKAY (RBD: 24240) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "4° medio",
+      "porc_novacunados": "10",
+      "porc_vacuincom": "0",
+      "porc_vacu": "90"
+    },
+    {
+      "rbd": "24240",
+      "Nombre_comuna": "LICEO BICENTENARIO ALTOS DEL MACKAY (RBD: 24240) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "7° básico",
+      "porc_novacunados": "9",
+      "porc_vacuincom": "0",
+      "porc_vacu": "91"
+    },
+    {
+      "rbd": "24240",
+      "Nombre_comuna": "LICEO BICENTENARIO ALTOS DEL MACKAY (RBD: 24240) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "8° básico",
+      "porc_novacunados": "9",
+      "porc_vacuincom": "6",
+      "porc_vacu": "85"
+    },
+    {
+      "rbd": "24241",
+      "Nombre_comuna": "CENTRODE ESTUDIOS PATAGONIA DE AYSEN (RBD: 24241) - AYSÉN",
+      "nom_region": "Aysén",
+      "nivel_alu": "Educ. Adultos",
+      "porc_novacunados": "8",
+      "porc_vacuincom": "6",
+      "porc_vacu": "86"
+    },
+    {
+      "rbd": "24243",
+      "Nombre_comuna": "COLEGIO CRISTIANO SEMBRADORES (RBD: 24243) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "1° básico",
+      "porc_novacunados": "35",
+      "porc_vacuincom": "10",
+      "porc_vacu": "55"
+    },
+    {
+      "rbd": "24243",
+      "Nombre_comuna": "COLEGIO CRISTIANO SEMBRADORES (RBD: 24243) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "2° básico",
+      "porc_novacunados": "20",
+      "porc_vacuincom": "3",
+      "porc_vacu": "77"
+    },
+    {
+      "rbd": "24243",
+      "Nombre_comuna": "COLEGIO CRISTIANO SEMBRADORES (RBD: 24243) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "3° básico",
+      "porc_novacunados": "26",
+      "porc_vacuincom": "15",
+      "porc_vacu": "59"
+    },
+    {
+      "rbd": "24243",
+      "Nombre_comuna": "COLEGIO CRISTIANO SEMBRADORES (RBD: 24243) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "4° básico",
+      "porc_novacunados": "10",
+      "porc_vacuincom": "3",
+      "porc_vacu": "87"
+    },
+    {
+      "rbd": "24243",
+      "Nombre_comuna": "COLEGIO CRISTIANO SEMBRADORES (RBD: 24243) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "5° básico",
+      "porc_novacunados": "20",
+      "porc_vacuincom": "0",
+      "porc_vacu": "80"
+    },
+    {
+      "rbd": "24243",
+      "Nombre_comuna": "COLEGIO CRISTIANO SEMBRADORES (RBD: 24243) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "6° básico",
+      "porc_novacunados": "25",
+      "porc_vacuincom": "0",
+      "porc_vacu": "75"
+    },
+    {
+      "rbd": "24243",
+      "Nombre_comuna": "COLEGIO CRISTIANO SEMBRADORES (RBD: 24243) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "Kínder",
+      "porc_novacunados": "33",
+      "porc_vacuincom": "11",
+      "porc_vacu": "56"
+    },
+    {
+      "rbd": "24243",
+      "Nombre_comuna": "COLEGIO CRISTIANO SEMBRADORES (RBD: 24243) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "Prekínder",
+      "porc_novacunados": "25",
+      "porc_vacuincom": "12",
+      "porc_vacu": "63"
+    },
+    {
+      "rbd": "40137",
+      "Nombre_comuna": "COLEGIO SINAI (RBD: 40137) - AYSÉN",
+      "nom_region": "Aysén",
+      "nivel_alu": "1° básico",
+      "porc_novacunados": "33",
+      "porc_vacuincom": "13",
+      "porc_vacu": "54"
+    },
+    {
+      "rbd": "40137",
+      "Nombre_comuna": "COLEGIO SINAI (RBD: 40137) - AYSÉN",
+      "nom_region": "Aysén",
+      "nivel_alu": "2° básico",
+      "porc_novacunados": "26",
+      "porc_vacuincom": "32",
+      "porc_vacu": "42"
+    },
+    {
+      "rbd": "40137",
+      "Nombre_comuna": "COLEGIO SINAI (RBD: 40137) - AYSÉN",
+      "nom_region": "Aysén",
+      "nivel_alu": "3° básico",
+      "porc_novacunados": "47",
+      "porc_vacuincom": "6",
+      "porc_vacu": "47"
+    },
+    {
+      "rbd": "40137",
+      "Nombre_comuna": "COLEGIO SINAI (RBD: 40137) - AYSÉN",
+      "nom_region": "Aysén",
+      "nivel_alu": "4° básico",
+      "porc_novacunados": "25",
+      "porc_vacuincom": "30",
+      "porc_vacu": "45"
+    },
+    {
+      "rbd": "40137",
+      "Nombre_comuna": "COLEGIO SINAI (RBD: 40137) - AYSÉN",
+      "nom_region": "Aysén",
+      "nivel_alu": "5° básico",
+      "porc_novacunados": "25",
+      "porc_vacuincom": "6",
+      "porc_vacu": "69"
+    },
+    {
+      "rbd": "40137",
+      "Nombre_comuna": "COLEGIO SINAI (RBD: 40137) - AYSÉN",
+      "nom_region": "Aysén",
+      "nivel_alu": "6° básico",
+      "porc_novacunados": "21",
+      "porc_vacuincom": "5",
+      "porc_vacu": "74"
+    },
+    {
+      "rbd": "40137",
+      "Nombre_comuna": "COLEGIO SINAI (RBD: 40137) - AYSÉN",
+      "nom_region": "Aysén",
+      "nivel_alu": "Kínder",
+      "porc_novacunados": "50",
+      "porc_vacuincom": "25",
+      "porc_vacu": "25"
+    },
+    {
+      "rbd": "40137",
+      "Nombre_comuna": "COLEGIO SINAI (RBD: 40137) - AYSÉN",
+      "nom_region": "Aysén",
+      "nivel_alu": "Prekínder",
+      "porc_novacunados": "38",
+      "porc_vacuincom": "12",
+      "porc_vacu": "50"
+    },
+    {
+      "rbd": "41375",
+      "Nombre_comuna": "CENTRO DE EDUCACIÓN DE ADULTOS (C.E.I.A.),`INSTITUTO POPULAR AYSÉN` (RBD: 41375) - COYHAIQUE",
+      "nom_region": "Aysén",
+      "nivel_alu": "Educ. Adultos",
+      "porc_novacunados": "7",
+      "porc_vacuincom": "5",
+      "porc_vacu": "88"
+    },
+    {
+      "rbd": "41695",
+      "Nombre_comuna": "ESCUELA HOSPITALARIA. JUNTOS FORJANDO EL MAÑANA (RBD: 41695) - AYSÉN",
+      "nom_region": "Aysén",
+      "nivel_alu": "6° básico",
+      "porc_novacunados": "100",
+      "porc_vacuincom": "0",
+      "porc_vacu": "0"
+    }
+  ]
